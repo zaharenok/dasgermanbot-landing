@@ -190,5 +190,29 @@
         "description": "Prestaň s memorovaním nekonečných tabuliek. Tieto skratky v nemeckej gramatike ti spravia plynulosť rýchlejšie — bez bolesti hlavy."
       }
     }
+  },
+  {
+    "slug": "german-cultural-habits",
+    "date": "2026-04-23",
+    "image": "",
+    "tags": ["culture", "tips"],
+    "langs": {
+      "en": {
+        "title": "German Cultural Habits That Shock Foreigners",
+        "description": "Quiet Sundays, naked saunas, and cash-only restaurants. Welcome to Germany — where the culture shock is real, but the quality of life makes up for it."
+      },
+      "ru": {
+        "title": "Немецкие культурные привычки, которые шокируют иностранцев",
+        "description": "Тихие воскресенья, голые сауны и рестораны только за наличные. Добро пожаловать в Германию — где культурный шок реален, но качество жизни компенсирует."
+      },
+      "uk": {
+        "title": "Німецькі культурні звички, які шокують іноземців",
+        "description": "Тихі неділі, голі сауни та ресторани тільки за готівку. Ласкаво просимо до Німеччини — де культурний шок реальний, але якість життя компенсує."
+      },
+      "sk": {
+        "title": "Nemecké kultúrne zvyklosti, ktoré šokujú cudzincov",
+        "description": "Tiché nedele, nahé sauny a reštaurácie len za hotovosť. Vitaj v Nemecku — kde je kultúrny šok reálny, ale kvalita života to vynahrádzuje."
+      }
+    }
   }
 ]
