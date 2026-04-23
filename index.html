@@ -1182,14 +1182,9 @@
         if (videoSources[lang]) {
           source.src = videoSources[lang];
         }
-        // Square aspect ratio for Russian, Landscape for others
-        if (lang === 'ru') {
-          if (wrapper) wrapper.style.maxWidth = '480px';
-          if (wrapperInner) wrapperInner.style.aspectRatio = '1 / 1';
-        } else {
-          if (wrapper) wrapper.style.maxWidth = '1000px';
-          if (wrapperInner) wrapperInner.style.aspectRatio = '16 / 9';
-        }
+        // Landscape for all languages
+        if (wrapper) wrapper.style.maxWidth = '1000px';
+        if (wrapperInner) wrapperInner.style.aspectRatio = '16 / 9';
         video.load();
       }
 
