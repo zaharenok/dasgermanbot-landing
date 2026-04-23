@@ -234,7 +234,8 @@
     .hero__video {
       position: absolute;
       top: 0;
-      right: 0;
+      left: 50%;
+      transform: translateX(-50%);
       width: 70%;
       height: 100%;
       object-fit: cover;
@@ -246,9 +247,9 @@
       position: absolute;
       top: 0;
       left: 0;
-      width: 55%;
+      width: 100%;
       height: 100%;
-      background: linear-gradient(to right, var(--hero-bg) 30%, transparent 100%);
+      background: linear-gradient(to bottom, transparent 0%, var(--hero-bg) 85%);
       z-index: 1;
       pointer-events: none;
     }
