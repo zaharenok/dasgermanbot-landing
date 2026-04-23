@@ -118,5 +118,29 @@
         "description": "Angličtina a nemčina sú príbuzné jazyky so stovkami spoločných slov. Tu je 20, ktoré môžeš použiť hneď, bez bifľovania."
       }
     }
+  },
+  {
+    "slug": "german-word-order",
+    "date": "2026-04-23",
+    "image": "",
+    "tags": ["grammar", "word order"],
+    "langs": {
+      "en": {
+        "title": "German Word Order: Simple Explanation",
+        "description": "Understanding German word order is easier than you think. Main rules: verb always second, at the end — the second part. Breaking it down with examples."
+      },
+      "ru": {
+        "title": "Немецкий порядок слов: простое объяснение",
+        "description": "Понять немецкий порядок слов проще, чем кажется. Главные правила: глагол всегда на втором месте, в конце — вторая часть. Разбираем на примерах."
+      },
+      "uk": {
+        "title": "Порядок слів у німецькій: просте пояснення",
+        "description": "Зрозуміти порядок слів у німецькій простіше, ніж здається. Головні правила: дієслово завжди на другому місці, в кінці — друга частина. Розбираємо на прикладах."
+      },
+      "sk": {
+        "title": "Poradie slov v nemčine: jednoduché vysvetlenie",
+        "description": "Pochopiť poradie slov v nemčine je jednoduchšie, než si myslíš. Hlavné pravidlá: sloveso vždy druhé, na konci — druhá časť. Rozoberáme na príkladoch."
+      }
+    }
   }
 ]
