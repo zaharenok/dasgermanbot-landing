@@ -46,5 +46,29 @@
         "description": "Praktické tipy pre každého, kto začína s nemčinou — od výslovnosti po vytvorenie denného návyku, ktorý vydrží."
       }
     }
+  },
+  {
+    "slug": "german-cases-explained-simply",
+    "date": "2026-04-23",
+    "image": "",
+    "tags": ["grammar", "beginners"],
+    "langs": {
+      "en": {
+        "title": "German Cases Explained Simply: No More Panic",
+        "description": "A clear, no-jargon guide to the four German grammatical cases — nominative, accusative, dative, genitive — with examples that actually make sense."
+      },
+      "ru": {
+        "title": "Падежи в немецком без паники: простое объяснение",
+        "description": "Понятный гайд без сложной терминологии к четырём немецким падежам — номинатив, аккузатив, датив, генитив — с примерами, которые реально понятны."
+      },
+      "uk": {
+        "title": "Відмінки в німецькій без паніки: просте пояснення",
+        "description": "Зрозумілий гайд без складної термінології до чотирьох німецьких відмінків — номінатив, акузатив, датив, генітив — з прикладами, які дійсно зрозумілі."
+      },
+      "sk": {
+        "title": "Nemecké pády bez paniky: jednoduché vysvetlenie",
+        "description": "Zrozumiteľný guide bez zložitej terminológie k nemeckým štyrom pádom — nominatív, akuzatív, datív, genitív — s príkladmi, ktoré dávajú zmysel."
+      }
+    }
   }
 ]
