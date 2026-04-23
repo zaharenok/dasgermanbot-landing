@@ -166,5 +166,29 @@
         "description": "Prestaň hovoriť 'brötchen' ako po anglicky. Tu sú chyby v nemeckej výslovnosti začiatočníkov — a ako ich opraviť za 5 minút."
       }
     }
+  },
+  {
+    "slug": "german-grammar-hacks",
+    "date": "2026-04-23",
+    "image": "",
+    "tags": ["grammar", "tips"],
+    "langs": {
+      "en": {
+        "title": "German Grammar Hacks That Save You Months of Study",
+        "description": "Stop memorizing endless tables. These German grammar shortcuts will make you sound fluent faster — without the headache."
+      },
+      "ru": {
+        "title": "Немецкая грамматика: хитрости, которые сэкономят месяцы учёбы",
+        "description": "Хватит зубрить бесконечные таблицы. Эти сокращения в немецкой грамматике сделают тебя свободным быстрее — без головной боли."
+      },
+      "uk": {
+        "title": "Німецька граматика: хитрощі, що заощадять місяці навчання",
+        "description": "Хватить зубрити безкінечні таблиці. These скорочення в німецькій граматиці зроблять тебе вільним швидше — без головного болю."
+      },
+      "sk": {
+        "title": "Nemecká gramatika: triky, ktoré ušetria mesiace štúdia",
+        "description": "Prestaň s memorovaním nekonečných tabuliek. Tieto skratky v nemeckej gramatike ti spravia plynulosť rýchlejšie — bez bolesti hlavy."
+      }
+    }
   }
 ]
