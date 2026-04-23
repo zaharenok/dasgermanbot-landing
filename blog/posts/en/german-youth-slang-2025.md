@@ -1,13 +1,13 @@
 ---
-title: "German Youth Slang 2025: Words Your Textbook Didn't Teach You"
-description: "Forget 'Wie geht's' — here's the German youth slang people actually use in 2025. From 'snack' to 'cringe', sound like a local, not a tourist."
+title: "German Youth Slang 2026: Words Your Textbook Didn't Teach You"
+description: "Forget 'Wie geht's' — here's the German youth slang people actually use in 2026. From 'snack' to 'cringe', sound like a local, not a tourist."
 date: "2026-04-23"
 lang: "en"
 image: ""
 tags: ["slang", "vocabulary"]
 ---
 
-# German Youth Slang 2025: Words Your Textbook Didn't Teach You
+# German Youth Slang 2026: Words Your Textbook Didn't Teach You
 
 You spent months learning German. You can recite verb conjugations in your sleep. Then you land in Berlin and hear someone say "Ich geh snacken" — and suddenly you're lost again.
 

@@ -1,13 +1,13 @@
 ---
-title: "Nemecký mládežnícky slang 2025: slová, ktoré niesli v učebnici"
-description: "Zabudni na 'Wie geht's' — tu je ten nemecký slang, ktorý sa reálne používa v 2025. Od 'snack' po 'cringe' — znej ako miestny, nie ako turista."
+title: "Nemecký mládežnícky slang 2026: slová, ktoré niesli v učebnici"
+description: "Zabudni na 'Wie geht's' — tu je ten nemecký slang, ktorý sa reálne používa v 2026. Od 'snack' po 'cringe' — znej ako miestny, nie ako turista."
 date: "2026-04-23"
 lang: "sk"
 image: ""
 tags: ["slang", "slovná zásoba"]
 ---
 
-# Nemecký mládežnícky slang 2025: slová, ktoré niesli v učebnici
+# Nemecký mládežnícky slang 2026: slová, ktoré niesli v učebnici
 
 Mesiacy si sa učil nemčinu. Slovesné časovanie vieš nazpamäť, aj keď spíš. Potom prídeš do Berlína a počuješ „Ich geh snacken“ — a naraz opäť nič nechápeš.
 
