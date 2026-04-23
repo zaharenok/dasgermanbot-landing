@@ -142,5 +142,29 @@
         "description": "Zabudni na 'Wie geht's' — tu je ten nemecký slang, ktorý sa reálne používa v 2026. Od 'snack' po 'cringe' — znej ako miestny, nie ako turista."
       }
     }
+  },
+  {
+    "slug": "german-pronunciation-mistakes",
+    "date": "2026-04-23",
+    "image": "",
+    "tags": ["pronunciation", "beginners"],
+    "langs": {
+      "en": {
+        "title": "German Pronunciation Mistakes That Make You Sound Like a Tourist",
+        "description": "Stop saying 'brötchen' like it's English. Here are the German pronunciation mistakes beginners make — and how to fix them in 5 minutes."
+      },
+      "ru": {
+        "title": "Ошибки в немецком произношении, которые выдают тебя как туриста",
+        "description": "Перестань говорить 'brötchen' как по-английски. Вот ошибки немецкого произношения начинающих — и как их исправить за 5 минут."
+      },
+      "uk": {
+        "title": "Помилки у німецькій вимові, які видають тебе як туриста",
+        "description": "Перестань говорити 'brötchen' як по-англійськи. Ось помилки німецької вимови новачків — і як їх виправити за 5 хвилин."
+      },
+      "sk": {
+        "title": "Chyby v nemeckej výslovnosti, ktoré ťa prezradia ako turistu",
+        "description": "Prestaň hovoriť 'brötchen' ako po anglicky. Tu sú chyby v nemeckej výslovnosti začiatočníkov — a ako ich opraviť za 5 minút."
+      }
+    }
   }
 ]
