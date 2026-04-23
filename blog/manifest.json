@@ -1,5 +1,77 @@
 [
   {
+    "slug": "german-words-you-already-know",
+    "date": "2026-04-23",
+    "image": "",
+    "tags": ["vocabulary", "beginners"],
+    "langs": {
+      "en": {
+        "title": "20 German Words You Already Know Without Realizing It",
+        "description": "English and German share hundreds of cognates — words that look and mean the same thing. Here are 20 you can use today, zero studying required."
+      },
+      "ru": {
+        "title": "20 немецких слов, которые вы уже знаете",
+        "description": "Английский и немецкий — родственные языки с сотнями общих слов. Вот 20, которые вы можете использовать уже сегодня, без зубрёжки."
+      },
+      "uk": {
+        "title": "20 німецьких слів, які ви вже знаєте",
+        "description": "Англійська та німецька — споріднені мови з сотнями спільних слів. Ось 20, які ви можете використовувати вже сьогодні, без зубріння."
+      },
+      "sk": {
+        "title": "20 nemeckých slov, ktoré už poznáte",
+        "description": "Angličtina a nemčina sú príbuzné jazyky so stovkami spoločných slov. Tu je 20, ktoré môžeš použiť hneď, bez bifľovania."
+      }
+    }
+  },
+  {
+    "slug": "how-long-to-learn-german",
+    "date": "2026-04-23",
+    "image": "",
+    "tags": ["tips", "motivation"],
+    "langs": {
+      "en": {
+        "title": "How Long Does It Take to Learn German? An Honest Answer",
+        "description": "No marketing fluff — a realistic breakdown of how long it takes to learn German based on your goals, from ordering beer to working in Berlin."
+      },
+      "ru": {
+        "title": "Сколько времени нужно, чтобы выучить немецкий? Честный ответ",
+        "description": "Без маркетингового бреда — реалистичный разбор сроков изучения немецкого в зависимости от целей, от заказа пива до работы в Берлине."
+      },
+      "uk": {
+        "title": "Скільки часу потрібно, щоб вивчити німецьку? Чесна відповідь",
+        "description": "Без маркетингового нісенітниці — реалістичний розбір термінів вивчення німецької залежно від цілей, від замовлення пива до роботи в Берліні."
+      },
+      "sk": {
+        "title": "Koľko trvá naučiť sa nemčinu? Čestná odpoveď",
+        "description": "Bez marketingového bludu — realistický rozbor časových rámcov učenia nemčiny podľa cieľov, od objednávania piva po prácu v Berlíne."
+      }
+    }
+  },
+  {
+    "slug": "german-cases-explained-simply",
+    "date": "2026-04-23",
+    "image": "",
+    "tags": ["grammar", "beginners"],
+    "langs": {
+      "en": {
+        "title": "German Cases Explained Simply: No More Panic",
+        "description": "A clear, no-jargon guide to the four German grammatical cases — nominative, accusative, dative, genitive — with examples that actually make sense."
+      },
+      "ru": {
+        "title": "Падежи в немецком без паники: простое объяснение",
+        "description": "Понятный гайд без сложной терминологии к четырём немецким падежам — номинатив, аккузатив, датив, генитив — с примерами, которые реально понятны."
+      },
+      "uk": {
+        "title": "Відмінки в німецькій без паніки: просте пояснення",
+        "description": "Зрозумілий гайд без складної термінології до чотирьох німецьких відмінків — номінатив, акузатив, датив, генітив — з прикладами, які дійсно зрозумілі."
+      },
+      "sk": {
+        "title": "Nemecké pády bez paniky: jednoduché vysvetlenie",
+        "description": "Zrozumiteľný guide bez zložitej terminológie k nemeckým štyrom pádom — nominatív, akuzatív, datív, genitív — s príkladmi, ktoré dávajú zmysel."
+      }
+    }
+  },
+  {
     "slug": "why-learn-german-in-telegram",
     "date": "2026-04-23",
     "image": "",
@@ -44,102 +116,6 @@
       "sk": {
         "title": "5 tipov pre začiatočníkov s nemčinou",
         "description": "Praktické tipy pre každého, kto začína s nemčinou — od výslovnosti po vytvorenie denného návyku, ktorý vydrží."
-      }
-    }
-  },
-  {
-    "slug": "german-cases-explained-simply",
-    "date": "2026-04-23",
-    "image": "",
-    "tags": ["grammar", "beginners"],
-    "langs": {
-      "en": {
-        "title": "German Cases Explained Simply: No More Panic",
-        "description": "A clear, no-jargon guide to the four German grammatical cases — nominative, accusative, dative, genitive — with examples that actually make sense."
-      },
-      "ru": {
-        "title": "Падежи в немецком без паники: простое объяснение",
-        "description": "Понятный гайд без сложной терминологии к четырём немецким падежам — номинатив, аккузатив, датив, генитив — с примерами, которые реально понятны."
-      },
-      "uk": {
-        "title": "Відмінки в німецькій без паніки: просте пояснення",
-        "description": "Зрозумілий гайд без складної термінології до чотирьох німецьких відмінків — номінатив, акузатив, датив, генітив — з прикладами, які дійсно зрозумілі."
-      },
-      "sk": {
-        "title": "Nemecké pády bez paniky: jednoduché vysvetlenie",
-        "description": "Zrozumiteľný guide bez zložitej terminológie k nemeckým štyrom pádom — nominatív, akuzatív, datív, genitív — s príkladmi, ktoré dávajú zmysel."
-      }
-    }
-  },
-  {
-    "slug": "how-long-to-learn-german",
-    "date": "2026-04-23",
-    "image": "",
-    "tags": ["tips", "motivation"],
-    "langs": {
-      "en": {
-        "title": "How Long Does It Take to Learn German? An Honest Answer",
-        "description": "No marketing fluff — a realistic breakdown of how long it takes to learn German based on your goals, from ordering beer to working in Berlin."
-      },
-      "ru": {
-        "title": "Сколько времени нужно, чтобы выучить немецкий? Честный ответ",
-        "description": "Без маркетингового бреда — реалистичный разбор сроков изучения немецкого в зависимости от целей, от заказа пива до работы в Берлине."
-      },
-      "uk": {
-        "title": "Скільки часу потрібно, щоб вивчити німецьку? Чесна відповідь",
-        "description": "Без маркетингового нісенітниці — реалістичний розбір термінів вивчення німецької залежно від цілей, від замовлення пива до роботи в Берліні."
-      },
-      "sk": {
-        "title": "Koľko trvá naučiť sa nemčinu? Čestná odpoveď",
-        "description": "Bez marketingového bludu — realistický rozbor časových rámcov učenia nemčiny podľa cieľov, od objednávania piva po prácu v Berlíne."
-      }
-    }
-  },
-  {
-    "slug": "german-words-you-already-know",
-    "date": "2026-04-23",
-    "image": "",
-    "tags": ["vocabulary", "beginners"],
-    "langs": {
-      "en": {
-        "title": "20 German Words You Already Know Without Realizing It",
-        "description": "English and German share hundreds of cognates — words that look and mean the same thing. Here are 20 you can use today, zero studying required."
-      },
-      "ru": {
-        "title": "20 немецких слов, которые вы уже знаете",
-        "description": "Английский и немецкий — родственные языки с сотнями общих слов. Вот 20, которые вы можете использовать уже сегодня, без зубрёжки."
-      },
-      "uk": {
-        "title": "20 німецьких слів, які ви вже знаєте",
-        "description": "Англійська та німецька — споріднені мови з сотнями спільних слів. Ось 20, які ви можете використовувати вже сьогодні, без зубріння."
-      },
-      "sk": {
-        "title": "20 nemeckých slov, ktoré už poznáte",
-        "description": "Angličtina a nemčina sú príbuzné jazyky so stovkami spoločných slov. Tu je 20, ktoré môžeš použiť hneď, bez bifľovania."
-      }
-    }
-  },
-  {
-    "slug": "german-word-order",
-    "date": "2026-04-23",
-    "image": "",
-    "tags": ["grammar", "word order"],
-    "langs": {
-      "en": {
-        "title": "German Word Order: Simple Explanation",
-        "description": "Understanding German word order is easier than you think. Main rules: verb always second, at the end — the second part. Breaking it down with examples."
-      },
-      "ru": {
-        "title": "Немецкий порядок слов: простое объяснение",
-        "description": "Понять немецкий порядок слов проще, чем кажется. Главные правила: глагол всегда на втором месте, в конце — вторая часть. Разбираем на примерах."
-      },
-      "uk": {
-        "title": "Порядок слів у німецькій: просте пояснення",
-        "description": "Зрозуміти порядок слів у німецькій простіше, ніж здається. Головні правила: дієслово завжди на другому місці, в кінці — друга частина. Розбираємо на прикладах."
-      },
-      "sk": {
-        "title": "Poradie slov v nemčine: jednoduché vysvetlenie",
-        "description": "Pochopiť poradie slov v nemčine je jednoduchšie, než si myslíš. Hlavné pravidlá: sloveso vždy druhé, na konci — druhá časť. Rozoberáme na príkladoch."
       }
     }
   }
