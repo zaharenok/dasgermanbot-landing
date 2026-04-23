@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "why-learn-german-in-telegram",
+    "date": "2026-04-23",
+    "image": "",
+    "tags": ["tips", "method"],
+    "langs": {
+      "en": {
+        "title": "Why Learn German in Telegram?",
+        "description": "Discover why Telegram is the perfect platform for learning German — convenience, AI-powered lessons, and daily practice without extra apps."
+      },
+      "ru": {
+        "title": "Почему немецкий в Telegram?",
+        "description": "Узнайте, почему Telegram — идеальная платформа для изучения немецкого: удобство, уроки с ИИ и ежедневная практика без лишних приложений."
+      }
+    }
+  },
+  {
+    "slug": "5-tips-german-beginners",
+    "date": "2026-04-22",
+    "image": "",
+    "tags": ["tips", "beginners"],
+    "langs": {
+      "en": {
+        "title": "5 Tips for German Beginners That Actually Work",
+        "description": "Practical tips for anyone starting to learn German — from pronunciation hacks to building a daily habit that sticks."
+      },
+      "ru": {
+        "title": "5 советов начинающим учить немецкий",
+        "description": "Практические советы для тех, кто начинает учить немецкий — от произношения до ежедневной привычки."
+      },
+      "uk": {
+        "title": "5 порад початківцям з німецької",
+        "description": "Практичні поради для тих, хто починає вчити німецьку — від вимови до щоденної звички."
+      }
+    }
+  }
+]
