@@ -308,6 +308,25 @@
       font-size: 16px;
     }
 
+    .articles__loader {
+      text-align: center;
+      padding: 40px 0;
+    }
+
+    .loader-spinner {
+      width: 32px;
+      height: 32px;
+      margin: 0 auto;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
     /* ── Footer ── */
     .footer {
       padding: 60px 0;
@@ -395,6 +414,9 @@
       <div class="articles__grid" id="articles-grid">
         <!-- Rendered by JS -->
       </div>
+      <div class="articles__loader" id="articles-loader" style="display:none;">
+        <div class="loader-spinner"></div>
+      </div>
       <div class="articles__empty" id="articles-empty" style="display:none;">
         <span data-i18n="blog_empty">No articles yet. Check back soon!</span>
       </div>
@@ -470,6 +492,10 @@
     }
 
     let currentLang = localStorage.getItem('lang') || detectLanguage();
+    const ARTICLES_PER_PAGE = 10;
+    let allArticles = [];
+    let displayedCount = 0;
+    let scrollObserver = null;
 
     function setLanguage(lang) {
       currentLang = lang;
@@ -487,7 +513,7 @@
         btn.classList.toggle('active', btn.dataset.lang === lang);
       });
 
-      renderArticles(lang);
+      loadManifest(lang);
     }
 
     document.querySelectorAll('.lang-btn').forEach(btn => {
@@ -510,39 +536,66 @@
         ).join('') + '</div>';
     }
 
-    async function renderArticles(lang) {
+    function renderCard(article, lang) {
+      const t = article.langs[lang] || article.langs['en'] || Object.values(article.langs)[0];
+      return `<a href="${article.slug}.html" class="article-card">
+        <div class="article-card__date">${formatDate(article.date, lang)}</div>
+        <div class="article-card__title">${t.title}</div>
+        <div class="article-card__desc">${t.description}</div>
+        <div class="article-card__bottom">
+          ${article.tags && article.tags.length ? `<div class="article-card__tags">${article.tags.map(t => `<span class="article-card__tag">${t}</span>`).join('')}</div>` : '<div></div>'}
+          ${renderLangDots(article.langs, lang)}
+        </div>
+      </a>`;
+    }
+
+    async function loadManifest(lang) {
       const grid = document.getElementById('articles-grid');
       const empty = document.getElementById('articles-empty');
+      const loader = document.getElementById('articles-loader');
+
+      if (scrollObserver) { scrollObserver.disconnect(); scrollObserver = null; }
+      grid.innerHTML = '';
+      empty.style.display = 'none';
+      loader.style.display = 'none';
 
       try {
         const res = await fetch('manifest.json');
-        const articles = await res.json();
+        allArticles = await res.json();
+        allArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
+        allArticles = allArticles.filter(a => a.langs[lang] || Object.keys(a.langs).length > 0);
+        displayedCount = 0;
 
-        // Filter to articles that have the current language, or fallback to any
-        const visible = articles.filter(a => a.langs[lang] || Object.keys(a.langs).length > 0);
+        if (allArticles.length === 0) { empty.style.display = 'block'; return; }
 
-        if (visible.length === 0) {
-          grid.innerHTML = '';
-          empty.style.display = 'block';
-          return;
+        renderNextPage(lang);
+
+        if (displayedCount < allArticles.length) {
+          scrollObserver = new IntersectionObserver((entries) => {
+            if (entries[0].isIntersecting && displayedCount < allArticles.length) {
+              renderNextPage(currentLang);
+            }
+          }, { rootMargin: '200px' });
+          scrollObserver.observe(loader);
         }
-
-        empty.style.display = 'none';
-        grid.innerHTML = visible.map(article => {
-          const t = article.langs[lang] || article.langs['en'] || Object.values(article.langs)[0];
-          return `<a href="${article.slug}.html" class="article-card">
-            <div class="article-card__date">${formatDate(article.date, lang)}</div>
-            <div class="article-card__title">${t.title}</div>
-            <div class="article-card__desc">${t.description}</div>
-            <div class="article-card__bottom">
-              ${article.tags && article.tags.length ? `<div class="article-card__tags">${article.tags.map(t => `<span class="article-card__tag">${t}</span>`).join('')}</div>` : '<div></div>'}
-              ${renderLangDots(article.langs, lang)}
-            </div>
-          </a>`;
-        }).join('');
       } catch (e) {
-        grid.innerHTML = '';
         empty.style.display = 'block';
+      }
+    }
+
+    function renderNextPage(lang) {
+      const grid = document.getElementById('articles-grid');
+      const loader = document.getElementById('articles-loader');
+      const batch = allArticles.slice(displayedCount, displayedCount + ARTICLES_PER_PAGE);
+
+      grid.insertAdjacentHTML('beforeend', batch.map(a => renderCard(a, lang)).join(''));
+      displayedCount += batch.length;
+
+      if (displayedCount < allArticles.length) {
+        loader.style.display = '';
+      } else {
+        loader.style.display = 'none';
+        if (scrollObserver) { scrollObserver.disconnect(); scrollObserver = null; }
       }
     }
 
