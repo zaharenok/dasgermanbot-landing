@@ -562,8 +562,8 @@
       try {
         const res = await fetch('manifest.json');
         allArticles = await res.json();
-        // Use manifest.json order as-is (newest first in file)
-        allArticles = allArticles.filter(a => a.langs[lang] || Object.keys(a.langs).length > 0);
+        // Reverse so newest article (last in manifest.json) appears first
+        allArticles = allArticles.filter(a => a.langs[lang] || Object.keys(a.langs).length > 0).reverse();
         allArticles = allArticles.filter(a => a.langs[lang] || Object.keys(a.langs).length > 0);
         displayedCount = 0;
 
