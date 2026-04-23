@@ -562,10 +562,8 @@
       try {
         const res = await fetch('manifest.json');
         allArticles = await res.json();
-        allArticles.sort((a, b) => {
-          const diff = new Date(b.date) - new Date(a.date);
-          return diff !== 0 ? diff : allArticles.indexOf(a) - allArticles.indexOf(b);
-        });
+        // Use manifest.json order as-is (newest first in file)
+        allArticles = allArticles.filter(a => a.langs[lang] || Object.keys(a.langs).length > 0);
         allArticles = allArticles.filter(a => a.langs[lang] || Object.keys(a.langs).length > 0);
         displayedCount = 0;
 
