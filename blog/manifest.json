@@ -70,5 +70,29 @@
         "description": "Zrozumiteľný guide bez zložitej terminológie k nemeckým štyrom pádom — nominatív, akuzatív, datív, genitív — s príkladmi, ktoré dávajú zmysel."
       }
     }
+  },
+  {
+    "slug": "how-long-to-learn-german",
+    "date": "2026-04-23",
+    "image": "",
+    "tags": ["tips", "motivation"],
+    "langs": {
+      "en": {
+        "title": "How Long Does It Take to Learn German? An Honest Answer",
+        "description": "No marketing fluff — a realistic breakdown of how long it takes to learn German based on your goals, from ordering beer to working in Berlin."
+      },
+      "ru": {
+        "title": "Сколько времени нужно, чтобы выучить немецкий? Честный ответ",
+        "description": "Без маркетингового бреда — реалистичный разбор сроков изучения немецкого в зависимости от целей, от заказа пива до работы в Берлине."
+      },
+      "uk": {
+        "title": "Скільки часу потрібно, щоб вивчити німецьку? Чесна відповідь",
+        "description": "Без маркетингового нісенітниці — реалістичний розбір термінів вивчення німецької залежно від цілей, від замовлення пива до роботи в Берліні."
+      },
+      "sk": {
+        "title": "Koľko trvá naučiť sa nemčinu? Čestná odpoveď",
+        "description": "Bez marketingového bludu — realistický rozbor časových rámcov učenia nemčiny podľa cieľov, od objednávania piva po prácu v Berlíne."
+      }
+    }
   }
 ]
