@@ -118,5 +118,29 @@
         "description": "Praktické tipy pre každého, kto začína s nemčinou — od výslovnosti po vytvorenie denného návyku, ktorý vydrží."
       }
     }
+  },
+  {
+    "slug": "german-youth-slang-2025",
+    "date": "2026-04-23",
+    "image": "",
+    "tags": ["slang", "vocabulary"],
+    "langs": {
+      "en": {
+        "title": "German Youth Slang 2025: Words Your Textbook Didn't Teach You",
+        "description": "Forget 'Wie geht's' — here's the German youth slang people actually use in 2025. From 'snack' to 'cringe', sound like a local, not a tourist."
+      },
+      "ru": {
+        "title": "Немецкий молодежный сленг 2025: слова, которых нет в учебнике",
+        "description": "Забудь про 'Wie geht's' — вот тот немецкий сленг, который реально используют в 2025. От 'snack' до 'cringe' — звучи как местный, а не как турист."
+      },
+      "uk": {
+        "title": "Німецький молодіжний сленг 2025: слів, яких немає в підручнику",
+        "description": "Забудь про 'Wie geht's' — ось той німецький сленг, який реально використовують у 2025. Від 'snack' до 'cringe' — звучи як місцевий, а не як турист."
+      },
+      "sk": {
+        "title": "Nemecký mládežnícky slang 2025: slová, ktoré niesli v učebnici",
+        "description": "Zabudni na 'Wie geht's' — tu je ten nemecký slang, ktorý sa reálne používa v 2025. Od 'snack' po 'cringe' — znej ako miestny, nie ako turista."
+      }
+    }
   }
 ]
