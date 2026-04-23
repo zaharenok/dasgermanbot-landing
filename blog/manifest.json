@@ -12,6 +12,14 @@
       "ru": {
         "title": "Почему немецкий в Telegram?",
         "description": "Узнайте, почему Telegram — идеальная платформа для изучения немецкого: удобство, уроки с ИИ и ежедневная практика без лишних приложений."
+      },
+      "uk": {
+        "title": "Чому німецька в Telegram?",
+        "description": "Дізнайтеся, чому Telegram стає найкращою платформою для вивчення німецької — зручність, уроки з ШІ та щоденна практика без зайвих додатків."
+      },
+      "sk": {
+        "title": "Prečo nemčina v Telegram?",
+        "description": "Zistite, prečo sa Telegram stáva najlepšou platformou na učenie nemčiny — pohodlie, lekcie s AI a denné cvičenie bez zbytočných aplikácií."
       }
     }
   },
@@ -32,6 +40,10 @@
       "uk": {
         "title": "5 порад початківцям з німецької",
         "description": "Практичні поради для тих, хто починає вчити німецьку — від вимови до щоденної звички."
+      },
+      "sk": {
+        "title": "5 tipov pre začiatočníkov s nemčinou",
+        "description": "Praktické tipy pre každého, kto začína s nemčinou — od výslovnosti po vytvorenie denného návyku, ktorý vydrží."
       }
     }
   }
