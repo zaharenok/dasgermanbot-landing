@@ -530,7 +530,7 @@
         empty.style.display = 'none';
         grid.innerHTML = visible.map(article => {
           const t = article.langs[lang] || article.langs['en'] || Object.values(article.langs)[0];
-          return `<a href="article.html?slug=${article.slug}" class="article-card">
+          return `<a href="${article.slug}.html" class="article-card">
             <div class="article-card__date">${formatDate(article.date, lang)}</div>
             <div class="article-card__title">${t.title}</div>
             <div class="article-card__desc">${t.description}</div>
