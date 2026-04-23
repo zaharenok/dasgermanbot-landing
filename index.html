@@ -182,6 +182,37 @@
       color: rgba(255, 255, 255, 0.8);
     }
 
+    /* ── Blog Badge ── */
+    .navbar__blog-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 12px;
+      background: rgba(66, 113, 254, 0.15);
+      border: 1px solid rgba(66, 113, 254, 0.3);
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 700;
+      color: #ffffff;
+      transition: all 0.2s ease;
+    }
+    .navbar__blog-badge:hover {
+      background: rgba(66, 113, 254, 0.25);
+      border-color: rgba(66, 113, 254, 0.5);
+      transform: translateY(-1px);
+    }
+    .navbar__blog-dot {
+      width: 6px;
+      height: 6px;
+      background: #FA6254;
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(1.2); }
+    }
+
     .btn-primary {
       display: inline-flex;
       align-items: center;
@@ -234,9 +265,8 @@
     .hero__video {
       position: absolute;
       top: 0;
-      left: 50%;
-      transform: translateX(-50%);
-      width: 100%;
+      right: 0;
+      width: 70%;
       height: 100%;
       object-fit: cover;
       z-index: 0;
@@ -247,9 +277,9 @@
       position: absolute;
       top: 0;
       left: 0;
-      width: 100%;
+      width: 55%;
       height: 100%;
-      background: linear-gradient(to bottom, var(--hero-bg) 0%, transparent 20%, transparent 70%, var(--hero-bg) 100%);
+      background: linear-gradient(to right, var(--hero-bg) 30%, transparent 100%);
       z-index: 1;
       pointer-events: none;
     }
@@ -677,6 +707,105 @@
       color: var(--accent);
     }
 
+    /* ── Latest Blog Section ── */
+    .latest-blog {
+      padding: 80px 0;
+      background: var(--bg);
+      border-top: 1px solid var(--border);
+    }
+    .latest-blog__header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .latest-blog__label {
+      text-align: center;
+      margin-bottom: 12px;
+      font-size: 14px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--accent-coral);
+    }
+    .latest-blog h2 {
+      font-size: 36px;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      color: #ffffff;
+    }
+    .latest-blog__card {
+      position: relative;
+      display: block;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      transition: all 0.3s ease;
+      text-decoration: none;
+    }
+    .latest-blog__card:hover {
+      background: var(--bg-card-hover);
+      border-color: rgba(66, 113, 254, 0.3);
+      transform: translateY(-4px);
+      box-shadow: var(--shadow);
+    }
+    .latest-blog__badge {
+      position: absolute;
+      top: 24px;
+      right: 24px;
+      padding: 4px 12px;
+      background: var(--accent-coral);
+      color: #ffffff;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border-radius: 100px;
+    }
+    .latest-blog__title {
+      font-size: 22px;
+      font-weight: 700;
+      color: #ffffff;
+      margin-bottom: 12px;
+      line-height: 1.3;
+      padding-right: 60px;
+    }
+    .latest-blog__desc {
+      font-size: 16px;
+      color: var(--text-secondary);
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+    .latest-blog__meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .latest-blog__date {
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+    .latest-blog__arrow {
+      font-size: 20px;
+      color: var(--accent);
+      transition: transform 0.2s ease;
+    }
+    .latest-blog__card:hover .latest-blog__arrow {
+      transform: translateX(4px);
+    }
+    .latest-blog__all {
+      display: block;
+      text-align: center;
+      margin-top: 32px;
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--accent);
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+    .latest-blog__all:hover {
+      color: var(--accent-hover);
+    }
+
     /* ── Responsive ── */
     @media (max-width: 992px) {
       .hero h1 { font-size: clamp(40px, 5vw, 56px); }
@@ -692,9 +821,44 @@
     }
 
     @media (max-width: 768px) {
+      .navbar {
+        background: rgba(7, 6, 18, 0.95);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+        border-bottom-color: rgba(255, 255, 255, 0.08);
+      }
+      .navbar .container {
+        flex-wrap: wrap;
+        height: auto;
+        padding: 12px 24px;
+      }
+      .navbar__logo {
+        font-size: 18px;
+        order: 1;
+      }
+      .navbar__actions {
+        order: 2;
+        width: 100%;
+        justify-content: center;
+        gap: 12px;
+        margin-top: 12px;
+      }
+      .navbar__blog-badge {
+        font-size: 12px;
+        padding: 5px 10px;
+      }
+      .lang-switcher {
+        flex: 1;
+        justify-content: center;
+      }
+      .btn-primary {
+        padding: 10px 20px;
+        font-size: 14px;
+      }
+
       .hero {
         min-height: 100vh;
-        padding: 100px 0 60px;
+        padding: 120px 0 60px;
       }
 
       .hero__video,
@@ -740,6 +904,39 @@
       .cookie-banner { flex-direction: column; text-align: center; gap: 12px; }
       .cookie-banner__buttons { width: 100%; }
       .cookie-banner__btn { flex: 1; }
+
+      .latest-blog {
+        padding: 60px 0;
+      }
+      .latest-blog h2 {
+        font-size: 28px;
+      }
+      .latest-blog__card {
+        padding: 24px;
+      }
+      .latest-blog__badge {
+        top: 16px;
+        right: 16px;
+        padding: 3px 10px;
+        font-size: 10px;
+      }
+      .latest-blog__title {
+        font-size: 18px;
+        padding-right: 0;
+        margin-bottom: 16px;
+      }
+      .latest-blog__desc {
+        font-size: 14px;
+        margin-bottom: 16px;
+      }
+      .latest-blog__meta {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+      }
+      .latest-blog__arrow {
+        align-self: flex-end;
+      }
     }
 
     /* ── Cookie Banner ── */
@@ -803,7 +1000,10 @@
         <span data-i18n="logo">Das German Bot</span>
       </a>
       <div class="navbar__actions">
-        <a href="blog/index.html" data-i18n="nav_blog" style="font-size:15px;font-weight:600;color:rgba(255,255,255,0.6);transition:color 0.2s ease;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='rgba(255,255,255,0.6)'">Blog</a>
+        <a href="blog/index.html" class="navbar__blog-badge">
+          <span class="navbar__blog-dot"></span>
+          <span data-i18n="nav_blog">Blog</span>
+        </a>
         <div class="lang-switcher">
           <button class="lang-btn active" data-lang="en">EN</button>
           <button class="lang-btn" data-lang="uk">UA</button>
@@ -937,6 +1137,26 @@
     </div>
   </section>
 
+  <!-- Latest from Blog -->
+  <section class="latest-blog">
+    <div class="container">
+      <div class="latest-blog__header">
+        <p class="latest-blog__label" data-i18n="blog_label">Latest from Blog</p>
+        <h2 data-i18n="blog_title">German Learning Tips & News</h2>
+      </div>
+      <a href="blog/german-grammar-hacks.html" class="latest-blog__card">
+        <div class="latest-blog__badge">New</div>
+        <h3 class="latest-blog__title" data-i18n="latest_article_title">German Grammar Hacks That Save You Months of Study</h3>
+        <p class="latest-blog__desc" data-i18n="latest_article_desc">Stop memorizing endless tables. These German grammar shortcuts will make you sound fluent faster — without the headache.</p>
+        <div class="latest-blog__meta">
+          <span class="latest-blog__date">April 23, 2026</span>
+          <span class="latest-blog__arrow">→</span>
+        </div>
+      </a>
+      <a href="blog/index.html" class="latest-blog__all" data-i18n="view_all_articles">View all articles →</a>
+    </div>
+  </section>
+
   <!-- Footer -->
   <footer class="footer">
     <div class="container">
@@ -958,6 +1178,11 @@
         logo: "Das German Bot",
         nav_cta: "Open in Telegram",
         nav_blog: "Blog",
+        blog_label: "Latest from Blog",
+        blog_title: "German Learning Tips & News",
+        latest_article_title: "German Grammar Hacks That Save You Months of Study",
+        latest_article_desc: "Stop memorizing endless tables. These German grammar shortcuts will make you sound fluent faster — without the headache.",
+        view_all_articles: "View all articles →",
         hero_badge: "AI-Powered German Tutor",
         hero_title_1: "Learn German",
         hero_title_2: "in your favorite messenger",
@@ -1001,6 +1226,11 @@
         logo: "Das German Bot",
         nav_cta: "Відкрити в Telegram",
         nav_blog: "Блог",
+        blog_label: "Нове з блогу",
+        blog_title: "Поради та новини німецької",
+        latest_article_title: "Німецька граматика: хитрощі, що заощадять місяці навчання",
+        latest_article_desc: "Хватить зубрити безкінечні таблиці. These скорочення в німецькій граматиці зроблять тебе вільним швидше — без головного болю.",
+        view_all_articles: "Дивитися всі статті →",
         hero_badge: "Німецька з ШІ-вчителем",
         hero_title_1: "Вчи німецьку",
         hero_title_2: "улюбленим месенджером",
@@ -1044,6 +1274,11 @@
         logo: "Das German Bot",
         nav_cta: "Открыть в Telegram",
         nav_blog: "Блог",
+        blog_label: "Новое в блоге",
+        blog_title: "Советы и новости немецкого",
+        latest_article_title: "Немецкая грамматика: хитрости, которые сэкономят месяцы учёбы",
+        latest_article_desc: "Хватит зубрить бесконечные таблицы. Эти сокращения в немецкой грамматике сделают тебя свободным быстрее — без головной боли.",
+        view_all_articles: "Смотреть все статьи →",
         hero_badge: "Немецкий с ИИ-репетитором",
         hero_title_1: "Учи немецкий",
         hero_title_2: "в любимом мессенджере",
@@ -1087,6 +1322,11 @@
         logo: "Das German Bot",
         nav_cta: "Otvoriť v Telegram",
         nav_blog: "Blog",
+        blog_label: "Nové z blogu",
+        blog_title: "Tipy a novinky nemčiny",
+        latest_article_title: "Nemecká gramatika: triky, ktoré ušetria mesiace štúdia",
+        latest_article_desc: "Prestaň s memorovaním nekonečných tabuliek. Tieto skratky v nemeckej gramatike ti spravia plynulosť rýchlejšie — bez bolesti hlavy.",
+        view_all_articles: "Zobraziť všetky články →",
         hero_badge: "Nemčina s AI tutorom",
         hero_title_1: "Uč sa nemecky",
         hero_title_2: "v obľúbenom messengri",
@@ -1182,9 +1422,14 @@
         if (videoSources[lang]) {
           source.src = videoSources[lang];
         }
-        // Landscape for all languages
-        if (wrapper) wrapper.style.maxWidth = '1000px';
-        if (wrapperInner) wrapperInner.style.aspectRatio = '16 / 9';
+        // Square aspect ratio for Russian, Landscape for others
+        if (lang === 'ru') {
+          if (wrapper) wrapper.style.maxWidth = '480px';
+          if (wrapperInner) wrapperInner.style.aspectRatio = '1 / 1';
+        } else {
+          if (wrapper) wrapper.style.maxWidth = '1000px';
+          if (wrapperInner) wrapperInner.style.aspectRatio = '16 / 9';
+        }
         video.load();
       }
 
