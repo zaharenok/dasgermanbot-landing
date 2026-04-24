@@ -108,7 +108,18 @@
     .footer__links { display: flex; gap: 32px; }
     .footer__links a { font-size: 15px; font-weight: 600; color: var(--text-secondary); transition: color 0.2s ease; }
     .footer__links a:hover { color: var(--accent); }
+    .
+    @media (max-width: 992px) {
+      .article__content { max-width: 100%; }
+      .article__body h1 { font-size: 32px; }
+      .article__body h2 { font-size: 24px; }
+    }
+
     @media (max-width: 768px) {
+      .navbar { background: rgba(7, 6, 18, 0.95); }
+      .navbar .container { flex-wrap: wrap; height: auto; padding: 12px 16px; }
+      .navbar__logo { font-size: 18px; order: 1; }
+      .navbar__logo-icon { font-size: 20px; }
       .navbar__nav { display: none; }
       .article { padding: 100px 0 60px; }
       .article__top { flex-direction: column; align-items: flex-start; gap: 16px; }
