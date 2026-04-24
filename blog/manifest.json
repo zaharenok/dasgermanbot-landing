@@ -1,5 +1,34 @@
 [
   {
+    "title": "German Separable Verbs: The Simple Rule That Unlocks Hundreds of Words",
+    "description": "Confused by German separable verbs? Here's the simple rule: prefix comes off at the end. Learn how German separable verbs work, with common examples, memory tricks, and a complete list of must-know prefixes.",
+    "date": "2026-04-24",
+    "slug": "german-separable-verbs",
+    "tags": [
+      "grammar",
+      "beginners",
+      "verbs"
+    ],
+    "languages": {
+      "en": {
+        "title": "German Separable Verbs: The Simple Rule That Unlocks Hundreds of Words",
+        "description": "Confused by German separable verbs? Here's the simple rule: prefix comes off at the end. Learn how German separable verbs work, with common examples, memory tricks, and a complete list of must-know prefixes."
+      },
+      "ru": {
+        "title": "Немецкие разделяемые глаголы: Простое правило, которое открывает сотни слов",
+        "description": "Запутался в немецких разделяемых глаголах? Вот простое правило: приставка уходит в конец. Узнай, как работают немецкие разделяемые глаголы, с распространёнными примерами, мнемоникой и полным списком обязательных приставок."
+      },
+      "uk": {
+        "title": "Німецькі відокремлювані дієслова: Просте правило, яке відкриває сотні слів",
+        "description": "Заплутався в німецьких відокремлюваних дієсловах? Ось просте правило: приставка йде в кінець. Дізнайся, як працюють німецькі відокремлювані дієслова, з поширеними прикладами, мнемонікою та повним списком обов'язкових приставок."
+      },
+      "sk": {
+        "title": "Nemecké deliteľné slovesá: Jednoduché pravidlo, ktoré odomká stovky slov",
+        "description": "Zobral si sa v nemeckých deliteľných slovesách? Tu je jednoduché pravidlo: predpona ide na koniec. Dozvi sa, ako fungujú nemecké deliteľné slovesá, s bežnými príkladmi, mnemotechnikmi a úplným zoznamom povinných predpôn."
+      }
+    }
+  },
+  {
     "title": "German Pronunciation Hacks: Master the Tricky Sounds",
     "description": "Struggling with German pronunciation? From the dreaded 'ch' to umlauts and rolling r's — here are practical German pronunciation hacks that actually work, with audio examples and memory tricks.",
     "date": "2026-04-24",
