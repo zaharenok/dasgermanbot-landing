@@ -1,5 +1,34 @@
 [
   {
+    "title": "German Numbers Made Simple: Count from 0 to 100 Without Pain",
+    "description": "Struggling with German numbers? Learn to count from 0 to 100+ with simple patterns, pronunciation hacks, and memory tricks. German numbers follow rules — once you see them, counting becomes automatic.",
+    "date": "2026-04-24",
+    "slug": "german-numbers",
+    "tags": [
+      "basics",
+      "beginners",
+      "numbers"
+    ],
+    "languages": {
+      "en": {
+        "title": "German Numbers Made Simple: Count from 0 to 100 Without Pain",
+        "description": "Struggling with German numbers? Learn to count from 0 to 100+ with simple patterns, pronunciation hacks, and memory tricks. German numbers follow rules — once you see them, counting becomes automatic."
+      },
+      "ru": {
+        "title": "Немецкие цифры просто: Считай от 0 до 100 без боли",
+        "description": "Борешься с немецкими цифрами? Научись считать от 0 до 100+ с простыми паттернами, хитростями произношения и мнемоникой. Немецкие цифры следуют правилам — как только их видишь, счёт становится автоматическим."
+      },
+      "uk": {
+        "title": "Німецькі цифри просто: Рахуй від 0 до 100 без болю",
+        "description": "Борешся з німецькими цифрами? Навчися рахувати від 0 до 100+ з простими паттернами, хитрощами вимови та мнемонікою. Німецькі цифри слідують правилам — як тільки їх бачиш, рахунок стає автоматичним."
+      },
+      "sk": {
+        "title": "Nemecké čísla jednoducho: Počítaj od 0 do 100 bez bolesti",
+        "description": "Bojuješ s nemeckými číslami? Nauč sa počítať od 0 do 100+ s jednoduchými vzormi, výslovnostnými trikmi a mnemotechnikmi. Nemecké čísla nasledujú pravidlá — keď ich uvidíš, počítanie sa stane automatickým."
+      }
+    }
+  },
+  {
     "title": "German Modal Verbs: The Simple Guide to Müssen, Können, Wollen & More",
     "description": "Struggling with German modal verbs? Learn the 6 German modal verbs (müssen, können, wollen, dürfen, sollen, mögen) with simple rules, real examples, and memory tricks that actually stick.",
     "date": "2026-04-24",
