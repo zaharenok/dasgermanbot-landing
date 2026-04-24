@@ -1,5 +1,33 @@
 [
   {
+    "title": "German Pronunciation Hacks: Master the Tricky Sounds",
+    "description": "Struggling with German pronunciation? From the dreaded 'ch' to umlauts and rolling r's — here are practical German pronunciation hacks that actually work, with audio examples and memory tricks.",
+    "date": "2026-04-24",
+    "slug": "german-pronunciation-hacks",
+    "tags": [
+      "pronunciation",
+      "beginners"
+    ],
+    "languages": {
+      "en": {
+        "title": "German Pronunciation Hacks: Master the Tricky Sounds",
+        "description": "Struggling with German pronunciation? From the dreaded 'ch' to umlauts and rolling r's — here are practical German pronunciation hacks that actually work, with audio examples and memory tricks."
+      },
+      "ru": {
+        "title": "Немецкое произношение: хитрости для сложных звуков",
+        "description": "Борешься с немецким произношением? От страшного 'ch' до умляутов и рычащего 'r' — вот практические хитрости немецкого произношения, которые реально работают, с примерами и мнемониками."
+      },
+      "uk": {
+        "title": "Німецька вимова: хитрощі для складних звуків",
+        "description": "Борешся з німецькою вимовою? Від страшного 'ch' до умляутів і гарчущого 'r' — ось практичні хитрощі німецької вимови, які реально працюють, з прикладами та мнемоніками."
+      },
+      "sk": {
+        "title": "Nemecká výslovnosť: triky pre náročné zvuky",
+        "description": "Bojuješ s nemeckou výslovnosťou? Od strašného 'ch' až po umlauty a rolling 'r' — tu sú praktické nemecké triky pre výslovnosť, ktoré naozaj fungujú, s príkladmi a mnemotechnikmi."
+      }
+    }
+  },
+  {
     "slug": "german-words-you-already-know",
     "date": "2026-04-23",
     "image": "",
