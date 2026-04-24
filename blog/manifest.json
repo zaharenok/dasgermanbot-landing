@@ -238,5 +238,29 @@
         "description": "V Nemecku je viac ako 300 druhov chleba a raňajky sú posvätné. Naučte sa základnú nemeckú slovnú zásobu jedál — od Brötchen po Abendbrot."
       }
     }
+  },
+  {
+    "slug": "german-for-jobs-2026",
+    "date": "2026-04-24",
+    "image": "",
+    "tags": ["careers", "tips"],
+    "langs": {
+      "en": {
+        "title": "German for Jobs: Working in Germany 2026",
+        "description": "Do you really need German to work in Germany? The truth about language requirements for different jobs — and how to prove your level."
+      },
+      "ru": {
+        "title": "Немецкий для работы: трудоустройство в Германии 2026",
+        "description": "Нужен ли немецкий для работы в Германии? Правда о языковых требованиях для разных профессий — и как подтвердить свой уровень."
+      },
+      "uk": {
+        "title": "Німецька для роботи: працевлаштування в Німеччині 2026",
+        "description": "Чи потрібен німецький для роботи в Німеччині? Правда про мовні вимоги для різних професій — і як підтвердити свій рівень."
+      },
+      "sk": {
+        "title": "Nemčina pre prácu: Práca v Nemecku 2026",
+        "description": "Potrebujete nemčinu na prácu v Nemecku? Pravda o jazykových požiadavkách pre rôzne zamestnania — a ako preukázať svoju úroveň."
+      }
+    }
   }
 ]
