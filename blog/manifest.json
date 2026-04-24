@@ -376,5 +376,32 @@
         "description": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz. Áno, to je jedno slovo. Tu je ako fungujú nemecké zložené slová, prečo sú úžasné, a ako vytvoriť vlastné dielo s 50 písmenami."
       }
     }
+  },
+  {
+    "slug": "german-untranslatable-words",
+    "date": "2026-04-24",
+    "image": "",
+    "tags": [
+      "vocabulary",
+      "culture"
+    ],
+    "langs": {
+      "en": {
+        "title": "11 German Words English Desperately Needs",
+        "description": "Ever felt schadenfreude? Experienced fernweh? German has words for emotions English speakers feel but can't name. Here are the German words that perfectly describe feelings you didn't know you had."
+      },
+      "ru": {
+        "title": "11 немецких слов, которых desperately нужен английский",
+        "description": "Когда-то чувствовал schadenfreude? Испытывал fernweh? В немецком есть слова для эмоций, которые англоговорящие чувствуют, но не могут назвать. Вот немецкие слова, которые идеально описывают чувства, о которых ты не знал, что они у тебя есть."
+      },
+      "uk": {
+        "title": "11 німецьких слів, які desperately потрібні англійській",
+        "description": "Коли-небудь відчував schadenfreude? Випробовував fernweh? У німецькій є слова для емоцій, які англомовні відчувають, але не можуть назвати. Ось німецькі слова, які ідеально описують почуття, про які ти не знав, що вони в тебе є."
+      },
+      "sk": {
+        "title": "11 nemeckých slov, ktoré angličtina desperátne potrebuje",
+        "description": "Už si niekedy cítil schadenfreude? Zažil si fernweh? Nemčina má slová pre emócie, ktoré anglicky hovoriaci ľudia cítia, ale nemôžu pomenovať. Tu sú nemecké slová, ktoré dokonale popisujú pocity, o ktorých si ani nevedel, že ich máš."
+      }
+    }
   }
 ]
