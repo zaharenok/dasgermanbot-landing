@@ -262,5 +262,29 @@
         "description": "Potrebujete nemčinu na prácu v Nemecku? Pravda o jazykových požiadavkách pre rôzne zamestnania — a ako preukázať svoju úroveň."
       }
     }
+  },
+  {
+    "slug": "german-festivals-traditions",
+    "date": "2026-04-24",
+    "image": "",
+    "tags": ["culture", "tips"],
+    "langs": {
+      "en": {
+        "title": "German Festivals & Traditions: Learn German Through Culture",
+        "description": "Oktoberfest, Christmas markets, and Karneval — here's how German festivals and traditions can accelerate your language learning faster than any textbook."
+      },
+      "ru": {
+        "title": "Немецкие фестивали и традиции: учим немецкий через культуру",
+        "description: "Октоберфест, рождественские ярмарки и Карнавал — вот как немецкие фестивали и традиции могут ускорить изучение языка быстрее любого учебника."
+      },
+      "uk": {
+        "title": "Німецькі фестивалі та традиції: вчимо німецьку через культуру",
+        "description: "Октоберфест, різдвяні ярмарки та Карнавал — ось як німецькі фестивалі та традиції можуть прискорити вивчення мови швидше за будь-який підручник."
+      },
+      "sk": {
+        "title": "Nemecké festivaly a tradície: učte sa nemčinu cez kultúru",
+        "description": "Oktoberfest, vianočné trhy a Karneval — tu je ako nemecké festivaly a tradície môžu urýchliť štúdium rýchlej než akkoko učebnica."
+      }
+    }
   }
 ]
