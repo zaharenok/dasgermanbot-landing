@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog — Das German Bot</title>
+  <meta name="description" content="">
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PXHHH8TK');</script>
+  <!-- End Google Tag Manager -->
+  <!-- Meta Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1445746883270633');
+  fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1445746883270633&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Meta Pixel Code -->
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FES4KCTZ1T"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-FES4KCTZ1T');
+  </script>
+  <!-- Flowsery -->
+  <script defer data-fl-website-id="flid_4RIHfEW_NNP0UCNbgJia_g" src="https://cdn.flowsery.com/main.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #070612; --bg-alt: #0c0d20; --bg-card: rgba(255, 255, 255, 0.04);
+      --text: #ffffff; --text-secondary: rgba(255, 255, 255, 0.6); --text-muted: rgba(255, 255, 255, 0.35);
+      --accent: #4271FE; --accent-hover: #5a85FF; --accent-light: rgba(66, 113, 254, 0.15);
+      --border: rgba(255, 255, 255, 0.08); --radius: 12px; --radius-lg: 24px;
+    }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; color: var(--text); line-height: 1.6; -webkit-font-smoothing: antialiased; background-color: var(--bg); }
+    a { text-decoration: none; color: inherit; }
+    button { cursor: pointer; border: none; font-family: inherit; }
+    .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+    .navbar { position: fixed; top: 0; left: 0; right: 0; z-index: 100; background: rgba(7, 6, 18, 0.85); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border-bottom: 1px solid var(--border); }
+    .navbar .container { display: flex; align-items: center; justify-content: space-between; height: 72px; }
+    .navbar__logo { display: flex; align-items: center; gap: 12px; font-weight: 800; font-size: 20px; color: #ffffff; letter-spacing: -0.02em; }
+    .navbar__logo-icon { font-size: 24px; line-height: 1; }
+    .navbar__actions { display: flex; align-items: center; gap: 16px; }
+    .navbar__nav { display: flex; gap: 32px; }
+    .navbar__nav a { font-size: 15px; font-weight: 600; color: var(--text-secondary); transition: color 0.2s ease; }
+    .navbar__nav a:hover, .navbar__nav a.active { color: #ffffff; }
+    .btn-primary { display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: var(--accent); color: #ffffff; border-radius: 100px; font-size: 15px; font-weight: 700; transition: all 0.2s ease; }
+    .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(66, 113, 254, 0.4); background: var(--accent-hover); }
+    .lang-switcher { display: flex; align-items: center; background: rgba(255, 255, 255, 0.08); border-radius: 100px; padding: 4px; gap: 2px; }
+    .lang-btn { padding: 6px 14px; border-radius: 100px; font-size: 13px; font-weight: 700; color: rgba(255, 255, 255, 0.5); background: transparent; transition: all 0.2s ease; }
+    .lang-btn.active { background: rgba(255, 255, 255, 0.15); color: #ffffff; }
+    .lang-btn:hover:not(.active) { color: rgba(255, 255, 255, 0.8); }
+    .lang-btn.disabled { opacity: 0.25; cursor: not-allowed; }
+    .article { padding: 120px 0 100px; }
+    .article__top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 32px; }
+    .article__back { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 600; color: var(--text-secondary); transition: color 0.2s ease; }
+    .article__back:hover { color: var(--accent); }
+    .article__available-langs { display: flex; gap: 4px; }
+    .article__lang-pill { padding: 4px 12px; border-radius: 100px; font-size: 11px; font-weight: 700; background: rgba(255, 255, 255, 0.06); color: rgba(255, 255, 255, 0.35); cursor: pointer; transition: all 0.2s ease; border: none; }
+    .article__lang-pill--current { background: var(--accent-light); color: var(--accent); }
+    .article__lang-pill:hover:not(.article__lang-pill--current) { background: rgba(255, 255, 255, 0.1); color: rgba(255, 255, 255, 0.6); }
+    .article__content { max-width: 760px; margin: 0 auto; }
+    .article__meta { font-size: 14px; color: var(--text-muted); margin-bottom: 16px; }
+    .article__body h1 { font-size: 40px; font-weight: 800; letter-spacing: -0.03em; margin-bottom: 16px; line-height: 1.15; }
+    .article__body h2 { font-size: 28px; font-weight: 800; letter-spacing: -0.02em; margin: 48px 0 16px; line-height: 1.2; }
+    .article__body h3 { font-size: 22px; font-weight: 700; margin: 36px 0 12px; }
+    .article__body p { font-size: 17px; line-height: 1.8; color: var(--text-secondary); margin-bottom: 20px; }
+    .article__body ul, .article__body ol { font-size: 17px; line-height: 1.8; color: var(--text-secondary); margin-bottom: 20px; padding-left: 24px; }
+    .article__body li { margin-bottom: 8px; }
+    .article__body strong { color: #ffffff; font-weight: 700; }
+    .article__body em { color: var(--accent); font-style: italic; }
+    .article__body a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+    .article__body a:hover { color: var(--accent-hover); }
+    .article__body blockquote { border-left: 3px solid var(--accent); padding: 12px 20px; margin: 24px 0; background: var(--bg-card); border-radius: 0 var(--radius) var(--radius) 0; }
+    .article__body blockquote p { margin-bottom: 0; }
+    .article__body hr { border: none; border-top: 1px solid var(--border); margin: 40px 0; }
+    .article__body code { font-family: 'SF Mono', 'Fira Code', monospace; font-size: 14px; background: var(--bg-card); padding: 2px 8px; border-radius: 6px; color: var(--accent); }
+    .article__body pre { background: var(--bg-alt); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; overflow-x: auto; margin-bottom: 20px; }
+    .article__body pre code { background: none; padding: 0; color: var(--text-secondary); }
+    .article__body img { max-width: 100%; border-radius: var(--radius); margin: 24px 0; }
+    .article__not-found { text-align: center; padding: 80px 0; }
+    .article__not-found h2 { font-size: 24px; font-weight: 800; margin-bottom: 12px; }
+    .article__not-found p { color: var(--text-secondary); margin-bottom: 24px; }
+    .footer { padding: 60px 0; border-top: 1px solid var(--border); background: var(--bg); }
+    .footer .container { display: flex; align-items: center; justify-content: space-between; }
+    .footer__left { font-size: 15px; color: var(--text-secondary); }
+    .footer__links { display: flex; gap: 32px; }
+    .footer__links a { font-size: 15px; font-weight: 600; color: var(--text-secondary); transition: color 0.2s ease; }
+    .footer__links a:hover { color: var(--accent); }
+    @media (max-width: 768px) {
+      .navbar__nav { display: none; }
+      .article { padding: 100px 0 60px; }
+      .article__top { flex-direction: column; align-items: flex-start; gap: 16px; }
+      .article__body h1 { font-size: 28px; }
+      .article__body h2 { font-size: 22px; }
+      .article__body p, .article__body ul, .article__body ol { font-size: 15px; }
+      .footer .container { flex-direction: column; gap: 24px; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXHHH8TK"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <nav class="navbar">
+    <div class="container">
+      <a href="../index.html" class="navbar__logo">
+        <div class="navbar__logo-icon">🥨</div>
+        <span data-i18n="logo">Das German Bot</span>
+      </a>
+      <div class="navbar__actions">
+        <div class="navbar__nav">
+          <a href="../index.html" data-i18n="nav_home">Home</a>
+          <a href="index.html" data-i18n="nav_blog">Blog</a>
+        </div>
+        <div class="lang-switcher">
+          <button class="lang-btn active" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="uk">UA</button>
+          <button class="lang-btn" data-lang="ru">RU</button>
+          <button class="lang-btn" data-lang="sk">SK</button>
+        </div>
+        <a href="https://t.me/dasgermanbot" class="btn-primary" id="nav-cta-btn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
+          <span data-i18n="nav_cta">Open in Telegram</span>
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <section class="article">
+    <div class="container">
+      <div class="article__content">
+        <div class="article__top">
+          <a href="index.html" class="article__back" data-i18n="back_to_blog">← Back to Blog</a>
+          <div class="article__available-langs" id="article-langs"></div>
+        </div>
+        <div class="article__meta" id="article-meta"></div>
+        <div class="article__body" id="article-body"></div>
+        <div class="article__not-found" id="article-not-found" style="display:none;">
+          <h2 data-i18n="not_found_title">Article not found</h2>
+          <p data-i18n="not_found_desc">The article you're looking for doesn't exist.</p>
+          <a href="index.html" class="btn-primary" data-i18n="back_to_blog_btn">Back to Blog</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__left">&copy; <span id="year"></span> Das German Bot.</div>
+      <div class="footer__links">
+        <a href="../privacy.html">Privacy Policy</a>
+        <a href="../terms.html">Terms of Service</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const translations = {
+      en: { logo: "Das German Bot", nav_home: "Home", nav_blog: "Blog", nav_cta: "Open in Telegram", back_to_blog: "← Back to Blog", not_found_title: "Article not found", not_found_desc: "The article you're looking for doesn't exist.", back_to_blog_btn: "Back to Blog" },
+      uk: { logo: "Das German Bot", nav_home: "Головна", nav_blog: "Блог", nav_cta: "Відкрити в Telegram", back_to_blog: "← Назад до блогу", not_found_title: "Статтю не знайдено", not_found_desc: "Стаття, яку ви шукаєте, не існує.", back_to_blog_btn: "Назад до блогу" },
+      ru: { logo: "Das German Bot", nav_home: "Главная", nav_blog: "Блог", nav_cta: "Открыть в Telegram", back_to_blog: "← Назад в блог", not_found_title: "Статья не найдена", not_found_desc: "Статья, которую вы ищете, не существует.", back_to_blog_btn: "Назад в блог" },
+      sk: { logo: "Das German Bot", nav_home: "Domov", nav_blog: "Blog", nav_cta: "Otvoriť v Telegram", back_to_blog: "← Späť na blog", not_found_title: "Článok nenájdený", not_found_desc: "Článok, ktorý hľadáte, neexistuje.", back_to_blog_btn: "Späť na blog" }
+    };
+
+    function detectLanguage() {
+      const supported = ['en', 'uk', 'ru', 'sk'];
+      const browserLangs = navigator.languages || [navigator.language || navigator.userLanguage || 'en'];
+      for (const bl of browserLangs) { const code = bl.toLowerCase().substring(0, 2); if (supported.includes(code)) return code; }
+      return 'en';
+    }
+
+    let currentLang = localStorage.getItem('lang') || detectLanguage();
+    let currentSlug = window.location.pathname.split('/').pop().replace('.html', '');
+    let manifestData = null;
+    let availableLangs = [];
+
+    function applyTranslations(lang) {
+      document.documentElement.lang = lang;
+      document.querySelectorAll('[data-i18n]').forEach(el => {
+        const key = el.getAttribute('data-i18n');
+        if (translations[lang] && translations[lang][key]) el.textContent = translations[lang][key];
+      });
+    }
+
+    function setLanguage(lang) {
+      currentLang = lang;
+      localStorage.setItem('lang', lang);
+      applyTranslations(lang);
+      document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.lang === lang));
+      if (currentSlug) loadArticle(lang);
+    }
+
+    document.querySelectorAll('.lang-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const lang = btn.dataset.lang;
+        if (availableLangs.length && !availableLangs.includes(lang)) return;
+        setLanguage(lang);
+      });
+    });
+
+    function parseFrontmatter(text) {
+      const match = text.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+      if (!match) return { meta: {}, body: text };
+      const meta = {};
+      match[1].split('\n').forEach(line => {
+        const [key, ...rest] = line.split(':');
+        if (key && rest.length) meta[key.trim()] = rest.join(':').trim().replace(/^"|"$/g, '');
+      });
+      return { meta, body: match[2] };
+    }
+
+    function formatDate(dateStr, lang) {
+      const date = new Date(dateStr);
+      const locales = { en: 'en-US', uk: 'uk-UA', ru: 'ru-RU', sk: 'sk-SK' };
+      return date.toLocaleDateString(locales[lang] || 'en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    }
+
+    const langLabels = { en: 'EN', uk: 'UA', ru: 'RU', sk: 'SK' };
+
+    function renderLangPills(langs, current) {
+      const container = document.getElementById('article-langs');
+      container.innerHTML = Object.keys(langs).map(l =>
+        '<button class="article__lang-pill' + (l === current ? ' article__lang-pill--current' : '') + '" data-lang="' + l + '">' + (langLabels[l] || l.toUpperCase()) + '</button>'
+      ).join('');
+      container.querySelectorAll('.article__lang-pill').forEach(pill => pill.addEventListener('click', () => setLanguage(pill.dataset.lang)));
+    }
+
+    async function loadArticle(lang) {
+      if (!currentSlug) { showNotFound(); return; }
+      let articleMeta = manifestData ? manifestData.find(a => a.slug === currentSlug) : null;
+      if (articleMeta) availableLangs = Object.keys(articleMeta.langs);
+      if (!availableLangs.includes(lang)) {
+        lang = availableLangs[0] || 'en';
+        currentLang = lang;
+        localStorage.setItem('lang', lang);
+        applyTranslations(lang);
+        document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.lang === lang));
+      }
+      if (articleMeta) renderLangPills(articleMeta.langs, lang);
+      document.querySelectorAll('.lang-btn').forEach(btn => {
+        const l = btn.dataset.lang;
+        if (availableLangs.length && !availableLangs.includes(l)) btn.classList.add('disabled');
+        else btn.classList.remove('disabled');
+      });
+      try {
+        const res = await fetch('posts/' + lang + '/' + currentSlug + '.md');
+        if (!res.ok) throw new Error('Not found');
+        const text = await res.text();
+        const { meta, body } = parseFrontmatter(text);
+        document.title = (meta.title || 'Blog') + ' — Das German Bot';
+        const descEl = document.querySelector('meta[name="description"]');
+        if (descEl && meta.description) descEl.content = meta.description;
+        document.getElementById('article-body').style.display = '';
+        document.getElementById('article-meta').style.display = '';
+        document.getElementById('article-not-found').style.display = 'none';
+        document.getElementById('article-meta').textContent = formatDate(meta.date, lang);
+        document.getElementById('article-body').innerHTML = marked.parse(body);
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      } catch (e) { showNotFound(); }
+    }
+
+    function showNotFound() {
+      document.getElementById('article-body').style.display = 'none';
+      document.getElementById('article-meta').style.display = 'none';
+      document.getElementById('article-langs').innerHTML = '';
+      document.getElementById('article-not-found').style.display = 'block';
+    }
+
+    // Track CTA clicks (nav + article body links)
+    function trackCTAClick(location) {
+      if (typeof fbq === 'function') fbq('track', 'InitiateCheckout', { content_name: currentSlug, content_category: 'blog_cta', cta_location: location });
+      if (typeof gtag === 'function') gtag('event', 'blog_cta_click', { event_category: 'blog', event_label: currentSlug, cta_location: location });
+    }
+    document.getElementById('nav-cta-btn').addEventListener('click', function() { trackCTAClick('navbar'); });
+    document.getElementById('article-body').addEventListener('click', function(e) {
+      var a = e.target.closest('a[href*="t.me/dasgermanbot"]');
+      if (a) trackCTAClick('article_body');
+    });
+
+    document.getElementById('year').textContent = new Date().getFullYear();
+    (async function init() {
+      try { const res = await fetch('manifest.json'); manifestData = await res.json(); } catch (e) { manifestData = []; }
+      applyTranslations(currentLang);
+      document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.lang === currentLang));
+      loadArticle(currentLang);
+    })();
+  </script>
+</body>
+</html>
