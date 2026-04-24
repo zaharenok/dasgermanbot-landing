@@ -1,5 +1,34 @@
 [
   {
+    "title": "German Cases Made Simple: The Pain-Free Guide to Nominative, Accusative, Dative & Genitive",
+    "description": "Struggling with German cases? Here's the simple guide to the four German cases (nominative, accusative, dative, genitive) with clear rules, real examples, and memory hacks that actually work.",
+    "date": "2026-04-24",
+    "slug": "german-cases",
+    "tags": [
+      "grammar",
+      "beginners",
+      "cases"
+    ],
+    "languages": {
+      "en": {
+        "title": "German Cases Made Simple: The Pain-Free Guide to Nominative, Accusative, Dative & Genitive",
+        "description": "Struggling with German cases? Here's the simple guide to the four German cases (nominative, accusative, dative, genitive) with clear rules, real examples, and memory hacks that actually work."
+      },
+      "ru": {
+        "title": "Немецкие падежи просто: Безболезненный_guide к Nominative, Accusative, Dative & Genitive",
+        "description": "Борешься с немецкими падежами? Вот простой_guide к четырём немецким падежам (nominative, accusative, dative, genitive) с чёткими правилами, реальными примерами и мнемоникой, которая реально работает."
+      },
+      "uk": {
+        "title": "Німецькі відмінки просто: Безболісний_guide до Nominative, Accusative, Dative & Genitive",
+        "description": "Борешся з німецькими відмінками? Ось простий_guide до чотирьох німецьких відмінків (nominative, accusative, dative, genitive) з чіткими правилами, реальними прикладами та мнемонікою, яка реально працює."
+      },
+      "sk": {
+        "title": "Nemecké pády jednoducho: Bezbolestný sprievodca pre Nominative, Accusative, Dative & Genitive",
+        "description": "Bojuješ s nemeckými pádmi? Tu je jednoduchý sprievodca štyrmi nemeckými pádmi (nominative, accusative, dative, genitive) s jasnými pravidlami, skutočnými príkladmi a mnemotechnikmi, ktoré naozaj fungujú."
+      }
+    }
+  },
+  {
     "title": "German Numbers Made Simple: Count from 0 to 100 Without Pain",
     "description": "Struggling with German numbers? Learn to count from 0 to 100+ with simple patterns, pronunciation hacks, and memory tricks. German numbers follow rules — once you see them, counting becomes automatic.",
     "date": "2026-04-24",
