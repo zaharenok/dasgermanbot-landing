@@ -349,5 +349,32 @@
         "description": "Myslíš si, že 'gift' znamená darček v nemčine? Zamysli sa znova. Tu sú najnebezpečnejšie nemecko-anglické falošní priatelia, ktorí pripravia začiatočníkov — a ako sa vyhnúť trapným chybám."
       }
     }
+  },
+  {
+    "slug": "german-compound-words",
+    "date": "2026-04-24",
+    "image": "",
+    "tags": [
+      "vocabulary",
+      "grammar"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Compound Words: The Longest Words You'll Ever Love",
+        "description": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz. Yes, that's one word. Here's how German compound words work, why they're amazing, and how to build your own 50-letter masterpiece."
+      },
+      "ru": {
+        "title": "Немецкие составные слова: самые длинные слова, которые ты полюбишь",
+        "description": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz. Да, это одно слово. Вот как работают немецкие составные слова, почему они потрясающие, и как создать свой шедевр из 50 букв."
+      },
+      "uk": {
+        "title": "Німецькі складені слова: найдовші слова, які ти полюбиш",
+        "description": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz. Так, це одне слово. Ось як працюють німецькі складені слова, чому вони вражаючі, і як створити власний шедевр із 50 літер."
+      },
+      "sk": {
+        "title": "Nemecké zložené slová: najdlhšie slová, ktoré miluješ",
+        "description": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz. Áno, to je jedno slovo. Tu je ako fungujú nemecké zložené slová, prečo sú úžasné, a ako vytvoriť vlastné dielo s 50 písmenami."
+      }
+    }
   }
 ]
