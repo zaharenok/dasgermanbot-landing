@@ -29,6 +29,65 @@
     }
   },
   {
+    "title": "German Slang & Colloquial Expressions: Sound Like a Native Speaker",
+    "description": "Want to sound like a native German speaker? Learn the most common German slang words and colloquial expressions that Germans actually use in daily life. From 'Krass' to 'Geil' to 'Alter' — sound authentic, not like a textbook.",
+    "date": "2026-04-25",
+    "slug": "german-slang",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "slang"
+    ],
+    "languages": {
+      "en": {
+        "title": "German Slang & Colloquial Expressions: Sound Like a Native Speaker",
+        "description": "Want to sound like a native German speaker? Learn the most common German slang words and colloquial expressions that Germans actually use in daily life. From 'Krass' to 'Geil' to 'Alter' — sound authentic, not like a textbook."
+      },
+      "ru": {
+        "title": "Немецкий сленг и разговорные выражения: Звучи как носитель языка",
+        "description": "Хочешь звучать как носитель немецкого? Изучи самые распространённые немецкие сленговые слова и разговорные выражения, которые немцы РЕАЛЬНО используют в повседневной жизни. От 'Krass' до 'Geil' и 'Alter' — звучи аутентично, а не как из учебника."
+      },
+      "uk": {
+        "title": "Німецький сленг та розмовні вирази: Звучи як носій мови",
+        "description": "Хочеш звучати як носій німецької? Вивчи найпоширеніші німецькі сленгові слова та розмовні вирази, які німці РЕАЛЬНО використовують у повсякденному житті. Від 'Krass' до 'Geil' та 'Alter' — звучи аутентично, а не як з підручника."
+      },
+      "sk": {
+        "title": "Nemecký slang a hovorové výrazy: Znieť ako rodený Nemec",
+        "description": "Chceš znieť ako rodený Nemec? Nauč sa najbežnejšie nemecké slangové slová a hovorové výrazy, ktoré Nemci SKUTOČNE používajú v každodennom živote. Od 'Krass' po 'Geil' a 'Alter' — znie autenticky, nie ako z učebnice."
+      }
+    }
+  },
+  {
+    "title": "German Text Message Abbreviations & Chat Slang: The Ultimate Guide",
+    "description": "Learn the most common German text abbreviations, chat slang, and messaging shortcuts that Germans use daily. From 'hdgdl' to 'lg' and 'mfg' — understand real German digital communication and text like a native.",
+    "date": "2026-04-25",
+    "slug": "german-text-abbreviations",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "digital",
+      "communication"
+    ],
+    "languages": {
+      "en": {
+        "title": "German Text Message Abbreviations & Chat Slang: The Ultimate Guide",
+        "description": "Learn the most common German text abbreviations, chat slang, and messaging shortcuts that Germans use daily. From 'hdgdl' to 'lg' and 'mfg' — understand real German digital communication and text like a native."
+      },
+      "ru": {
+        "title": "Немецкие сокращения для сообщений и чат-сленг: Полный гид",
+        "description": "Выучи самые распространённые немецкие сокращения для сообщений, чат-сленг и шорткаты для мессенджеров, которые немцы используют ежедневно. От 'hdgdl' до 'lg' и 'mfg' — понимай настоящую немецкую цифровую коммуникацию и пиши как носитель."
+      },
+      "uk": {
+        "title": "Німецькі скорочення для повідомлень та чат-сленг: Повний гід",
+        "description": "Вивчи найпоширеніші німецькі скорочення для повідомлень, чат-сленг та шорткати для месенджерів, які німці використовують щодня. Від 'hdgdl' до 'lg' та 'mfg' — розумій справжню німецьку цифрову комунікацію та пиши як носій."
+      },
+      "sk": {
+        "title": "Nemecké skratky pre správy a chatový slang: Kompletný sprievodca",
+        "description": "Nauč sa najbežnejšie nemecké skratky pre správy, chatový slang a skratky pre messenger, ktoré Nemci používajú denne. Od 'hdgdl' po 'lg' a 'mfg' — pochop skutočnú nemeckú digitálnu komunikáciu a píš ako rodák."
+      }
+    }
+  },
+  {
     "title": "German Prepositions Made Simple: The Ultimate Guide to Accusative, Dative & Two-Way Prepositions",
     "description": "Struggling with German prepositions? Learn the ultimate guide to German prepositions with clear rules: accusative-only, dative-only, two-way prepositions, and memory tricks that actually stick. Includes Weil, Für, Mit, Zu, Bei and more.",
     "date": "2026-04-25",
