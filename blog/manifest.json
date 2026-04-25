@@ -933,5 +933,35 @@
         "description": "Už si niekedy cítil schadenfreude? Zažil si fernweh? Nemčina má slová pre emócie, ktoré anglicky hovoriaci ľudia cítia, ale nemôžu pomenovať. Tu sú nemecké slová, ktoré dokonale popisujú pocity, o ktorých si ani nevedel, že ich máš."
       }
     }
+  },
+  {
+    "title": "German Restaurant Phrases: Order Food Like a Local (Even with Zero German)",
+    "description": "Eating out in Germany? Master essential German restaurant phrases for ordering food, asking for the bill, and understanding German dining culture. From 'Die Speisekarte bitte' to 'Zahlen, bitte' — survive any German restaurant, cafe, or biergarten like a pro.",
+    "date": "2026-04-25",
+    "slug": "german-restaurant-phrases",
+    "tags": [
+      "travel",
+      "beginners",
+      "vocabulary",
+      "food"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Restaurant Phrases: Order Food Like a Local (Even with Zero German)",
+        "description": "Eating out in Germany? Master essential German restaurant phrases for ordering food, asking for the bill, and understanding German dining culture. From 'Die Speisekarte bitte' to 'Zahlen, bitte' — survive any German restaurant, cafe, or biergarten like a pro."
+      },
+      "ru": {
+        "title": "Немецкие ресторанные фразы: Заказывай еду как местный (даже с нулевым немецким)",
+        "description": "Еда в Германии? Овладей важнейшими немецкими ресторанными фразами для заказа еды, запроса счёта и понимания немецкой культуры питания. От 'Die Speisekarte bitte' до 'Zahlen, bitte' — выживи в любом немецком ресторане, кафе или пивном саду как профи."
+      },
+      "uk": {
+        "title": "Німецькі ресторанні фрази: Замовляй їжу як місцевий (навіть з нульовим німецьким)",
+        "description": "Їси в Німеччині? Оволодій важливими німецькими ресторанними фразами для замовлення їжі, запиту рахунку та розуміння німецької культури харчування. Від 'Die Speisekarte bitte' до 'Zahlen, bitte' — виживи в будь-якому німецькому ресторані, кафе чи пивному саду як профі."
+      },
+      "sk": {
+        "title": "Nemecké reštauračné frázy: Objednaj si jedlo ako miestny (aj s nulovou nemčinou)",
+        "description": "Jesť v Nemecku? Ovládnuty dôležité nemecké reštauračné frázy na objednávanie jedla, žiadanie účtu a pochopenie nemeckej kultúry stravovania. Od 'Die Speisekarte bitte' po 'Zahlen, bitte' — preži v akejkoľvek nemeckej reštaurácii, kaviarni alebo pivnej záhrade ako profík."
+      }
+    }
   }
 ]
