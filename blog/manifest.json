@@ -1,5 +1,34 @@
 [
   {
+    "title": "German Prepositions Made Simple: The Ultimate Guide to Accusative, Dative & Two-Way Prepositions",
+    "description": "Struggling with German prepositions? Learn the ultimate guide to German prepositions with clear rules: accusative-only, dative-only, two-way prepositions, and memory tricks that actually stick. Includes Weil, Für, Mit, Zu, Bei and more.",
+    "date": "2026-04-25",
+    "slug": "german-prepositions",
+    "tags": [
+      "grammar",
+      "beginners",
+      "prepositions"
+    ],
+    "languages": {
+      "en": {
+        "title": "German Prepositions Made Simple: The Ultimate Guide to Accusative, Dative & Two-Way Prepositions",
+        "description": "Struggling with German prepositions? Learn the ultimate guide to German prepositions with clear rules: accusative-only, dative-only, two-way prepositions, and memory tricks that actually stick. Includes Weil, Für, Mit, Zu, Bei and more."
+      },
+      "ru": {
+        "title": "Немецкие предлоги просто: Окончательный_guide к Accusative, Dative & Two-Way",
+        "description": "Борешься с немецкими предлогами? Изучи окончательный_guide к немецким предлогам с чёткими правилами: только accusative, только dative, двусторонние предлоги и мнемоника, которая реально работает. Включает Weil, Für, Mit, Zu, Bei и другие."
+      },
+      "uk": {
+        "title": "Німецькі прийменники просто: Остаточний_guide до Accusative, Dative & Two-Way",
+        "description": "Борешся з німецькими прийменниками? Вивчи остаточний_guide до німецьких прийменників з чіткими правилами: тільки accusative, тільки dative, двосторонні прийменники та мнемоніка, яка реально працює. Включає Weil, Für, Mit, Zu, Bei та інші."
+      },
+      "sk": {
+        "title": "Nemecké predložky jednoducho: Ultimate sprievodca pre Accusative, Dative & Two-Way",
+        "description": "Bojuješ s nemeckými predložkami? Nauč sa ultimate sprievodcu k nemeckým predložkám s jasnými pravidlami: len accusative, len dative, obojsmerné predložky a mnemotechniky, ktoré naozaj fungujú. Zahŕňa Weil, Für, Mit, Zu, Bei a ďalšie."
+      }
+    }
+  },
+  {
     "title": "German Present Perfect Made Simple: The Past Tense Germans Actually Use",
     "description": "Struggling with German past tense? Learn German Present Perfect (Perfekt) with simple rules: haben vs sein, regular vs irregular participles, ge- prefix, and real examples. The past tense Germans actually USE in daily life.",
     "date": "2026-04-24",
