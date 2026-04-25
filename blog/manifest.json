@@ -963,5 +963,35 @@
         "description": "Jesť v Nemecku? Ovládnuty dôležité nemecké reštauračné frázy na objednávanie jedla, žiadanie účtu a pochopenie nemeckej kultúry stravovania. Od 'Die Speisekarte bitte' po 'Zahlen, bitte' — preži v akejkoľvek nemeckej reštaurácii, kaviarni alebo pivnej záhrade ako profík."
       }
     }
+  },
+  {
+    "title": "German Word Order: The Simple Rules That Make Sense of German Syntax",
+    "description": "Struggling with German word order? Learn the simple rules that make sense of German sentence structure — from verb-second rule to TEKaMoLo, subordinates, and clauses. Master German syntax without losing your mind.",
+    "date": "2026-04-25",
+    "slug": "german-word-order",
+    "tags": [
+      "grammar",
+      "beginners",
+      "syntax",
+      "word-order"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Word Order: The Simple Rules That Make Sense of German Syntax",
+        "description": "Struggling with German word order? Learn the simple rules that make sense of German sentence structure — from verb-second rule to TEKaMoLo, subordinates, and clauses. Master German syntax without losing your mind."
+      },
+      "ru": {
+        "title": "Немецкий порядок слов: Простые правила, которые делают немецкий синтаксис понятным",
+        "description": "Борешься с немецким порядком слов? Изучи простые правила, которые делают немецкий синтаксис понятным — от правила verb-second до TEKaMoLo, придаточных и clauses. Овладей немецким синтаксисом без потери рассудка."
+      },
+      "uk": {
+        "title": "Німецький порядок слів: Прості правила, які роблять німецький синтаксис зрозумілим",
+        "description": "Борешся з німецьким порядком слів? Вивчи прості правила, які роблять німецький синтаксис зрозумілим — від правила verb-second до TEKaMoLo, підрядних та clauses. Оволодій німецьким синтаксисом без втрати розуму."
+      },
+      "sk": {
+        "title": "Nemecké poradie slov: Jednoduché pravidlá, ktoré dávajú zmysel nemeckej syntaxe",
+        "description": "Bojuješ s nemeckým poradím slov? Nauč sa jednoduché pravidlá, ktoré dávajú zmysel nemeckej štruktúre viet — od pravidla verb-second po TEKaMoLo, vedľajšie vety a klauzuly. Ovládni nemeckú syntax bez straty rozumu."
+      }
+    }
   }
 ]
