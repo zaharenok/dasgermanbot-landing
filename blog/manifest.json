@@ -1,5 +1,34 @@
 [
   {
+    "title": "German Reflexive Verbs Made Simple: How to Use Sich, Mich, Dich, Mir, Dir",
+    "description": "Struggling with German reflexive verbs? Learn how to use mich, mir, dich, dir, uns, euch, and sich correctly. With simple rules, real examples, and a complete list of common German reflexive verbs like sich waschen, sich freuen, sich erinnern.",
+    "date": "2026-04-25",
+    "slug": "german-reflexive-verbs",
+    "tags": [
+      "grammar",
+      "beginners",
+      "verbs"
+    ],
+    "languages": {
+      "en": {
+        "title": "German Reflexive Verbs Made Simple: How to Use Sich, Mich, Dich, Mir, Dir",
+        "description": "Struggling with German reflexive verbs? Learn how to use mich, mir, dich, dir, uns, euch, and sich correctly. With simple rules, real examples, and a complete list of common German reflexive verbs like sich waschen, sich freuen, sich erinnern."
+      },
+      "ru": {
+        "title": "Немецкие возвратные глаголы просто: Как использовать Sich, Mich, Dich, Mir, Dir",
+        "description": "Борешься с немецкими возвратными глаголами? Изучи, как правильно использовать mich, mir, dich, dir, uns, euch и себя. С простыми правилами, реальными примерами и полным списком распространённых немецких возвратных глаголов вроде sich waschen, sich freuen, sich erinnern."
+      },
+      "uk": {
+        "title": "Німецькі зворотні дієслова просто: Як використовувати Sich, Mich, Dich, Mir, Dir",
+        "description": "Борешся з німецькими зворотними дієсловами? Вивчи, як правильно використовувати mich, mir, dich, dir, uns, euch і sich. З простими правилами, реальними прикладами та повним списком поширених німецьких зворотних дієслів як sich waschen, sich freuen, sich erinnern."
+      },
+      "sk": {
+        "title": "Nemecké slovesá zvratné slovesá jednoducho: Ako používať Sich, Mich, Dich, Mir, Dir",
+        "description": "Bojuješ s nemeckými zvratnými slovesami? Nauč sa, ako správne používať mich, mir, dich, dir, uns, euch a sich. S jednoduchými pravidlami, skutočnými príkladmi a úplným zoznamom bežných nemeckých zvratných slovies ako sich waschen, sich freuen, sich erinnern."
+      }
+    }
+  },
+  {
     "title": "German Prepositions Made Simple: The Ultimate Guide to Accusative, Dative & Two-Way Prepositions",
     "description": "Struggling with German prepositions? Learn the ultimate guide to German prepositions with clear rules: accusative-only, dative-only, two-way prepositions, and memory tricks that actually stick. Includes Weil, Für, Mit, Zu, Bei and more.",
     "date": "2026-04-25",
