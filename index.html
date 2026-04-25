@@ -182,6 +182,9 @@
       color: rgba(255, 255, 255, 0.8);
     }
 
+    /* ── Mobile Language Dropdown (hidden on desktop) ── */
+    .lang-dropdown { display: none; }
+
     /* ── Blog Badge ── */
     .navbar__blog-badge {
       display: inline-flex;
@@ -806,6 +809,23 @@
     .latest-blog__all:hover {
       color: var(--accent-hover);
     }
+    .latest-blog__grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+    .latest-blog__loader {
+      text-align: center;
+      padding: 24px;
+      color: var(--text-muted);
+      font-size: 14px;
+    }
+    .latest-blog__empty {
+      text-align: center;
+      padding: 40px 0;
+      color: var(--text-muted);
+      font-size: 15px;
+    }
 
     /* ── Responsive ── */
     @media (max-width: 992px) {
@@ -840,21 +860,77 @@
       .navbar__actions {
         order: 2;
         width: 100%;
+        display: flex;
+        flex-wrap: wrap;
         justify-content: center;
-        gap: 12px;
+        gap: 10px;
         margin-top: 12px;
       }
       .navbar__blog-badge {
         font-size: 12px;
         padding: 5px 10px;
       }
-      .lang-switcher {
-        flex: 1;
-        justify-content: center;
+      .lang-switcher { display: none; }
+      .lang-dropdown {
+        display: inline-flex;
+        position: relative;
+      }
+      .lang-dropdown__toggle {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        padding: 6px 14px;
+        background: rgba(255, 255, 255, 0.08);
+        border-radius: 100px;
+        font-size: 13px;
+        font-weight: 700;
+        color: #ffffff;
+        cursor: pointer;
+        border: none;
+      }
+      .lang-dropdown__toggle::after {
+        content: '\25BE';
+        font-size: 10px;
+        margin-left: 2px;
+      }
+      .lang-dropdown__menu {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        margin-top: 6px;
+        background: rgba(12, 13, 32, 0.95);
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        border-radius: 12px;
+        padding: 6px;
+        z-index: 200;
+        min-width: 120px;
+      }
+      .lang-dropdown__menu.open { display: block; }
+      .lang-dropdown__menu button {
+        display: block;
+        width: 100%;
+        padding: 8px 14px;
+        border-radius: 8px;
+        font-size: 13px;
+        font-weight: 700;
+        color: rgba(255, 255, 255, 0.5);
+        background: transparent;
+        text-align: left;
+        cursor: pointer;
+        border: none;
+        font-family: inherit;
+      }
+      .lang-dropdown__menu button.active,
+      .lang-dropdown__menu button:hover {
+        background: rgba(255, 255, 255, 0.15);
+        color: #ffffff;
       }
       .btn-primary {
         padding: 10px 20px;
         font-size: 14px;
+        min-width: 160px;
+        justify-content: center;
       }
 
       .hero {
@@ -911,6 +987,9 @@
       }
       .latest-blog h2 {
         font-size: 28px;
+      }
+      .latest-blog__grid {
+        grid-template-columns: 1fr;
       }
       .latest-blog__card {
         padding: 24px;
@@ -1010,6 +1089,17 @@
           <button class="lang-btn" data-lang="uk">UA</button>
           <button class="lang-btn" data-lang="ru">RU</button>
           <button class="lang-btn" data-lang="sk">SK</button>
+        </div>
+        <div class="lang-dropdown">
+          <button class="lang-dropdown__toggle" id="lang-dropdown-toggle">
+            <span id="lang-dropdown-label">EN</span>
+          </button>
+          <div class="lang-dropdown__menu" id="lang-dropdown-menu">
+            <button data-lang="en">English</button>
+            <button data-lang="uk">Українська</button>
+            <button data-lang="ru">Русский</button>
+            <button data-lang="sk">Slovenčina</button>
+          </div>
         </div>
         <a href="https://t.me/dasgermanbot" class="btn-primary" id="nav-cta">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
@@ -1131,14 +1221,9 @@
         <p class="latest-blog__label" data-i18n="blog_label">Latest from Blog</p>
         <h2 data-i18n="blog_title">German Learning Tips & News</h2>
       </div>
-      <a href="blog/german-festivals-traditions.html" class="latest-blog__card">
-        <div class="latest-blog__badge">New</div>
-        <h3 class="latest-blog__title" data-i18n="latest_article_title">German Festivals & Traditions: Learn German Through Culture</h3>
-        <p class="latest-blog__desc" data-i18n="latest_article_desc">Oktoberfest, Christmas markets, and Karneval — here's how German festivals and traditions can accelerate your language learning faster than any textbook.</p>
-        <div class="latest-blog__meta">
-          <span class="latest-blog__date">April 23, 2026</span>
-          <span class="latest-blog__arrow">→</span>
-        </div>
+      <div class="latest-blog__grid" id="latest-articles-grid"></div>
+      <div class="latest-blog__empty" id="latest-articles-empty" style="display:none">No articles found.</div>
+      <div class="latest-blog__loader" id="latest-articles-loader" style="display:none">Loading...</div>
       </a>
       <a href="blog/index.html" class="latest-blog__all" data-i18n="view_all_articles">View all articles →</a>
     </div>
@@ -1413,6 +1498,13 @@
         btn.classList.toggle('active', btn.dataset.lang === lang);
       });
 
+      // Update mobile dropdown
+      if (dropdownLabel) dropdownLabel.textContent = langLabels[lang] || lang.toUpperCase();
+      document.querySelectorAll('.lang-dropdown__menu button').forEach(function(btn) {
+        btn.classList.toggle('active', btn.dataset.lang === lang);
+      });
+      if (dropdownMenu) dropdownMenu.classList.remove('open');
+
       // Switch video
       const video = document.getElementById('demo-video');
       const source = document.getElementById('video-source');
@@ -1436,6 +1528,9 @@
 
       // Split hero text into animated words
       splitHeroText();
+
+      // Reload blog articles in new language
+      loadBlogArticles(lang);
     }
 
     // ── Split text into animated words ──
@@ -1456,6 +1551,25 @@
 
     document.querySelectorAll('.lang-btn').forEach(btn => {
       btn.addEventListener('click', () => setLanguage(btn.dataset.lang));
+    });
+
+    // ── Mobile Language Dropdown ──
+    var dropdownToggle = document.getElementById('lang-dropdown-toggle');
+    var dropdownMenu = document.getElementById('lang-dropdown-menu');
+    var dropdownLabel = document.getElementById('lang-dropdown-label');
+    var langLabels = { en: 'EN', uk: 'UA', ru: 'RU', sk: 'SK' };
+
+    if (dropdownToggle) {
+      dropdownToggle.addEventListener('click', function(e) {
+        e.stopPropagation();
+        dropdownMenu.classList.toggle('open');
+      });
+      document.addEventListener('click', function() {
+        dropdownMenu.classList.remove('open');
+      });
+    }
+    document.querySelectorAll('.lang-dropdown__menu button').forEach(function(btn) {
+      btn.addEventListener('click', function() { setLanguage(btn.dataset.lang); });
     });
 
     // ── Init ──
@@ -1490,6 +1604,81 @@
         banner.classList.remove('visible');
       });
     });
+
+    // ── Dynamic Blog Section ──
+    var blogArticles = [];
+    var blogDisplayed = 0;
+    var BLOG_INITIAL = 6;
+    var BLOG_BATCH = 3;
+    var blogObserver = null;
+
+    function formatDateBlog(dateStr, lang) {
+      var date = new Date(dateStr);
+      var locales = { en: 'en-US', uk: 'uk-UA', ru: 'ru-RU', sk: 'sk-SK' };
+      return date.toLocaleDateString(locales[lang] || 'en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    }
+
+    function renderBlogCard(article, lang) {
+      var t = article.langs[lang] || article.langs['en'] || Object.values(article.langs)[0];
+      if (!t) return '';
+      var badge = blogDisplayed < 1 ? '<div class="latest-blog__badge">New</div>' : '';
+      return '<a href="blog/' + article.slug + '.html" class="latest-blog__card">' +
+        badge +
+        '<h3 class="latest-blog__title">' + t.title + '</h3>' +
+        '<p class="latest-blog__desc">' + t.description + '</p>' +
+        '<div class="latest-blog__meta">' +
+          '<span class="latest-blog__date">' + formatDateBlog(article.date, lang) + '</span>' +
+          '<span class="latest-blog__arrow">→</span>' +
+        '</div></a>';
+    }
+
+    function loadBlogBatch(lang) {
+      var grid = document.getElementById('latest-articles-grid');
+      var loader = document.getElementById('latest-articles-loader');
+      var batch = blogArticles.slice(blogDisplayed, blogDisplayed + BLOG_BATCH);
+      grid.insertAdjacentHTML('beforeend', batch.map(function(a) { return renderBlogCard(a, lang); }).join(''));
+      blogDisplayed += batch.length;
+      if (blogDisplayed < blogArticles.length) {
+        loader.style.display = '';
+      } else {
+        loader.style.display = 'none';
+        if (blogObserver) { blogObserver.disconnect(); blogObserver = null; }
+      }
+    }
+
+    async function loadBlogArticles(lang) {
+      var grid = document.getElementById('latest-articles-grid');
+      var empty = document.getElementById('latest-articles-empty');
+      var loader = document.getElementById('latest-articles-loader');
+      if (blogObserver) { blogObserver.disconnect(); blogObserver = null; }
+      grid.innerHTML = '';
+      empty.style.display = 'none';
+      loader.style.display = 'none';
+      blogDisplayed = 0;
+      try {
+        var res = await fetch('blog/manifest.json');
+        var articles = await res.json();
+        articles = articles.map(function(a) { if (!a.langs && a.languages) a.langs = a.languages; return a; });
+        blogArticles = articles.filter(function(a) { return a.langs && a.langs[lang]; }).reverse();
+        if (blogArticles.length === 0) { empty.style.display = 'block'; return; }
+        var initialBatch = blogArticles.slice(0, BLOG_INITIAL);
+        grid.innerHTML = initialBatch.map(function(a) { return renderBlogCard(a, lang); }).join('');
+        blogDisplayed = initialBatch.length;
+        if (blogDisplayed < blogArticles.length) {
+          loader.style.display = '';
+          blogObserver = new IntersectionObserver(function(entries) {
+            if (entries[0].isIntersecting && blogDisplayed < blogArticles.length) {
+              loadBlogBatch(currentLang);
+            }
+          }, { rootMargin: '200px' });
+          blogObserver.observe(loader);
+        }
+      } catch (e) {
+        empty.style.display = 'block';
+      }
+    }
+
+    loadBlogArticles(currentLang);
   </script>
 
   <div id="cookie-banner" class="cookie-banner">
