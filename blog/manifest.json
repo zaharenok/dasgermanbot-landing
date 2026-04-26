@@ -993,5 +993,35 @@
         "description": "Bojuješ s nemeckým poradím slov? Nauč sa jednoduché pravidlá, ktoré dávajú zmysel nemeckej štruktúre viet — od pravidla verb-second po TEKaMoLo, vedľajšie vety a klauzuly. Ovládni nemeckú syntax bez straty rozumu."
       }
     }
+  },
+  {
+    "title": "German Compliments: 50+ Phrases to Praise Someone Like a Native Speaker",
+    "description": "Want to make someone's day in German? Learn 50+ German compliments and praise phrases — from casual to formal, for appearance, work, personality, and more. Sound authentic, not like a textbook.",
+    "date": "2026-04-26",
+    "slug": "german-compliments",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "beginners",
+      "compliments"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Compliments: 50+ Phrases to Praise Someone Like a Native Speaker",
+        "description": "Want to make someone's day in German? Learn 50+ German compliments and praise phrases — from casual to formal, for appearance, work, personality, and more. Sound authentic, not like a textbook."
+      },
+      "ru": {
+        "title": "Немецкие комплименты: 50+ фраз, чтобы похвалить как носитель языка",
+        "description": "Хочешь сделать чей-то день на немецком? Изучи 50+ немецких комплиментов и фраз похвалы — от casual до formal, для внешности, работы, личности и многого другого. Звучи аутентично, а не как из учебника."
+      },
+      "uk": {
+        "title": "Німецькі компліменти: 50+ фраз, щоб похвалити як носій мови",
+        "description": "Хочеш зробити чиєсь день німецькою? Вивчи 50+ німецьких компліментів та фраз похвали — від casual до formal, для зовнішності, роботи, особистості та багато іншого. Звучи аутентично, а не як з підручника."
+      },
+      "sk": {
+        "title": "Nemecké komplimenty: 50+ fráz na pochvalu ako rodák",
+        "description": "Chceš niekomu spraviť deň po nemecky? Nauč sa 50+ nemeckých komplimentov a fráz na chválu — od casual po formal, pre vzhľad, prácu, osobnosť a viac. Zniej autenticky, nie ako z učebnice."
+      }
+    }
   }
 ]
