@@ -1023,5 +1023,35 @@
         "description": "Chceš niekomu spraviť deň po nemecky? Nauč sa 50+ nemeckých komplimentov a fráz na chválu — od casual po formal, pre vzhľad, prácu, osobnosť a viac. Zniej autenticky, nie ako z učebnice."
       }
     }
+  },
+  {
+    "title": "German Greetings: How to Say Hello, Goodbye, and Everything in Between Like a Local",
+    "description": "Want to greet people in German like a local? Learn essential German greetings and farewells — from Guten Tag to Moin, from formal to casual, plus regional variations and cultural etiquette.",
+    "date": "2026-04-26",
+    "slug": "german-greetings",
+    "tags": [
+      "basics",
+      "beginners",
+      "culture",
+      "greetings"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Greetings: How to Say Hello, Goodbye, and Everything in Between Like a Local",
+        "description": "Want to greet people in German like a local? Learn essential German greetings and farewells — from Guten Tag to Moin, from formal to casual, plus regional variations and cultural etiquette."
+      },
+      "ru": {
+        "title": "Немецкие приветствия: Как сказать привет, до свидания и всё между ними как местный",
+        "description": "Хочешь приветствовать людей по-немецки как местный? Изучи важнейшие немецкие приветствия и прощания — от Guten Tag до Moin, от formal до casual, плюс региональные вариации и культурный этикет."
+      },
+      "uk": {
+        "title": "Німецькі привітання: Як сказати привіт, до побачення і все між ними як місцевий",
+        "description": "Хочеш вітати людей німецькою як місцевий? Вивчи важливі німецькі привітання та прощання — від Guten Tag до Moin, від formal до casual, плюс регіональні варіації та культурний етикет."
+      },
+      "sk": {
+        "title": "Nemecké pozdravy: Ako povedať ahoj, do videnia a všetko medzi tým ako rodák",
+        "description": "Chceš pozdraviť ľudí po nemecky ako miestny? Nauč sa dôležité nemecké pozdravy a rozlúčky — od Guten Tag po Moin, od formal po casual, plus regionálne variácie a kultúrne etiketa."
+      }
+    }
   }
 ]
