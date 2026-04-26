@@ -1113,5 +1113,35 @@
         "description": "Bojuješ s pýtaním sa po nemecky? Nauč sa všetky nemecké otázky (W-slová), vzorce otázok a ako správne formovať otázky. Od 'Was' po 'Warum' — ovládni nemecké otázky a znie ako rodený Nemec."
       }
     }
+  },
+  {
+    "title": "German Filler Words: Sound Natural & Confident in Conversation",
+    "description": "Want to sound like a native German speaker? Master essential German filler words and conversation fillers — from 'ähm' to 'halt' and 'einfach'. Stop sounding like a textbook and start speaking natural German.",
+    "date": "2026-04-26",
+    "slug": "german-filler-words",
+    "tags": [
+      "vocabulary",
+      "conversation",
+      "beginners",
+      "fillers"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Filler Words: Sound Natural & Confident in Conversation",
+        "description": "Want to sound like a native German speaker? Master essential German filler words and conversation fillers — from 'ähm' to 'halt' and 'einfach'. Stop sounding like a textbook and start speaking natural German."
+      },
+      "ru": {
+        "title": "Немецкие слова-паразиты: Звучи естественно и уверенно в разговоре",
+        "description": "Хочешь звучать как носитель немецкого? Овладей важнейшими немецкими словами-паразитами и разговорными fillers — от 'ähm' до 'halt' и 'einfach'. Перестань звучать как учебник и начни говорить на естественном немецком."
+      },
+      "uk": {
+        "title": "Німецькі слова-паразити: Звучи природно та впевнено в розмові",
+        "description": "Хочеш звучати як носій німецької? Оволодій важливими німецькими словами-паразитами та розмовними fillers — від 'ähm' до 'halt' та 'einfach'. Перестань звучати як підручник і почни говорити природною німецькою."
+      },
+      "sk": {
+        "title": "Nemecké výplňové slová: Znie prirodzene a iste v konverzácii",
+        "description": "Chceš znieť ako rodený Nemec? Ovládni dôležité nemecké výplňové slová a konverzačné fillery — od 'ähm' po 'halt' a 'einfach'. Prestaň znieť ako učebnica a začni hovoriť prirodzenou nemčinou."
+      }
+    }
   }
 ]
