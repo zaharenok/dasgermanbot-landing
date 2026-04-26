@@ -1233,5 +1233,35 @@
         "description": "Chceš popisovať veci po nemecky? Ovládni všetky nemecké farby (rot, blau, grün, gelb) a slovnú zásobu farieb. Od základných farieb po popis objektov, ľudí a miest. Nauč sa nemecké farebné výrazy a znie ako rodák."
       }
     }
+  },
+  {
+    "title": "German Days of the Week & Months: Master the German Calendar",
+    "description": "Struggling with German days and months? Learn all German days of the week (Montag, Dienstag, Mittwoch), German months, and calendar vocabulary. From 'Wie heißt heute?' to understanding German dates. Master the German calendar like a local.",
+    "date": "2026-04-26",
+    "slug": "german-days-months",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "calendar",
+      "time"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Days of the Week & Months: Master the German Calendar",
+        "description": "Struggling with German days and months? Learn all German days of the week (Montag, Dienstag, Mittwoch), German months, and calendar vocabulary. From 'Wie heißt heute?' to understanding German dates. Master the German calendar like a local."
+      },
+      "ru": {
+        "title": "Немецкие дни недели и месяцы: Освой немецкий календарь",
+        "description": "Борешься с немецкими днями и месяцами? Изучи все немецкие дни недели (Montag, Dienstag, Mittwoch), немецкие месяцы и календарную лексику. От 'Wie heißt сегодня?' до понимания немецких дат. Освой немецкий календарь как местный."
+      },
+      "uk": {
+        "title": "Німецькі дні тижня та місяці: Оволодій німецький календар",
+        "description": "Борешся з німецькими днями та місяцями? Вивчи всі німецькі дні тижня (Montag, Dienstag, Mittwoch), німецькі місяці та календарну лексику. Від 'Wie heißt heute?' до розуміння німецьких дат. Оволодій німецький календар як місцевий."
+      },
+      "sk": {
+        "title": "Nemecké dni a mesiace: Ovládni nemecký kalendár",
+        "description": "Bojuješ s nemeckými dňami a mesiacmi? Nauč sa všetky nemecké dni v týždni (Montag, Dienstag, Mittwoch), nemecké mesiace a kalendárnu slovnú zásobu. Od 'Wie heißt heute?' po pochopenie nemeckých dátumov. Ovládni nemecký kalendár ako rodák."
+      }
+    }
   }
 ]
