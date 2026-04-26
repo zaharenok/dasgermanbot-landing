@@ -1459,5 +1459,33 @@
         "description": "Chcete vyjadrovať pocity po nemecky? Ovládnite základnú nemčinu slovnú zásobu emócií od glücklich a traurig po verliebt a wütend. Naučte sa slovnú zásobu Gefühle so správnymi členmi, výrazmi a kultúrnymi poznámkami o emóciách v nemecky hovoriacich krajinách."
       }
     }
+  },
+  {
+    "slug": "german-food-vocabulary",
+    "date": "2026-04-26",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "food",
+      "culture"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Food Vocabulary: Complete Guide to Essen und Trinken for Foodies",
+        "description": "Want to talk about food in German? Master essential German food vocabulary from Brot and Wurst to Frühstück and Abendbrot. Learn Essen und Trinken vocabulary with proper articles, cultural notes about German dining culture, and common phrases for restaurants."
+      },
+      "ru": {
+        "title": "Немецкая еда: Полный словарь Essen und Trinken для гурманов",
+        "description": "Хотите говорить о еде по-немецки? Освойте основную словарную лексику немецкой еды от Brot и Wurst до Frühstück и Abendbrot. Выучите лексику Essen und Trinken с правильными артиклями, культурными заметками о немецкой культуре питания и распространёнными фразами для ресторанов."
+      },
+      "uk": {
+        "title": "Німецька їжа: Повний словник Essen und Trinken для гурманів",
+        "description": "Хочете говорити про їжу німецькою? Оволодійте основною лексикою німецької їжі від Brot та Wurst до Frühstück та Abendbrot. Вивчіть лексику Essen und Trinken з правильними артиклями, культурними нотатками про німецьку культуру харчування та поширеними фразами для ресторанів."
+      },
+      "sk": {
+        "title": "Nemecké jedlo: Kompletný slovník Essen und Trinken pre gurmánov",
+        "description": "Chcete hovoriť o jedle po nemecky? Ovládnite základnú nemčinu slovnú zásobu jedla od Brot a Wurst po Frühstück a Abendbrot. Naučte sa slovnú zásobu Essen und Trinken so správnymi členmi, kultúrnymi poznámkami o nemeckej kuchyni a bežnými frázami pre reštaurácie."
+      }
+    }
   }
 ]
