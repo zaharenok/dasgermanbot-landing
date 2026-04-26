@@ -1053,5 +1053,35 @@
         "description": "Chceš pozdraviť ľudí po nemecky ako miestny? Nauč sa dôležité nemecké pozdravy a rozlúčky — od Guten Tag po Moin, od formal po casual, plus regionálne variácie a kultúrne etiketa."
       }
     }
+  },
+  {
+    "title": "German Small Talk: Essential Phrases for Social Situations & Conversations",
+    "description": "Struggling with small talk in German? Learn 50+ essential German phrases for social situations, conversation starters, fillers, topics, and cultural etiquette. Master German small talk and connect with native speakers naturally.",
+    "date": "2026-04-26",
+    "slug": "german-small-talk",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "beginners",
+      "conversation"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Small Talk: Essential Phrases for Social Situations & Conversations",
+        "description": "Struggling with small talk in German? Learn 50+ essential German phrases for social situations, conversation starters, fillers, topics, and cultural etiquette. Master German small talk and connect with native speakers naturally."
+      },
+      "ru": {
+        "title": "Немецкая светская беседа: Важнейшие фразы для социальных ситуаций и разговоров",
+        "description": "Борешься со светской беседой по-немецки? Изучи 50+ важных немецких фраз для социальных ситуаций, фраз-разговоров, fillers, тем и культурного этикета. Овладей немецкой светской беседой и общайся с носителями естественно."
+      },
+      "uk": {
+        "title": "Німецька світська бесіда: Важливі фрази для соціальних ситуацій та розмов",
+        "description": "Борешся з німецькою світською бесідою? Вивчи 50+ важливих німецьких фраз для соціальних ситуацій, фраз-розмовів, fillers, тем та культурного етикету. Оволодій німецькою світською бесідою та спілкуйся з носіями природно."
+      },
+      "sk": {
+        "title": "Nemecký small talk: Dôležité frázy pre sociálne situácie a konverzácie",
+        "description": "Bojuješ s nemeckým small talkom? Nauč sa 50+ dôležitých nemeckých fráz pre sociálne situácie, konverzačné štarty, výplne, témy a kultúrne etiketa. Ovládaj nemecký small talk a spoj sa s rodákmi prirodzene."
+      }
+    }
   }
 ]
