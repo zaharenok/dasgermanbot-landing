@@ -1083,5 +1083,35 @@
         "description": "Bojuješ s nemeckým small talkom? Nauč sa 50+ dôležitých nemeckých fráz pre sociálne situácie, konverzačné štarty, výplne, témy a kultúrne etiketa. Ovládaj nemecký small talk a spoj sa s rodákmi prirodzene."
       }
     }
+  },
+  {
+    "title": "German Question Words: Master W-Words & Ask Questions Like a Native",
+    "description": "Struggling to ask questions in German? Learn all German question words (W-words), question formulas, and how to form questions correctly. From 'Was' to 'Warum' — master German questions and sound like a native speaker.",
+    "date": "2026-04-26",
+    "slug": "german-question-words",
+    "tags": [
+      "grammar",
+      "beginners",
+      "questions",
+      "vocabulary"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Question Words: Master W-Words & Ask Questions Like a Native",
+        "description": "Struggling to ask questions in German? Learn all German question words (W-words), question formulas, and how to form questions correctly. From 'Was' to 'Warum' — master German questions and sound like a native speaker."
+      },
+      "ru": {
+        "title": "Немецкие вопросительные слова: Освой W-слова и задавай вопросы как носитель",
+        "description": "Борешься задавать вопросы по-немецки? Изучи все немецкие вопросительные слова (W-слова), формулы вопросов и как правильно формировать вопросы. От 'Was' до 'Warum' — овладей немецкими вопросами и звучи как носитель языка."
+      },
+      "uk": {
+        "title": "Німецькі запитальні слова: Оволодій W-словами та ставай запитання як носій мови",
+        "description": "Борешся ставити запитання німецькою? Вивчи всі німецькі запитальні слова (W-слова), формули запитань та як правильно формулювати запитання. Від 'Was' до 'Warum' — оволодій німецькими запитаннями та звучи як носій мови."
+      },
+      "sk": {
+        "title": "Nemecké otázky: Ovládni W-slová a pýtaj sa ako rodený Nemec",
+        "description": "Bojuješ s pýtaním sa po nemecky? Nauč sa všetky nemecké otázky (W-slová), vzorce otázok a ako správne formovať otázky. Od 'Was' po 'Warum' — ovládni nemecké otázky a znie ako rodený Nemec."
+      }
+    }
   }
 ]
