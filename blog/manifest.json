@@ -1203,5 +1203,35 @@
         "description": "Bojuješ s hovorením o čase po nemecky? Ovládni dôležité nemecké časové výrazy, slovnú zásobu hodín a frázy na pýtanie a hovorenie o čase. Od 'Wie spät ist es?' po pochopenie 24-hodinového systému. Hovor o čase po nemecky isto."
       }
     }
+  },
+  {
+    "title": "German Colors: Complete Guide to Describing Things Like a Native",
+    "description": "Want to describe things in German? Master all German colors (rot, blau, grün, gelb) and color vocabulary. From basic colors to describing objects, people, and places. Learn German color expressions and sound like a native speaker.",
+    "date": "2026-04-26",
+    "slug": "german-colors",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "colors",
+      "descriptions"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Colors: Complete Guide to Describing Things Like a Native",
+        "description": "Want to describe things in German? Master all German colors (rot, blau, grün, gelb) and color vocabulary. From basic colors to describing objects, people, and places. Learn German color expressions and sound like a native speaker."
+      },
+      "ru": {
+        "title": "Немецкие цвета: Полный гид описания вещей как носитель языка",
+        "description": "Хочешь описывать вещи по-немецки? Овладей всеми немецкими цветами (rot, blau, grün, gelb) и цветовой лексикой. От базовых цветов до описания объектов, людей и мест. Изучи немецкие цветовые выражения и звучи как носитель языка."
+      },
+      "uk": {
+        "title": "Німецькі кольори: Повний опис речей як носій мови",
+        "description": "Хочеш описувати речі німецькою? Оволодій усіма німецькими кольорами (rot, blau, grün, gelb) та кольоровою лексикою. Від базових кольорів до опису об'єктів, людей та місць. Вивчи німецькі кольорові вирази та звучи як носій мови."
+      },
+      "sk": {
+        "title": "Nemecké farby: Kompletný sprievodca opisu vecí ako rodák",
+        "description": "Chceš popisovať veci po nemecky? Ovládni všetky nemecké farby (rot, blau, grün, gelb) a slovnú zásobu farieb. Od základných farieb po popis objektov, ľudí a miest. Nauč sa nemecké farebné výrazy a znie ako rodák."
+      }
+    }
   }
 ]
