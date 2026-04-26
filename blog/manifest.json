@@ -1431,5 +1431,33 @@
         "description": "Chceš hovoriť o zvieratách po nemecky? Ovládi dôležitú nemeckú slovnú zásobu zvierat od Haustiere (domáce) po Wildtiere (divé). Nauč sa slovnú zásobu Tiere so správnymi členmi, zvukmi zvierat a kultúrnymi poznámkami o zvieratách v nemecky hovoriacich krajinách."
       }
     }
+  },
+  {
+    "slug": "german-emotions",
+    "date": "2026-04-26",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "emotions",
+      "feelings"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Emotions and Feelings: Complete Guide to Gefühle Vocabulary",
+        "description": "Want to express your feelings in German? Master essential German emotion vocabulary from glücklich and traurig to verliebt and wütend. Learn Gefühle vocabulary with proper articles, expressions, and cultural notes about emotions in German-speaking countries."
+      },
+      "ru": {
+        "title": "Немецкие эмоции и чувства: Полный словарь Gefühle",
+        "description": "Хотите выражать чувства на немецком? Освойте основной словарь немецких эмоций от glücklich и traurig до verliebt и wütend. Выучите лексику Gefühle с правильными артиклями, выражениями и культурными заметками об эмоциях в немецкоговорящих странах."
+      },
+      "uk": {
+        "title": "Німецькі емоції та почуття: Повний словник Gefühle",
+        "description": "Хочете виражати почуття німецькою? Оволодійте основною лексикою німецьких емоцій від glücklich та traurig до verliebt та wütend. Вивчіть лексику Gefühle з правильними артиклями, виразами та культурними нотатками про емоції в німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecké emócie a pocity: Kompletný slovník Gefühle",
+        "description": "Chcete vyjadrovať pocity po nemecky? Ovládnite základnú nemčinu slovnú zásobu emócií od glücklich a traurig po verliebt a wütend. Naučte sa slovnú zásobu Gefühle so správnymi členmi, výrazmi a kultúrnymi poznámkami o emóciách v nemecky hovoriacich krajinách."
+      }
+    }
   }
 ]
