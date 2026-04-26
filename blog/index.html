@@ -679,29 +679,10 @@
         }
       });
 
-      document.querySelectorAll('.lang-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.dataset.lang === lang);
-      });
+      if (window.setNavbarLang) window.setNavbarLang(lang);
 
       loadManifest(lang);
     }
-
-    // Language dropdown
-    var dropdownToggle = document.getElementById('lang-dropdown-toggle');
-    var dropdownMenu = document.getElementById('lang-dropdown-menu');
-    var dropdownLabel = document.getElementById('lang-dropdown-label');
-    var langLabels = { en: 'EN', uk: 'UA', ru: 'RU', sk: 'SK' };
-    if (dropdownToggle) {
-      dropdownToggle.addEventListener('click', function(e) {
-        e.stopPropagation();
-        dropdownMenu.classList.toggle('open');
-      });
-      document.addEventListener('click', function() { dropdownMenu.classList.remove('open'); });
-    }
-    document.querySelectorAll('.lang-dropdown__menu button').forEach(function(btn) {
-      btn.addEventListener('click', function() { setLanguage(btn.dataset.lang); });
-    });
-    });
 
     // ── Render articles ──
     function formatDate(dateStr, lang) {
