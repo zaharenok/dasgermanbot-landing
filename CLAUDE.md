@@ -67,3 +67,19 @@ Blog article pages also track CTA clicks via `trackCTAClick()` — fires `Initia
 ## Key URLs
 
 - Telegram bot: `https://t.me/dasgermanbot` — all CTA buttons link here
+
+
+## Development Timeline
+
+### Recent Commits (Last 10)
+
+- **46da3f9** (2026-04-26): Extract navbar into shared navbar.js component - 5-tips-german-beginners.html, article.html, german-animals.html (+39 more)
+- **66aa384** (2026-04-26): Replace language buttons with dropdown on all pages - 5-tips-german-beginners.html, article.html, german-animals.html (+37 more)
+- **f4496f7** (2026-04-26): Unify langs/languages: normalize both property names everywhere - index.html, index.html
+- **b8a653d** (2026-04-26): Fix missing articles + show hero video on mobile - manifest.json, index.html
+- **d1d9796** (2026-04-26): Add blog article: German Colors Vocabulary (EN/RU/UK/SK) - german-colors-vocabulary.html, manifest.json, german-colors-vocabulary.md (+3 more)
+- **a3f4a55** (2026-04-26): Add blog article: German Food Vocabulary (EN/RU/UK/SK) - german-food-vocabulary.html, manifest.json, german-food-vocabulary.md (+3 more)
+- **b82e7a9** (2026-04-26): Add blog article: German Emotions and Feelings (EN/RU/UK/SK) - german-emotions.html, manifest.json, german-emotions.md (+3 more)
+- **a967ff6** (2026-04-26): Add blog article: German Animals Vocabulary (EN/RU/UK/SK) - german-animals.html, manifest.json, german-animals.md (+3 more)
+- **79f224d** (2026-04-26): Add blog article: German House and Home Vocabulary (EN/RU/UK/SK) - german-house-vocabulary.html, manifest.json, german-house-vocabulary.md (+3 more)
+- **da90997** (2026-04-26): Add blog article: German Hobbies and Leisure Vocabulary (EN/RU/UK/SK) - german-hobbies.html, manifest.json, german-hobbies.md (+3 more)
