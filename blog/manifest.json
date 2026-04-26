@@ -1347,5 +1347,33 @@
         "description": "Chceš hovoriť o častiach tela po nemecky? Ovládni dôležitú nemeckú slovnú zásobu častí tela od hlavy až po päty — Kopf, Auge, Arm, Bein a viac. Nauč sa Körperteile so správnymi členmi, lekárskymi frázami a kultúrnymi poznámkami pre zdravotné situácie v nemecky hovoriacich krajinách."
       }
     }
+  },
+  {
+    "slug": "german-hobbies",
+    "date": "2026-04-26",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "hobbies",
+      "freizeit"
+    ],
+    "translations": {
+      "en": {
+        "title": "German Hobbies and Leisure: Complete Guide to Freizeit Vocabulary",
+        "description": "Want to talk about your hobbies in German? Master essential German Freizeit vocabulary from Sport and Musik to Lesen and Reisen. Learn hobby vocabulary, activity phrases, and cultural notes about leisure in German-speaking countries."
+      },
+      "ru": {
+        "title": "Немецкие хобби и досуг: Полный гид по лексике Freizeit",
+        "description": "Хочешь говорить о своих хобби по-немецки? Овладей важнейшей немецкой лексикой Freizeit от Sport и Musik до Lesen и Reisen. Изучи лексику хобби, фразы деятельности и культурные заметки о досуге в немецкоговорящих странах."
+      },
+      "uk": {
+        "title": "Німецькі хобі та дозвілля: Повний словник лексики Freizeit",
+        "description": "Хочеш говорити про свої хобі німецькою? Оволодій важливою німецькою лексикою Freizeit від Sport та Musik до Lesen та Reisen. Вивчи лексику хобі, фрази діяльності та культурні нотатки про дозвілля в німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecké hobby a voľný čas: Kompletný sprievodca Freizeit slovnej zásoby",
+        "description": "Chceš hovoriť o svojich hobbi po nemecky? Ovládni dôležitú nemeckú slovnú zásobu Freizeit od Sport a Musik po Lesen a Reisen. Nauč sa slovnú zásobu hobí, frázy aktivít a kultúrne poznámky o voľnom čase v nemecky hovoriacich krajinách."
+      }
+    }
   }
 ]
