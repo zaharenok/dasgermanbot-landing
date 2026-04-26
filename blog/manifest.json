@@ -1403,5 +1403,33 @@
         "description": "Chceš hovoriť o svojom dome po nemecky? Ovládni dôležitú nemeckú slovnú zásobu bývania od Haus a Wohnung po Zimmer, Küche a nábytok. Nauč sa slovnú zásobu domu, frázy prenájmu a kultúrne poznámky o bývaní v nemecky hovoriacich krajinách."
       }
     }
+  },
+  {
+    "slug": "german-animals",
+    "date": "2026-04-26",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "animals",
+      "pets"
+    ],
+    "translations": {
+      "en": {
+        "title": "German Animals: Complete Guide to Tiere Vocabulary for Pet Lovers",
+        "description": "Want to talk about animals in German? Master essential German animal vocabulary from Haustiere (pets) to Wildtiere (wild animals). Learn Tiere vocabulary with proper articles, animal sounds, and cultural notes about pets in German-speaking countries."
+      },
+      "ru": {
+        "title": "Немецкие животные: Полный гид по лексике Tiere для любителей питомцев",
+        "description": "Хочешь говорить о животных по-немецки? Овладей важнейшей немецкой лексикой животных от Haustiere (домашние) до Wildtiere (дикие). Изучи лексику Tiere с правильными артиклями, звуками животных и культурными заметками о питомцах в немецкоговорящих странах."
+      },
+      "uk": {
+        "title": "Німецькі тварини: Повний словник лексики Tiere для любителів домашніх тварин",
+        "description": "Хочеш говорити про тварин німецькою? Оволодій важливою німецькою лексикою тварин від Haustiere (домашні) до Wildtiere (дикі). Вивчи лексику Tiere з правильними артиклями, звуками тварин та культурними нотатками про домашніх тварин у німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecké zvieratá: Kompletný sprievodca Tiere slovnej zásoby pre milovníkov zvieratiek",
+        "description": "Chceš hovoriť o zvieratách po nemecky? Ovládi dôležitú nemeckú slovnú zásobu zvierat od Haustiere (domáce) po Wildtiere (divé). Nauč sa slovnú zásobu Tiere so správnymi členmi, zvukmi zvierat a kultúrnymi poznámkami o zvieratách v nemecky hovoriacich krajinách."
+      }
+    }
   }
 ]
