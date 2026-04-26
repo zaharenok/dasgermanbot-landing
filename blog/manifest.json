@@ -1263,5 +1263,33 @@
         "description": "Bojuješ s nemeckými dňami a mesiacmi? Nauč sa všetky nemecké dni v týždni (Montag, Dienstag, Mittwoch), nemecké mesiace a kalendárnu slovnú zásobu. Od 'Wie heißt heute?' po pochopenie nemeckých dátumov. Ovládni nemecký kalendár ako rodák."
       }
     }
+  },
+  {
+    "slug": "german-family-vocabulary",
+    "date": "2026-04-26",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "family",
+      "relationships"
+    ],
+    "translations": {
+      "en": {
+        "title": "German Family Vocabulary: Complete Guide to Talking About Family",
+        "description": "Want to talk about your family in German? Master essential German family vocabulary and relatives words — from Mutter and Vater to cousin and grandparents. Learn German family terms, possessive forms, and cultural notes about family in German-speaking countries."
+      },
+      "ru": {
+        "title": "Немецкая семья: Полный гид по семейной лексике",
+        "description": "Хочешь говорить о своей семье по-немецки? Овладей важнейшей немецкой семейной лексикой и словами родственников — от Mutter и Vater до дедушки и бабушки. Изучи немецкие семейные термины, притяжательные формы и культурные заметки о семье в немецкоязычных странах."
+      },
+      "uk": {
+        "title": "Німецька сім'я: Повний словник сімейної лексики",
+        "description": "Хочеш говорити про свою сім'ю німецькою? Оволодій важливою німецькою сімейною лексикою та словами родичів — від Mutter та Vater до бабусі та дідуся. Вивчи німецькі сімейні терміни, присвійні форми та культурні нотатки про сім'ю в німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecká rodina: Kompletný sprievodca rodinnej slovnej zásoby",
+        "description": "Chceš hovoriť o svojej rodine po nemecky? Ovládni dôležitú nemeckú rodinnú slovnú a slová príbuzenských — od Mutter a Vater po starých rodičov. Nauč sa nemecké rodinné termíny, vlastné formy a kultúrne poznámky o rodine v nemecky hovoriacich krajinách."
+      }
+    }
   }
 ]
