@@ -1655,7 +1655,7 @@
       try {
         var res = await fetch('blog/manifest.json');
         var articles = await res.json();
-        articles = articles.map(function(a) { if (!a.langs && a.languages) a.langs = a.languages; return a; });
+        articles = articles.map(function(a) { a.langs = a.langs || a.languages; return a; });
         blogArticles = articles.filter(function(a) { return a.langs && a.langs[lang]; }).reverse();
         if (blogArticles.length === 0) { empty.style.display = 'block'; return; }
         var initialBatch = blogArticles.slice(0, BLOG_INITIAL);
