@@ -57,73 +57,6 @@
     a { text-decoration: none; color: inherit; }
     button { cursor: pointer; border: none; font-family: inherit; }
     .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
-    .navbar { position: fixed; top: 0; left: 0; right: 0; z-index: 100; background: rgba(7, 6, 18, 0.85); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border-bottom: 1px solid var(--border); }
-    .navbar .container { display: flex; align-items: center; justify-content: space-between; height: 72px; }
-    .navbar__logo { display: flex; align-items: center; gap: 12px; font-weight: 800; font-size: 20px; color: #ffffff; letter-spacing: -0.02em; }
-    .navbar__logo-icon { font-size: 24px; line-height: 1; }
-    .navbar__actions { display: flex; align-items: center; gap: 16px; }
-    .navbar__nav { display: flex; gap: 32px; }
-    .navbar__nav a { font-size: 15px; font-weight: 600; color: var(--text-secondary); transition: color 0.2s ease; }
-    .navbar__nav a:hover, .navbar__nav a.active { color: #ffffff; }
-    .btn-primary { display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: var(--accent); color: #ffffff; border-radius: 100px; font-size: 15px; font-weight: 700; transition: all 0.2s ease; }
-    .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(66, 113, 254, 0.4); background: var(--accent-hover); }
-    .lang-dropdown {
-      display: inline-flex;
-      position: relative;
-    }
-    .lang-dropdown__toggle {
-      display: flex;
-      align-items: center;
-      gap: 4px;
-      padding: 6px 14px;
-      background: rgba(255, 255, 255, 0.08);
-      border-radius: 100px;
-      font-size: 13px;
-      font-weight: 700;
-      color: #ffffff;
-      cursor: pointer;
-      border: none;
-    }
-    .lang-dropdown__toggle::after {
-      content: '\25BE';
-      font-size: 10px;
-      margin-left: 2px;
-    }
-    .lang-dropdown__menu {
-      display: none;
-      position: absolute;
-      top: 100%;
-      right: 0;
-      margin-top: 6px;
-      background: rgba(12, 13, 32, 0.95);
-      border: 1px solid rgba(255, 255, 255, 0.12);
-      border-radius: 12px;
-      padding: 6px;
-      z-index: 200;
-      min-width: 120px;
-    }
-    .lang-dropdown__menu.open { display: block; }
-    .lang-dropdown__menu button {
-      display: block;
-      width: 100%;
-      padding: 8px 14px;
-      border-radius: 8px;
-      font-size: 13px;
-      font-weight: 700;
-      color: rgba(255, 255, 255, 0.5);
-      background: transparent;
-      text-align: left;
-      cursor: pointer;
-      border: none;
-      font-family: inherit;
-    }
-    .lang-dropdown__menu button.active,
-    .lang-dropdown__menu button:hover {
-      background: rgba(255, 255, 255, 0.15);
-      color: #ffffff;
-    }
-    .lang-btn:hover:not(.active) { color: rgba(255, 255, 255, 0.8); }
-    .lang-btn.disabled { opacity: 0.25; cursor: not-allowed; }
     .article { padding: 120px 0 100px; }
     .article__top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 32px; }
     .article__back { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 600; color: var(--text-secondary); transition: color 0.2s ease; }
@@ -168,11 +101,6 @@
     }
 
     @media (max-width: 768px) {
-      .navbar { background: rgba(7, 6, 18, 0.95); }
-      .navbar .container { flex-wrap: wrap; height: auto; padding: 12px 16px; }
-      .navbar__logo { font-size: 18px; order: 1; }
-      .navbar__logo-icon { font-size: 20px; }
-      .navbar__nav { display: none; }
       .article { padding: 100px 0 60px; }
       .article__top { flex-direction: column; align-items: flex-start; gap: 16px; }
       .article__body h1 { font-size: 28px; }
@@ -187,36 +115,8 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXHHH8TK"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-
-  <nav class="navbar">
-    <div class="container">
-      <a href="../index.html" class="navbar__logo">
-        <div class="navbar__logo-icon">🥨</div>
-        <span data-i18n="logo">Das German Bot</span>
-      </a>
-      <div class="navbar__actions">
-        <div class="navbar__nav">
-          <a href="../index.html" data-i18n="nav_home">Home</a>
-          <a href="index.html" data-i18n="nav_blog">Blog</a>
-        </div>
-        <div class="lang-dropdown">
-          <button class="lang-dropdown__toggle" id="lang-dropdown-toggle">
-            <span id="lang-dropdown-label">EN</span>
-          </button>
-          <div class="lang-dropdown__menu" id="lang-dropdown-menu">
-            <button data-lang="en">English</button>
-            <button data-lang="uk">Українська</button>
-            <button data-lang="ru">Русский</button>
-            <button data-lang="sk">Slovenčina</button>
-          </div>
-        </div>
-        <a href="https://t.me/dasgermanbot" class="btn-primary" id="nav-cta-btn">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
-          <span data-i18n="nav_cta">Open in Telegram</span>
-        </a>
-      </div>
-    </div>
-  </nav>
+  <div id="navbar-root"></div>
+  <script src="../navbar.js"></script>
 
   <section class="article">
     <div class="container">
@@ -278,17 +178,9 @@
       currentLang = lang;
       localStorage.setItem('lang', lang);
       applyTranslations(lang);
-      document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.lang === lang));
+      if (window.setNavbarLang) window.setNavbarLang(lang);
       if (currentSlug) loadArticle(lang);
     }
-
-    document.querySelectorAll('.lang-btn').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const lang = btn.dataset.lang;
-        if (availableLangs.length && !availableLangs.includes(lang)) return;
-        setLanguage(lang);
-      });
-    });
 
     function parseFrontmatter(text) {
       const match = text.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
@@ -320,20 +212,19 @@
     async function loadArticle(lang) {
       if (!currentSlug) { showNotFound(); return; }
       let articleMeta = manifestData ? manifestData.find(a => a.slug === currentSlug) : null;
-      if (articleMeta) availableLangs = Object.keys(articleMeta.langs);
+      if (articleMeta) {
+        var a = articleMeta;
+        a.langs = a.langs || a.languages;
+        availableLangs = Object.keys(a.langs);
+      }
       if (!availableLangs.includes(lang)) {
         lang = availableLangs[0] || 'en';
         currentLang = lang;
         localStorage.setItem('lang', lang);
         applyTranslations(lang);
-        document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.lang === lang));
+        if (window.setNavbarLang) window.setNavbarLang(lang);
       }
       if (articleMeta) renderLangPills(articleMeta.langs, lang);
-      document.querySelectorAll('.lang-btn').forEach(btn => {
-        const l = btn.dataset.lang;
-        if (availableLangs.length && !availableLangs.includes(l)) btn.classList.add('disabled');
-        else btn.classList.remove('disabled');
-      });
       try {
         const res = await fetch('posts/' + lang + '/' + currentSlug + '.md');
         if (!res.ok) throw new Error('Not found');
@@ -373,9 +264,7 @@
     (async function init() {
       try { const res = await fetch('manifest.json'); manifestData = await res.json(); } catch (e) { manifestData = []; }
       applyTranslations(currentLang);
-      document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.lang === currentLang));
-      loadArticle(currentLang);
-    })();
+      document.querySelectorAll(')();
   </script>
 </body>
 </html>
