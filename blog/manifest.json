@@ -1375,5 +1375,33 @@
         "description": "Chceš hovoriť o svojich hobbi po nemecky? Ovládni dôležitú nemeckú slovnú zásobu Freizeit od Sport a Musik po Lesen a Reisen. Nauč sa slovnú zásobu hobí, frázy aktivít a kultúrne poznámky o voľnom čase v nemecky hovoriacich krajinách."
       }
     }
+  },
+  {
+    "slug": "german-house-vocabulary",
+    "date": "2026-04-26",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "home",
+      "housing"
+    ],
+    "translations": {
+      "en": {
+        "title": "German House and Home Vocabulary: Complete Guide to Haus and Wohnung",
+        "description": "Want to talk about your home in German? Master essential German house vocabulary from Haus and Wohnung to Zimmer, Küche, and furniture. Learn home vocabulary, rental phrases, and cultural notes about housing in German-speaking countries."
+      },
+      "ru": {
+        "title": "Немецкий дом и жильё: Полный гид по лексике Haus и Wohnung",
+        "description": "Хочешь говорить о своём доме по-немецки? Овладей важнейшей немецкой лексикой жилья от Haus и Wohnung до Zimmer, Küche и мебели. Изучи лексику дома, фразы аренды и культурные заметки о жилье в немецкоговорящих странах."
+      },
+      "uk": {
+        "title": "Німецький дім і житло: Повний словник лексики Haus та Wohnung",
+        "description": "Хочеш говорити про свій дім німецькою? Оволодій важливою німецькою лексикою житла від Haus та Wohnung до Zimmer, Küche та меблів. Вивчи лексику дому, фрази оренди та культурні нотатки про житло в німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecký dom a bývanie: Kompletný sprievodca Haus a Wohnung slovnej zásoby",
+        "description": "Chceš hovoriť o svojom dome po nemecky? Ovládni dôležitú nemeckú slovnú zásobu bývania od Haus a Wohnung po Zimmer, Küche a nábytok. Nauč sa slovnú zásobu domu, frázy prenájmu a kultúrne poznámky o bývaní v nemecky hovoriacich krajinách."
+      }
+    }
   }
 ]
