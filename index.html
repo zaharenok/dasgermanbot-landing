@@ -933,8 +933,10 @@
         padding: 120px 0 60px;
       }
 
-      .hero__video,
-      .hero__video-fade { display: none; }
+      .hero__video { opacity: 0.2; }
+      .hero__video-fade {
+        background: linear-gradient(to bottom, var(--hero-bg) 0%, transparent 30%, transparent 70%, var(--hero-bg) 100%);
+      }
 
       .hero::after {
         content: '';
