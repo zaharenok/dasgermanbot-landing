@@ -1487,5 +1487,33 @@
         "description": "Chcete hovoriť o jedle po nemecky? Ovládnite základnú nemčinu slovnú zásobu jedla od Brot a Wurst po Frühstück a Abendbrot. Naučte sa slovnú zásobu Essen und Trinken so správnymi členmi, kultúrnymi poznámkami o nemeckej kuchyni a bežnými frázami pre reštaurácie."
       }
     }
+  },
+  {
+    "slug": "german-colors-vocabulary",
+    "date": "2026-04-26",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "colors",
+      "basics"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Colors: Complete Guide to Farben for Beginners",
+        "description": "Want to describe colors in German? Master essential German color vocabulary from rot and blau to goldbraun and hellgrau. Learn Farben vocabulary with proper articles, color combinations, and cultural notes about colors in German language."
+      },
+      "ru": {
+        "title": "Немецкие цвета: Полный справочник Farben для начинающих",
+        "description": "Хотите описывать цвета по-немецки? Освойте основную словарную лексику немецких цветов от rot и blau до goldbraun и hellgrau. Выучите лексику Farben с правильными артиклями, цветовыми комбинациями и культурными заметками о цветах в немецком языке."
+      },
+      "uk": {
+        "title": "Німецькі кольори: Повний довідник Farben для початківців",
+        "description": "Хочете описувати кольори німецькою? Оволодійте основною лексикою німецьких кольорів від rot та blau до goldbraun та hellgrau. Вивчіть лексику Farben з правильними артиклями, кольоровими комбінаціями та культурними нотатками про кольори в німецькій мові."
+      },
+      "sk": {
+        "title": "Nemecké farby: Kompletný sprievodca Farben pre začiatočníkov",
+        "description": "Chcete popisovať farby po nemecky? Ovládnite základnú nemčinu slovnú zásobu farieb od rot a blau po goldbraun a hellgrau. Naučte sa slovnú zásobu Farben so správnymi členmi, farebnými kombináciami a kultúrnymi poznámkami o farbách v nemeckom jazyku."
+      }
+    }
   }
 ]
