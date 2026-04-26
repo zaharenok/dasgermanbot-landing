@@ -1173,5 +1173,35 @@
         "description": "Počas je #1 téma small talku v Nemecku. Ovládni dôležité nemecké počasové frázy a slovnú zásobu — od 'Es regnet' po 'Es ist schwül'. Hovor o počasí po nemecky ako rodák, nie ako z učebnice."
       }
     }
+  },
+  {
+    "title": "German Time Expressions: How to Tell Time Like a Native Speaker",
+    "description": "Struggling to tell time in German? Master essential German time expressions, clock vocabulary, and phrases for asking and telling time. From 'Wie spät ist es?' to understanding the 24-hour system. Tell time in German confidently.",
+    "date": "2026-04-26",
+    "slug": "german-time-expressions",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "time",
+      "daily-life"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Time Expressions: How to Tell Time Like a Native Speaker",
+        "description": "Struggling to tell time in German? Master essential German time expressions, clock vocabulary, and phrases for asking and telling time. From 'Wie spät ist es?' to understanding the 24-hour system. Tell time in German confidently."
+      },
+      "ru": {
+        "title": "Немецкие временные выражения: Как называть время как носитель языка",
+        "description": "Борешься называть время по-немецки? Овладей важнейшими немецкими временными выражениями, лексикой часов и фразами для запроса и называния времени. От 'Wie spät ist es?' до понимания 24-часовой системы. Называй время по-немецки уверенно."
+      },
+      "uk": {
+        "title": "Німецькі часові вирази: Як називати час як носій мови",
+        "description": "Борешся називати час німецькою? Оволодій важливими німецькими часовими виразами, лексикою годинника та фразами для запиту і називання часу. Від 'Wie spät ist es?' до розуміння 24-годинної системи. Називай час німецькою впевнено."
+      },
+      "sk": {
+        "title": "Nemecké časové výrazy: Ako hovoriť o čase ako rodák",
+        "description": "Bojuješ s hovorením o čase po nemecky? Ovládni dôležité nemecké časové výrazy, slovnú zásobu hodín a frázy na pýtanie a hovorenie o čase. Od 'Wie spät ist es?' po pochopenie 24-hodinového systému. Hovor o čase po nemecky isto."
+      }
+    }
   }
 ]
