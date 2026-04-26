@@ -726,10 +726,10 @@
       try {
         const res = await fetch('manifest.json');
         allArticles = await res.json();
-        allArticles = allArticles.map(a => { a.langs = a.langs || a.languages; return a; });
+        allArticles = allArticles.map(a => { a.langs = a.langs || a.languages || {}; return a; });
         // Reverse so newest article (last in manifest.json) appears first
-        allArticles = allArticles.filter(a => a.langs[lang] || Object.keys(a.langs).length > 0).reverse();
-        allArticles = allArticles.filter(a => a.langs[lang] || Object.keys(a.langs).length > 0);
+        allArticles = allArticles.filter(a => a.langs && (a.langs[lang] || Object.keys(a.langs).length > 0)).reverse();
+        allArticles = allArticles.filter(a => a.langs && (a.langs[lang] || Object.keys(a.langs).length > 0));
         displayedCount = 0;
 
         if (allArticles.length === 0) { empty.style.display = 'block'; return; }
