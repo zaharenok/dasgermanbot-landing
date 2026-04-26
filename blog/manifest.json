@@ -1143,5 +1143,35 @@
         "description": "Chceš znieť ako rodený Nemec? Ovládni dôležité nemecké výplňové slová a konverzačné fillery — od 'ähm' po 'halt' a 'einfach'. Prestaň znieť ako učebnica a začni hovoriť prirodzenou nemčinou."
       }
     }
+  },
+  {
+    "title": "German Weather Phrases: Master Weather Small Talk Like a Local",
+    "description": "Weather is the #1 small talk topic in Germany. Master essential German weather phrases and vocabulary — from 'Es regnet' to 'Es ist schwül'. Talk about weather in German like a local, not like a textbook.",
+    "date": "2026-04-26",
+    "slug": "german-weather-phrases",
+    "tags": [
+      "vocabulary",
+      "conversation",
+      "beginners",
+      "weather"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Weather Phrases: Master Weather Small Talk Like a Local",
+        "description": "Weather is the #1 small talk topic in Germany. Master essential German weather phrases and vocabulary — from 'Es regnet' to 'Es ist schwül'. Talk about weather in German like a local, not like a textbook."
+      },
+      "ru": {
+        "title": "Немецкие погодные фразы: Освой погодную светскую беседу как местный",
+        "description": "Погода — #1 тема светской беседы в Германии. Овладей важнейшими немецкими погодными фразами и лексикой — от 'Es regnet' до 'Es ist schwül'. Говори о погоде по-немецки как местный, а не как из учебника."
+      },
+      "uk": {
+        "title": "Німецькі погодні фрази: Оволодій погодною світською бесідою як місцевий",
+        "description": "Погода — #1 тема світської бесіди в Німеччині. Оволодій важливими німецькими погодними фразами та лексикою — від 'Es regnet' до 'Es ist schwül'. Говори про погоду німецькою як місцевий, а не як з підручника."
+      },
+      "sk": {
+        "title": "Nemecké počasové frázy: Ovládni počasovú small talk ako rodák",
+        "description": "Počas je #1 téma small talku v Nemecku. Ovládni dôležité nemecké počasové frázy a slovnú zásobu — od 'Es regnet' po 'Es ist schwül'. Hovor o počasí po nemecky ako rodák, nie ako z učebnice."
+      }
+    }
   }
 ]
