@@ -1319,5 +1319,33 @@
         "description": "Chceš hovoriť o oblečení po nemecky? Ovládni dôležitú nemeckú slovnú zásobu oblečenia od základov ako Hemd a Hose po doplnky, obuv a frázy pre nakupovanie. Nauč sa módne termíny, členy a kultúrne poznámky pre nákupy v nemecky hovoriacich krajinách."
       }
     }
+  },
+  {
+    "slug": "german-body-parts",
+    "date": "2026-04-26",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "body",
+      "health"
+    ],
+    "translations": {
+      "en": {
+        "title": "German Body Parts: Complete Guide to Körperteile Vocabulary",
+        "description": "Want to talk about body parts in German? Master essential German body vocabulary from head to toe — Kopf, Auge, Arm, Bein and more. Learn Körperteile with proper articles, medical phrases, and cultural notes for health situations in German-speaking countries."
+      },
+      "ru": {
+        "title": "Немецкие части тела: Полный гид по лексике Körperteile",
+        "description": "Хочешь говорить о частях тела по-немецки? Овладей важнейшей немецкой лексикой частей тела от головы до ног — Kopf, Auge, Arm, Bein и многое другое. Изучи Körperteile с правильными артиклями, медицинскими фразами и культурными заметками для медицинских ситуаций в немецкоговорящих странах."
+      },
+      "uk": {
+        "title": "Німецькі частини тіла: Повний словник лексики Körperteile",
+        "description": "Хочеш говорити про частини тіла німецькою? Оволодій важливою німецькою лексикою частин тіла від голови до ніг — Kopf, Auge, Arm, Bein і багато іншого. Вивчи Körperteile з правильними артиклями, медичними фразами та культурними нотатками для медичних ситуацій у німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecké časti tela: Kompletný sprievodca Körperteile slovnej zásoby",
+        "description": "Chceš hovoriť o častiach tela po nemecky? Ovládni dôležitú nemeckú slovnú zásobu častí tela od hlavy až po päty — Kopf, Auge, Arm, Bein a viac. Nauč sa Körperteile so správnymi členmi, lekárskymi frázami a kultúrnymi poznámkami pre zdravotné situácie v nemecky hovoriacich krajinách."
+      }
+    }
   }
 ]
