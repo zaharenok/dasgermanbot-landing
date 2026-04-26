@@ -1291,5 +1291,33 @@
         "description": "Chceš hovoriť o svojej rodine po nemecky? Ovládni dôležitú nemeckú rodinnú slovnú a slová príbuzenských — od Mutter a Vater po starých rodičov. Nauč sa nemecké rodinné termíny, vlastné formy a kultúrne poznámky o rodine v nemecky hovoriacich krajinách."
       }
     }
+  },
+  {
+    "slug": "german-clothing",
+    "date": "2026-04-26",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "clothing",
+      "shopping"
+    ],
+    "translations": {
+      "en": {
+        "title": "German Clothing Vocabulary: Complete Guide to Fashion and Shopping",
+        "description": "Want to talk about clothes in German? Master essential German clothing vocabulary from basics like Hemd and Hose to accessories, shoes, and shopping phrases. Learn fashion terms, articles, and cultural notes for shopping in German-speaking countries."
+      },
+      "ru": {
+        "title": "Немецкая одежда: Полный гид по лексике для шоппинга",
+        "description": "Хочешь говорить об одежде по-немецки? Овладей важнейшей немецкой лексикой одежды от основ вроде Hemd и Hose до аксессуаров, обуви и фраз для шоппинга. Изучи модные термины, артикли и культурные заметки для покупок в немецкоговорящих странах."
+      },
+      "uk": {
+        "title": "Німецький одяг: Повний словник моди та шопінгу",
+        "description": "Хочеш говорити про одяг німецькою? Оволодій важливою німецькою лексикою одягу від основ як-от Hemd та Hose до аксесуарів, взуття та фраз для шопінгу. Вивчи модні терміни, артиклі та культурні нотатки для покупок у німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecké oblečenie: Kompletný sprievodca módy a nakupovania",
+        "description": "Chceš hovoriť o oblečení po nemecky? Ovládni dôležitú nemeckú slovnú zásobu oblečenia od základov ako Hemd a Hose po doplnky, obuv a frázy pre nakupovanie. Nauč sa módne termíny, členy a kultúrne poznámky pre nákupy v nemecky hovoriacich krajinách."
+      }
+    }
   }
 ]
