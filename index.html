@@ -760,124 +760,6 @@
       color: var(--accent);
     }
 
-    /* ── Latest Blog Section ── */
-    .latest-blog {
-      padding: 80px 0;
-      background: var(--bg);
-      border-top: 1px solid var(--border);
-    }
-    .latest-blog__header {
-      text-align: center;
-      margin-bottom: 40px;
-    }
-    .latest-blog__label {
-      text-align: center;
-      margin-bottom: 12px;
-      font-size: 14px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.1em;
-      color: var(--accent-coral);
-    }
-    .latest-blog h2 {
-      font-size: 36px;
-      font-weight: 800;
-      letter-spacing: -0.03em;
-      color: #ffffff;
-    }
-    .latest-blog__card {
-      position: relative;
-      display: block;
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-lg);
-      padding: 32px;
-      transition: all 0.3s ease;
-      text-decoration: none;
-    }
-    .latest-blog__card:hover {
-      background: var(--bg-card-hover);
-      border-color: rgba(66, 113, 254, 0.3);
-      transform: translateY(-4px);
-      box-shadow: var(--shadow);
-    }
-    .latest-blog__badge {
-      position: absolute;
-      top: 24px;
-      right: 24px;
-      padding: 4px 12px;
-      background: var(--accent-coral);
-      color: #ffffff;
-      font-size: 11px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      border-radius: 100px;
-    }
-    .latest-blog__title {
-      font-size: 22px;
-      font-weight: 700;
-      color: #ffffff;
-      margin-bottom: 12px;
-      line-height: 1.3;
-      padding-right: 60px;
-    }
-    .latest-blog__desc {
-      font-size: 16px;
-      color: var(--text-secondary);
-      line-height: 1.6;
-      margin-bottom: 20px;
-      overflow-wrap: break-word;
-      word-break: break-word;
-    }
-    .latest-blog__meta {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-    .latest-blog__date {
-      font-size: 13px;
-      color: var(--text-muted);
-    }
-    .latest-blog__arrow {
-      font-size: 20px;
-      color: var(--accent);
-      transition: transform 0.2s ease;
-    }
-    .latest-blog__card:hover .latest-blog__arrow {
-      transform: translateX(4px);
-    }
-    .latest-blog__all {
-      display: block;
-      text-align: center;
-      margin-top: 32px;
-      font-size: 15px;
-      font-weight: 600;
-      color: var(--accent);
-      text-decoration: none;
-      transition: color 0.2s ease;
-    }
-    .latest-blog__all:hover {
-      color: var(--accent-hover);
-    }
-    .latest-blog__grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 24px;
-    }
-    .latest-blog__loader {
-      text-align: center;
-      padding: 24px;
-      color: var(--text-muted);
-      font-size: 14px;
-    }
-    .latest-blog__empty {
-      text-align: center;
-      padding: 40px 0;
-      color: var(--text-muted);
-      font-size: 15px;
-    }
-
     /* ── Responsive ── */
     @media (max-width: 992px) {
       .hero h1 { font-size: clamp(40px, 5vw, 56px); }
@@ -978,42 +860,6 @@
       .cookie-banner { flex-direction: column; text-align: center; gap: 12px; }
       .cookie-banner__buttons { width: 100%; }
       .cookie-banner__btn { flex: 1; }
-
-      .latest-blog {
-        padding: 60px 0;
-      }
-      .latest-blog h2 {
-        font-size: 28px;
-      }
-      .latest-blog__grid {
-        grid-template-columns: 1fr;
-      }
-      .latest-blog__card {
-        padding: 24px;
-      }
-      .latest-blog__badge {
-        top: 16px;
-        right: 16px;
-        padding: 3px 10px;
-        font-size: 10px;
-      }
-      .latest-blog__title {
-        font-size: 18px;
-        padding-right: 0;
-        margin-bottom: 16px;
-      }
-      .latest-blog__desc {
-        font-size: 14px;
-        margin-bottom: 16px;
-      }
-      .latest-blog__meta {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 8px;
-      }
-      .latest-blog__arrow {
-        align-self: flex-end;
-      }
     }
 
     /* ── Cookie Banner ── */
@@ -1178,21 +1024,6 @@
     </div>
   </section>
 
-  <!-- Latest from Blog -->
-  <section class="latest-blog">
-    <div class="container">
-      <div class="latest-blog__header">
-        <p class="latest-blog__label" data-i18n="blog_label">Latest from Blog</p>
-        <h2 data-i18n="blog_title">German Learning Tips & News</h2>
-      </div>
-      <div class="latest-blog__grid" id="latest-articles-grid"></div>
-      <div class="latest-blog__empty" id="latest-articles-empty" style="display:none">No articles found.</div>
-      <div class="latest-blog__loader" id="latest-articles-loader" style="display:none">Loading...</div>
-      </a>
-      <a href="blog/index.html" class="latest-blog__all" data-i18n="view_all_articles">View all articles →</a>
-    </div>
-  </section>
-
   <!-- CTA -->
   <section class="cta-section">
     <div class="container">
@@ -1227,12 +1058,6 @@
       en: {
         logo: "Das German Bot",
         nav_cta: "Open in Telegram",
-        nav_blog: "Blog",
-        blog_label: "Latest from Blog",
-        blog_title: "German Learning Tips & News",
-        latest_article_title: "German Festivals & Traditions: Learn German Through Culture",
-        latest_article_desc: "Oktoberfest, Christmas markets, and Karneval — here's how German festivals and traditions can accelerate your language learning faster than any textbook.",
-        view_all_articles: "View all articles →",
         hero_badge: "AI-Powered German Tutor",
         hero_title_1: "Learn German",
         hero_title_2: "in your favorite messenger",
@@ -1275,12 +1100,6 @@
       uk: {
         logo: "Das German Bot",
         nav_cta: "Відкрити в Telegram",
-        nav_blog: "Блог",
-        blog_label: "Нове з блогу",
-        blog_title: "Поради та новини німецької",
-        latest_article_title: "Німецькі фестивалі та традиції: вчимо німецьку через культуру",
-        latest_article_desc: "Октоберфест, різдвяні ярмарки та Карнавал — ось як німецькі фестивалі та традиції можуть прискорити вивчення мови швидше за будь-який підручник.",
-        view_all_articles: "Дивитися всі статті →",
         hero_badge: "Німецька з ШІ-вчителем",
         hero_title_1: "Вчи німецьку",
         hero_title_2: "улюбленим месенджером",
@@ -1323,12 +1142,6 @@
       ru: {
         logo: "Das German Bot",
         nav_cta: "Открыть в Telegram",
-        nav_blog: "Блог",
-        blog_label: "Новое в блоге",
-        blog_title: "Советы и новости немецкого",
-        latest_article_title: "Немецкие фестивали и традиции: учим немецкий через культуру",
-        latest_article_desc: "Октоберфест, рождественские ярмарки и Карнавал — вот как немецкие фестивали и традиции могут ускорить изучение языка быстрее любого учебника.",
-        view_all_articles: "Смотреть все статьи →",
         hero_badge: "Немецкий с ИИ-репетитором",
         hero_title_1: "Учи немецкий",
         hero_title_2: "в любимом мессенджере",
@@ -1371,12 +1184,6 @@
       sk: {
         logo: "Das German Bot",
         nav_cta: "Otvoriť v Telegram",
-        nav_blog: "Blog",
-        blog_label: "Nové z blogu",
-        blog_title: "Tipy a novinky nemčiny",
-        latest_article_title: "Nemecké festivaly a tradície: učte sa nemčinu cez kultúru",
-        latest_article_desc: "Oktoberfest, vianočné trhy a Karneval — tu je ako nemecké festivaly a tradície môžu urýchliť štúdium rýchlej než akáko učebnica.",
-        view_all_articles: "Zobraziť všetky články →",
         hero_badge: "Nemčina s AI tutorom",
         hero_title_1: "Uč sa nemecky",
         hero_title_2: "v obľúbenom messengri",
@@ -1483,9 +1290,6 @@
 
       // Split hero text into animated words
       splitHeroText();
-
-      // Reload blog articles in new language
-      loadBlogArticles(lang);
     }
 
     // ── Split text into animated words ──
@@ -1536,81 +1340,6 @@
         banner.classList.remove('visible');
       });
     });
-
-    // ── Dynamic Blog Section ──
-    var blogArticles = [];
-    var blogDisplayed = 0;
-    var BLOG_INITIAL = 6;
-    var BLOG_BATCH = 3;
-    var blogObserver = null;
-
-    function formatDateBlog(dateStr, lang) {
-      var date = new Date(dateStr);
-      var locales = { en: 'en-US', uk: 'uk-UA', ru: 'ru-RU', sk: 'sk-SK' };
-      return date.toLocaleDateString(locales[lang] || 'en-US', { year: 'numeric', month: 'long', day: 'numeric' });
-    }
-
-    function renderBlogCard(article, lang) {
-      var t = article.langs[lang] || article.langs['en'] || Object.values(article.langs)[0];
-      if (!t) return '';
-      var badge = blogDisplayed < 1 ? '<div class="latest-blog__badge">New</div>' : '';
-      return '<a href="blog/' + article.slug + '.html" class="latest-blog__card">' +
-        badge +
-        '<h3 class="latest-blog__title">' + t.title + '</h3>' +
-        '<p class="latest-blog__desc">' + t.description + '</p>' +
-        '<div class="latest-blog__meta">' +
-          '<span class="latest-blog__date">' + formatDateBlog(article.date, lang) + '</span>' +
-          '<span class="latest-blog__arrow">→</span>' +
-        '</div></a>';
-    }
-
-    function loadBlogBatch(lang) {
-      var grid = document.getElementById('latest-articles-grid');
-      var loader = document.getElementById('latest-articles-loader');
-      var batch = blogArticles.slice(blogDisplayed, blogDisplayed + BLOG_BATCH);
-      grid.insertAdjacentHTML('beforeend', batch.map(function(a) { return renderBlogCard(a, lang); }).join(''));
-      blogDisplayed += batch.length;
-      if (blogDisplayed < blogArticles.length) {
-        loader.style.display = '';
-      } else {
-        loader.style.display = 'none';
-        if (blogObserver) { blogObserver.disconnect(); blogObserver = null; }
-      }
-    }
-
-    async function loadBlogArticles(lang) {
-      var grid = document.getElementById('latest-articles-grid');
-      var empty = document.getElementById('latest-articles-empty');
-      var loader = document.getElementById('latest-articles-loader');
-      if (blogObserver) { blogObserver.disconnect(); blogObserver = null; }
-      grid.innerHTML = '';
-      empty.style.display = 'none';
-      loader.style.display = 'none';
-      blogDisplayed = 0;
-      try {
-        var res = await fetch('blog/manifest.json');
-        var articles = await res.json();
-        articles = articles.map(function(a) { a.langs = a.langs || a.languages || {}; return a; });
-        blogArticles = articles.filter(function(a) { return a.langs && a.langs[lang]; }).reverse();
-        if (blogArticles.length === 0) { empty.style.display = 'block'; return; }
-        var initialBatch = blogArticles.slice(0, BLOG_INITIAL);
-        grid.innerHTML = initialBatch.map(function(a) { return renderBlogCard(a, lang); }).join('');
-        blogDisplayed = initialBatch.length;
-        if (blogDisplayed < blogArticles.length) {
-          loader.style.display = '';
-          blogObserver = new IntersectionObserver(function(entries) {
-            if (entries[0].isIntersecting && blogDisplayed < blogArticles.length) {
-              loadBlogBatch(currentLang);
-            }
-          }, { rootMargin: '200px' });
-          blogObserver.observe(loader);
-        }
-      } catch (e) {
-        empty.style.display = 'block';
-      }
-    }
-
-    loadBlogArticles(currentLang);
   </script>
 
   <div id="cookie-banner" class="cookie-banner">

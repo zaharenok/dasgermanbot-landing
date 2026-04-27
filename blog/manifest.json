@@ -773,33 +773,6 @@
     }
   },
   {
-    "slug": "german-food-vocabulary",
-    "date": "2026-04-24",
-    "image": "",
-    "tags": [
-      "vocabulary",
-      "culture"
-    ],
-    "langs": {
-      "en": {
-        "title": "German Food Vocabulary: From Bread to Breakfast",
-        "description": "Germany has over 300 types of bread and breakfast is sacred. Learn the essential German food vocabulary — from Brötchen to Abendbrot."
-      },
-      "ru": {
-        "title": "Немецкая еда: от хлеба до завтрака",
-        "description": "В Германии более 300 видов хлеба, а завтрак — это священный ритуал. Учим важную немецкую лексику еды — от Brötchen до Abendbrot."
-      },
-      "uk": {
-        "title": "Німецька їжа: від хліба до сніданку",
-        "description": "У Німеччині понад 300 видів хліба, а сніданок — це священний ритуал. Вчимо важну німецьку лексику їжі — від Brötchen до Abendbrot."
-      },
-      "sk": {
-        "title": "Nemecké jedlo: od chleba po raňajky",
-        "description": "V Nemecku je viac ako 300 druhov chleba a raňajky sú posvätné. Naučte sa základnú nemeckú slovnú zásobu jedál — od Brötchen po Abendbrot."
-      }
-    }
-  },
-  {
     "slug": "german-for-jobs-2026",
     "date": "2026-04-24",
     "image": "",
