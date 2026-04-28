@@ -512,7 +512,7 @@
       if (typeof fbq === 'function') fbq('track', 'InitiateCheckout', { content_name: currentSlug, content_category: 'blog_cta', cta_location: location });
       if (typeof gtag === 'function') gtag('event', 'blog_cta_click', { event_category: 'blog', event_label: currentSlug, cta_location: location });
     }
-    document.getElementById('nav-cta-btn').addEventListener('click', function() { trackCTAClick('navbar'); });
+    document.getElementById('nav-cta').addEventListener('click', function() { trackCTAClick('navbar'); });
     document.getElementById('article-body').addEventListener('click', function(e) {
       var a = e.target.closest('a[href*="t.me/dasgermanbot"]');
       if (a) trackCTAClick('article_body');
