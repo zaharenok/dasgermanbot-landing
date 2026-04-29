@@ -1,273 +1,359 @@
 ---
-title: "Nemecké čísla jednoducho: Počítaj od 0 do 100 bez bolesti"
-description: "Bojuješ s nemeckými číslami? Nauč sa počítať od 0 do 100+ s jednoduchými vzormi, výslovnostnými trikmi a mnemotechnikmi. Nemecké čísla nasledujú pravidlá — keď ich uvidíš, počítanie sa stane automatickým."
-date: "2026-04-24"
+title: "Nemecké čísla: Kompletný sprievodca Zahlen pre začiatočníkov"
+description: "Chcete počítať po nemecky? Ovládnite základnú nemčinu slovnú zásobu čísel od null po eine Million. Naučte sa slovnú zásobu Zahlen s tipmi na výslovnosť, číselnymi vzormi a kultúrnymi poznámkami o používaní čísel v nemecky hovoriacich krajinách."
+date: "2026-04-29"
 lang: "sk"
 image: ""
-tags: ["základy", "začiatočníci", "čísla"]
+tags: ["vocabulary", "beginners", "numbers", "basics"]
 ---
 
-# Nemecké čísla jednoducho: Počítaj od 0 do 100 bez bolesti
+# Nemecké čísla: Kompletný sprievodca Zahlen pre začiatočníkov
 
-Učíš sa nemčinu, robíš pokrok, a potom na to narazíš: čísla.
+Učíte sa nemčinu. Potrebujete niečo spočítať.
 
-Predavač niečo hovorí, čo znie ako *ajnundcvancig*. Panika. Bolo to 21? 22? Práve si súhlasil zaplatiť 21 alebo 22 eur?
+Zamrznete. **Eins, zwei, drei...** Ako pokračovať? Ako je to s väčšími číslami, cenami alebo telefónnymi číslami?
 
-Nemecké čísla sa zdajú byť backwards. Zmiešavajúce. Nemožné.
+Nemecké čísla (Zahlen) sú nevyhnutné pre každodenný život — od nákupov po určovanie času.
 
-Ale tu je pravda: nemecké čísla nasledujú jednému JEDNODUCHÉMU vzoru. Keď ho pochopíš, môžeš počítať do nekonečna.
+**Riešenie:** Ovládnite nemecké čísla s jasnými vzormi, tipmi na výslovnosť a praktickým použitím.
 
-## Zlaté pravidlo: Nemci počítajú opačne
+## Čísla 0-10
 
-**Anglicky:** twenty-one (20 + 1)
-**Nemecky:** einundzwanzig (1 AND 20)
+**Základné počítanie:**
 
-Nemci hovoria NAJPRV jednotky, potom AND, potom desiatky.
+1. **Null** (nula)
+   - **Výslovnosť:** [nʊl]
+   - **Použitie:** Nič, nula
 
-**Príklady:**
-- *einundzwanzig* = jeden-a-dvadsať = 21
-- *zweiunddreißig* = dva-a-tridsať = 32
-- *dreiundvierzig* = tri-a-štyridsať = 43
+2. **Eins** (jeden)
+   - **Výslovnosť:** [aɪ̯ns]
+   - **Poznámka:** Stráca 's' pri zmene podstatných mien
 
-**Mnemotechnika:** Predstav si to ako "1 a 20" nie "21". Nemčina je doslovná — jeden ide prvý, potom dvadsať.
+3. **Zwei** (dva)
+   - **Výslovnosť:** [tsvaɪ̯]
+   - **Použitie:** Základné počítanie
 
-## 0-12: Základ (treba pamätať)
+4. **Drei** (tri)
+   - **Výslovnosť:** [dʁaɪ̯]
+   - **Použitie:** Základné počítanie
 
-Tieto nesledujú vzory. Pamätaj ich.
+5. **Vier** (štyri)
+   - **Výslovnosť:** [fiːɐ̯]
+   - **Použitie:** Základné počítanie
 
-| Číslo | Nemecky | Výslovnosť tip |
-|-------|---------|----------------|
-| 0 | null | ako "null" v angličtine |
-| 1 | eins | ako "aj" + "nc" (ale pozri ein nižšie) |
-| 2 | zwei | ako "cvaj" |
-| 3 | drei | ako "draj" ale s jemným d |
-| 4 | vier | ako "fear" ale jemnejšie |
-| 5 | fünf | ako "fuhmf" (umlautované u) |
-| 6 | sechs | ako "zex" |
-| 7 | sieben | ako "ZÉ-ben" |
-| 8 | acht | ako "ucht" (achtung!) |
-| 9 | neun | ako "nojn" |
-| 10 | zehn | ako "cajn" |
-| 11 | elf | ako "elf" (rovnaké slovo!) |
-| 12 | zwölf | ako "cvölf" |
+6. **Fünf** (päť)
+   - **Výslovnosť:** [fʏnf]
+   - **Poznámka:** 'ü' ako v "fuhr"
 
-**Triky:** *elf* a *zwölf* sú unikátne. Všetko ostatné nasleduje pravidlá.
+7. **Sechs** (šesť)
+   - **Výslovnosť:** [zɛks]
+   - **Poznámka:** 'z' znie ako 'c'
 
-## 13-19: Vzor "-zehn"
+8. **Sieben** (sedem)
+   - **Výslovnosť:** [ziːbn̩]
+   - **Použitie:** Základné počítanie
 
-Od 13-19 len pridaj *-zehn* (desať) k číslam 3-9:
+9. **Acht** (osem)
+   - **Výslovnosť:** [axt]
+   - **Použitie:** Základné počítanie
 
-- *dreizehn* (13) = drei + zehn
-- *vierzehn* (14) = vier + zehn
-- *fünfzehn* (15) = fünf + zehn
-- *sechzehn* (16) = sechs + zehn (ale sechs stratí s)
-- *siebzehn* (17) = sieben + zehn (ale sieben dropne en)
-- *achtzehn* (18) = acht + zehn
-- *neunzehn* (19) = neun + zehn
+10. **Neun** (deväť)
+    - **Výslovnosť:** [nɔɪ̯n]
+    - **Použitie:** Základné počítanie
 
-**Výnimka:** 16 a 17 sa skracujú — *sechzehn* nie *sechszehn*, *siebzehn* nie *siebenzehn*.
+11. **Zehn** (desať)
+    - **Výslovnosť:** [tseːn]
+    - **Použitie:** Základ pre čísla-násobky
 
-## 20, 30, 40...90: Vzor "-zig"
+## Čísla 11-20
 
-Desiatky nasledujú *-zig* (okrem 20 ktoré používa *-zig* tiež... počkaj, nie):
+**Čísla-násobky:**
 
-- *zwanzig* (20) — zwei + zig (ale zwei sa stáva zwanzig)
-- *dreißig* (30) — drei + ßig (špeciálna ß!)
-- *vierzig* (40)
-- *fünfzig* (50)
-- *sechzig* (60)
-- *siebzig* (70)
-- *achtzig* (80)
-- *neunzig* (90)
+12. **Elf** (jedenásť)
+    - **Vzor:** Unikátne slovo
 
-**Vzor:** Väčšina desiatiek je len číslo + *-zig*. Výnimky:
-- 20 je *zwanzig* (zwei → zwan)
-- 30 používa *-ßig* namiesto *-zig*
-- 60 a 70 stratia písmená (*sechzig* nie *sechszig*, *siebzig* nie *siebenzig*)
+13. **Zwölf** (dvanásť)
+    - **Vzor:** Unikátne slovo
 
-## 21-99: Vzor "Und"
+14. **Dreizehn** (trinásť)
+    - **Vzor:** Drei + zehn (tri + desať)
 
-Tu Nemci prevracajú veci:
+15. **Vierzehn** (štrnásť)
+    - **Vzor:** Vier + zehn (štyri + desať)
 
-**Štruktúra:** JEDNOTKY + und + DESIATKY
+16. **Fünfzehn** (pätnásť)
+    - **Vzor:** Fünf + zehn (päť + desať)
 
-- *einundzwanzig* (21) = eins + und + zwanzig
-- *zweiunddreißig* (32) = zwei + und + dreißig
-- *dreiundvierzig* (43) = drei + und + vierzig
-- *vierundfünfzig* (54) = vier + und + fünfzig
-- *fünfundsechzig* (65) = fünf + und + sechzig
-- *sechsundsiebzig* (76) = sechs + und + siebzig
-- *siebenundachtzig* (87) = sieben + und + achtzig
-- *achtundneunzig* (98) = acht + und + neunzig
+17. **Sechzehn** (šestnásť)
+    - **Vzor:** Sech +zehn (šesť + desať)
+    - **Poznámka:** Stráca 's' od sechs
 
-**Mnemotechnika:** Povedz malé číslo prv, potom "und" (a), potom veľké. Ako povedať "chcem 5 a 50" namiesto "55".
+18. **Siebzehn** (sedemnásť)
+    - **Vzor:** Sieb + zehn (sedem + desať)
+    - **Poznámka:** Stráca 'en' od sieben
 
-## 100: Storočná značka
+19. **Achtzehn** (osemnásť)
+    - **Vzor:** Acht + zehn (osem + desať)
 
-- *hundert* (100) — ako "hoon-dert"
-- *einhundert* (100) — ein + hundert
-- *zweihundert* (200)
-- *dreihundert* (300)
-- *vierhundert* (400)
-- *fünfhundert* (500)
-- *sechshundert* (600)
-- *siebenhundert* (700)
-- *achthundert* (800)
-- *neunhundert* (900)
+20. **Neunzehn** (devätnásť)
+    - **Vzor:** Neun + zehn (deväť + desať)
 
-**Vzor:** Číslo + *hundert* (alebo *ein*hundert* pre 100).
+21. **Zwanzig** (dvadsať)
+    - **Vzor:** Základ pre desiatky
 
-## 101-999: Kombinujeme všetko
+## Desiatky (20-100)
 
-Teraz kombinuješ všetky vzory:
+**Násobky desiatich:**
 
-- *einhunderteins* (101)
-- *einhundertzweiunddreißig* (132)
-- *zweihundertdreiundvierzig* (243)
-- *dreihundertvierundfünfzig* (354)
+22. **Dreißig** (tridsať)
+    - **Vzor:** Drei + ßig (tri + -dsať)
+    - **Výslovnosť:** [dʁaɪ̯sɪç]
 
-**Štruktúra:** STOVKY + (und) + JEDNOTKY + und + DESIATKY
+23. **Vierzig** (štyridsať)
+    - **Vzor:** Vier + zig (štyri + -dsať)
 
-Poznámka: Nemci hovoria *einhunderteins* (101) nie *einhundertundeins*. Žiadne *und* po stovke ak nie sú desiatky.
+24. **Fünfzig** (päťdesiat)
+    - **Vzor:** Fünf + zig (päť + -dsať)
 
-## 1000 a ďalej: Jednoduchý režim
+25. **Sechzig** (šesťdesiat)
+    - **Vzor:** Sech + zig (šesť + -dsať)
 
-- *tausend* (1000)
-- *eintausend* (1000)
-- *zweitausend* (2000)
-- *zehntausend* (10,000)
-- *hunderttausend* (100,000)
-- *eine Million* (1,000,000)
-- *zwei Millionen* (2,000,000) — Million pridáva -en v množnom!
+26. **Siebzig** (sedemdesiat)
+    - **Vzor:** Sieb + zig (sedem + -dsať)
 
-## Ein vs Eins: Trikový jeden
+27. **Achtzig** (osemdesiat)
+    - **Vzor:** Acht + zig (osem + -dsať)
 
-**Eins** (číslo 1) vs **ein** (člen "jeden/jedna"):
+28. **Neunzig** (deväťdesiat)
+    - **Vzor:** Neun + zig (deväť + -dsať)
 
-- *Ich habe eins.* (Mám jeden.) — číslo
-- *Ich habe einen Apfel.* (Mám jedno jablko.) — člen (iné koncovky)
+29. **Hundert** (sto)
+    - **Použitie:** Základ pre stovky
 
-**V zložených číslach:**
-- *einundzwanzig* (21) — používa *ein* nie *eins*
-- *einhundert* (100) — používa *ein*
+## Zložené čísla
 
-**Triky:** Používaj *eins* len keď počítaš zvlášť alebo na samom konci. Všade inde používaj *ein*.
+**Ako Nemci kombinujú čísla:**
 
-## Triky výslovnosti
+**Dôležitý vzor:** Nemci hovoria jednotky PRVÉ, potom desiatky.
 
-**"ch" v číslach:**
-- *zwei* → ako "cvaj" (žiadne ch)
-- *drei* → ako "draj" (žiadne ch)
-- *zwanzig* → ako "cvan-cikh" (ch ako v loch)
-- *dreißig* → ako "draj-sikh" (ch ako v loch)
+30. **Einundzwanzig** (dvadsaťjeden)
+    - **Doslovne:** Jeden-a-dvadsať
+    - **Vzor:** Ein + und + zwanzig
 
-**Koncovka "-ig":**
-- V severnom Nemecku: *-zig* znie ako "cikh" (ako v loch)
-- V južnom Nemecku: *-zig* znie ako "cik" (ako v sick)
+31. **Zweiunddreißig** (tridsaťdva)
+    - **Doslovne:** Dva-a-tridsať
+    - **Vzor:** Zwei + und + dreißig
 
-Oba sú správne. Nestresuj z toho.
+32. **Dreiundvierzig** (štyridsaťtri)
+    - **Doslovne:** Tri-a-štyridsať
+    - **Vzor:** Drei + und + vierzig
 
-## Nemecké telefónne čísla: Dvojicami!
+33. **Vierundfünfzig** (päťdesiatštyri)
+    - **Doslovne:** Štyri-a-päťdesiat
+    - **Vzor:** Vier + und + fünfzig
 
-Keď Nemcia hovoria telefónne čísla, používajú dvojice:
+## Stovky a tisíce
 
-*Zwo-zwo, acht-null, fünfundvierzig* (22, 80, 45)
+**Väčšie čísla:**
 
-**Vzor:** Po dve číslice naraz. Nie "dva dva nula osem..." ale "dvadsaťdva, osemdesiat, štyridsaťpäť".
+34. **Einhundert** (sto)
+    - **Použitie:** 100
 
-**Poznámka:** *zwei* sa stáva *zwo* v telefónnych číslach (jasnejšia výslovnosť).
+35. **Zweihundert** (dvesto)
+    - **Použitie:** 200
 
-## Peniaze: Eura a centy
+36. **Dreihundert** (tristo)
+    - **Použitie:** 300
 
-- *drei Euro fünfzig* (€3.50)
-- *zehn Euro neunundneunzig* (€10.99)
-- *fünfzig Cent* (€0.50)
+37. **Tausend** (tisíc)
+    - **Použitie:** 1 000
 
-**Vzor:** Eura + (čiarka) + centy. Nemci používajú čiarku nie bodku pre desatinné.
+38. **Zweitausend** (dve tisíce)
+    - **Použitie:** 2 000
 
-## Čas: 24-hodinový systém
+39. **Zehntausend** (desať tisíc)
+    - **Použitie:** 10 000
 
-Nemci oficiálne používajú 24-hodinový čas:
+40. **Hunderttausend** (sto tisíc)
+    - **Použitie:** 100 000
 
-- *dreizehn Uhr* (13:00 alebo 1 PM)
-- *einundzwanzig Uhr dreißig* (21:30 alebo 9:30 PM)
-- *acht Uhr fünfundvierzig* (8:45 AM alebo 20:45 PM)
+## Veľké čísla
 
-**Neformálny čas:**
-- *halb neun* (8:30) — doslovne "pol deviatich" = pol DO deviatich, nie pol PO ôsmej!
-- *Viertel nach acht* (8:15) — štvrť po ôsmej
-- *Viertel vor neun* (8:45) — štvrť pred deviatou
+**Skutočné veľké čísla:**
 
-**Upozornenie:** *halb neun* = 8:30, nie 9:30. Nemci sa vždy pozerajú dopredu na ďalšiu hodinu.
+41. **Eine Million** (jeden milión)
+    - **Gramatika:** Rod ženský
+    - **Množné číslo:** Millionen
+
+42. **Eine Milliarde** (jeden miliarda)
+    - **Poznámka:** Nemecká Milliarde = anglický billion
+    - **Použitie:** 1 000 000 000
+
+43. **Eine Billion** (jeden bilión)
+    - **Poznámka:** Nemecká Billion = anglický trillion
+    - **Použitie:** 1 000 000 000 000
+
+## Radové čísla
+
+**Prvý, druhý, tretí...:**
+
+44. **Erste** (prvý)
+    - **Použitie:** Poradie, hodnotenie
+
+45. **Zweite** (druhý)
+    - **Použitie:** Poradie, hodnotenie
+
+46. **Dritte** (tretí)
+    - **Použitie:** Poradie, hodnotenie
+
+47. **Vierte** (štvrtý)
+    - **Použitie:** Poradie, hodnotenie
+
+48. **Fünfte** (piaty)
+    - **Použitie:** Poradie, hodnotenie
+
+49. **Zehnte** (desiaty)
+    - **Použitie:** Poradie, hodnotenie
+
+50. **Hundertste** (stý)
+    - **Použitie:** Poradie, hodnotenie
+
+## Používanie čísel v kontexte
+
+**Praktické frázy:**
+
+51. **Wie viel kostet das?** (Koľko to stojí?)
+    - **Použitie:** Nákupy
+
+52. **Das kostet fünf Euro.** (To stojí päť eur.)
+    - **Použitie:** Ceny
+
+53. **Ich habe zwei Geschwister.** (Mám dvoch súrodencov.)
+    - **Použitie:** Rodina
+
+54. **Es ist acht Uhr.** (Je osem hodín.)
+    - **Použitie:** Čas
+
+55. **Meine Telefonnummer ist...** (Moje telefónne číslo je...)
+    - **Použitie:** Kontaktné informácie
+
+56. **Ich wohne auf dem dritten Stock.** (Bývam na treťom poschodí.)
+    - **Použitie:** Adresa
+
+## Zlomky
+
+**Časti celku:**
+
+57. **Die Hälfte** (polovica)
+    - **Použitie:** 1/2
+
+58. **Ein Drittel** (jedna tretina)
+    - **Použitie:** 1/3
+
+59. **Ein Viertel** (jedna štvrtina)
+    - **Použitie:** 1/4
+
+60. **Drei Viertel** (tri štvrtiny)
+    - **Použitie:** 3/4
+
+## Rýchla referencia
+
+| Nemecký | Slovenský | Poznámky |
+|---------|-----------|----------|
+| Null | Nula | 0 |
+| Eins | Jeden | Stráca 's' pred podstatnými menami |
+| Zwei | Dva | 2 |
+| Drei | Tri | 3 |
+| Zehn | Desať | 10 |
+| Zwanzig | Dvadsať | 20 |
+| Einundzwanzig | Dvadsaťjeden | Jeden-a-dvadsať |
+| Hundert | Sto | 100 |
+| Tausend | Tisíc | 1 000 |
+| Eine Million | Jeden milión | Rod ženský |
+
+## Kultúrne poznámky
+
+### Čísla v nemeckej kultúre
+
+- **Glückszahlen:** 7 (sieben) — šťastné, 13 (dreizehn) — nešťastné
+- **Formát cien:** Nemci používajú čiarku pre desatinné (5,99 €)
+- **Telefónne čísla:** Vyslovujú sa v pároch (zwei-vier-null, acht-zehn...)
+- **Dátumy:** Formát deň-mesiac-rok (29.04.2026)
+- **Číslovanie poschodí:** Prízemie = 0 (Erdgeschoss), prvé poschodie = 1 (erster Stock)
+
+### Číselné idiómy
+
+- **Alle neune** (všetko perfektné) — doslovne "všetky deviatky"
+- **Eine Nummer größer** (o číslo väčšie) — doslovne "číslo väčšie"
+- **Im Siebener-Format** (v skupinách po sedem) — týždenný formát
 
 ## Bežné chyby
 
-**Chyba 1:** Zabudnúť prevrátiť čísla
-- Nesprávne: *zwanzigeins* (21)
-- Správne: *einundzwanzig*
-- Pamätaj: Malé číslo prvé!
+### Chyba 1: Nesprávne poradie čísel
 
-**Chyba 2:** Pridávať "und" všade
-- Nesprávne: *einhundertundfünfzig* (150)
-- Správne: *einhundertfünfzig* alebo *hundertfünfzig*
-- Žiadne "und" po stovkách!
+❌ "Zwanzigeins" (nesprávne)
+✅ "Einundzwanzig" (správne)
 
-**Chyba 3:** Vyslovovať -ig ako po anglicky
-- Nesprávne: *zwanzig* (ako "zig" v zigzag)
-- Správne: *zwanzig* (ako "cikh" s jemným ch)
+**Pravidlo:** Nemci hovoria jednotky prvé, potom desiatky.
 
-## Mnemotechniky, ktoré fungujú
+### Chyba 2: Nesprávne tvorenie čísel-násobkov
 
-**Vizualizácia "Opačné počítanie":**
-Predstav si Nemca idúceho opačne zatiaľ čo počíta. Vidí malé číslo prv (1), potom ho spojí s AND, potom dorazí k veľkému číslu (20).
+❌ "Zehnsechs" (nesprávne)
+✅ "Sechzehn" (správne)
 
-**Párovanie telefónnych čísel:**
-Telefónne čísla sú vždy dvojicami. Ako ping-pong. *Zwo-zwo, acht-null...*
+**Pravidlo:** Pridávajte -zehn k číslu, nie naopak.
 
-**Pravidlo času "Polovica-dopredu":**
-*Halb neun* znamená pol DO deviatich. Nemci sa vždy pozerajú dopredu na ďalšiu hodinu. Optimisti!
+### Chyba 3: Zabudnutie 'und'
 
-## Praktická štúdiová stratégia
+❌ "Einzweiunddreißig" (nesprávne)
+✅ "Zweiunddreißig" (správne)
 
-**Týždeň 1:** Ovládaj 0-20
-- Počítaj všetko, čo vidiš. Autá, kroky, položky v košíku.
+**Pravidlo:** Používajte 'und' na spojenie jednotiek a desiatok.
 
-**Týždeň 2:** Pridaj desiatky (20, 30, 40...90)
-- Trénuj prevrátený vzor. *Einundzwanzig, zweiunddreißig...*
+## Príklady na cvičenie
 
-**Týždeň 3:** Kombinuj do 100
-- Náhodné čísla. *Siebenundfünfzig? Vierundsechzig?*
+**Spočítajte toto:**
 
-**Týždeň 4:** Stovky a tisíce
-- Ceny, telefónne čísla, adresy.
+61. **23**
+    → "Dreiundzwanzig"
 
-Používaj čísla denne. Nie len memorovanie — POUŽÍVANIE.
+62. **47**
+    → "Siebenundvierzig"
 
-## Prečo nemecké čísla fungujú takto
+63. **100**
+    → "Einhundert"
 
-Nemčina je germánsky jazyk, ako angličtina. Stará angličtina tiež používala tento vzor!
+64. **2024**
+    → "Zweitausendvierundzwanzig"
 
-**Zaujímavosť:** Angličtina kedysi hovorila "one and twenty" namiesto "twenty-one". Niektoré dialekty stále.
+65. **1 000 000**
+    → "Eine Million"
 
-Nemčina si zachovala starý vzor. Angličtina prešla. Ani jeden nie je "správny" alebo "nesprávny" — len iné.
+## Tip na výslovnosť čísel
 
-## Keď sa mýliš (a budeš)
+**Kľúčové zvuky na ovládnutie:**
 
-Nemci ťa pochopia aj keď povieš čísla zle. Možno opravia, alebo možno len napíšu číslo.
+- **z** = [c] ako v "koty"
+- **ß** = [s] ostrý zvuk s
+- **ü** = zaoblený [ü] ako v "führer"
+- **eu** = [oj] ako "boj"
+- **ei** = [aj] ako "aj"
 
-Najhoršie, čo sa stane? Znieš ako ten, kto sa učí. Čo si aj.
+## Zhrnutie
 
-Prijmi to. Každá chyba je dátový bod pre tvoj mozog.
+Nemecké čísla sledujú jasné vzory:
 
-## Záver
+1. **0-10** — Základné čísla na zapamätanie
+2. **11-20** — Elf, zwölf, potom číslo + zehn
+3. **Desiatky** — Číslo + zig (alebo ßig pre dreißig)
+4. **Zložené čísla** — Jednotky + und + desiatky (einundzwanzig)
+5. **Stovky** — Číslo + hundert
+6. **Veľké čísla** — Tausend, Million, Milliarde
+7. **Radové** — koncovky -te/-ste (erste, zwanzigste)
 
-Nemecké čísla majú JEDEN vzor. NAJPRV jednotky, potom desiatky, spojené cez *und*.
+**Tip:** Začnite s **eins, zwei, drei, vier, fünf, zehn, zwanzig, hundert** — týchto osem čísel pokrýva väčšinu základných situácií počítania. A pamätajte: Nemci počítajú inak než v angličtine — jednotky prvé, potom desiatky (einundzwanzig = jeden-a-dvadsať)!
 
-To je všetko.
-
-Nauč sa 0-12, pridaj vzory -zehn a -zig, trénuj prevrátený poriadok, a nemecké čísla prestanú byť zmätkom a stanú sa automatickými.
-
-A ak nič iné nepomáha? Len ukáž prsty. Univerzálny jazyk.
+Vaša nemecká slovná zásoba čísel začína počítaním od jednej do desiatich. Viel Erfolg!
 
 ---
-*Pripravený ovládnuť nemecké čísla bez bolesti hlavy? [Otvor Das German Bot](https://t.me/dasgermanbot) — prvá lekcia zabere 30 sekúnd.*
+*Ste pripravení ovládnuť nemecké čísla cez interaktívne cvičenie? [Otvorte Das German Bot](https://t.me/dasgermanbot) — vaša prvá lekcia trvá 30 sekúnd.*

@@ -1488,5 +1488,33 @@
         "description": "Chcete popisovať farby po nemecky? Ovládnite základnú nemčinu slovnú zásobu farieb od rot a blau po goldbraun a hellgrau. Naučte sa slovnú zásobu Farben so správnymi členmi, farebnými kombináciami a kultúrnymi poznámkami o farbách v nemeckom jazyku."
       }
     }
+  },
+  {
+    "slug": "german-numbers",
+    "date": "2026-04-29",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "numbers",
+      "basics"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Numbers: Complete Guide to Zahlen for Beginners",
+        "description": "Want to count in German? Master essential German number vocabulary from null to eine Million. Learn Zahlen vocabulary with proper pronunciation tips, number patterns, and cultural notes about using numbers in German-speaking countries."
+      },
+      "ru": {
+        "title": "Немецкие цифры: Полный справочник Zahlen для начинающих",
+        "description": "Хотите считать по-немецки? Освойте основную словарную лексику немецких цифр от null до eine Million. Выучите лексику Zahlen с советами по произношению, числовыми паттернами и культурными заметками об использовании цифр в немецкоговорящих странах."
+      },
+      "uk": {
+        "title": "Німецькі цифри: Повний довідник Zahlen для початківців",
+        "description": "Хочете рахувати німецькою? Оволодійте основною лексикою німецьких цифр від null до eine Million. Вивчіть лексику Zahlen з порадами щодо вимови, числовими патернами та культурними нотатками про використання цифр у німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecké čísla: Kompletný sprievodca Zahlen pre začiatočníkov",
+        "description": "Chcete počítať po nemecky? Ovládnite základnú nemčinu slovnú zásobu čísel od null po eine Million. Naučte sa slovnú zásobu Zahlen s tipmi na výslovnosť, číselnymi vzormi a kultúrnymi poznámkami o používaní čísel v nemecky hovoriacich krajinách."
+      }
+    }
   }
 ]
