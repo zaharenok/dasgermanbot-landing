@@ -1,191 +1,467 @@
 ---
-title: "German Separable Verbs: The Simple Rule That Unlocks Hundreds of Words"
-description: "Confused by German separable verbs? Here's the simple rule: prefix comes off at the end. Learn how German separable verbs work, with common examples, memory tricks, and a complete list of must-know prefixes."
-date: "2026-04-24"
+title: "German Separable Verbs (Trennbare Verben): The Complete Guide for Beginners"
+description: "Struggling with German verbs that split in half? Master German separable verbs (trennbare Verben) with simple rules, common prefixes, and memory tricks. Learn how the prefix 'flies away' to the end of the sentence!"
+date: "2026-04-30"
 lang: "en"
 image: ""
-tags: ["grammar", "beginners", "verbs"]
+tags: ["grammar", "beginners", "verbs", "separable", "prefixes"]
 ---
 
-# German Separable Verbs: The Simple Rule That Unlocks Hundreds of Words
+# German Separable Verbs (Trennbare Verben): The Complete Guide for Beginners
 
-You're learning German, making progress, and then you hit it: the separable verb.
+You're learning German. You see a verb.
 
-*Ich stehe um 8 Uhr auf.* (I get up at 8.)
+Then suddenly... part of it **flies away** to the end of the sentence!
 
-Where did *auf* go? Why is *stehen* at the beginning and *auf* at the end? Is this German or some kind of word puzzle?
+What just happened? You've encountered a **separable verb** (trennbares Verb) — one of the most unique (and confusing) features of German grammar.
 
-German separable verbs seem chaotic. But here's the truth: they follow one simple rule. Once you get it, hundreds of verbs suddenly make sense.
+**The good news:** Once you understand the pattern, separable verbs become predictable and even fun!
 
-## The Golden Rule: Prefix Detaches
+## What Are Separable Verbs?
 
-**German separable verbs work like this:**
+**Separable verbs** are German verbs with a prefix that can "detach" from the main verb and move to the end of the sentence or clause.
 
-1. **In main sentences:** Prefix goes to the END
-2. **In questions/commands:** Prefix goes to the END
-3. **In subordinate clauses:** Prefix STAYS with the verb (which goes to the end)
+**Visual pattern:**
 
-That's it. One rule.
+```
+Normal:      Ich stehe um 8 Uhr auf.
+            I get-up at 8 o'clock.
+            
+Split:       Ich  [stehe......................auf]
+             I    get.......................up
+```
 
-**Example: *aufstehen* (to get up)**
+The prefix *auf* "flies away" from *stehen* and lands at the end!
 
-Main sentence: *Ich stehe um 8 Uhr auf.*
-- *Ich* (I)
-- *stehe* (stand - verb without prefix)
-- *um 8 Uhr* (at 8 o'clock)
-- *auf* (up - prefix at the END)
-
-Question: *Stehst du um 8 Uhr auf?*
-- *Stehst* (verb first)
-- *du* (you)
-- *um 8 Uhr*
-- *auf* (still at the END)
+**Key rule:** In a main clause, the prefix goes to the **very end**.
 
 ## How to Recognize Separable Verbs
 
-**Easy test: Look at the stress.**
+**Easy recognition:** Look at the dictionary form!
 
-Separable verbs are stressed on the PREFIX:
-- *auf*stehen (to get up) — stress on *auf*
-- *an*rufen (to call) — stress on *an*
-- *ein*kaufen (to shop) — stress on *ein*
+Separable verbs are always written with the prefix **attached** in the dictionary:
 
-Inseparable verbs are stressed on the VERB:
-- be*such*en (to visit) — stress on *such*
-- ver*neh*men (to perceive) — stress on *neh*
-- ent*wick*eln (to develop) — stress on *wick*
+- **aufstehen** (to get up) = auf + stehen
+- **anrufen** (to call) = an + rufen
+- **weggehen** (to go away) = weg + gehen
+- **zumachen** (to close) = zu + machen
 
-**Hack:** If the stress is on the prefix, it's separable. If it's on the verb, it's inseparable.
+**Memory trick:** If you see a verb starting with a small word that could stand alone — it's probably separable!
 
-## The Big 10 Prefixes You Need
+## 25 Most Common Separable Prefixes
 
-These 10 prefixes make up 80% of separable verbs you'll encounter:
+### 1. AB- (off, down, from)
 
-**1. AB (away, down)**
-- *abfahren* (to depart) — The train *fährt* in 5 Minuten *ab*.
-- *absagen* (to cancel) — I *sage* the meeting *ab*.
-- *ablegen* (to lay down) — He *legt* the book *ab*.
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **abfahren** | to depart (train/bus) | Der Zug fährt um 10 Uhr ab. |
+| **abholen** | to pick up | Ich hole dich ab. |
+| **abnehmen** | to lose weight / to pick up | Ich nehme 2 Kilo ab. / Ich nehme das Paket ab. |
 
-**2. AN (on, to, start)**
-- *anfangen* (to begin) — We *fangen* tomorrow *an*.
-- *anrufen* (to call) — I *rufe* you *an*.
-- *ankommen* (to arrive) — The train *kommt* at 10 *an*.
+### 2. AN- (on, to, start)
 
-**3. AUF (up, open)**
-- *aufstehen* (to get up) — I *stehe* at 8 *auf*.
-- *aufmachen* (to open) — Please *mach* the door *auf*.
-- *aufhören* (to stop) — When *hörst* you *auf*?
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **anrufen** | to call (phone) | Ich rufe dich morgen an. |
+| **ankommen** | to arrive | Wir kommen um 18 Uhr an. |
+| **anfangen** | to begin | Fangen wir an! |
+| **anziehen** | to put on clothes | Ich ziehe mich an. |
 
-**4. AUS (out, off)**
-- *ausgehen* (to go out) — I *gehe* tonight *aus*.
-- *ausschalten* (to turn off) — Please *schalt* the TV *aus*.
-- *aussehen* (to look) — You *siehst* good *aus*.
+### 3. AUF- (up, open)
 
-**5. EIN (in, into)**
-- *einkaufen* (to shop) — I *kaufe* groceries *ein*.
-- *einladen* (to invite) — She *lädt* me *ein*.
-- *einschalten* (to turn on) — Please *schalt* the light *ein*.
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **aufstehen** | to get up | Ich stehe um 7 Uhr auf. |
+| **aufmachen** | to open | Mach das Fenster auf! |
+| **aufhören** | to stop | Hör bitte auf! |
+| **aufpassen** | to pay attention | Pass auf! |
 
-**6. MIT (with)**
-- *mitkommen* (to come along) — Do you *kommst* *mit*?
-- *mitbringen* (to bring along) — I *bringe* wine *mit*.
-- *machen* (to do) → *mitmachen* (to join in) — *Mach* du *mit*!
+### 4. AUS- (out, off)
 
-**7. NACH (after, towards)**
-- *nachdenken* (to think about) — I *denke* about it *nach*.
-- *nachmachen* (to copy/imitate) — Don *mach* it *nach*.
-- *nachfragen* (to ask follow-up) — Please *frag* *nach*.
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **ausgehen** | to go out | Wir gehen heute aus. |
+| **ausschalten** | to turn off | Schalte das Licht aus. |
+| **aussehen** | to look/appear | Du siehst gut aus. |
+| **ausruhen** | to rest | Ich ruhe mich aus. |
 
-**8. VOR (before, in front)**
-- *vorstellen* (to introduce) — I *stelle* myself *vor*.
-- *vorbereiten* (to prepare) — We *bereiten* dinner *vor*.
-- *vorbeikommen* (to come by) — *Komm* sometime *vorbei*!
+### 5. BEI- (with, join)
 
-**9. WEG (away)**
-- *weggehen* (to go away) — I *gehe* now *weg*.
-- *wegwerfen* (to throw away) — Please *wirf* the trash *weg*.
-- *wegnehmen* (to take away) - Don *nimm* my phone *weg*.
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **beibringen** | to teach | Er bringt mir Deutsch bei. |
+| **beisteigen** | to get in (vehicle) | Steigen Sie bitte ein! |
 
-**10. ZURÜCK (back)**
-- *zurückkommen* (to come back) - When *kommst* you *zurück*?
-- *zurückgeben* (to give back) - I *gebe* the book *zurück*.
-- *zurückgehen* (to go back) - We *gehen* now *zurück*.
+### 6. DA- (motion towards)
 
-## Subordinate Clause Twist
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **dableiben** | to stay | Bleiben Sie da! |
+| **dazwischenkommen** | to interfere | Kommt dazwischen! |
 
-In subordinate clauses (after *dass, weil, wenn, ob*), something changes:
+### 7. EIN- (in, into)
 
-**Main clause:** *Ich stehe um 8 Uhr auf.*
-- Verb (*stehe*) in position 2
-- Prefix (*auf*) at the end
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **eingehen** | to go in / to expire | Das Ticket geht ein. |
+| **einkaufen** | to shop | Ich kaufe gern ein. |
+| **einladen** | to invite | Ich lade dich ein. |
+| **einschlafen** | to fall asleep | Ich schlaufe ein. |
 
-**Subordinate clause:** *Ich glaube, dass ich um 8 Uhr aufstehe.*
-- Verb WITH prefix (*aufstehe*) at the end
-- They're back together!
+### 8. ENTGEGEN- (towards, against)
 
-**Why?** Because subordinate clauses send the entire verb to the end. The prefix doesn't detach — it just goes with the verb.
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **entgegenkommen** | to come towards / to accommodate | Er kommt mir entgegen. |
 
-## Memory Hack: The "Magnetic Prefix" Trick
+### 9. FORT- (away, continue)
 
-Think of the prefix as a magnet that's normally pulled to the end of the sentence. But in subordinate clauses, the entire verb gets pulled to the end so strongly that the magnet stays attached.
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **fortsetzen** | to continue | Setzen wir fort! |
+| **fortgehen** | to go away | Geh fort! |
 
-**Another hack:** Think of separable verbs as compound words that temporarily separate. Like "stand up" in English — you don't say "I stand at 8 up." German just makes this separation VISIBLE.
+### 10. HER- (hither, here)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **herkommen** | to come here | Komm her! |
+| **herstellen** | to produce / to establish | Die Firma stellt Autos her. |
+
+### 11. HIN- (thither, there)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **hingehen** | to go there | Geh dorthin! |
+| **hinausgehen** | to go out | Geh hinaus! |
+
+### 12. HINTER- (behind)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **hinterbringen** | to bring behind | Bring es hinter! |
+
+### 13. LOS- (loose, start)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **losgehen** | to start / to go | Wir gehen los! |
+| **loslassen** | to let go | Lass los! |
+
+### 14. MIT- (with)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **mitkommen** | to come along | Komm mit! |
+| **mitnehmen** | to take along | Nimm mich mit! |
+| **machen** (non-separable) | to make | Ich mache das. |
+
+### 15. NACH- (after, towards)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **nachdenken** | to think about | Ich denke nach. |
+| **nachkommen** | to follow / to comply | Komm nach! |
+| **nachmachen** | to copy / to do after | Mach das nach! |
+
+### 16. VOR- (before, in front)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **vorbereiten** | to prepare | Ich bereite mich vor. |
+| **vorstellen** | to imagine / to introduce | Stell dir das vor! |
+| **vorbeigehen** | to pass by | Geh vorbei! |
+
+### 17. WEG- (away, off)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **weggehen** | to go away | Geh weg! |
+| **wegwerfen** | to throw away | Wirf das weg! |
+| **wegnehmen** | to take away | Nimm das weg! |
+
+### 18. WEITER- (further, on)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **weitergehen** | to go on / continue | Geh weiter! |
+| **weitermachen** | to continue | Mach weiter! |
+| **weitergeben** | to pass on | Gib es weiter! |
+
+### 19. WIEDER- (again, back)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **wiederkommen** | to come back | Komm wieder! |
+| **wiedersehen** | to see again | Wir sehen uns wieder. |
+| **wiederholen** | to repeat | Hol das bitte! |
+
+### 20. ZU- (closed, to)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **zumachen** | to close | Mach die Tür zu! |
+| **zuhören** | to listen | Hör mir zu! |
+| **zunehmen** | to gain weight | Ich nehme zu. |
+
+### 21. ZURÜCK- (back, return)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **zurückkommen** | to come back | Komm zurück! |
+| **zurückgeben** | to give back | Gib das zurück! |
+| **zurückgehen** | to go back | Geh zurück! |
+
+### 22. ZUSAMMEN- (together)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **zusammenarbeiten** | to work together | Wir arbeiten zusammen. |
+| **zusammenleben** | to live together | Sie leben zusammen. |
+
+### 23. DURCH- (through)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **durchlesen** | to read through | Ich lese den Brief durch. |
+| **durchfallen** | to fail (exam) | Ich bin durchgefallen. |
+
+### 24. ÜBER- (over, across)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **übersetzen** | to translate / to cross | Er übersetzt den Text. |
+| **übernehmen** | to take over | Ich übernahme die Aufgabe. |
+
+### 25. UNTER- (under)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| **unterscheiden** | to distinguish | Ich unterscheide nicht. |
+| **unterbrechen** | to interrupt | Unterbrich mich nicht! |
+
+## The Golden Rules of Separable Verbs
+
+### Rule 1: Main Clause = Prefix Flies to End
+
+**Pattern:** [Subject] + [CONJUGATED VERB] + [Rest of sentence] + [PREFIX]
+
+```
+✅ Ich   stehe   um 7 Uhr   auf.
+   I    get-up  at 7 o'clock up
+
+✅ Er   ruft   mich   morgen   an.
+   He   calls  me    tomorrow  up
+```
+
+### Rule 2: Question = Prefix Still Goes to End
+
+```
+✅ Stehst   du   um 7 Uhr   auf?
+    Get-up  you  at 7 o'clock up?
+
+✅ Rufst   du   mich   an?
+    Call    you  me    up?
+```
+
+### Rule 3: Modal Verb = Prefix Stays Home
+
+When a modal verb (können, müssen, wollen, sollen, dürfen, mögen) is used, the separable verb stays together at the end in its infinitive form!
+
+```
+✅ Ich   muss   um 7 Uhr   aufstehen.
+   I    must   at 7 o'clock get-up
+```
+
+No separation! The infinitive stays whole.
+
+### Rule 4: Subordinate Clause = Prefix Stays Home
+
+In subordinate clauses (after dass, weil, wenn, etc.), the verb goes to the very end, but stays **together**!
+
+```
+✅ Ich denke, dass   ich   um 7 Uhr   aufstehen   muss.
+   I think  that   I    at 7 o'clock get-up    must
+```
+
+### Rule 5: Imperative = Prefix Goes to End
+
+```
+✅ Steh   auf!
+    Get up!
+
+✅ Komm   mit!
+    Come along!
+```
+
+### Rule 6: Past Tense (Perfekt) = Prefix Goes to ge-
+
+When forming the past tense with *haben/sein + ge-*, the **ge-** sneaks **between** the prefix and the verb:
+
+```
+✅ Ich   bin   aufgestanden.
+   I    am   up-gotten-up (got up)
+
+✅ Ich   habe   angerufen.
+   I    have   up-called (called)
+```
+
+Pattern: **prefix + ge + verb stem + en**
+
+## Separable vs Inseparable Prefixes
+
+**How to tell the difference?**
+
+**Separable prefixes** are stressed:
+- **AUF**stehen (emphasis on AUF)
+- **AN**rufen (emphasis on AN)
+
+**Inseparable prefixes** are unstressed:
+- be**kommen** (emphasis on kom)
+- ver**stehen** (emphasis on steh)
+- er**zählen** (emphasis on zäh)
+
+**Common inseparable prefixes:**
+- be- (bekommen, besuchen)
+- ver- (verstehen, verkaufen)
+- er- (erzählen, erlernen)
+- ent- (entdecken, entfernen)
+- ge- (gebrauchen, gefallen)
+- miss- (misslingen, missverstehen)
+- zer- (zerstören, zerbrechen)
+
+## Memory Tricks
+
+### The "Flying Prefix" Visualization
+
+Imagine the prefix is a **bird** that flies from the verb and lands at the end of the sentence!
+
+```
+Ich [STEHE............🐦AUF]
+    STAND................UP
+```
+
+### The "Sandwich" Method
+
+Remember: In main clauses, the sentence is a sandwich:
+- Top bread: Conjugated verb (2nd position)
+- Filling: Everything else
+- Bottom bread: The prefix (last position)
+
+### The "Together" Rule
+
+**Stay together when:**
+- After modals (ich muss aufstehen)
+- In subordinate clauses (dass ich aufstehe)
+- As infinitives (zu aufstehen)
+
+**Split apart when:**
+- In main clauses (ich stehe auf)
+- In questions (stehe ich auf?)
+- In commands (steh auf!)
 
 ## Common Mistakes to Avoid
 
-**Mistake 1:** Forgetting to detach in questions
-- Wrong: *Kommst du mit?* (Correct!)
-- Wrong: *Mitkommst du?*
-- Remember: Questions follow the same rule as main sentences.
+### Mistake 1: Forgetting to Move the Prefix
 
-**Mistake 2:** Putting the prefix before the verb in main clauses
-- Wrong: *Ich aufstehe um 8 Uhr.*
-- Correct: *Ich stehe um 8 Uhr auf.*
-- The prefix ALWAYS goes to the end in main clauses.
+❌ Ich stehe auf um 7 Uhr. (prefix stays attached)
+✅ Ich stehe um 7 Uhr auf. (prefix moves to end)
 
-**Mistake 3:** Detaching in subordinate clauses
-- Wrong: *Ich glaube, dass ich stehe um 8 Uhr auf.*
-- Correct: *Ich glaube, dass ich um 8 Uhr aufstehe.*
-- In subordinate clauses, keep them together.
+**Rule:** The prefix MUST go to the very end in main clauses.
 
-## Practical Learning Strategy
+### Mistake 2: Moving the Prefix with Modals
 
-Don't try to memorize all separable verbs at once. Start with the most common:
+❌ Ich muss aufstehen um 7 Uhr. (prefix moves)
+✅ Ich muss um 7 Uhr aufstehen. (infinitive stays together)
 
-**Week 1:** *aufstehen, anrufen, mitkommen, abfahren*
-**Week 2:** *einkaufen, ausgehen, ausschalten, einschalten*
-**Week 3:** *zurückkommen, weggehen, vorstellen, anfangen**
-**Week 4:** Add 5-10 more from any category
+**Rule:** After modals, keep the infinitive whole.
 
-Use them in sentences. Not "aufstehen = to get up" but "Ich stehe um 7 Uhr auf." Your brain needs the context, not just the translation.
+### Mistake 3: Wrong ge- Position in Past Tense
 
-## Why German Has Separable Verbs
+❌ Ich habe aufgerufen. (ge- at front)
+✅ Ich habe angerufen. (ge- in middle)
 
-German loves precision. Separable verbs let you pack meaning into tight spaces:
+**Rule:** In Perfekt, ge- goes between prefix and verb stem.
 
-- *fahren* (to drive) vs *abfahren* (to depart)
-- *machen* (to do) vs *mitmachen* (to join in)
-- *kaufen* (to buy) vs *einkaufen* (to shop for groceries)
+### Mistake 4: Confusing Separable/Inseparable
 
-The prefix completely changes the meaning. Once you recognize the patterns, you can guess the meaning of new separable verbs.
+❌ Ich verstanden dich. (inseparable treated as separable)
+✅ Ich verstand dich. (inseparable stays together)
 
-## When You Mess Up (And You Will)
+**Rule:** Inseparable prefixes never separate!
 
-Germans will understand you even if you forget to detach the prefix. It might sound funny, but they won't stop understanding the conversation.
+## Practice Exercises
 
-The worst that happens? You sound like a learner. Which you are.
+### Exercise 1: Fill in the Blanks
 
-Embrace it. Every mistake is a data point for your brain.
+1. Ich _____ (anrufen) dich morgen.
+   → Ich rufe dich morgen **an**.
 
-## The Bottom Line
+2. _____ (aufstehen) du um 7 Uhr?
+   → **Stehst** du um 7 Uhr **auf**?
 
-German separable verbs have ONE rule. Prefix goes to the end in main clauses and questions, stays with the verb in subordinate clauses.
+3. Wir müssen _____ (weitergehen).
+   → Wir müssen **weitergehen**. (stays together!)
 
-That's it.
+4. Er _____ (mitkommen) nicht.
+   → Er kommt nicht **mit**.
 
-Learn the big 10 prefixes, practice with common verbs, and separable verbs stop being confusing and start being second nature.
+### Exercise 2: Rearrange the Words
 
-And if all else fails? Remember: *Ich stehe um 8 Uhr auf* — the prefix always waits at the end like a loyal dog waiting for its owner.
+1. auf / Ich / stehe / 7 Uhr / um
+   → Ich stehe um 7 Uhr auf.
+
+2. musst / Du / weggehen
+   → Du musst weggehen. (stays together!)
+
+3. einladen / Ich / dich / zum Essen
+   → Ich lade dich zum Essen **ein**.
+
+## Cultural Note
+
+Separable verbs might seem strange at first, but they're actually very logical! German loves building compound words, and separable verbs are just compound verbs that can split apart.
+
+**Fun fact:** German has hundreds of separable verbs, and they're used constantly in everyday speech. Mastering them is essential for sounding natural!
+
+## Quick Reference Table
+
+| Prefix | Meaning | Example Verb | Translation |
+|--------|---------|--------------|-------------|
+| ab- | off, down | abfahren | to depart |
+| an- | on, to | anrufen | to call |
+| auf- | up | aufstehen | to get up |
+| aus- | out | ausgehen | to go out |
+| bei- | with | beibringen | to teach |
+| ein- | in | einkaufen | to shop |
+| fort- | away | fortgehen | to go away |
+| her- | here | herkommen | to come here |
+| hin- | there | hingehen | to go there |
+| los- | start | losgehen | to start |
+| mit- | with | mitkommen | to come along |
+| nach- | after | nachdenken | to think about |
+| vor- | before | vorbereiten | to prepare |
+| weg- | away | weggehen | to go away |
+| weiter- | further | weitermachen | to continue |
+| wieder- | again | wiederkommen | to come back |
+| zu- | closed | zumachen | to close |
+| zurück- | back | zurückkommen | to come back |
+| zusammen- | together | zusammenarbeiten | to work together |
+
+## Conclusion
+
+German separable verbs follow clear patterns:
+
+1. **Recognize:** Look for prefixes attached in dictionary form
+2. **Split:** In main clauses, prefix flies to the end
+3. **Keep together:** After modals, in subordinate clauses, as infinitives
+4. **Past tense:** ge- goes between prefix and verb stem
+5. **Practice:** The more you use them, the more natural they feel!
+6. **Don't panic:** Even native speakers had to learn these!
+7. **Have fun:** Separable verbs are like puzzles — satisfying to solve!
+
+**Pro tip:** Start with the 10 most common separable verbs (aufstehen, anrufen, ausgehen, einkaufen, mitkommen, weggehen, zumachen, zuhören, ankommen, abholen). Use them daily until the split becomes automatic. Then gradually add more to your vocabulary.
+
+Remember: Separable verbs aren't random — they follow logical patterns. Once you understand the system, they'll stop being confusing and start being fun!
 
 ---
-*Ready to master German verbs without the headache? [Open Das German Bot](https://t.me/dasgermanbot) — your first lesson takes 30 seconds.*
+*Ready to master German separable verbs through interactive practice? [Open Das German Bot](https://t.me/dasgermanbot) — your first lesson takes 30 seconds.*

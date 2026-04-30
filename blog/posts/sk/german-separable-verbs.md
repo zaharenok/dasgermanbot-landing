@@ -1,191 +1,467 @@
 ---
-title: "Nemecké deliteľné slovesá: Jednoduché pravidlo, ktoré odomká stovky slov"
-description: "Zobral si sa v nemeckých deliteľných slovesách? Tu je jednoduché pravidlo: predpona ide na koniec. Dozvi sa, ako fungujú nemecké deliteľné slovesá, s bežnými príkladmi, mnemotechnikmi a úplným zoznamom povinných predpôn."
-date: "2026-04-24"
+title: "Nemecké oddeliteľné slovesá (Trennbare Verben): Kompletný sprievodca pre začiatočníkov"
+description: "Bojuješ s nemeckými slovesami, ktoré sa rozdelia na polovicu? Ovládnite nemecké oddeliteľné slovesá (trennbare Verben) s jednoduchými pravidlami, bežnými predponami a pamäťovými trikmi. Naučte sa, ako predpona «odletí» na koniec vety!"
+date: "2026-04-30"
 lang: "sk"
 image: ""
-tags: ["gramatika", "začiatočníci", "slovesá"]
+tags: ["gramatika", "zaciatocnici", "slovesa", "oddovzitelne", "predpony"]
 ---
 
-# Nemecké deliteľné slovesá: Jednoduché pravidlo, ktoré odomká stovky slov
+# Nemecké oddeliteľné slovesá (Trennbare Verben): Kompletný sprievodca pre začiatočníkov
 
-Učíš sa nemčinu, robíš pokrok, a potom na to narazíš: deliteľné sloveso.
+Učíte sa nemčinu. Vidíte sloveso.
 
-*Ich stehe um 8 Uhr auf.* (Vstávám o 8.)
+A náhle... časť z neho **odletí** na koniec vety!
 
-Kam zmizlo *auf*? Prečo je *stehen* na začiatku a *auf* na konci? Je to nemčina alebo nejaký slovný hlavolam?
+Čo sa práve stalo? Stretnuli ste **oddeliteľné sloveso** (trennbares Verb) — jednu z najunikátnejších (a mätúcich) črt nemeckej gramatiky.
 
-Nemecké deliteľné slovesá sa zdajú byť chaotické. Ale tu je pravda: nasledujú jednému jednoduchému pravidlu. Keď ho pochopíš, stovky slovies zrazu dávajú zmysel.
+**Dobrá správa:** Keď raz pochopíte vzor, oddeliteľné slovesá sa stanú predvídateľnými a aj zábavnými!
 
-## Zlaté pravidlo: Predpona sa oddeľuje
+## Čo sú to oddeliteľné slovesá?
 
-**Nemecké deliteľné slovesá fungujú takto:**
+**Oddeliteľné slovesá** sú nemecké slovesá s predponou, ktorá sa môže „odpojiť“ od hlavného slovesa a presunúť na koniec vety alebo vety.
 
-1. **V hlavných vetách:** Predpona ide na KONIEC
-2. **V otázkach/príkazoch:** Predpona ide na KONIEC
-3. **V vedľajších vetách:** Predpona OSTANE so slovesom (ktoré ide na koniec)
+**Vizuálny vzor:**
 
-To je všetko. Jedno pravidlo.
+```
+Normálne:      Ich stehe um 8 Uhr auf.
+               Vstávám o 8 hodine.
 
-**Príklad: *aufstehen* (vstávať)**
+Rozdelené:    Ich  [stehe......................auf]
+               Ja    vstávám........................VSTÁŤ
+```
 
-Hlavná veta: *Ich stehe um 8 Uhr auf.*
-- *Ich* (ja)
-- *stehe* (stojím — sloveso bez predpony)
-- *um 8 Uhr* (o 8 hodine)
-- *auf* (hore — predpona na KONCI)
+Predpona *auf* „odletí“ od *stehen* a pristane na konci!
 
-Otázka: *Stehst du um 8 Uhr auf?*
-- *Stehst* (sloveso prvé)
-- *du* (ty)
-- *um 8 Uhr*
-- *auf* (stále na KONCI)
+**Kľúčové pravidlo:** V hlavnej vete predpona ide na **samý koniec**.
 
-## Ako rozpoznať deliteľné slovesá
+## Ako rozpoznať oddeliteľné slovesá
 
-**Jednoduchý test: pozri na prízvuk.**
+**Jednoduché rozoznávanie:** Pozrite sa na slovníkový tvar!
 
-Deliteľné slovesá sú prízvučné na PREDPONU:
-- *auf*stehen (vstávať) — prízvuk na *auf*
-- *an*rufen (volať) — prízvuk na *an*
-- *ein*kaufen (nakupovať) — prízvuk na *ein*
+Oddeliteľné slovesá sú v slovníku vždy napísané s predponou **pripojenou**:
 
-Nedeliteľné slovesá sú prízvučné na SLOVESO:
-- be*such*en (navštíviť) — prízvuk na *such*
-- ver*neh*men (vnímať) — prízvuk na *neh*
-- ent*wick*eln (rozvíjať) — prízvuk na *wick*
+- **aufstehen** (vstávať) = auf + stehen
+- **anrufen** (volať) = an + rufen
+- **weggehen** (odísť) = weg + gehen
+- **zumachen** (zavrieť) = zu + machen
 
-**Triky:** Ak je prízvuk na predpone — deliteľné. Ak na slovese — nedeliteľné.
+**Pamäťový trik:** Ak vidíte sloveso začínajúce malým slovom, ktoré môže stáť samostatne — pravdepodobne je oddeliteľné!
 
-## Veľká desiatka predpôn, ktoré potrebuješ
+## 25 najbežnejších oddeliteľných predpôn
 
-Týchto 10 predpôn tvorí 80% deliteľných slovies, s ktorými sa stretneš:
+### 1. AB- (od, dole, z)
 
-**1. AB (preč, dole)**
-- *abfahren* (odchádzať) — Vlak *fährt* o 5 minút *ab*.
-- *absagen* (zrušiť) — *Sage* stretnutie *ab*.
-- *ablegen* (položiť) — On *legt* knihu *ab*.
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **abfahren** | odchádzať (vlak/autobus) | Der Zug fährt um 10 Uhr ab. |
+| **abholen** | vyzdvihnúť / stretnúť | Ich hole dich ab. |
+| **abnehmen** | chudnúť / prijať (zásielku) | Ich nehme 2 Kilo ab. / Ich nehme das Paket ab. |
 
-**2. AN (na, k, začať)**
-- *anfangen* (začať) — *Fangen* zajtra *an*.
-- *anrufen* (volať) — *Rufe* ti *an*.
-- *ankommen* (príchodiť) — Vlak *kommt* o 10 *an*.
+### 2. AN- (na, k, začať)
 
-**3. AUF (hore, otvoriť)**
-- *aufstehen* (vstávať) — *Stehe* o 8 *auf*.
-- *aufmachen* (otvoriť) — Prosím, *mach* dvere *auf*.
-- *aufhören* ( prestať) — Kedy *hörst* *auf*?
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **anrufen** | volať (telefónom) | Ich rufe dich morgen an. |
+| **ankommen** | prichádzať | Wir kommen um 18 Uhr an. |
+| **anfangen** | začať | Fangen wir an! |
+| **anziehen** | obliecť si (oblečenie) | Ich ziehe mich an. |
 
-**4. AUS (z, vypnúť)**
-- *ausgehen* (chodiť von) — *Gehe* večer *aus*.
-- *ausschalten* (vypnúť) — Prosím, *schalt* televíziu *aus*.
-- *aussehen* (vyzerať) — *Siehst* dobre *aus*.
+### 3. AUF- (hore, otvoriť)
 
-**5. EIN (do, vnútri)**
-- *einkaufen* (nakupovať) — *Kaufe* potraviny *ein*.
-- *einladen* (pozvať) — Ona *lädt* ma *ein*.
-- *einschalten* (zapnúť) — Prosím, *schalt* svetlo *ein*.
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **aufstehen** | vstávať | Ich stehe um 7 Uhr auf. |
+| **aufmachen** | otvárať | Mach das Fenster auf! |
+| **aufhören** | prestať | Hör bitte auf! |
+| **aufpassen** | dávať pozor | Pass auf! |
 
-**6. MIT (s)**
-- *mitkommen* (ísť spolu) — *Kommst* *mit*?
-- *mitbringen* (priniesť so sebou) — *Bringem* víno *mit*.
-- *machen* (robiť) → *mitmachen* (zúčastniť sa) — *Mach* ty *mit*!
+### 4. AUS- (z, vypnúť)
 
-**7. NACH (po, k)**
-- *nachdenken* (premýšľať) — *Denke* o tom *nach*.
-- *nachmachen* (kopírovať) — To *nemach* *nach*.
-- *nachfragen* (opýtať sa dodatočne) — Prosím, *frag* *nach*.
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **ausgehen** | chodiť von (na zábavu) | Wir gehen heute aus. |
+| **ausschalten** | vypínať | Schalte das Licht aus. |
+| **aussehen** | vyzerať | Du siehst gut aus. |
+| **ausruhen** | odpočívať | Ich ruhe mich aus. |
 
-**8. VOR (pred, vpredu)**
-- *vorstellen* (predstaviť) — *Stelle* sa *vor*.
-- *vorbereiten* (pripraviť) — *Beriejeme* večeru *vor*.
-- *vorbeikommen* (zájsť) — *Komm* niekedy *vorbei*!
+### 5. BEI- (pri, pripojiť sa)
 
-**9. WEG (preč)**
-- *weggehen*ísť preč) — *Gehe* teraz *weg*.
-- *wegwerfen* (vyhodiť) — Prosím, *wirf* odpad *weg*.
-- *wegnehmen* (odobrať) — To *nimm* môj telefón *weg*.
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **beibringen** | učiť | Er bringt mir Deutsch bei. |
+| **beisteigen** | nastúpiť (do dopravy) | Steigen Sie bitte ein! |
 
-**10. ZURÜCK (späť)**
-- *zurückkommen* (vrátiť sa) — Kedy *kommt* *zurück*?
-- *zurückgeben* (vrátiť) — *Geebe* knihu *zurück*.
-- *zurückgehen*ísť späť) — *Gehen* teraz *zurück*.
+### 6. DA- (smerom k)
 
-## Obrat v vedľajších vetách
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **dableiben** | ostať tam | Bleiben Sie da! |
+| **dazwischenkommen** | miešať sa | Kommt dazwischen! |
 
-Vo vedľajších vetách (po *dass, weil, wenn, ob*) sa niečo mení:
+### 7. EIN- (do, vnútri)
 
-**Hlavná veta:** *Ich stehe um 8 Uhr auf.*
-- Sloveso (*stehe*) v pozícii 2
-- Predpona (*auf*) na konci
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **eingehen** | vstúpiť / vypršať | Das Ticket geht ein. |
+| **einkaufen** | nakupovať | Ich kaufe gern ein. |
+| **einladen** | pozvať | Ich lade dich ein. |
+| **einschlafen** | zaspávať | Ich schlaufe ein. |
 
-**Vedľajšia veta:** *Ich glaube, dass ich um 8 Uhr aufstehe.*
-- Sloveso S predponou (*aufstehe*) na konci
-- Sú opäť spolu!
+### 8. ENTGEGEN- (proti, naproti)
 
-**Prečo?** Pretože vedľajšie vety posielajú celé sloveso na koniec. Predpona sa neoddeľuje — len ide so slovesom.
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **entgegenkommen** | ísť naproti / vyjsť v ústrety | Er kommt mir entgegen. |
 
-## Mnemotechnika: trik "Magnetická predpona"
+### 9. FORT- (preč, pokračovať)
 
-Predstav si predponu ako magnet, ktorý sa zvyčajne ťahá na koniec vety. Ale vo vedľajších vetách sa celé sloveso ťahá na koniec tak silno, že magnet ostane pripojený.
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **fortsetzen** | pokračovať | Setzen wir fort! |
+| **fortgehen** | odísť | Geh fort! |
 
-**Ďalší trik:** Predstav si deliteľné slovesá ako zložené slová, ktoré sa dočasne delia. Ako "stand up" v angličtine — nepovieš "I stand at 8 up." Nemčina len robí toto delenie VIDITEĽNÝM.
+### 10. HER- (sem)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **herkommen** | prísť sem | Komm her! |
+| **herstellen** | vyrábať / zriadiť | Die Firma stellt Autos her. |
+
+### 11. HIN- (tam)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **hingehen** | ísť tam | Geh dorthin! |
+| **hinausgehen** | ísť von | Geh hinaus! |
+
+### 12. HINTER- (za)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **hinterbringen** | priniesť za | Bring es hinter! |
+
+### 13. LOS- (začať)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **losgehen** | začať sa / odísť | Wir gehen los! |
+| **loslassen** | pustiť | Lass los! |
+
+### 14. MIT- (s)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **mitkommen** | prísť spolu | Komm mit! |
+| **mitnehmen** | vziať so sebou | Nimm mich mit! |
+| **machen** (neoddeliteľné) | robiť | Ich mache das. |
+
+### 15. NACH- (po, za)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **nachdenken** | zamýšľať sa | Ich denke nach. |
+| **nachkommen** | nadväzovať / dodržiavať | Komm nach! |
+| **nachmachen** | napodobňovať / robiť po niekom | Mach das nach! |
+
+### 16. VOR- (pred, vpredu)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **vorbereiten** | pripravovať | Ich bereite mich vor. |
+| **vorstellen** | predstavovať / predstaviť si | Stell dir das vor! |
+| **vorbeigehen** | prechádzať okolo | Geh vorbei! |
+
+### 17. WEG- (preč, away)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **weggehen** | odísť | Geh weg! |
+| **wegwerfen** | vyhodiť | Wirf das weg! |
+| **wegnehmen** | odobrať / odniesť | Nimm das weg! |
+
+### 18. WEITER-ďalej)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **weitergehen** | ísť dalej | Geh weiter! |
+| **weitermachen** | pokračovať | Mach weiter! |
+| **weitergeben** | odovzdať ďalej | Gib es weiter! |
+
+### 19. WIEDER- (znova, späť)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **wiederkommen** | vrátiť sa | Komm wieder! |
+| **wiedersehen** | vidieť znova | Wir sehen uns wieder. |
+| **wiederholen** | opakovať | Hol das bitte! |
+
+### 20. ZU- (zatvoriť, k)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **zumachen** | zatvoriť | Mach die Tür zu! |
+| **zuhören** | počúvať | Hör mir zu! |
+| **zunehmen** | priberať / pribratať na váhe | Ich nehme zu. |
+
+### 21. ZURÜCK- (späť, naspäť)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **zurückkommen** | vrátiť sa | Komm zurück! |
+| **zurückgeben** | vrátiť späť | Gib das zurück! |
+| **zurückgehen** | vrátiť sa (pešo) | Geh zurück! |
+
+### 22. ZUSAMMEN- (spolu)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **zusammenarbeiten** | spolupracovať | Wir arbeiten zusammen. |
+| **zusammenleben** | žiť spolu | Sie leben zusammen. |
+
+### 23. DURCH- (cez)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **durchlesen** | prečítať si celé | Ich lese den Brief durch. |
+| **durchfallen** | neprejsť (skúška) | Ich bin durchgefallen. |
+
+### 24. ÜBER- (nad, cez)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **übersetzen** | preložiť / preplaviť sa | Er übersetzt den Text. |
+| **übernehmen** | prebrať | Ich übernahme die Aufgabe. |
+
+### 25. UNTER- (pod)
+
+| Sloveso | Význam | Príklad |
+|---------|---------|---------|
+| **unterscheiden** *rozlišovať* | Ich unterscheide nicht. |
+| **unterbrechen** | prerušiť | Unterbrich mich nicht! |
+
+## Zlaté pravidlá oddeliteľných slovies
+
+### Pravidlo 1: Hlavná veta = Predpona odletí na koniec
+
+**Vzor:** [Podmet] + [SKLOŇOVANÉ SLOVESO] + [Zvyšok vety] + [PREDPONA]
+
+```
+✅ Ich   stehe   um 7 Uhr   auf.
+   Ja    vstávám   o 7 hodin   VSTÁŤ
+
+✅ Er   ruft   mich   morgen   an.
+   On   volá  mi    zajtra   VOLAŤ
+```
+
+### Pravidlo 2: Otázka = Predpona ide stále na koniec
+
+```
+✅ Stehst   du   um 7 Uhr   auf?
+    Vstávaš  ty  o 7 hodin   VSTÁŤ?
+
+✅ Rufst   du   mich   an?
+    Voláš  ty  ma    VOLAŤ?
+```
+
+### Pravidlo 3: Modálne sloveso = Predpona ostáva doma
+
+Keď sa používa modálne sloveso (können, müssen, wollen, sollen, dürfen, mögen), oddeliteľné sloveso ostáva na konci spolu v infinitívnej forme!
+
+```
+✅ Ich   muss   um 7 Uhr   aufstehen.
+   Ja    musím   o 7 hodin   VSTÁVAŤ
+```
+
+Žiadne delenie! Infinitív ostane celý.
+
+### Pravidlo 4: Vedľajšia veta = Predpona ostáva doma
+
+V vedľajších vetách (po dass, weil, wenn atď.) sloveso ide na úplný koniec, ale ostáva **spolu**!
+
+```
+✅ Ich denke, dass   ich   um 7 Uhr   aufstehen   muss.
+   Ja myslím, že   ja    o 7 hodin   VSTÁVAŤ    musím
+```
+
+### Pravidlo 5: Imperatív = Predpona ide na koniec
+
+```
+✅ Steh   auf!
+    Vstaň!
+
+✅ Komm   mit!
+    Choď so mnou!
+```
+
+### Pravidlo 6: Minulý čas (Perfekt) = Predpona ide k ge-
+
+Keď tvoríme minulý čas s *haben/sein + ge-*, **ge-** vplíže **medzi** predponu a sloveso:
+
+```
+✅ Ich   bin   aufgestanden.
+   Ja    vstal som   VSTAVŠÍ
+
+✅ Ich   habe   angerufen.
+   Ja    volal som ZVOLAL
+```
+
+Vzor: **predpona + ge + kmeň slovesa + en**
+
+## Oddeliteľné vs Neoddeliteľné predpony
+
+**Ako rozlíšiť?**
+
+**Oddeliteľné predpony** sú prízvukové:
+- **AUF**stehen (prízvuk na AUF)
+- **AN**rufen (prízvuk na AN)
+
+**Neoddeliteľné predpony** bez prízvuku:
+- be**kom**men (prízvuk na kom)
+- ver**ste**hen (prízvuk na steh)
+- er**zäh**len (prízvuk na zäh)
+
+**Bežné neoddeliteľné predpony:**
+- be- (bekommen, besuchen)
+- ver- (verstehen, verkaufen)
+- er- (erzählen, erlernen)
+- ent- (entdecken, entfernen)
+- ge- (gebrauchen, gefallen)
+- miss- (misslingen, missverstehen)
+- zer- (zerstören, zerbrechen)
+
+## Pamäťové triky
+
+### Vizualizácia „Odletujúcej predpony“
+
+Predstavte si, že predpona je **vták**, ktorý odletí od slovesa a pristane na konci vety!
+
+```
+Ich [STEHE............🐦AUF]
+    VSTÁVAM................VSTÁŤ
+```
+
+### Metóda „Sendviča“
+
+Zapamätajte: V hlavných vetách je veta sendvič:
+- Horný chlieb: Skloňované sloveso (2. pozícia)
+- Plnka: Všetko ostatné
+- Dolný chlieb: Predpona (posledná pozícia)
+
+### Pravidlo „Spolu“
+
+**Ostať spolu keď:**
+- Po modáloch (ich muss aufstehen)
+- Vo vedľajších vetách (dass ich aufstehe)
+- Ako infinitívy (zu aufstehen)
+
+**Rozdeliť sa keď:**
+- V hlavných vetách (ich stehe auf)
+- V otázkach (stehe ich auf?)
+- V príkazoch (steh auf!)
 
 ## Bežné chyby
 
-**Chyba 1:** Zabudnúť oddeliť v otázkach
-- Nesprávne: *Kommst du mit?* (Správne!)
-- Nesprávne: *Mitkommst du?*
-- Pamätaj: Otázky nasledujú tomu istému pravidlu ako hlavné vety.
+### Chyba 1: Zabudnúť presunúť predponu
 
-**Chyba 2:** Dať predponu pred sloveso v hlavných vetách
-- Nesprávne: *Ich aufstehe um 8 Uhr.*
-- Správne: *Ich stehe um 8 Uhr auf.*
-- Predpona VŽDY ide na koniec v hlavných vetách.
+❌ Ich stehe auf um 7 Uhr. (predpona ostane pripojená)
+✅ Ich stehe um 7 Uhr auf. (predpona ide na koniec)
 
-**Chyba 3:** Odeliť vo vedľajších vetách
-- Nesprávne: *Ich glaube, dass ich stehe um 8 Uhr auf.*
-- Správne: *Ich glaube, dass ich um 8 Uhr aufstehe.*
-- Vo vedľajších vetách ich drž spolu.
+**Pravidlo:** Predpona MUSÍ ísť na úplný koniec v hlavných vetách.
 
-## Praktická štúdiová stratégia
+### Chyba 2: Presúvať predponu s modálmi
 
-Nesnaž sa zapamätať všetky deliteľné slovesá naraz. Začni s najbežnejšími:
+❌ Ich muss aufstehen um 7 Uhr. (predpona odletí)
+✅ Ich muss um 7 Uhr aufstehen. (infinitív ostane spolu)
 
-**Týždeň 1:** *aufstehen, anrufen, mitkommen, abfahren*
-**Týždeň 2:** *einkaufen, ausgehen, ausschalten, einschalten*
-**Týždeň 3:** *zurückkommen, weggehen, vorstellen, anfangen*
-**Týždeň 4:** Pridaj 5-10 ďalších z akejkoľvek kategórie
+**Pravidlo:** Po modáloch držte infinitív celý.
 
-Používaj ich vo vetách. Nie "aufstehen = vstávať", ale "Ich stehe um 7 Uhr auf." Tvoj mozog potrebuje kontext, nie len preklad.
+### Chyba 3: Nesprávna pozícia ge- v minulom čase
 
-## Prečo má nemčina deliteľné slovesá
+❌ Ich habe aufgerufen. (ge- vpredu)
+✅ Ich habe angerufen. (ge- v strede)
 
-Nemčina miluje presnosť. Deliteľné slovesá umožňujú baliť význam do kompaktných foriem:
+**Pravidlo:** V Perfekt ge- ide medzi predponu a kmeň slovesa.
 
-- *fahren* (ísť) vs *abfahren* (odchádzať)
-- *machen* (robiť) vs *mitmachen* (zúčastniť sa)
-- *kaufen* (kupovať) vs *einkaufen* (nakupovať potraviny)
+### Chyba 4: Pomiešanie oddeliteľných/neoddeliteľných
 
-Predpona úplne mení význam. Keď začneš rozpoznávať vzory, budeš môcť uhádnuť význam nových deliteľných slovies.
+❌ Ich verstanden dich. (neoddeliteľné ako oddeliteľné)
+✅ Ich verstand dich. (neoddeliteľné ostane spolu)
 
-## Keď sa mýliš (a budeš)
+**Pravidlo:** Neoddeliteľné predpony sa nikdy neoddeľujú!
 
-Nemci ťa pochopia aj keď zabudneš oddeliť predponu. Môže to znieť vtipne, ale neprestanú rozumieť rozhovoru.
+## Cvičenia
 
-Najhoršie, čo sa stane? Znieš ako ten, kto sa učí. Čo si aj.
+### Cvičenie 1: Doplniť prázdne miesta
 
-Prijmi to. Každá chyba je dátový bod pre tvoj mozog.
+1. Ich _____ (anrufen) dich morgen.
+   → Ich rufe dich morgen **an**.
+
+2. _____ (aufstehen) du um 7 Uhr?
+   → **Stehst** du um 7 Uhr **auf**?
+
+3. Wir müssen _____ (weitergehen).
+   → Wir müssen **weitergehen**. (ostane spolu!)
+
+4. Er _____ (mitkommen) nicht.
+   → Er kommt nicht **mit**.
+
+### Cvičenie 2: Premiestniť slová
+
+1. auf / Ich / stehe / 7 Uhr / um
+   → Ich stehe um 7 Uhr auf.
+
+2. musst / Du / weggehen
+   → Du musst weggehen. (ostane spolu!)
+
+3. einladen / Ich / dich / zum Essen
+   → Ich lade dich zum Essen **ein**.
+
+## Kultúrna poznámka
+
+Oddeliteľné slovesá sa môžu zdať zvláštne na začiatku, ale sú v skutočnosti veľmi logické! Nemci milujú skladanie zložených slov a oddeliteľné slovesá sú jednoducho zložené slovesá, ktoré sa môžu rozdeliť.
+
+**Zaujímavosť:** V nemčine sú stovky oddeliteľných slovies a neustále sa používajú v bežnej reči. Ovládanie ich je nevyhnutné pre prirodzený zvuk!
+
+## Tabuľka rýchlej referencie
+
+| Predpona | Význam | Príklad slovesa | Preklad |
+|----------|---------|----------------|---------|
+| ab- | od, dole | abfahren | odchádzať |
+| an- | na, k | anrufen | volať |
+| auf- | hore | aufstehen | vstávať |
+| aus- | z | ausgehen | chodiť von |
+| bei- | pri | beibringen | učiť |
+| ein- | do | einkaufen | nakupovať |
+| fort- | preč | fortgehen | odísť |
+| her- | sem | herkommen | prísť sem |
+| hin- | tam | hingehen | ísť tam |
+| los- | začať | losgehen | začať sa |
+| mit- | s | mitkommen | prísť spolu |
+| nach- | po | nachdenken | zamýšľať sa |
+| vor- | pred | vorbereiten | pripravovať |
+| weg- | preč | weggehen | odísť |
+| weiter- | dalej | weitermachen | pokračovať |
+| wieder- | znova | wiederkommen | vrátiť sa |
+| zu- | zatvoriť | zumachen | zatvoriť |
+| zurück- | späť | zurückkommen | vrátiť sa |
+| zusammen- | spolu | zusammenarbeiten | spolupracovať |
 
 ## Záver
 
-Nemecké deliteľné slovesá majú JEDNO pravidlo. Predpona ide na koniec v hlavných vetách a otázkach, ostane so slovesom vo vedľajších.
+Nemecké oddeliteľné slovesá nasledujú jasné vzory:
 
-To je všetko.
+1. **Rozpoznajte:** Hľadajte predpony pripojené v slovníkovom tvare
+2. **Rozdeľte:** V hlavných vetách predpona odletí na koniec
+3. **Držte spolu:** Po modáloch, vo vedľajších vetách, ako infinitívy
+4. **Minulý čas:** ge- ide medzi predponu a kmeň slovesa
+5. **Cvičte:** Čím viac ich používate, tým prirodzenejšie sa cíťia!
+6. **Nepanikárte:** Aj rodení hovoriaci sa ich učili!
+7. **Užívajte si:** Oddeliteľné slovesá sú ako hlavolamy!
 
-Nauč sa veľkú desiatku predpôn, trénuj s bežnými slovesami, a deliteľné slovesá prestanú byť zmesou a stanú sa druhou prirodzenosťou.
+**Profi tip:** Začnite s 10 najbežnejšími oddeliteľnými slovesami (aufstehen, anrufen, ausgehen, einkaufen, mitkommen, weggehen, zumachen, zuhören, ankommen, abholen). Používajte ich denne, kým sa delenie nestane automatické. Potom postupne pridávajte viac do svojej slovnej zásoby.
 
-A ak nič iné nepomáha? Pamätaj: *Ich stehe um 8 Uhr auf* — predpona vždy čaká na konci ako verný pes, ktorý čaká na svojho pána.
+Pamätajte: Oddeliteľné slovesá nie sú náhodné — nasledujú logickým vzorom. Keď raz pochopíte systém, prestanú byť mätúce a stanú sa zábavnými!
 
 ---
-*Pripravený ovládnuť nemecké slovesá bez bolesti hlavy? [Otvor Das German Bot](https://t.me/dasgermanbot) — prvá lekcia zabere 30 sekúnd.*
+*Pripravený ovládnuť nemecké oddeliteľné slovesá prostredníctvom interaktívneho precvičovania? [Otvorte Das German Bot](https://t.me/dasgermanbot) — vaša prvá lekcia trvá 30 sekúnd.*
