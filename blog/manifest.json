@@ -1745,5 +1745,34 @@
         "description": "Bojuješ s nemeckým skloňovaním slovies? Ovládni ako skloňovať nemecké slovesá v prítomnom čase s jednoduchými vzormi. Nauč sa pravidelné slovesá (slabé), nepravidelné slovesá (silné), modálne slovesá (können, müssen, wollen) a najdôležitejšie nemecké slovesá s tabuľkami skloňovania a príkladmi."
       }
     }
+  },
+  {
+    "slug": "german-word-order",
+    "date": "2026-04-30",
+    "tags": [
+      "grammar",
+      "beginners",
+      "word order",
+      "sentence structure",
+      "basics"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Word Order: Complete Guide to Satzbau for Beginners",
+        "description": "Struggling with German sentence structure? Master German word order (Satzbau) with simple rules. Learn verb position (V2 rule), subordinate clauses, time-manner-place rule, and how to build correct German sentences with clear examples and patterns."
+      },
+      "ru": {
+        "title": "Немецкий порядок слов: Полный справочник Satzbau для начинающих",
+        "description": "Борешься с немецкой структурой предложений? Овладей немецким порядком слов (Satzbau) с простыми правилами. Изучи позицию глагола (правило V2), придаточные предложения, правило время-способ-место и как строить правильные немецкие предложения с ясными примерами и паттернами."
+      },
+      "uk": {
+        "title": "Німецький порядок слів: Повний довідник Satzbau для початківців",
+        "description": "Борешся з німецькою структурою речень? Оволодійте німецьким порядком слів (Satzbau) з простими правилами. Вивчіть позицію дієслова (правило V2), прикрідні речення, правило час-спосіб-місце і як будувати правильні німецькі речення з ясними прикладами і паттернами."
+      },
+      "sk": {
+        "title": "Nemecké slovosled: Kompletný sprievodca Satzbau pre začiatočníkov",
+        "description": "Bojuješ s nemeckou štruktúrou viet? Ovládni nemecké slovosledie (Satzbau) s jednoduchými pravidlami. Nauč sa pozíciu slovesa (V2 pravidlo), vedľajúce vety, pravidlo čas-sposob-miesto a ako stavať správne nemecké vety s jasnými príkladmi a vzormi."
+      }
+    }
   }
 ]

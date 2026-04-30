@@ -1,347 +1,269 @@
 ---
-title: "Nemecké poradie slov: Jednoduché pravidlá, ktoré dávajú zmysel nemeckej syntaxe"
-description: "Bojuješ s nemeckým poradím slov? Nauč sa jednoduché pravidlá, ktoré dávajú zmysel nemeckej štruktúre viet — od pravidla verb-second po TEKaMoLo, vedľajšie vety a klauzuly. Ovládni nemeckú syntax bez straty rozumu."
-date: "2026-04-25"
+title: "Nemecké slovosled: Kompletný sprievodca Satzbau pre začiatočníkov"
+description: "Bojuješ s nemeckou štruktúrou viet? Ovládni nemecké slovosledie (Satzbau) s jednoduchými pravidlami. Nauč sa pozíciu slovesa (V2 pravidlo), vedľajúce vety, pravidlo čas-sposob-miesto a ako stavať správne nemecké vety s jasnými príkladmi a vzormi."
+date: "2026-04-30"
 lang: "sk"
 image: ""
-tags: ["gramatika", "začiatočníci", "syntax", "poradie-slov"]
+tags: ["gramatika", "zaciatocnici", "slovosled", "struktura viet", "zaklady"]
 ---
 
-# Nemecké poradie slov: Jednoduché pravidlá, ktoré dávajú zmysel nemeckej syntaxe
+# Nemecké slovosled: Kompletný sprievodca Satzbau pre začiatočníkov
+
+Učíte sa nemčinu. Chcete povedať "Dnes sa učím nemčinsky."
 
-Učíš sa nemčinu. Zapamätal si slovníkovú zásobu. Ovládol si pády.
+Zahliadnite sa. **Ich lerne heute Deutsch? Ich heute lerne Deutsch? Heute ich lerne Deutsch?** Ako správne stavať nemecké vety?
+
+Nemecké slovosledie (Satzbau) nasleduje konkrétne pravidlá — a chyby znejú neprirodzene.
+
+**Riešenie:** Ovládnite nemecké slovosledie s jasnými pravidlami, vzormi a stratégiami cvičenia.
+
+## Základná štruktúra vety
 
-Potom sa pokúšaš vytvoriť vetu a náhle... **KDE MÁ BYŤ SLOVESO?**
+**Štandardná nemecká veta:**
+
+1. **Podmet + Sloveso + Predmet**
+   - **Vzor:** S + V + O
+   - **Príklad:** "Ich lerne Deutsch." (Učím sa nemčinsky.)
+   - **Jednoduché tvrdenia nasledujú tomuto vzoru
 
-Nemecké poradie slov pôsobí ako chaos. Sloveso skáče ako v žrebciň. Slová sa objavujú na miestach, ktoré nedávajú zmysel. Tvoj mozog bolí.
+2. **Podmet + Sloveso + Čas + Spôsob + Miesto**
+   - **Vzor:** S + V + TMP
+   - **Príklad:** "Ich lerne heute zu Hause Deutsch." (Dnes sa učím nemčinsky doma.)
+   - **Pravidlo Čas-Spôsob-Miesto (TeMoPo)**
 
-Vitaj v **nemeckom poradí slov** — finálnom bossovi nemeckej gramatiky.
+## Pravidlo V2 (Sloveso druhé)
+
+**Najdôležitejšie pravidlo nemeckého slovosledu:**
 
-Ale tu je tajomstvo: **nemecké poradie slov v skutočnosti nasleduje prísne pravidlá.** Keď im pochopíš, nemecká syntax sa stane logickou, predvídateľnou a dokonca uspokojivou.
+3. **Skloňované sloveso vždy na druhej pozícii**
+   - **Pozícia 2:** Sloveso je druhé
+   - **NIE:** Druhé slovo — druhá gramatická pozícia
+   - **Príklady:**
+     - "Ich lerne Deutsch." (Učím sa nemčinsky.)
+     - "Heute lerne ich Deutsch." (Dnes sa učím nemčinsky.)
+     - "Deutsch lerne ich heute." (Nemčinsky sa učím dnes.)
+
+4. **Čo sa počíta "prvú pozíciu"?**
+   - **Podmet:** "Ich lerne Deutsch."
+   - **Čas:** Heute, Morgen, Jetzt, Gestern
+   - **Miesto:** Hier, Dort, In Deutschland
+   - **Predmety:** Das Buch, Den Mann
+   - **Príslovky:** Leider, Hoffentlich, Vielleicht
+   - **Predložkové frázy:** Im Kino, Zur Arbeit
 
-## Veľký obrázok: Prečo sa nemecké poradie slov zdá šialené
+## Pravidlo TeMoPo
 
-**Anglicky hovoriaci očakávajú:** Podmet → Sloveso -> Prísudok
-"I eat the apple."
+**Poradie: Čas - Spôsob - Miesto:**
 
-**Nemčina hovorí:** Nie tak rýchlo. Pozícia slovesa závisí od typu vety.
+5. **Keď máte viac príslovných fráz**
+   - **Te (Tempo):** Čas — kedy?
+   - **Mo (Modus):** Spôsob — ako?
+   - **Po (Place):** Miesto — kde?
+   - **Poradie:** Čas pred Spôsobom pred Miestom
 
-Dobrá správa? Sú len **3 hlavné vzory**, ktoré musíš ovládnuť. Keď ich poznáš, môžeš správne postaviť akúkoľvek nemeckú vetu.
+6. **Príklady viet**
+   - "Ich fahre heute mit dem Bus nach Berlin."
+     - Čas: heute (dnes)
+     - Spôsob: mit dem Bus (autobusom)
+     - Miesto: nach Berlin (do Berlína)
 
-## Vzor 1: Pravidlo V2 (Sloveso-Druhé)
+   - "Er arbeitet jeden Tag im Büro mit seinem Computer."
+     - Čas: jeden Tag (každý deň)
+     - Miesto: im Büro (v kancelárii)
+     - Spôsob: mit seinem Computer (s jeho počítačom)
 
-**Toto je zlaté pravidlo nemeckej syntaxe.**
+7. **Keď Miesto ide pred Spôsob**
+   - **Dôraz:** Ak chcete zdôrazniť spôsob
+   - **Príklad:** "Ich fahre mit dem Bus heute nach Berlin."
+   - **Fokus:** Na doprave, nie na čase
 
-V hlavných vetách (bežné tvrdenia) **skloňované sloveso MUSÍ byť na druhej pozícii.**
+## Otázky
 
-**Čo znamená "druhá pozícia"?**
-Je to druhý **element** — nie nutne druhé slovo.
+**Ako formovať otázky v nemčine:**
 
-### Príklady:
+8. **Áno/Nie otázky**
+   - **Sloveso prvé:** Sloveso + Podmet + ...
+   - **Príklad:** "Lernst du Deutsch?" (Učíš sa nemčinsky?)
+   - **Príklad:** "Arbeitest du heute?" (Pracuješ dnes?)
 
-**1. Štandard: Najprv podmet**
-- Ich **kaufe** einen Apfel
-- (Ja kupujem jablko)
-- Pozícia 1: Ich | Pozícia 2: kaufe
+9. **W-otázky (Informačné otázky)**
+    - **Pýtacie slovo prvé:** W-slovo + Sloveso + Podmet + ...
+    - **Príklady:**
+      - "Was lernst du?" (Čo sa učíš?)
+      - "Wann arbeitest du?" (Kedy pracuješ?)
+      - "Wo wohnst du?" (Kde bývaš?)
+      - "Warum lernst du Deutsch?" (Prečo sa učíš nemčinsky?)
 
-**2. Najprv čas (presun dopredu)**
-- Heute **kaufe** ich einen Apfel
-- (Dnes kupujem ja jablko)
-- Pozícia 1: Heute | Pozícia 2: kaufe
+10. **Bežné pýtacie slová**
+    - **Was** (čo)
+    - **Wo** (kde)
+    - **Wann** (kedy)
+    - **Wie** (ako)
+    - **Warum** (prečo)
+    - **Wer** (kto)
+    - **Welche** (ktorý)
+    - **Wohin** (kam)
+    - **Woher** (odkiaľ)
 
-**3. Najprv prísudok (dôraz)**
-- Einen Apfel **kaufe** ich heute
-- (Jablko kupujem ja dnes)
-- Pozícia 1: Einen Apfel | Pozícia 2: kaufe
+## Súradné spojky
 
-**Vidíš vzor?** Sloveso je VŽDY na pozícii 2, bez ohľadu na to, čo ide prvé.
+**Spojky, ktoré nemenia poriadie slov:**
 
-Práve preto môžeš v nemčine presúvať slová pre dôraz — sloveso ostáva uzamknuté na pozícii 2.
+11. **und, oder, aber, denn**
+    - **und** (a): "Ich lerne Deutsch und Englisch."
+    - **oder** (alebo): "Lernst du Deutsch oder Englisch?"
+    - **aber** (ale): "Ich lerne Deutsch, aber es ist schwer."
+    - **denn** (lebo): "Ich lerne Deutsch, denn es ist wichtig."
 
-### Cvičenie na prax:
-Premeň tieto vety presúvaním rôznych elementov na začiatok:
+    - **Poradie slov ostáva štandardný:** Podmet + Sloveso + ...
 
-1. Ich **gehe** morgen ins Kino
-   - Morgen **gehe** ich ins Kino
-   - Ins Kino **gehe** ich morgen
+12. **Používanie súradných spojok**
+    - **Časť 1 + und/aber + Časť 2**
+    - **Príklad:** "Ich gehe ins Kino und mein Freund kommt mit."
+    - **Zmeny pozície slovesa v druhej časti nie je**
 
-## Vzor 2: Pravidlo TEKaMoLo (Poradie slov vo vetách)
+## Vedľajúce vety
 
-Keď máš vo vete viacero elementov (čas, spôsob, miesto), nemčina nasleduje špecifické poradie:
+**Spojky, ktoré posielajú sloveso na koniec:**
 
-**TEKaMoLo = Temporal → Kausal → Modal → Lokal**
+13. **Podradené spojky (sloveso ide na koniec)**
+    - **weil** (lebo): "..., weil ich Zeit habe."
+    - **dass** (že): "..., dass ich Deutsch lerne."
+    - **wenn** (keď/ak): "..., wenn ich Zeit habe."
+    - **ob** (či/ak): "..., ob er kommt."
+    - **obwohl** (hoci): "..., obwohl es schwer ist."
 
-| Element | Na akú otázku odpovedá | Príklad |
-|---------|----------------------|--------|
-| **T**emporal | Kedy? | heute, morgen, oft |
-| **K**ausal | Prečo? | deshalb, deshalb, um...zu |
-| **a** (voliteľne) | - | - |
-| **M**odal | Ako? | gerne, schnell, mit dem Bus |
-| **L**okal | Kde? | nach Hause, ins Kino, in Berlin |
+14. **Štruktúra vedľajúcej vety**
+    - **Hlavná veta:** Podmet + Sloveso + ...
+    - **Čiarka**
+    - **Vedľajúca veta:** Podmet + ... + skloňované sloveso (na konci)
+    - **Príklad:** "Ich lerne Deutsch, weil es schön ist."
 
-### Príklady:
+15. **Kompletné príklady viet**
+    - "Ich lerne Deutsch, weil ich nach Deutschland fahren will."
+      - (Učím sa nemčinky, lebo chcem ísť do Nemecka.)
 
-**1. Všetky elementy prítomné:**
-Ich fahre **heute** **deshalb** **gerne** **nach Hause**
-(Ja jediem dnes preto rád domov)
-Preklad: "Preto som dnes rád, že pojdem domov."
+    - "Weißt du, ob er heute kommt?"
+      - (Vieš, či príde dnes?)
 
-**2. Bežné kombinácie:**
-- Ich **gehe** **oft** **gerne** **ins Kino**
-  (Chodím často rád do kina)
-  "Často rád chodím do kina."
+## Obrátené slovosledie
 
-- Ich **fahre** **morgen** **mit dem Bus** **zur Arbeit**
-  (Jazdím zajtra autobusom do práce)
-  "Zajtra idem autobusom do práce."
+**Keď niečo iné než podmet stojí prvé:**
 
-### Reálne príklady:
+16. **Inverzia po príslovkách**
+    - **Normálne:** "Ich lerne heute Deutsch."
+    - **Inverzia:** "Heute lerne ich Deutsch."
 
-**Správne TEKaMoLo:**
-- Ich **heute** **schnell** **nach Hause** **gehe** ❌
-- Ich **gehe** **heute** **schnell** **nach Hause** ✅
+17. **Inverzia po predložných frázach**
+    - **Normálne:** "Ich wohne in einem großen Haus."
+    - **Inverzia:** "In einem großen Haus wohne ich."
 
-**Prečo?** Sloveso musí ostať na pozícii 2!
+18. **Inverzia po predmetoch**
+    - **Normálne:** "Ich sehe den Mann."
+    - **Inverzia:** "Den Mann sehe ich."
 
-## Vzor 3: Vedľajšie vety (Sloveso ide na KONIEC)
+## Zápor
 
-Tu sa najviac pletú študenti. Vo vedľajších vetách (po slovách ako *weil, dass, wenn, ob*) skloňované sloveso **prejde na úplný koniec.**
+**Ako robiť vety zápornými:**
 
-### Spúšťacie slová:
-- **weil** (lebo)
-- **dass** (že)
-- **wenn** (keď/ak)
-- **ob** (či)
-- **obwohl** (hoci)
-- **da** (keďže/lebo)
+19. **Umiestnenie nicht**
+    - **Po skloňovanom slovese:** "Ich lerne nicht Deutsch."
+    - **Po predmetoch:** "Ich sehe den Mann nicht."
+    - **Po príslovkoch času:** "Ich komme heute nicht."
+    - **Pred prídavnými menami:** "Das ist nicht gut."
 
-### Príklady:
+20. **Umiestnenie kein**
+    - **Namiesto "nicht + ein":** "Ich habe kein Auto."
+    - **S podstatnými menami:** "Ich sehe keinen Mann." (akuzatív)
+    - **Skloňuje sa ako ein:** keinen, keine, kein, keine, keine, keine
 
-**1. Štandardná hlavná veta:**
-Ich **gehe** ins Kino, weil ich **möchte**.
-(Chodím do kina, lebo chcem.)
+21. **nicht vs. kein**
+    - **nicht:** Zporuje slovesá, prídavné mená, celé vety
+    - **kein:** Zporuje podstatné mená (namiesto ein)
+    - **Príklad:** "Ich habe kein Buch" vs "Ich habe das Buch nicht."
 
-**2. Vedľajšia veta so slovesom na konci:**
-Ich **gehe** ins Kino, weil ich einen Film **sehen möchte**.
-(Chodím do kina, lebo ja film vidieť chcem.)
-"Chodím do kina, lebo chcem vidieť film."
+## Modálne slovesá vo vetách
 
-**3. Zložité s dvoma slovesami:**
-Ich **weiß**, dass du **morgen kommst**.
-(Viem, že ty zajde prídeš.)
-"Viemo, že prídeš zajtra."
+**Kde idú modálne slovesá?**
 
-**Ich** **weiß**, dass du **morgen kommen wirst**.
-(Viem, že ty zajde prísť budeš.)
-"Viemo, že prídeš zajtra."
+22. **Modálne sloveso + infinitív na konci**
+    - **Vzor:** Podmet + Modál + ... + Infinitív
+    - **Príklad:** "Ich kann Deutsch sprechen." (Viem hovoriť po nemecky.)
+    - **Príklad:** "Ich muss heute lernen." (Musím sa dnes učiť.)
 
-Vidíš, ako je skloňované sloveso (*wirst*) na úplnom konci, po druhom slovese (*kommen*)?
+23. **Modálne slovesá s oddelovacími predponkami**
+    - **Predpona ostáva na konci:** "Ich muss heute aufstehen."
+    - **NIE:** "Ich muss aufstehen heute"
+    - **Infinitív:** aufstehen (nie aufgestanden)
 
-### Poradie slov vo vedľajších vetách:
+24. **Dvojitý infinitív**
+    - **Perfektum:** "Ich habe Deutsch lernen müssen."
+    - **Poradie:** pomocné sloveso + ... + modálne + iné slovesá
+    - **Príklad:** "Ich habe das Buch lesen können."
 
-Vo vnútri vedľajších viet poradie slov nasleduje rovnaký vzor TEKaMoLo, ale všetko ide po podmete:
+## Oddeľovateľné slovesá
 
-**Ich** **gehe** nicht aus, **weil** es **heute** **stark** **regnet**.
-(Nechodím von, lebo to dnes silno prší.)
-"Nechodím von, pretože dnes silne prší."
+**Ako zaobchádzať s oddeľovacími slovesami:**
 
-Rozbor:
-- **weil** (spúšťač) + **es** (podmet) + **heute** (čas) + **stark** (spôsob) + **regnet** (sloveso-koniec)
+25. **Hlavná veta: predpona sa oddeľuje**
+    - **Vzor:** Podmet + Kmeň + ... + Predpona
+    - **Príklad:** "Ich stehe heute um 8 Uhr auf."
+    - **Predpona:** auf (na konci)
 
-## Vzor s koordinačnými spojkami (Použitie Und, Oder, Aber)
+26. **Vedľajúca veta: predpona sa neoddeľuje**
+    - **Vzor:** Podmet + Predpona + Kmeň + ...
+    - **Príklad:** "..., weil ich heute um 8 Uhr aufstehe."
+    - **Poznámka:** Sloveso stále ide na koniec vety
 
-Keď spájaš dve hlavné vety koordinačnými spojkami, každá veta si zachováva svoje pravidlo V2:
+27. **Otázky s oddeľovacími slovesami**
+    - **Áno/Nie otázka:** "Stehst du heute um 8 Uhr auf?"
+    - **W-otázka:** "Wann stehst du heute auf?"
 
-**Koordinačné spojky:** und, oder, aber, denn, sondern
+## Komplexné vety
 
-**Príklady:**
+**Tvorba dlhších viet:**
 
-1. **Ich** **kaufe** einen Apfel **und** **iss** ihn sofort.
-   (Kúpim jablko a zjem ho okamžite.)
-   V každej vete je sloveso na pozícii 2.
+28. **Hlavná + vedľajúca**
+    - **Príklad:** "Ich lerne Deutsch, weil ich in Deutschland arbeiten will."
+    - **Štruktúra:** Hlavná (V2) + čiarka + vedľajúca (sloveso na konci)
 
-2. **Ich** **mag** Pizza, **aber** **ich** **esse** sie nicht jeden Tag.
-   (Mám rád pizzu, ale ja ju nejem každý deň.)
-   "Mám rád pizzu, ale nejem ju každý deň."
+29. **Vedľajúca + hlavná**
+    - **Príklad:** "Weil ich Zeit habe, lerne ich Deutsch."
+    - **Poznámka:** Vedľajúca prvá, sloveso v hlavnej ostáva na pozícii 2
 
-## Otázky: Invertovaný vzor
+30. **Viac vedľajúcich viet**
+    - **Príklad:** "Ich denke, dass das Deutsch lernen wichtig ist, und ich übe jeden Tag."
+    - **Viac dass:** "Ich weiß, dass er kommt, und dass er das Buch mitbringt."
 
-V otázkach áno/nie sloveso ide **prvé**:
+## Rýchla referenčná tabuľka
 
-**1. Otázky áno/nie:**
-- **Kommst** du morgen?
-- (Prídeš zajtra?)
-- "Prídeš zajtra?"
-
-- **Hast** du einen Hund?
-- (Máš psa?)
-- "Máš psa?"
-
-**2. W-Otázky (kto, čo, kde, kedy):**
-Otázkové slovo — pozícia 1, sloveso — pozícia 2:
-
-- **Wo** **wohnt** du?
-- (Kde bývaš ty?)
-- "Kde bývaš?"
-
-- **Wann** **kommst** du?
-- (Kedy prídeš ty?)
-- "Kedy prídeš?"
-
-## Imperatívy: Príkazy
-
-Pre príkazy sloveso ide **prvé**:
-
-- **Komm** hier!
-- (Poď sem!)
-- "Poď sem!"
-
-- **Geh** nach Hause!
-- (Íď domov!)
-- "Íď domov!"
-
-## Problém s oddeľovacími slovesami
-
-Keď používaš oddeľovacie slovesá (ako *aufstehen, mitkommen, weggehen*), predpona ostáva na konci v hlavných vetách:
-
-**Hlavná veta:**
-- Ich **stehe** um 8 Uhr **auf**.
-- (Vstávám o 8 hod. hore.)
-- "Vstávám o 8 ráno."
-
-**Vedľajšia veta:**
-- Ich **muss** um 8 Uhr **aufstehen**.
-- (Musím o 8 hod. hore-vstať.)
-- "Musím vstať o 8 ráno."
-
-Predpona **ostáva pripojená** vo vedľajších vetách a infinitívoch!
-
-## Vzor s modálnymi slovesami
-
-Keď používaš modálne slovesá (*können, müssen, wollen, dürfen, sollen, mögen*), modálne sloveso sa skloňuje a zaujíma pozíciu 2, zatiaľ čo hlavné sloveso ide na koniec v infinitíve:
-
-**1. Hlavná veta:**
-- Ich **kann** heute **kommen**.
-- (Môžem dnes prísť.)
-- "Môžem prísť dnes."
-
-**2. Vedľajšia veta:**
-- Ich **glaube**, dass ich **heute kommen kann**.
-- (Verím, že ja dnes prísť môžem.)
-- "Verím, že môžem prísť dnes."
-
-**3. S elementmi TEKaMoLo:**
-- Ich **kann** **morgen** **nicht kommen**, weil ich **arbeiten muss**.
-- (Môžem zajtra neprísť, lebo ja pracovať musím.)
-- "Nemôžem prísť zajtra, lebo musím pracovať."
-
-## Perfekt: Kam ide 'Geht'?
-
-Keď používaš perfekt (*haben/sein* + príčastie), pomocné sloveso zaujíma pozíciu 2 a príčastie ide na koniec:
-
-**Hlavná veta:**
-- Ich **habe** gestern einen Apfel **gegessen**.
-- (Mám včera jablko zjedané.)
-- "Zjedol som jablko včera."
-
-**Vedľajšia veta:**
-- Ich **sage**, dass ich **gestern einen Apfel gegessen habe**.
-- (Hovorím, že ja včera jablko zjedané mám.)
-- "Hovorím, že som zjedol jablko včera."
-
-## Pasívny rod: Rovnaký vzor
-
-Pasív nasleduje rovnaké pravidlá poradia slov:
-
-- Der Kuchen **wird** **jetzt** **gebacken**.
-- (Koláč sa práve pieče.)
-- "Koláč sa práve pieče."
-
-- Ich **glaube**, dass der Kuchen **jetzt gebacken wird**.
-- (Verím, že koláč práve upečený bude.)
-- "Verím, že sa koláč práve pieče."
-
-## Ultimátna cheatsheet pre poradie slov
-
-| Typ vety | Pozícia slovesa | Príklad |
-|----------|-----------------|--------|
-| **Hlavná veta** | Pozícia 2 | Ich **kaufe** einen Apfel |
-| **Otázka (áno/nie)** | Pozícia 1 | **Kommst** du? |
-| **W-Otázka** | Pozícia 2 | **Wo** **wohnst** du? |
-| **Vedľajšia veta** | Úplný koniec | ...dass ich **komme** |
-| **Imperatív** | Pozícia 1 | **Komm** hier! |
-| **S modálnym** | Modálne v poz 2, hlavné na konci | Ich **kann kommen** |
-| **Perfekt** | Haben/sein v poz 2, príčastie na konci | Ich **habe gegessen** |
-| **Vedľajšia + perfekt** | Obe slovesá na konci (haben posledné) | ...dass ich **gegessen habe** |
-
-## Bežné chyby poradia slov (Ako ich opraviť)
-
-### Chyba 1: Zabudnutie pravidla V2
-❌ Ich heute in den Park gehe.
-✅ Ich **gehe** heute in den Park.
-✅ Heute **gehe** ich in den Park.
-
-### Chyba 2: Nesprávne poradie TEKaMoLo
-❌ Ich gehe schnell nach Hause heute.
-✅ Ich gehe **heute schnell** nach Hause.
-
-### Chyba 3: Sloveso nie je na konci vo vedľajších
-❌ Ich weiß nicht, wann kommt er.
-✅ Ich weiß nicht, wann er **kommt**.
-
-### Chyba 4: Chyby s oddeľovacími predponami
-❌ Ich stehe auf um 8 Uhr auf.
-✅ Ich **stehe** um 8 Uhr **auf**.
-
-## Pokročilé tipy pre ovládnutie nemeckého poradia slov
-
-### Tip 1: Použi metódu "zátvoriek"
-Premýšľaj o nemeckých vetách ako o zátvorkách:
-- **Hlavná veta:** [Sloveso na začiatku] ... [Všetko ostatné na konci]
-- **Vedľajšia veta:** [Podmet ... Slovesá na úplnom konci]
-
-### Tip 2: Označuj svoje slovesá
-Keď čítaš, zvýrazni všetky slovesá. Začneš vidieť vzor:
-
-"Ich **weiß**, dass du **morgen kommst**, aber ich **weiß** nicht, ob du **lange bleiben wirst**."
-
-Vidíš, ako slovesá vytvárajú rám?
-
-### Tip 3: Cvič s farebným kódovaním
-- **Červená** = Slovesá (skloňované)
-- **Modrá** = Slovesá na konci (infinitívy, príčastia)
-- **Zelená** = Elementy TEKaMoLo
-- **Žltá** = Spúšťače vedľajších viet
-
-### Tip 4: Počúvaj pauzy
-Nemci prirodzene robia pauzu pred slovesom na konci. Trénuj ucho počuť tento rytmus.
-
-## Poradie slov v skutočných nemeckých vetách
-
-**Z nemeckých novín:**
-"Die Regierung **hat** **heute** **beschlossen**, **dass** **das neue Gesetz** **nächsten Monat in Kraft tritt**."
-
-Rozbor:
-- Hlavná: Die Regierung **hat** heute beschlossen
-- Vedľajšia: dass das neue Gesetz nächsten Monat in Kraft tritt
-
-**Z bežného rozhovoru:**
-"Ich **glaube**, **dass** **du** **morgen** **nicht kommen kannst**, **weil** **du** **arbeiten musst**."
+| Typ vety | Slovosledie |
+|----------|------------|
+| Tvrdenie | Podmet + Sloveso + ... |
+| Dôraz | Čas/Miesto + Sloveso + Podmet + ... |
+| Áno/Nie otázka | Sloveso + Podmet + ... |
+| W-otázka | W-slovo + Sloveso + Podmet + ... |
+| S und/aber | Štandardný poriadie pokračuje |
+| Vedľajúca | Sloveso na koniec |
+| Zápor | nicht po slovesu/predmete, kein pred podstatným menom |
+| Modálny | Podmet + Modálny + ... + infinitív |
+| Oddeľovací | Predpona ide na koniec |
 
 ## Záver
 
-Nemecké poradie slov nie je náhodné — je to logický systém s jasnými pravidlami:
+Nemecké slovosledie nasleduje jasné pravidlá:
 
-1. **Hlavné vety:** Sloveso na pozícii 2
-2. **Vedľajšie vety:** Sloveso na úplnom konci
-3. **Viacero elementov:** Nasleduj TEKaMoLo (Čas → Spôsob → Miesto)
-4. **Otázky:** Sloveso prvé (áno/nie) alebo na pozícii 2 (w-otázky)
+1. **Pravidlo V2:** Skloňované sloveso vždy druhé
+2. **TeMoPo:** Čas pred Spôsobom pred Miestom
+3. **Otázky:** Sloveso prvé alebo W-slovo prvé
+4. **Vedľajúce:** Sloveso na koniec
+5. **Súradné spojky:** Bez zmien
+6. **Modálne:** Modálny + ... + infinitív
+7. **Oddeľovacie:** Predpona sa oddeľuje v hlavnej
 
-Keď tieto vzory zakliknú, nemecká štruktúra viet sa stane druhou prirodzenosťou. Začneš myslieť v nemeckej syntaxi prirodzene.
+**Profi tip:** Začnite s **jednoduchými Podmet + Sloveso + Predmet vetami** — ovládnite pravidlom V2 najprv. Potom pridávajte časové výrazy, potom vedľajúce. A pamätajte: nemecké slovosledie je o štruktúre, nie o preklade z angličtiny!
 
-**Profesionálny tip:** Začínaj každú vetu určením pozície slovesa. Je to hlavná veta? Sloveso ide na pozíciu 2. Vedľajšia? Sloveso ide na koniec. Všetko ostatné nasleduje odtiaľ.
-
-Tvoj mozog poďakuje. A tvoja nemčina tiež.
+Vaše ovládnutie nemeckých viet začína pochopením pravidla V2. Veľa šťastia!
 
 ---
-*Pripravený ovládnuť nemecké poradie slov cez prax? [Otvor Das German Bot](https://t.me/dasgermanbot) — tvoja prvá lekcia zoberie 30 sekúnd.*
+*Pripravený ovládnuť nemecké slovosledie prostredníctvom interaktívneho cvičenia? [Otvorte Das German Bot](https://t.me/dasgermanbot) — vaša prvá lekcia trvá 30 sekúnd.*
