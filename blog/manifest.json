@@ -1855,5 +1855,32 @@
       "title": "Nemecké oddeliteľné slovesá (Trennbare Verben): Kompletný sprievodca pre začiatočníkov",
       "description": "Bojuješ s nemeckými slovesami, ktoré sa rozdelia na polovicu? Ovládnite nemecké oddeliteľné slovesá (trennbare Verben) s jednoduchými pravidlami, bežnými predponami a pamäťovými trikmi. Naučte sa, ako predpona «odletí» na koniec vety!"
     }
+  },
+  {
+    "slug": "german-modal-verbs",
+    "date": "2026-04-30",
+    "tags": [
+      "grammar",
+      "beginners",
+      "verbs",
+      "modal",
+      "conjugation"
+    ],
+    "en": {
+      "title": "German Modal Verbs: The Complete Guide for Beginners (Können, Müssen, Wollen & More!)",
+      "description": "Master the 6 German modal verbs (können, müssen, wollen, dürfen, sollen, mögen) with simple conjugation tables, usage rules, and examples. Learn how to express ability, obligation, and desire in German!"
+    },
+    "ru": {
+      "title": "Немецкие модальные глаголы: Полный справочник для начинающих (Können, Müssen, Wollen и другие!)",
+      "description": "Овладей 6 немецкими модальными глаголами (können, müssen, wollen, dürfen, sollen, mögen) с простыми таблицами спряжения, правилами использования и примерами. Изучите, как выражать способность, обязанность и желание в немецком!"
+    },
+    "uk": {
+      "title": "Німецькі модальні дієслова: Повний довідник для початківців (Können, Müssen, Wollen та інші!)",
+      "description": "Оволодійте 6 німецькими модальними дієсловами (können, müssen, wollen, dürfen, sollen, mögen) з простими таблицями відмінювання, правилами використання та прикладами. Вивчіть, як виражати здатність, зобов'язання та бажання в німецькій!"
+    },
+    "sk": {
+      "title": "Nemecké modálne slovesá: Kompletný sprievodca pre začiatočníkov (Können, Müssen, Wollen a ďalšie!)",
+      "description": "Ovládnite 6 nemeckých modálnych slovies (können, müssen, wollen, dürfen, sollen, mögen) s jednoduchými tabuľkami skloňovania, pravidlami používania a príkladmi. Naučte sa, ako vyjadriť schopnosť, povinnosť a želanie v nemčine!"
+    }
   }
 ]
