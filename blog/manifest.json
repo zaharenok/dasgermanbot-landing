@@ -1629,5 +1629,34 @@
         "description": "Chcete pozdraviť ľudí po nemecky ako miestny? Ovládnite základné nemecké pozdravy od Guten Tag a Hallo po Wie geht's a Tschüss. Naučte sa formálne a neformálne pozdravy, predstavovanie, kultúrne tipy a čo Nemci skutočne hovoria v každodennom živote."
       }
     }
+  },
+  {
+    "slug": "german-time-date",
+    "date": "2026-04-30",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "time",
+      "dates",
+      "basics"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Time and Date: Complete Guide to Uhrzeit and Datum for Beginners",
+        "description": "Want to tell time and dates in German? Master essential German time and date vocabulary from Uhr and Minuten to Wochentage and Monate. Learn how to ask for the time, say the date, use the 24-hour clock, and understand German time expressions."
+      },
+      "ru": {
+        "title": "Немецкое время и даты: Полный справочник Uhrzeit и Datum для начинающих",
+        "description": "Хочешь говорить о времени и датах по-немецки? Овладей основной лексикой немецкого времени и дат от Uhr и Minuten до Wochentage и Monate. Изучи как спрашивать время, говорить дату, использовать 24-часовой формат и понимать немецкие временные выражения."
+      },
+      "uk": {
+        "title": "Німецький час і дати: Повний довідник Uhrzeit і Datum для початківців",
+        "description": "Хочеш говорити про час і дати німецькою? Оволодійте основною лексикою німецького часу і дат від Uhr і Minuten до Wochentage і Monate. Вивчіть як запитувати час, говорити дату, використовувати 24-годинний формат і розуміти німецькі часові вирази."
+      },
+      "sk": {
+        "title": "Nemecký čas a dátumy: Kompletný sprievodca Uhrzeit a Datum pre začiatočníkov",
+        "description": "Chcete hovoriť o čase a dátumoch po nemecky? Ovládnite základnú nemčinu slovnú zásobu času a dátumov od Uhr a Minuten po Wochentage a Monate. Naučte sa ako opýtať sa na čas, povedať dátum, použiť 24-hodinový formát a porozumieť nemeckým časovým výrazom."
+      }
+    }
   }
 ]
