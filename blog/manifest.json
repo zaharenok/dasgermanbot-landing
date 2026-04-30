@@ -1774,5 +1774,32 @@
         "description": "Bojuješ s nemeckou štruktúrou viet? Ovládni nemecké slovosledie (Satzbau) s jednoduchými pravidlami. Nauč sa pozíciu slovesa (V2 pravidlo), vedľajúce vety, pravidlo čas-sposob-miesto a ako stavať správne nemecké vety s jasnými príkladmi a vzormi."
       }
     }
+  },
+  {
+    "slug": "german-cases",
+    "date": "2026-04-30",
+    "tags": [
+      "grammar",
+      "beginners",
+      "cases",
+      "gender",
+      "basics"
+    ],
+    "en": {
+      "title": "German Cases (Kasus): Complete Guide to All 4 German Cases for Beginners",
+      "description": "Struggling with German cases (Kasus)? Master all 4 German cases — Nominative, Accusative, Dative, Genitive — with simple rules, tables, and examples. Learn when and how to use each case with demo words der/die/das."
+    },
+    "ru": {
+      "title": "Немецкие падежи Der Die Das: Полный справочник падежей для начинающих",
+      "description": "Борешься с немецкими падежами (Kasus)? Овладей четырьмя немецкими падежами — Nominativ, Akkusativ, Dativ, Genitiv — с простыми правилами, таблицами и примерами. Изучи когда и как использовать каждый падеж с демо-словами der/die/das."
+    },
+    "uk": {
+      "title": "Німецькі відмінки Der Die Das: Повний довідник відмінків для початківців",
+      "description": "Борешся з німецькими відмінками (Kasus)? Оволодійте чотирма німецькими відмінками — Nominativ, Akkusativ, Dativ, Genitiv — з простими правилами, таблицями та прикладами. Вивчи коли і як використовувати кожен відмінок з демо-словами der/die/das."
+    },
+    "sk": {
+      "title": "Nemecké pády Der Die Das: Kompletný sprievodca pádmi pre začiatočníkov",
+      "description": "Bojuješ s nemeckými pádmi (Kasus)? Ovládnite štyri nemecké pády — Nominativ, Akkusativ, Dativ, Genitiv — s jednoduchými pravidlami, tabuľkami a príkladmi. Naučte sa kedy a ako použiť každý pád s demo-slovami der/die/das."
+    }
   }
 ]
