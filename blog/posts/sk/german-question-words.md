@@ -1,430 +1,302 @@
 ---
-title: "Nemecké otázky: Ovládni W-slová a pýtaj sa ako rodený Nemec"
-description: "Bojuješ s pýtaním sa po nemecky? Nauč sa všetky nemecké otázky (W-slová), vzorce otázok a ako správne formovať otázky. Od 'Was' po 'Warum' — ovládni nemecké otázky a znie ako rodený Nemec."
-date: "2026-04-26"
+title: "Nemecké otázky: Kompletný sprievodca W-Fragen pre začiatočníkov"
+description: "Chcete klásť otázky po nemecky? Ovládnite základnú nemčinu slovnú zásobu otázok od wer a was po wo a wann. Naučte sa slovnú zásobu W-Fragen so správnym použitím, príkladmi a kultúrnymi poznámkami o klásaní otázok v nemecky hovoriacich krajinách."
+date: "2026-04-30"
 lang: "sk"
 image: ""
-tags: ["gramatika", "začiatočníci", "otázky", "slovná zásoba"]
+tags: ["vocabulary", "beginners", "questions", "conversation"]
 ---
 
-# Nemecké otázky: Ovládni W-slová a pýtaj sa ako rodený Nemec
+# Nemecké otázky: Kompletný sprievodca W-Fragen pre začiatočníkov
 
-Učíš sa nemčinu. Vieš povedať "Ich heiße..." a "Ich wohne in..."
+Učíte sa nemčinu. Potrebujete sa niečo opýtať.
 
-Ale potom sa ťa niekto niečo spýta, a ty zamrzneš.
+Zamrznete. **Was ist das?** Ako opýtať kto, čo, kde, kedy, prečo a ako po nemecky?
 
-**Alebo horsie:** Chceš sa niečo opýtať, ale nepoznáš správne slová.
+Nemecké otázkové slová (W-Fragen alebo W-Wörter) sú nevyhnutné pre komunikáciu — od základných otázok po zmysluplné rozhovory.
 
-Nemecké otázky nemusia byť zložité. Keď ovládneš **W-slová** (nemecké otázky), môžeš sa opýtať na čokoľvek, kdekoľvek, kedykoľvek.
+**Riešenie:** Ovládnite nemecké otázkové slová s jasnými vysvetleniami, správnym použitím a praktickými príkladmi.
 
-## 10 základných nemeckých W-slov
+## Základné W-slová
 
-**Všetky nemecké otázky začínajú na W (odtiaľ "W-slová"):**
+**Základné otázkové slová:**
 
-### Veľká pätka
+### Was (Čo)
 
-1. **Was?**
-   (Čo?)
-   - **Použiť:** Opýtať sa na veci, činnosti, myšlienky
+1. **Was** (čo)
+   - **Použitie:** Veci, objekty, myšlienky
+   - **Príklad:** "Was ist das?" (Čo to je?)
    - **Príklad:** "Was machst du?" (Čo robíš?)
-   - **Príklad:** "Was ist das?" (Čo je to?)
 
-2. **Wer?**
-   (Kto?)
-   - **Použiť:** Opýtať sa na ľudí
-   - **Príklad:** "Wer ist das?" (Kto je to?)
-   - **Príklad:** "Mit wem gehst du?" (S kým ideš?)
+### Wer (Kto)
 
-3. **Wo?**
-   (Kde?)
-   - **Použiť:** Opýtať sa na miesta, polohy
+2. **Wer** (kto)
+   - **Použitie:** Ľudia
+   - **Príklad:** "Wer ist das?" (Kto to je?)
+   - **Príklad:** "Wer kommt heute?" (Kto prichádza dnes?)
+
+### Wo (Kde)
+
+3. **Wo** (kde)
+   - **Použitie:** Umiestnenie, poloha
    - **Príklad:** "Wo wohnst du?" (Kde bývaš?)
    - **Príklad:** "Wo ist der Bahnhof?" (Kde je stanica?)
 
-4. **Wann?**
-   (Kedy?)
-   - **Použiť:** Opýtať sa na čas, dátumy
+### Wann (Kedy)
+
+4. **Wann** (kedy)
+   - **Použitie:** Čas, dátum
    - **Príklad:** "Wann kommst du?" (Kedy prichádzaš?)
    - **Príklad:** "Wann beginnt der Film?" (Kedy začína film?)
 
-5. **Warum?**
-   (Prečo?)
-   - **Použiť:** Opýtať sa na dôvody
-   - **Príklad:** "Warum lernst du Deutsch?" (Prečo sa učíš nemčinu?)
-   - **Príklad:** "Warum bist du hier?" (Prečo si tu?)
+### Warum (Prečo)
 
-### Základných šesť
+5. **Warum** (prečo)
+   - **Použitie:** Dôvod, príčina
+   - **Príklad:** "Warum bist du traurig?" (Prečo si smutný?)
+   - **Príklad:** "Warum regnet es?" (Prečo prší?)
 
-6. **Wie?**
-   (Ako?)
-   - **Použiť:** Opýtať sa na spôsob, metódu, stav
+### Wie (Ako)
+
+6. **Wie** (ako)
+   - **Použitie:** Spôsob, metóda, stupeň
    - **Príklad:** "Wie geht es dir?" (Ako sa máš?)
-   - **Príklad:** "Wie kommt man zum Flughafen?" (Ako sa dostaneš na letisko?)
+   - **Príklad:** "Wie alt bist du?" (Koľko máš rokov?)
+   - **Príklad:** "Wie viel kostet das?" (Koľko to stojí?)
 
-7. **Welche?**
-   (Ktorý?)
-   - **Použiť:** Opýtať sa na konkrétne výbery (mení sa podľa rodu)
-   - **Formy:** welcher (muž), welche (žena), welches (stred), welche (mn)
-   - **Príklad:** "Welche Farbe magst du?" (Ktorú farbu máš rád?)
-   - **Príklad:** "Welches Auto ist dein?" (Ktoré auto je tvoje?)
+### Welcher (Ktorý)
 
-8. **Woher?**
-   (Odkiaľ?)
-   - **Použiť:** Opýtať sa na pôvod
-   - **Príklad:** "Woher kommst du?" (Odkiaľ prichádzaš?)
-   - **Príklad:** "Woher kennen Sie sich?" (Odkiaľ se poznáte?)
+7. **Welcher** (ktorý)
+   - **Použitie:** Výber, výber
+   - **Príklad:** "Welcher Bus fährt zum Zentrum?" (Ktorý autobus ide do centra?)
+   - **Poznámka:** Mení sa podľa rodu (welcher, welche, welches)
 
-9. **Wohin?**
-   (Kam?)
-   - **Použiť:** Opýtať sa na smer
-   - **Príklad:** "Wohin reist du?" (Kam cestuješ?)
-   - **Príklad:** "Wohin führt dieser Weg?" (Kam vedie táto cesta?)
+### Wozu / Wofür (Na čo/Prečo)
 
-10. **Wieso?**
-    (Prečo? / Z čoho?)
-    - **Použiť:** Alternatíva k warum (mierne neformálnejšie)
-    - **Príklad:** "Wieso hast du das gemacht?" (Prečo si to urobil?)
-    - **Kontext:** Často sa používa pri vyjadrení prekvapenia
+8. **Wozu** (na čo/k čomu)
+   - **Použitie:** Účel (určenie)
+   - **Príklad:** "Wozu brauchst du das?" (Na čo to potrebuješ?)
 
-## Zložené otázky
+9. **Wofür** (pre čo/za čo)
+   - **Použitie:** Účel (podpora/obhajoba)
+   - **Príklad:** "Wofür interessierst du dich?" (Čo ťa zaujíma?)
 
-**Nemčina spája predložky s wo- a wohin- pre presné otázky:**
+### Woher (Odkiaľ)
 
-### Miesto + Predložka
+10. **Woher** (odkiaľ)
+    - **Použitie:** Pôvod, zdroj
+    - **Príklad:** "Woher kommst du?" (Odkiaľ si?)
+    - **Príklad:** "Woher hast du das?" (Odkiaľ máš to?)
 
-11. **Womit?**
-    (Čím?)
-    - **Použiť:** Opýtať sa na nástroje
+### Wohin (Kam)
+
+11. **Wohin** (kam)
+    - **Použitie:** Určenie, smer
+    - **Príklad:** "Wohin gehst du?" (Kam ideš?)
+    - **Príklad:** "Wohin führt dieser Weg?" (Kam vedie táto cesta?)
+
+### Wem (Komu)
+
+12. **Wem** (komu - 3. pád)
+    - **Použitie:** Osoba (nepriamy objekt)
+    - **Príklad:** "Wem hast du das Buch gegeben?" (Komu si dal knihu?)
+    - **Poznámka:** 3. pád od wer
+
+### Wen (Koho)
+
+13. **Wen** (koho - 4. pád)
+    - **Použitie:** Osoba (priamy objekt)
+    - **Príklad:** "Wen besuchst du?" (Koho navštevuješ?)
+    - **Poznámka:** 4. pád od wer
+
+### Wie viele (Koľko)
+
+14. **Wie viele** (koľko)
+    - **Použitie:** Množstvo (počítateľné)
+    - **Príklad:** "Wie viele Geschwister hast du?" (Koľko máš súrodencov?)
+
+### Wie viel (Koľko)
+
+15. **Wie viel** (koľko)
+    - **Použitie:** Množstvo (nepočítateľné)
+    - **Príklad:** "Wie viel kostet das?" (Koľko to stojí?)
+    - **Príklad:** "Wie viel Wasser brauchst du?" (Koľko vody potrebuješ?)
+
+### Wie oft (Ako často)
+
+16. **Wie oft** (ako často)
+    - **Použitie:** Frekvencia
+    - **Príklad:** "Wie oft gehst du ins Kino?" (Ako často chodíš do kina?)
+
+## Zložené otázkové slová
+
+**Kombinácie s predložkami:**
+
+### W + Predložka
+
+17. **Womit** (s čím/čím)
     - **Príklad:** "Womit schreibst du?" (Čím píšeš?)
 
-12. **Wofür?**
-    (Načo? / Prečo?)
-    - **Použiť:** Opýtať sa na účel
-    - **Príklad:** "Wofür brauchst du das?" (Načo to potrebuješ?)
+18. **Worauf** (na čo/na čo)
+    - **Príklad:** "Worauf wartest du?" (Na čo čakáš?)
 
-13. **Wogegen?**
-    (Proti čomu?)
-    - **Použiť:** Opýtať sa na odpor
+19. **Wovon** (o čom/od čoho)
+    - **Príklad:** "Wovon träumst du?" (O čo snívaš?)
+
+20. **Wogegen** (proti čomu)
     - **Príklad:** "Wogegen kämpfst du?" (Proti čomu bojuješ?)
 
-14. **Wovon?**
-    (Od čoho? / O čom?)
-    - **Použiť:** Opýtať sa na témy, zdroje
-    - **Príklad:** "Wovon redest du?" (O čom hovoríš?)
+## Vzory otázok
 
-15. **Mit wem?**
-    (S kým?)
-    - **Použiť:** Správna forma pre ľudí
-    - **Príklad:** "Mit wem gehst du ins Kino?" (S kým ideš do kina?)
+**Bežné štruktúry:**
 
-## Áno/Nie otázky v nemčine
+### Základné otázky
 
-**Nemecké áno/nie otázky sú jednoduché:**
+23. **Was machst du?** (Čo robíš?)
+    - **Použitie:** Aktuálna aktivita
 
-### Základný vzorec
+24. **Wie heißt du?** (Ako sa voláš?)
+    - **Použitie:** Otázka o meno
 
-**[Sloveso] + [Podmet] + [zvyšok vety]?**
+25. **Wie alt bist du?** (Koľko máš rokov?)
+    - **Použitie:** Otázka o vek
 
-16. **Hast du Zeit?**
-    (Máš čas?)
-    - **Vzorec:** Hast (sloveso) + du (podmet) + Zeit (predmet)
+26. **Woher kommst du?** (Odkiaľ si?)
+    - **Použitie:** Otázka o pôvode
 
-17. **Magst du Kaffee?**
-    (Máš rád kávu?)
-    - **Vzorec:** Magst (sloveso) + du (podmet) + Kaffee (predmet)
+27. **Wann hast du Zeit?** (Kedy máš čas?)
+    - **Použitie:** Plánovanie
 
-18. **Ist das dein Buch?**
-    (Je to tvoja kniha?)
-    - **Vzorec:** Ist (sloveso) + das (podmet) + dein Buch (predikát)
+### So slovesami
 
-### Bežné áno/nie otázky
+28. **Was kann ich für dich tun?** (Čo môžem pre teba urobiť?)
+    - **Použitie:** Ponuka pomoci
 
-19. **Verstehst du mich?**
-    (Rozumieš mi?)
+29. **Wer will kommen?** (Kto chce prísť?)
+    - **Použitie:** Hľanie dobrovoľníkov
 
-20. **Sprichst du Englisch?**
-    (Hovoríš anglicky?)
+30. **Wo finde ich das?** (Kde nájdem to?)
+    - **Použitie:** Hľanie niečoho
 
-21. **Hast du Hunger?**
-    (Si hladný?)
+## Rýchla referencia
 
-22. **Bist du verheiratet?**
-    (Si ženatý/vydá?)
-
-23. **Kannst du mir helfen?**
-    (Môžeš mi pomôcť?)
-
-## Umiestnenie otázok
-
-**Nemecké otázky VŽDY stoja na prvom mieste:**
-
-### Základný vzorec
-
-**[Otázka] + [Sloveso] + [Podmet] + [zvyšok]?**
-
-24. **Wo wohnst du?**
-    (Kde bývaš?)
-    - **Štruktúra:** Wo (otázka) + wohnst (sloveso) + du (podmet)
-
-25. **Was machst du heute Abend?**
-    (Čo robíš dnes večer?)
-    - **Štruktúra:** Was (otázka) + machst (sloveso) + du (podmet) + heute Abend (čas)
-
-26. **Wann fährt der Zug?**
-    (Kedy odchádza vlak?)
-    - **Štruktúra:** Wann (otázka) + fährt (sloveso) + der Zug (podmet)
-
-### Bežná chyba
-
-❌ **Du wohnst wo?** (Ty bývaš kde?) — NESPRÁVNE
-✅ **Wo wohnst du?** (Kde bývaš?) — SPRAVNE
-
-**Sloveso musí stáť DRUHÉ v nemeckých otázkach.**
-
-## "Čo je to..." vs "Čo ty..."
-
-**V nemčine sú dva spôsoby povedať "čo":**
-
-### Was = Čo (všeobecné)
-
-27. **Was ist das?**
-    (Čo je to?)
-    - **Použiť:** Opýtať sa na definície, identifikáciu
-
-28. **Was möchtest du?**
-    (Čo by si chcel?)
-    - **Použiť:** Opýtať sa na preferencie
-
-### Was für... = Aký... / Čo za...
-
-29. **Was für ein Auto hast du?**
-    (Aké auto máš?)
-    - **Použiť:** Opýtať sa na typ, kategóriu
-
-30. **Was für Musik hörst du?**
-    (Akú hudbu počúvaš?)
-    - **Použiť:** Opýtať sa na preferencie v kategórii
-
-## Predložky + W-slová
-
-**Niektoré otázky sa spájajú s predložkami:**
-
-### Dvojstranné predložky + W-slová
-
-31. **In welche Stadt gehst du?**
-    (Do ktorého mesta ideš?)
-    - **Použiť:** Pohyb smerom k (4. pád)
-
-32. **In welcher Stadt wohnst du?**
-    (V ktorom meste bývaš?)
-    - **Použiť:** Umiestnenie (3. pád)
-
-33. **Auf welchen Tisch legst du das Buch?**
-    (Na ktorý stol položíš knihu?)
-    - **Použiť:** Povrch (4. pád)
-
-34. **Auf dem Tisch liegt das Buch.**
-    (Kniha leží na stole.)
-    - **Použiť:** Poloha (3. pád)
-
-## Základné otázky
-
-**Zapamätaj si tieto bežné nemecké otázky:**
-
-### Zoznamovanie
-
-35. **Wie heißt du?**
-    (Ako sa voláš?)
-
-36. **Wie alt bist du?**
-    (Koľko máš rokov?)
-
-37. **Woher kommst du?**
-    (Odkiaľ si?)
-
-38. **Wann hast du Geburtstag?**
-    (Kedy máš narodeniny?)
-
-### Každodenný život
-
-39. **Wie spät ist es?**
-    (Koľko je hodín?)
-
-40. **Wie viel kostet das?**
-    (Koľko to stojí?)
-
-41. **Wo ist die Toilette?**
-    (Kde je toaleta?)
-
-42. **Wann hast du Zeit?**
-    (Kedy máš čas?)
-
-### Smery a miesta
-
-43. **Wo ist der nächste Supermarkt?**
-    (Kde je najbližší supermarket?)
-
-44. **Wie komme ich zum Bahnhof?**
-    (Ako sa dostanem na stanici?)
-
-45. **In welcher Straße wohnst du?**
-    (V ktorej ulici bývaš?)
-
-46. **Wo gibt es hier ein gutes Restaurant?**
-    (Kde je tu dobrá reštaurácia?)
-
-## Otázky o ľuďoch
-
-**Nemčina rozlišuje podmet a predmet:**
-
-### Wer = Kto (podmet)
-
-47. **Wer kommt heute?**
-    (Kto prichádza dnes?)
-
-48. **Wer hat das gemacht?**
-    (Kto to urobil?)
-
-### Wen = Koho (4. pád predmet)
-
-49. **Wen siehst du?**
-    (Koho vidíš?)
-
-50. **Wen fragst du?**
-    (Koho sa pýtaš?)
-
-### Wem = Komu (3. pád predmet)
-
-51. **Wem hilfst du?**
-    (Komu pomáhaš?)
-
-52. **Wem schenkst du das Buch?**
-    (Komu daruješ knihu?)
-
-## Nepriame otázky
-
-**Nemecké nepriame otázky používajú iný slovosled:**
-
-### Priamy vs Nepriamy
-
-53. **Wo wohnst du?** (priamy)
-    (Kde bývaš?)
-
-54. **Ich weiß nicht, wo du wohnst.** (nepriamy)
-    (Neviem, kde bývaš.)
-
-55. **Was machst du?** (priamy)
-    (Čo robíš?)
-
-56. **Er fragt, was du machst.** (nepriamy)
-    (Opýta sa, čo robíš.)
-
-**Poznámka:** V nepriamych otázkach sloveso ide na KONIEC.
-
-## Rétorické otázky
-
-**Nemčina používa rétorické otázky pre dôraz:**
-
-57. **Wer weiß?**
-    (Kto vie?)
-    - **Význam:** Nikto nevie / Neistota
-
-58. **Was soll ich machen?**
-    (Čo mám robiť?)
-    - **Význam:** Vyjadrenie bezmocnosti
-
-59. **Wie bitte?**
-    (Ako prosím? / Prepáčte?)
-    - **Použiť:** Žiadosť o opakovanie
-
-## Rýchla referenčná karta
-
-**Všetky nemecké otázky na jednej strane:**
-
-| Nemčina | Slovenčina | Použitie |
-|---------|------------|----------|
-| Was | Čo | Veci, činnosti |
-| Wer | Kto | Ľudia (podmet) |
-| Wen | Koho | Ľudia (predmet) |
-| Wem | Komu | Ľudia (3. pád) |
-| Wo | Kde | Miesto |
-| Wann | Kedy | Čas |
-| Warum | Prečo | Dôvod |
-| Wie | Ako | Spôsob, metóda |
-| Welche | Ktorý | Výber |
-| Woher | Odkiaľ | Pôvod |
-| Wohin | Kam | Smer |
-
-## Bežné chyby
-
-### Chyba 1: Nesprávny slovosled
-
-❌ **Du wo wohnst?**
-✅ **Wo wohnst du?**
-
-**Pravidlo:** Otázka prvá, sloveso druhé.
-
-### Chyba 2: Nesprávna predložka
-
-❌ **Wohin wohnst du?** (opýtať sa na umiestnenie)
-✅ **Wo wohnst du?**
-
-❌ **Wo gehst du?** (opýtať sa na smer)
-✅ **Wohin gehst du?**
-
-**Pravidlo:** Wo = miesto, Wohin = smer, Woher = pôvod.
-
-### Chyba 3: Zámena Wer/Wen/Wem
-
-❌ **Wen hat das gemacht?** (podmet, nie predmet)
-✅ **Wer hat das gemacht?**
-
-❌ **Wem siehst du?** (4. pád, nie 3. pád)
-✅ **Wen siehst du?**
-
-**Pravidlo:** Wer = podmet (kto robí), Wen = predmet (koho vidiš), Wem = nepriamy predmet (komu dávaš).
-
-## Praktické otázky
-
-**Skúš sformulovať tieto otázky po nemecky:**
-
-60. **Kde pracuješ?**
-    → **Wo arbeitest du?**
-
-61. **Čo ješ?**
-    → **Was isst du?**
-
-62. **Kto je tvoj učiteľ?**
-    → **Wer ist dein Lehrer?**
-
-63. **Prečo sa učíš nemčinu?**
-    → **Warum lernst du Deutsch?**
-
-64. **Ako sa píše tvoje meno?**
-    → **Wie schreibst du deinen Namen?**
+| Nemecký | Slovenský | Použitie | Príklad |
+|----------|-----------|-----------|--------|
+| Was | Čo | Veci | Was ist das? |
+| Wer | Kto | Ľudia | Wer bist du? |
+| Wo | Kde | Umiestnenie | Wo wohnst du? |
+| Wann | Kedy | Čas | Wann kommst du? |
+| Warum | Prečo | Príčina | Warum weinst du? |
+| Wie | Ako | Spôsob | Wie geht's? |
+| Welcher | Ktorý | Výber | Welcher Bus? |
+| Woher | Odkiaľ | Pôvod | Woher kommst du? |
+| Wohin | Kam | Určenie | Wohin gehst du? |
+| Wie viele | Koľko | Počítateľné | Wie viele Leute? |
+| Wie viel | Koľko | Nepočítateľné | Wie viel Geld? |
 
 ## Kultúrne poznámky
 
-**Etiketa otázania v nemecky hovoriacich krajinách:**
+### Nemecká kultúra otázok
 
-- **Používaj "Sie"** s cudzími a vo formálnych situáciách
-- **Používaj "du"** s priateľmi, rodinou a mladými ľuďmi
-- **Začni s "Entschuldigung"** (Prepáčte) pri otázkach cudzích
-- **Nemci oceňujú priamosť** — otázky sa považujú za prejav slušného záujmu
-- **Vyhnuj sa príliš osobným otázkam**, ak dobre nepoznáš človeka
+- **Priamosť:** Nemci oceňujú priame otázky
+- **Slušnosť:** Používajte "bitte" (prosím) pre jemnejšie otázky
+- **Formálne vs. Neformálne:** Sie vs. du ovplyvňuje formuláciu otázok
+- **Súkromie:** Niektoré otázky môžu byť príliš osobné pre nových známych
+- **Presnosť:** Špecifické otázky sú preferované pred všeobecnými
 
-## Záver
+### Intonácia otázok
 
-Nemecké otázky nasledujú jednoduché vzorce:
+- **Klesajúca intonácia:** W-otázky (Was, Wo, Wann...)
+- **Stúpajúca intonácia:** Áno/Nie otázky bez W-slov
 
-1. **W-slová prvé** — Was, Wer, Wo, Wann, Warum, Wie, Welche
-2. **Sloveso druhé** — Vždy po otázke
-3. **Podmet tretie** — Potom človek vykonávajúci činnosť
-4. **Rest posledný** — Všetko ide po ňom
+## Bežné chyby
 
-**Profesionálny tip:** Začni s "Was...?" (Čo...?) a "Wie...?" (Ako...?) — tieto dva ti prejdú cez 80% bežných otázok. A pamätaj: *Wo* = kde (miesto), *Wohin* = kam (smer), *Woher* = odkiaľ (pôvod) — svätá trojica nemeckých otázok!
+### Chyba 1: Nesprávne poradie slov
 
-Tvoje zručnosti nemeckej konverzácie začínajú s jednou otázkou naraz. Viel Erfolg!
+❌ "Wo du wohnst?" (nesprávne)
+✅ "Wo wohnst du?" (správne)
+
+**Pravidlo:** Sloveso stojí na druhom mieste v nemeckých otázkach.
+
+### Chyba 2: Zámena Wo/Wohin/Woher
+
+❌ "Wo gehst du?" (nesprávne - chýba smer)
+✅ "Wohin gehst du?" (správne)
+
+**Pravidlo:** Používajte Wohin pre pohyb smerom k, Woher pre pohyb smerom od.
+
+### Chyba 3: Nesprávny pád s Wer
+
+❌ "Wer siehst du?" (nesprávne)
+✅ "Wen siehst du?" (správne - 4. pád)
+
+**Pravidlo:** Wer sa mení podľa gramatického pádu.
+
+## Príklady na cvičenie
+
+**Opýtajte tieto otázky:**
+
+29. **Kde je stanica?**
+    → "Wo ist der Bahnhof?"
+
+30. **Kedy začína film?**
+    → "Wann beginnt der Film?"
+
+31. **Prečo sa učíš nemčinu?**
+    → "Warum lernst du Deutsch?"
+
+32. **Koľko to stojí?**
+    → "Wie viel kostet das?"
+
+33. **Ktorý autobus ide do centra?**
+    → "Welcher Bus fährt ins Zentrum?"
+
+## Pokročilé otázkové slová
+
+**Špecifickejšie otázky:**
+
+34. **Wessen** (čí)
+    - **Použitie:** Vlastníctvo/držba
+    - **Príklad:** "Wessen Buch ist das?" (Čia je to kniha?)
+
+35. **Wieso** (prečo - hovorové)
+    - **Použitie:** Dôvod (neformálne)
+    - **Príklad:** "Wieso bist du hier?" (Prečo si tu?)
+    - **Poznámka:** Viac hovorové ako warum
+
+36. **Weshalb** (prečo - formálne)
+    - **Použitie:** Dôvod (formálne)
+    - **Príklad:** "Weshalb bist du gegangen?" (Prečo si išiel?)
+
+37. **Welche** (ktoré - množné číslo)
+    - **Použitie:** Výber (množné)
+    - **Príklad:** "Welche Farben gefallen dir?" (Ktoré farby sa ti páčia?)
+
+## Otázkové slová v kontexte
+
+**Skutočné rozhovory:**
+
+38. **Nákupy:** "Wo finde ich Brot?" (Kde nájdem chlieb?)
+39. **Reštaurácia:** "Was empfehlen Sie?" (Čo odporúčate?)
+40. **Smernice:** "Wie komme ich zum Marktplatz?" (Ako sa dostanem na trhové námestie?)
+41. **Čas:** "Wie spät ist es?" (Koľko je neskoro?)
+42. **Cena:** "Was kostet das?" (Koľko to stojí?)
+
+## Zhrnutie
+
+Nemecké otázkové slová sledujú jasné vzory:
+
+1. **Základné** — Was, Wer, Wo, Wann, Warum, Wie
+2. **Výber** — Welcher (mení sa podľa rodu)
+3. **Smer** — Wo, Woher, Wohin
+4. **Množstvo** — Wie viele, Wie viel
+5. **Frekvencia** — Wie oft
+6. **Účel** — Wozu, Wofür, Womit, Worauf
+7. **Pády** — Wer/Wen/Wem (mení sa podľa gramatickej úlohy)
+
+**Tip:** Začnite s **Was, Wer, Wo, Wann, Warum, Wie** — týchto šesť otázokových slov pokrýva väčšinu základných otázok. A pamätajte: nemecké W-otázky vždy majú sloveso na druhom mieste, na rozdiel od angličtiny, kde "do/does" stojí prvým!
+
+Vaša nemecká slovná zásoba otázok začína so zvedavosťou. Viel Spaß beim Fragenstellen!
 
 ---
-*Pripravený ovládnuť nemecké otázky cez interaktívne cvičenie? [Otvor Das German Bot](https://t.me/dasgermanbot) — prvá lekcia trvá 30 sekúnd.*
+*Ste pripravení ovládnuť nemecké otázkové slová cez interaktívne cvičenie? [Otvorte Das German Bot](https://t.me/dasgermanbot) — vaša prvá lekcia trvá 30 sekúnd.*

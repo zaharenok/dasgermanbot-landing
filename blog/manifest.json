@@ -1544,5 +1544,33 @@
         "description": "Chcete hovoriť o počasí po nemecky? Ovládnite základnú nemčinu slovnú zásobu počasia od Sonne a Regen po Schnee a Sturm. Naučte sa slovnú zásobu Wetter so správnymi členmi, počtovými výrazmi a kultúrnymi poznámkami o nemeckých počasových rozhovoroch."
       }
     }
+  },
+  {
+    "slug": "german-question-words",
+    "date": "2026-04-30",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "questions",
+      "conversation"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Question Words: Complete Guide to W-Fragen for Beginners",
+        "description": "Want to ask questions in German? Master essential German question words from wer and was to wo and wann. Learn W-Fragen vocabulary with proper usage, examples, and cultural notes about asking questions in German-speaking countries."
+      },
+      "ru": {
+        "title": "Немецкие вопросительные слова: Полный справочник W-Fragen для начинающих",
+        "description": "Хотите задавать вопросы по-немецки? Освойте основные немецкие вопросительные слова от wer и was до wo и wann. Выучите лексику W-Fragen с правильным использованием, примерами и культурными заметками о задавании вопросов в немецкоговорящих странах."
+      },
+      "uk": {
+        "title": "Німецькі запитальні слова: Повний довідник W-Fragen для початківців",
+        "description": "Хочете ставити запитання німецькою? Оволодійте основною лексикою німецьких запитальних слів від wer та was до wo та wann. Вивчіть лексику W-Fragen з правильним використанням, прикладами та культурними нотатками про постанову запитань у німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecké otázky: Kompletný sprievodca W-Fragen pre začiatočníkov",
+        "description": "Chcete klásť otázky po nemecky? Ovládnite základnú nemčinu slovnú zásobu otázok od wer a was po wo a wann. Naučte sa slovnú zásobu W-Fragen so správnym použitím, príkladmi a kultúrnymi poznámkami o klásaní otázok v nemecky hovoriacich krajinách."
+      }
+    }
   }
 ]
