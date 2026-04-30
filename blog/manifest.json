@@ -1600,5 +1600,34 @@
         "description": "Chcete používať nemecké zámená správne? Ovládnite základné nemecké osobné zámená od ich a du po sie a Sie. Naučte sa používať Personalpronomen so správnymi pádmi, formálnym a neformálnym oslovovaním a kultúrne poznámky o zámenách v nemecky hovoriacich krajinách."
       }
     }
+  },
+  {
+    "slug": "german-greetings-introductions",
+    "date": "2026-04-30",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "greetings",
+      "basics",
+      "conversation"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Greetings and Introductions: Complete Guide for Beginners",
+        "description": "Want to greet people in German like a local? Master essential German greetings from Guten Tag and Hallo to Wie geht's and Tschüss. Learn formal and informal greetings, introductions, cultural tips, and what Germans actually say in daily life."
+      },
+      "ru": {
+        "title": "Немецкие приветствия и знакомство: Полный справочник для начинающих",
+        "description": "Хочешь приветствовать людей по-немецки как местный? Овладей основными немецкими приветствиями от Guten Tag и Hallo до Wie geht's и Tschüss. Изучи формальные и неформальные приветствия, знакомства, культурные советы и что немцы РЕАЛЬНО говорят в повседневной жизни."
+      },
+      "uk": {
+        "title": "Німецькі привітання та знайомство: Повний довідник для початківців",
+        "description": "Хочеш вітатися німецькою як місцевий? Оволодійте основними німецькими привітаннями від Guten Tag і Hallo до Wie geht's і Tschüss. Вивчіть формальні та неформальні привітання, знайомства, культурні поради та що німці РЕАЛЬНО кажуть у повсякденному житті."
+      },
+      "sk": {
+        "title": "Nemecké pozdravy a predstavovanie: Úplný sprievodca pre začiatočníkov",
+        "description": "Chcete pozdraviť ľudí po nemecky ako miestny? Ovládnite základné nemecké pozdravy od Guten Tag a Hallo po Wie geht's a Tschüss. Naučte sa formálne a neformálne pozdravy, predstavovanie, kultúrne tipy a čo Nemci skutočne hovoria v každodennom živote."
+      }
+    }
   }
 ]
