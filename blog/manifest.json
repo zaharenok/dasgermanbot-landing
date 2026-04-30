@@ -1516,5 +1516,33 @@
         "description": "Chcete počítať po nemecky? Ovládnite základnú nemčinu slovnú zásobu čísel od null po eine Million. Naučte sa slovnú zásobu Zahlen s tipmi na výslovnosť, číselnymi vzormi a kultúrnymi poznámkami o používaní čísel v nemecky hovoriacich krajinách."
       }
     }
+  },
+  {
+    "slug": "german-weather-vocabulary",
+    "date": "2026-04-30",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "weather",
+      "conversation"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Weather Vocabulary: Complete Guide to Wetter for Daily Conversations",
+        "description": "Want to talk about weather in German? Master essential German weather vocabulary from Sonne and Regen to Schnee and Sturm. Learn Wetter vocabulary with proper articles, weather expressions, and cultural notes about German weather conversations."
+      },
+      "ru": {
+        "title": "Немецкая погода: Полный словарь Wetter для ежедневных разговоров",
+        "description": "Хотите говорить о погоде по-немецки? Освойте основную словарную лексику немецкой погоды от Sonne и Regen до Schnee и Sturm. Выучите лексику Wetter с правильными артиклями, погодными выражениями и культурными заметками о немецких погодных разговорах."
+      },
+      "uk": {
+        "title": "Німецька погода: Повний словник Wetter для щоденних розмов",
+        "description": "Хочете говорити про погоду німецькою? Оволодійте основною лексикою німецької погоди від Sonne та Regen до Schnee та Sturm. Вивчіть лексику Wetter з правильними артиклями, погодними виразами та культурними нотатками про німецькі погодні розмови."
+      },
+      "sk": {
+        "title": "Nemecké počasie: Kompletný slovník Wetter pre každodenné rozhovory",
+        "description": "Chcete hovoriť o počasí po nemecky? Ovládnite základnú nemčinu slovnú zásobu počasia od Sonne a Regen po Schnee a Sturm. Naučte sa slovnú zásobu Wetter so správnymi členmi, počtovými výrazmi a kultúrnymi poznámkami o nemeckých počasových rozhovoroch."
+      }
+    }
   }
 ]
