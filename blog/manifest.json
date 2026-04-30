@@ -1716,5 +1716,34 @@
         "description": "Bojuješ s nemeckými predložkami a ich pádmi? Ovládni základné nemecké predložky od akuzatívu (für, durch, ohne) a datívu (mit, von, bei) po obojsmerné predložky (in, auf, an). Nauč sa s jasnými príkladmi, pamäťovými trikmi a stratégiami cvičenia."
       }
     }
+  },
+  {
+    "slug": "german-verb-conjugation",
+    "date": "2026-04-30",
+    "tags": [
+      "grammar",
+      "beginners",
+      "verbs",
+      "conjugation",
+      "basics"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Verb Conjugation: Complete Guide to Verben konjugieren for Beginners",
+        "description": "Struggling with German verb conjugation? Master how to conjugate German verbs in present tense with simple patterns. Learn regular verbs (weak), irregular verbs (strong), modal verbs (können, müssen, wollen), and the most important German verbs with conjugation tables and examples."
+      },
+      "ru": {
+        "title": "Немецкая спряжение глаголов: Полный справочник Verben konjugieren для начинающих",
+        "description": "Борешься с немецким спряжением глаголов? Овладей как спрягать немецкие глаголы в настоящем времени с простыми паттернами. Изучи правильные глаголы (слабые), неправильные глаголы (сильные), модальные глаголы (können, müssen, wollen) и самые важные немецкие глаголы с таблицами спряжения и примерами."
+      },
+      "uk": {
+        "title": "Німецьке дієслів'яння: Повний довідник Verben konjugieren для початківців",
+        "description": "Борешся з німецьким дієслів'янням? Оволодійте як дієслів'яти німецькі дієслова в теперішньому часі з простими паттернами. Вивчіть правильні дієслова (слабкі), неправильні дієслова (сильні), модальні дієслова (können, müssen, wollen) і найважливіші німецькі дієслова з таблицями дієслів'яння та прикладами."
+      },
+      "sk": {
+        "title": "Nemecké skloňovanie slovies: Kompletný sprievodca Verben konjugieren pre začiatočníkov",
+        "description": "Bojuješ s nemeckým skloňovaním slovies? Ovládni ako skloňovať nemecké slovesá v prítomnom čase s jednoduchými vzormi. Nauč sa pravidelné slovesá (slabé), nepravidelné slovesá (silné), modálne slovesá (können, müssen, wollen) a najdôležitejšie nemecké slovesá s tabuľkami skloňovania a príkladmi."
+      }
+    }
   }
 ]
