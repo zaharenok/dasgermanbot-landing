@@ -1572,5 +1572,33 @@
         "description": "Chcete klásť otázky po nemecky? Ovládnite základnú nemčinu slovnú zásobu otázok od wer a was po wo a wann. Naučte sa slovnú zásobu W-Fragen so správnym použitím, príkladmi a kultúrnymi poznámkami o klásaní otázok v nemecky hovoriacich krajinách."
       }
     }
+  },
+  {
+    "slug": "german-personal-pronouns",
+    "date": "2026-04-30",
+    "tags": [
+      "grammar",
+      "beginners",
+      "pronouns",
+      "basics"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Personal Pronouns: Complete Guide to Personalpronomen for Beginners",
+        "description": "Want to use German pronouns correctly? Master essential German personal pronouns from ich and du to sie and Sie. Learn Personalpronomen usage with proper cases, formal vs. informal address, and cultural notes about pronouns in German-speaking countries."
+      },
+      "ru": {
+        "title": "Немецкие личные местоимения: Полный справочник Personalpronomen для начинающих",
+        "description": "Хотите правильно использовать немецкие местоимения? Овладейте основными немецкими личными местоимениями от ich и du до sie и Sie. Изучите использование Personalpronomen с правильными падежами, формальным и неформальным обращением и культурными заметками о местоимениях в немецкоговорящих странах."
+      },
+      "uk": {
+        "title": "Німецькі особові займенники: Повний довідник Personalpronomen для початківців",
+        "description": "Хочете правильно використовувати німецькі займенники? Оволодійте основними німецькими особовими займенниками від ich та du до sie та Sie. Вивчіть використання Personalpronomen з правильними відмінками, формальним та неформальним звертанням та культурними нотатками про займенники в німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecké zámená: Úplný sprievodca Personalpronomen pre začiatočníkov",
+        "description": "Chcete používať nemecké zámená správne? Ovládnite základné nemecké osobné zámená od ich a du po sie a Sie. Naučte sa používať Personalpronomen so správnymi pádmi, formálnym a neformálnym oslovovaním a kultúrne poznámky o zámenách v nemecky hovoriacich krajinách."
+      }
+    }
   }
 ]
