@@ -1687,5 +1687,34 @@
         "description": "Bojuješ s nemeckými členmi der, die, das? Ovládni nemecké určité a neurčité členy s jednoduchými pravidlami, vzormi a pamäťovými trikmi. Nauč sa kedy použiť der, die, das, ein, eine a ako si zapamätať nemecký rod raz a navždy."
       }
     }
+  },
+  {
+    "slug": "german-prepositions",
+    "date": "2026-04-30",
+    "tags": [
+      "grammar",
+      "beginners",
+      "prepositions",
+      "cases",
+      "basics"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Prepositions: Complete Guide to Präpositionen with Cases for Beginners",
+        "description": "Struggling with German prepositions and their cases? Master essential German prepositions from accusative (für, durch, ohne) and dative (mit, von, bei) to two-way prepositions (in, auf, an). Learn with clear examples, memory tricks, and practice strategies."
+      },
+      "ru": {
+        "title": "Немецкие предлоги: Полный справочник Präpositionen с падежами для начинающих",
+        "description": "Борешься с немецкими предлогами и их падежами? Овладей основными немецкими предлогами от винительного (für, durch, ohne) и дательного (mit, von, bei) до двунаправленных предлогов (in, auf, an). Изучи с ясными примерами, мнемоническими приёмами и стратегиями практики."
+      },
+      "uk": {
+        "title": "Німецькі прийменники: Повний довідник Präpositionen з відмінками для початківців",
+        "description": "Борешся з німецькими прийменниками та їх відмінками? Оволодійте основними німецькими прийменниками від знахідного (für, durch, ohne) і давального (mit, von, bei) до двонаправлених прийменників (in, auf, an). Вивчіть із ясними прикладами, мнемонічними прийомами та стратегіями практики."
+      },
+      "sk": {
+        "title": "Nemecké predložky: Kompletný sprievodca Präpositionen s pádmi pre začiatočníkov",
+        "description": "Bojuješ s nemeckými predložkami a ich pádmi? Ovládni základné nemecké predložky od akuzatívu (für, durch, ohne) a datívu (mit, von, bei) po obojsmerné predložky (in, auf, an). Nauč sa s jasnými príkladmi, pamäťovými trikmi a stratégiami cvičenia."
+      }
+    }
   }
 ]
