@@ -1658,5 +1658,34 @@
         "description": "Chcete hovoriť o čase a dátumoch po nemecky? Ovládnite základnú nemčinu slovnú zásobu času a dátumov od Uhr a Minuten po Wochentage a Monate. Naučte sa ako opýtať sa na čas, povedať dátum, použiť 24-hodinový formát a porozumieť nemeckým časovým výrazom."
       }
     }
+  },
+  {
+    "slug": "german-articles-der-die-das",
+    "date": "2026-04-30",
+    "tags": [
+      "grammar",
+      "beginners",
+      "articles",
+      "gender",
+      "basics"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Articles Der Die Das: Complete Guide to Articles for Beginners",
+        "description": "Struggling with German articles der, die, das? Master German definite and indefinite articles with simple rules, patterns, and memory tricks. Learn when to use der, die, das, ein, eine, and how to remember German gender once and for all."
+      },
+      "ru": {
+        "title": "Немецкие артикли Der Die Das: Полный справочник артиклей для начинающих",
+        "description": "Борешься с немецкими артиклями der, die, das? Овладей немецкими определёнными и неопределёнными артиклями с простыми правилами, паттернами и мнемоническими приёмами. Изучи когда использовать der, die, das, ein, eine и как запомнить немецкий род раз и навсегда."
+      },
+      "uk": {
+        "title": "Німецькі артиклі Der Die Das: Повний довідник артиклів для початківців",
+        "description": "Борешся з німецькими аріклями der, die, das? Оволодійте німецькими визначеними і невизначеними аріклями з простими правилами, паттернами і мнемонічними прийомами. Вивчіть коли використовувати der, die, das, ein, eine і як запам'ятати німецький рід раз і назавжди."
+      },
+      "sk": {
+        "title": "Nemecké členy Der Die Das: Kompletný sprievodca členmi pre začiatočníkov",
+        "description": "Bojuješ s nemeckými členmi der, die, das? Ovládni nemecké určité a neurčité členy s jednoduchými pravidlami, vzormi a pamäťovými trikmi. Nauč sa kedy použiť der, die, das, ein, eine a ako si zapamätať nemecký rod raz a navždy."
+      }
+    }
   }
 ]
