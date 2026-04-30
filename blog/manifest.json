@@ -1801,5 +1801,32 @@
       "title": "Nemecké pády Der Die Das: Kompletný sprievodca pádmi pre začiatočníkov",
       "description": "Bojuješ s nemeckými pádmi (Kasus)? Ovládnite štyri nemecké pády — Nominativ, Akkusativ, Dativ, Genitiv — s jednoduchými pravidlami, tabuľkami a príkladmi. Naučte sa kedy a ako použiť každý pád s demo-slovami der/die/das."
     }
+  },
+  {
+    "slug": "german-false-friends",
+    "date": "2026-04-30",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "false-friends",
+      "mistakes",
+      "basics"
+    ],
+    "en": {
+      "title": "German False Friends: 50+ Words That Will Trick You (Don't Make These Mistakes!)",
+      "description": "Think 'gift' means a present in German? Think again! Discover 50+ German false friends — words that look like English but mean completely different things. Avoid embarrassing mistakes with this essential guide for German learners."
+    },
+    "ru": {
+      "title": "Немецкие ложные друзья: 50+ слов, которые введут вас в заблуждение (не делайте этих ошибок!)",
+      "description": "Думаете, 'gift' означает подарок в немецком? Подумайте еще раз! Откройте 50+ немецких ложных друзей — слов, которые выглядят как английские, но означают совершенно другое. Избегайте неловких ошибок с этим essentiальным руководством для изучающих немецкий."
+    },
+    "uk": {
+      "title": "Німецькі хибні друзі: 50+ слів, які введуть вас в оману (не робіть цих помилок!)",
+      "description": "Думаєте, 'gift' означає подарунок німецькою? Подумайте ще раз! Відкрийте 50+ німецьких хибних друзів — слів, які виглядають як англійські, але означають зовсім інше. Уникайте незручних помилок з цим essential посібником для тих, хто вивчає німецьку."
+    },
+    "sk": {
+      "title": "Nemecké falošní priatelia: 50+ slov, ktoré vás oklamú (nerobte tieto chyby!)",
+      "description": "Myslíte si, že 'gift' znamená dar v nemčine? Mylite sa! Objavte 50+ nemeckých falošných priateľov — slov, ktoré vyzerajú ako anglické, ale znamenajú úplne niečo iné. Vyhnite sa trapasom s týmto essential sprievodcom pre začiatočníkov v nemčine."
+    }
   }
 ]
