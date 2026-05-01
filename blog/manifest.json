@@ -1936,5 +1936,32 @@
       "title": "Nemecké čísla: Kompletný sprievodca od 0 do 1 miliardy (S príkladmi!)",
       "description": "Ovládni nemecké čísla a počítanie od nuly po miliardu! Nauč sa základné čísla, poradové čísla, zlomky, ceny, telefónne čísla a dátumy s jasnými príkladmi a tipmi na výslovnosť."
     }
+  },
+  {
+    "slug": "german-pronunciation-guide",
+    "date": "2026-05-01",
+    "tags": [
+      "pronunciation",
+      "beginners",
+      "alphabet",
+      "phonetics",
+      "speaking"
+    ],
+    "en": {
+      "title": "German Pronunciation: Complete Guide for Beginners (Master the R, Ch & Umlauts!)",
+      "description": "Struggling with German pronunciation? Master the tricky German sounds: the R, ch, sch, and umlauts (ä, ö, ü). Learn German alphabet pronunciation with examples, audio tips, and common mistakes to avoid. Speak German like a native!"
+    },
+    "ru": {
+      "title": "Немецкое произношение: Полный гид для начинающих (Мастер R, Ch и умлауты!)",
+      "description": "Борешься с немецким произношением? Овладей сложными немецкими звуками: R, ch, sch и умлауты (ä, ö, ü). Изучи немецкое алфавитное произношение с примерами, советами по звучанию и распространёнными ошибками. Говори по-немецки как носитель!"
+    },
+    "uk": {
+      "title": "Німецька вимова: Повний гід для початківців (Майстер R, Ch та умлаути!)",
+      "description": "Борешся з німецькою вимовою? Оволодійте складними німецькими звуками: R, ch, sch та умлаути (ä, ö, ü). Вивчіть німецьку абеткову вимову з прикладами, порадами щодо звучання та поширеними помилками. Розмовляй німецькою як носій!"
+    },
+    "sk": {
+      "title": "Nemecká výslovnosť: Kompletný sprievodca pre začiatočníkov (Master R, Ch a umlaute!)",
+      "description": "Bojuješ s nemeckou výslovnosťou? Ovládni zložité nemecké zvuky: R, ch, sch a umlaute (ä, ö, ü). Nauč sa nemeckú abecednú výslovnosť s príkladmi, tipmi na výslovnosť a bežnými chybami. Hovor po nemecky ako rodák!"
+    }
   }
 ]
