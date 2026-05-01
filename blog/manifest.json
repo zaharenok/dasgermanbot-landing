@@ -2151,5 +2151,32 @@
       "title": "Nemecké modálne slovesá: Kompletný sprievodca (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
       "description": "Ovládni nemecké modálne slovesá! Nauč sa 6 modálnych slovies können, müssen, wollen, dürfen, sollen, mögen s ich významami, skloňovaním, pravidlami používania a rozdielmi od angličtiny. Kompletný sprievodca s príkladmi, tabuľkami a bežnými chybami, ktorým sa treba vyhnúť."
     }
+  },
+  {
+    "slug": "german-word-order",
+    "date": "2026-05-01",
+    "tags": [
+      "grammar",
+      "syntax",
+      "beginners",
+      "intermediate",
+      "communication"
+    ],
+    "en": {
+      "title": "German Word Order: Complete Guide (Sentence Structure, TeKaMo Rule, Verb Position)",
+      "description": "Master German word order! Learn the TeKaMo rule (Time-Cause-Manner), verb position in statements vs questions, subordinate clause word order, and common mistakes. Complete guide with examples, charts, and memory tricks for speaking German correctly."
+    },
+    "ru": {
+      "title": "Порядок слов в немецком: Полное руководство (Структура предложения, правило TeKaMo, позиция глагола)",
+      "description": "Освойте порядок слов в немецком! Узнайте правило TeKaMo (Время-Причина-Модальность), позицию глагола в утверждениях и вопросах, порядок слов в придаточных предложениях и распространённые ошибки. Полное руководство с примерами, таблицами и мнемоническими приёмами для правильной речи по-немецки."
+    },
+    "uk": {
+      "title": "Порядок слів у німецькій: Повний посібник (Структура речення, правило TeKaMo, позиція дієслова)",
+      "description": "Опануйте порядок слів у німецькій! Дізнайтеся правило TeKaMo (Час-Причина-Модальність), позицію дієслова в твердженнях та запитаннях, порядок слів у підрядних реченнях та поширені помилки. Повний посібник з прикладами, таблицями та мнемонічними прийомами для правильного мовлення німецькою."
+    },
+    "sk": {
+      "title": "Nemecké slovné poradie: Kompletný sprievodca (Štruktúra vety, pravidlo TeKaMo, pozícia slovesa)",
+      "description": "Ovládni nemecké slovné poradie! Nauč sa pravidlo TeKaMo (Čas-Príčina-Modalita), pozíciu slovesa v tvrdeniach a otázkach, slovné poradie v vedľajších vetách a bežné chyby. Kompletný sprievodca s príkladmi, tabuľkami a mnemotechnickými pomôckami pre správnu nemčinu."
+    }
   }
 ]

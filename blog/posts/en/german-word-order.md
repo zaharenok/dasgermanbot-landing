@@ -1,314 +1,402 @@
 ---
-title: "German Word Order: Complete Guide to Satzbau for Beginners"
-description: "Struggling with German sentence structure? Master German word order (Satzbau) with simple rules. Learn verb position (V2 rule), subordinate clauses, time-manner-place rule, and how to build correct German sentences with clear examples and patterns."
-date: "2026-04-30"
+title: "German Word Order: Complete Guide (Sentence Structure, TeKaMo Rule, Verb Position)"
+description: "Master German word order! Learn the TeKaMo rule (Time-Cause-Manner), verb position in statements vs questions, subordinate clause word order, and common mistakes. Complete guide with examples, charts, and memory tricks for speaking German correctly."
+date: "2026-05-01"
 lang: "en"
 image: ""
-tags: ["grammar", "beginners", "word order", "sentence structure", "basics"]
+tags: ["grammar", "syntax", "beginners", "intermediate", "communication"]
 ---
 
-# German Word Order: Complete Guide to Satzbau for Beginners
+# German Word Order: Complete Guide to Mastering Sentence Structure
 
-You're learning German. You want to say "I am learning German today."
+German word order is one of the most challenging aspects for learners. Unlike English, German has strict rules about where words go in a sentence. Get it wrong, and you'll still be understood, but you'll sound foreign.
 
-You hesitate. **Ich lerne heute Deutsch? Ich heute lerne Deutsch? Heute ich lerne Deutsch?** How do you structure German sentences correctly?
+**The good news:** German word order follows logical patterns. Once you master the rules, especially the famous TeKaMo rule, you'll be constructing sentences like a native speaker.
 
-German word order (Satzbau) follows specific rules — and getting it wrong sounds unnatural.
+## Why German Word Order Is Different
 
-**The solution:** Master German word order with clear rules, patterns, and practice strategies.
+In English, word order is relatively flexible:
+- "I eat the apple." (Subject-Verb-Object)
+- "The apple I eat." (Object-Subject-Verb)
 
-## Basic Sentence Structure
+In German, the verb is always the second element in a main clause:
+- **Ich** (1) **esse** (2) **den Apfel** (3). ← V2 rule!
+- **Den Apfel** (1) **esse** (2) **ich** (3). ← Subject can move, verb stays second!
 
-**The standard German sentence:**
+## The Golden Rule: V2
 
-1. **Subject + Verb + Object**
-   - **Pattern:** S + V + O
-   - **Example:** "Ich lerne Deutsch." (I learn German.)
-   - **Simple statements follow this pattern**
+**In every main clause, the conjugated verb must be the second element.**
 
-2. **Subject + Verb + Time + Manner + Place**
-   - **Pattern:** S + V + TMP
-   - **Example:** "Ich lerne heute zu Hause Deutsch." (I learn German at home today.)
-   - **Time-Manner-Place (TeMoPo) rule**
+**Examples:**
+- **Ich** (1) **arbeite** (2) **heute**.** ✓
+- **Heute** (1) **arbeite** (2) **ich**.** ✓
+- **Heute** (1) **ich** (2) **arbeite**.** ✗ (Verb is third!)
 
-## The V2 Rule (Verb Second)
+**Important:** Only the conjugated verb must be second. Infinitives and past participles can be elsewhere.
 
-**Most important German word order rule:**
+## The TeKaMo Rule
 
-3. **Conjugated verb always in second position**
-   - **Position 2:** The verb comes second
-   - **NOT:** Second word — second grammatical position
-   - **Examples:**
-     - "Ich lerne Deutsch." (I learn German.)
-     - "Heute lerne ich Deutsch." (Today I learn German.)
-     - "Deutsch lerne ich heute." (German I learn today.)
+This is the most important rule for German word order in main clauses. TeKaMo stands for:
 
-4. **What counts as "first position"?**
-   - **Subject:** "Ich lerne Deutsch."
-   - **Time expressions:** "Heute lerne ich Deutsch."
-   - **Objects:** "Deutsch lerne ich heute."
-   - **Adverbs:** "Jetzt lerne ich Deutsch."
+| Element | German | Meaning |
+|---------|---------|---------|
+| **Te** | Temporal | Time (when?) |
+| **Ka** | Kausal | Cause (why?) |
+| **Mo** | Modal | Modal (can/must/want) |
 
-5. **Elements that can occupy first position**
-   - **Time:** Heute, Morgen, Jetzt, Gestern
-   - **Place:** Hier, Dort, In Deutschland
-   - **Objects:** Das Buch, Den Mann
-   - **Adverbs:** Leider, Hoffentlich, Vielleicht
-   - **Prepositional phrases:** Im Kino, Zur Arbeit
+**The rule:** Te-Ka-Mo elements come before the conjugated verb in this order.
 
-## The TeMoPo Rule
+### Complete TeKaMo Order
 
-**Time - Manner - Place order:**
+**Pattern:** [Subject] + [Te] + [Ka] + [Mo] + [Verb] + [Rest]
 
-6. **When you have multiple adverbial phrases**
-   - **Te (Tempo):** Time — when?
-   - **Mo (Modus):** Manner — how?
-   - **Po (Place):** Place — where?
-   - **Order:** Time before Manner before Place
+| Position | Element | Example |
+|----------|--------|---------|
+| 1 | Subject | **Ich** |
+| 2 | Te (Time) | **heute** |
+| 3 | Ka (Cause) | **weil es regnet** |
+| 4 | Mo (Modal) | **nicht** |
+| 5 | Verb | **gehe** |
+| 6 | Rest | **nach Hause** |
 
-7. **Example sentences**
-   - "Ich fahre heute mit dem Bus nach Berlin."
-     - Time: heute (today)
-     - Manner: mit dem Bus (by bus)
-     - Place: nach Berlin (to Berlin)
+**Full example:**
+- **Ich** (Subject) **heute** (Te) **wegen des Regens** (Ka) **nicht** (Mo) **gehe** (Verb) **nach Hause** (Rest).
 
-   - "Er arbeitet jeden Tag im Büro mit seinem Computer."
-     - Time: jeden Tag (every day)
-     - Place: im Büro (in the office)
-     - Manner: mit seinem Computer (with his computer)
+### Using TeKaMo Elements
 
-8. **When Place comes before Manner**
-   - **Emphasis:** If you want to emphasize manner
-   - **Example:** "Ich fahre mit dem Bus heute nach Berlin."
-   - **Focus:** On the means of transport, not time
+**Temporal (Te) — Time:**
+- heute (today)
+- morgen (tomorrow)
+- gestern (yesterday)
+- oft (often)
+- nie (never)
+- manchmal (sometimes)
 
-## Questions
+**Causal (Ka) — Cause:**
+- wegen des Regens (because of the rain)
+- da es kalt ist (since it's cold)
+- aus diesem Grund (for this reason)
 
-**How to form questions in German:**
+**Modal (Mo) — Modals:**
+- nicht (not)
+- nicht mehr (no more)
+- vielleicht (perhaps)
+- wahrscheinlich (probably)
+- sicher (certainly)
 
-9. **Yes/No questions**
-   - **Verb first:** Verb + Subject + ...
-   - **Example:** "Lernst du Deutsch?" (Do you learn German?)
-   - **Example:** "Arbeitest du heute?" (Do you work today?)
+**Examples:**
+- **Ich komme heute.** (I'm coming today)
+- **Ich gehe wegen des Regens nicht.** (I'm not going because of the rain)
+- **Ich kann vielleicht kommen.** (I can perhaps come)
 
-10. **W-questions (Information questions)**
-    - **Question word first:** W-word + Verb + Subject + ...
-    - **Examples:**
-      - "Was lernst du?" (What are you learning?)
-      - "Wann arbeitest du?" (When do you work?)
-      - "Wo wohnst du?" (Where do you live?)
-      - "Warum lernst du Deutsch?" (Why do you learn German?)
+## Word Order in Main Clauses
 
-11. **Common question words**
-    - **Was** (what)
-    - **Wo** (where)
-    - **Wann** (when)
-    - **Wie** (how)
-    - **Warum** (why)
-    - **Wer** (who)
-    - **Welche** (which)
-    - **Wohin** (where to)
-    - **Woher** (where from)
+### Standard Pattern
+
+**Subject + [TeKaMo] + Verb + [Object/Manner/Place]**
+
+**Examples:**
+- **Ich** (Subject) **heute** (Te) **gehe** (Verb) **ins Kino** (Place). = I'm going to the cinema today.
+- **Er** (Subject) **gerne** (Manner) **trinkt** (Verb) **Kaffee** (Object). = He likes to drink coffee.
+- **Wir** (Subject) **morgen** (Te) **wollen** (Mo) **lernen** (Verb) **Deutsch** (Object). = We want to learn German tomorrow.
+
+### Inversion (Questions)
+
+In questions without question words, the verb comes first:
+
+**Pattern:** [Verb] + [Subject] + [Rest]?
+
+**Examples:|
+- **Kommst** (Verb) **du** (Subject) **heute**?** (Are you coming today?)
+- **Geht** (Verb) **es** (Subject) **gut**?** (Is it going well?)
+- **Kannst** (Verb) **du** (Subject) **mir helfen**?** (Can you help me?)
+
+### W-Questions
+
+**Pattern:** [Question Word] + [Subject] + [TeKaMo] + [Verb] + [Rest]?
+
+**Examples:**
+- **Wann** (Question Word) **kommst** (Verb) **du**?** (When are you coming?)
+- **Warum** (Question Word) **bist** (Verb) **du** (Subject) **traurig**?** (Why are you sad?)
+- **Was** (Question Word) **lernst** (Verb) **du** (Subject) **Deutsch**?** (What are you learning?)
+
+**Important:** In W-questions, the subject still comes before the verb!
+
+## Word Order in Subordinate Clauses
+
+Subordinate clauses start with words like weil (because), dass (that), wenn (when), ob (if), etc.
+
+### The Comma Rule
+
+**Main clause + , + subordinate clause**
+
+**Examples:**
+- **Ich komme heute, weil ich Zeit habe.** (I'm coming today because I have time)
+- **Er ist glücklich, dass er Deutsch lernt.** (He's happy that he's learning German)
+
+### Verb-at-the-End Rule
+
+In subordinate clauses, the conjugated verb goes to the very end:
+
+**Pattern:** [Subordinating Conjunction] + [Subject] + [TeKaMo] + [Rest] + **[Verb]**
+
+**Examples:**
+- **...weil** (conjunction) **ich** (Subject) **heute** (Te) **Zeit** (Ka) **habe** (Mo) **.** ← Verb is last!
+- **...dass** (conjunction) **er** (Subject) **Deutsch** (Object) **lernt** (Verb).** ← Verb is last!
+
+**Full examples:**
+- **Ich kann heute kommen, weil ich frei habe.**
+- **Er weiß nicht, wann er kommen soll.**
+- **Sie fragt, ob du ihr helfen kannst.**
+
+### Separable Verbs in Subordinate Clauses
+
+When the main verb is separable, the prefix does NOT separate in subordinate clauses:
+
+- **Er sagt, dass er** (conjunction+subject) **aufstehen** (verb+prefix) **will**. ✓
+- NOT: Er sagt, dass er auf stehen will. ✗
 
 ## Coordinating Conjunctions
 
-**Conjunctions that don't change word order:**
+These connect main clauses and don't change word order:
 
-12. **und, oder, aber, denn**
-    - **und** (and): "Ich lerne Deutsch und Englisch."
-    - **oder** (or): "Lernst du Deutsch oder Englisch?"
-    - **aber** (but): "Ich lerne Deutsch, aber es ist schwer."
-    - **denn** (because): "Ich lerne Deutsch, denn es ist wichtig."
+**und** (and), **oder** (or), **aber** (but), **denn** (because)
 
-    - **Word order remains standard:** Subject + Verb + ...
+**Examples:**
+- **Ich komme heute, und er kommt auch.** (I'm coming today, and he's coming too.)
+- **Er will lernen, aber er hat keine Zeit.** (He wants to learn, but he has no time.)
+- **Ich kann schwimmen, denn ich habe gelernt.** (I can swim, because I learned.)
 
-13. **Using coordinating conjunctions**
-    - **Clause 1 + und/aber + Clause 2**
-    - **Example:** "Ich gehe ins Kino und mein Freund kommt mit."
-    - **No verb position change in second clause**
+## Word Order with Objects
 
-## Subordinate Clauses
+### Direct Objects
 
-**Conjunctions that send verb to end:**
+**Pattern:** Subject + Verb + [Accusative Object]
 
-14. **Subordinating conjunctions (verb goes to end)**
-    - **weil** (because): "..., weil ich Zeit habe."
-    - **dass** (that): "..., dass ich Deutsch lerne."
-    - **wenn** (when/if): "..., wenn ich Zeit habe."
-    - **ob** (if/whether): "..., ob er kommt."
-    - **obwohl** (although): "..., obwohl es schwer ist."
+**Examples:**
+- **Ich sehe** (Verb) **den Hund** (Accusative Object). = I see the dog.
+- **Er kauft** (Verb) **ein Auto** (Accusative Object). = He buys a car.
+- **Wir lesen** (Verb) **ein Buch** (Accusative Object). = We read a book.
 
-15. **Subordinate clause structure**
-    - **Main clause:** Subject + Verb + ...
-    - **Comma**
-    - **Subordinate clause:** Subject + ... + conjugated verb (at end)
-    - **Example:** "Ich lerne Deutsch, weil es schön ist."
+### Dative Objects
 
-16. **Complete sentence examples**
-    - "Ich lerne Deutsch, weil ich nach Deutschland fahren will."
-      - (I learn German because I want to go to Germany.)
+**Pattern:** Subject + Verb + [Dative Object]
 
-    - "Weißt du, ob er heute kommt?"
-      - (Do you know if he's coming today?)
+**Examples:|
+- **Ich helfe** (Verb) **meinem Freund** (Dative Object). = I help my friend.
+- **Er antwortet** (Verb) **seiner Mutter** (Dative Object). = He answers his mother.
+- **Wir danken** (Verb) **Ihnen** (Dative Object). = We thank you.
 
-## Inverted Word Order
+### Two Objects (Accusative + Dative)
 
-**When something other than subject is first:**
+**Pattern:** Subject + Verb + [Dative] + [Accusative]
 
-17. **Inversion after adverbials**
-    - **Normal:** "Ich lerne heute Deutsch."
-    - **Inverted:** "Heute lerne ich Deutsch."
+**Examples:**
+- **Ich gebe** (Verb) **dir** (Dative) **das Buch** (Accusative). = I give you the book.
+- **Er zeigt** (Verb) **mir** (Dative) **den Weg** (Accusative). = He shows me the way.
+- **Sie schenkt** (Verb) **ihm** (Dative) **ein Getränk** (Accusative). = She pours him a drink.
 
-18. **Inversion after prepositional phrases**
-    - **Normal:** "Ich wohne in einem großen Haus."
-    - **Inverted:** "In einem großen Haus wohne ich."
+**Important:** Dative always comes before accusative when both are present!
 
-19. **Inversion after objects**
-    - **Normal:** "Ich sehe den Mann."
-    - **Inverted:** "Den Mann sehe ich."
+## Word Order with Reflexive Verbs
 
-## Negation
+Reflexive verbs use pronouns that reflect back to the subject:
 
-**How to make sentences negative:**
+| Person | Reflexive Pronoun | Example |
+|--------|-----------------|---------|
+| ich | mich | **Ich** (subject) **wasche** (reflexive) **mich** (object). |
+| du | dich | **Du** (subject) **freust** (reflexive) **dich** (object). |
+| er/sie/es | sich | **Er** (subject) **ernt** (reflexive) **sich** (object). |
+| wir | uns | **Wir** (subject) **sehen** (reflexive) **uns** (object). |
+| ihr | euch | **Ihr** (subject) **freut** (reflexive) **euch** (object). |
+| Sie | sich | **Sie** (subject) **waschen** (reflexive) **sich** (object). |
 
-20. **nicht placement**
-    - **After conjugated verb:** "Ich lerne nicht Deutsch."
-    - **After objects:** "Ich sehe den Mann nicht."
-    - **After adverbs of time:** "Ich komme heute nicht."
-    - **Before adjectives:** "Das ist nicht gut."
+**Position:** Reflexive pronouns come immediately after the conjugated verb.
 
-21. **kein placement**
-    - **Instead of "nicht + ein":** "Ich habe kein Auto."
-    - **With nouns:** "Ich sehe keinen Mann." (accusative)
-    - **Declines like ein:** keinen, keine, kein, keine, keine, keine
+**Examples:**
+- **Ich** (Subject) **kaufe** (Verb) **mir** (reflexive) **ein Auto** (object). = I buy myself a car.
+- **Du** (Subject) **musst** (Verb) **dich** (reflexive) **beeilen**.** = You must behave yourself.
+- **Er** (Subject) **kennt** (Verb) **sich** (reflexive) **nicht.** = He doesn't know himself.
 
-22. **nicht vs. kein**
-    - **nicht:** Negates verbs, adjectives, whole sentences
-    - **kein:** Negates nouns (instead of ein)
-    - **Example:** "Ich habe kein Buch" vs "Ich habe das Buch nicht."
+## Word Order with Negation
 
-## Modal Verbs in Sentences
+**"Nicht" (Not) Position:**
 
-**Where do modals go?**
+**Rule:** "Nicht" usually comes AFTER the object and any reflexive pronouns.
 
-23. **Modal verb + infinitive at end**
-    - **Pattern:** Subject + Modal + ... + Infinitive
-    - **Example:** "Ich kann Deutsch sprechen." (I can speak German.)
-    - **Example:** "Ich muss heute lernen." (I must study today.)
+**Pattern:** Subject + Verb + [Object/Reflexive] + **nicht**
 
-24. **Modal verbs with separable prefix verbs**
-    - **Prefix stays at end:** "Ich muss heute aufstehen."
-    - **NOT:** "Ich muss aufstehen heute"
-    - **Infinitive:** aufstehen (not aufgestanden)
+**Examples:**
+- **Ich sehe den Hund nicht.** (I don't see the dog.)
+- **Er kauft das Auto nicht.** (He's not buying the car.)
+- **Wir kommen heute nicht.** (We're not coming today.)
+- **Ich muss das nicht tun.** (I must not do that.)
 
-25. **Double infinitive construction**
-    - **Perfect tense:** "Ich habe Deutsch lernen müssen."
-    - **Order:** helping verb + ... + modals + other verbs
-    - **Example:** "Ich habe das Buch lesen können."
+**Important:** With modal verbs, "nicht" can come at the end:
+- **Ich kann nicht kommen.** (I cannot come.)
 
-## Separable Prefix Verbs
+## Word Order with Questions and Answers
 
-**How to handle separable verbs:**
+### Question + Answer Flow
 
-26. **Main clause: prefix separates**
-    - **Pattern:** Subject + Stem + ... + Prefix
-    - **Example:** "Ich stehe heute um 8 Uhr auf."
-    - **Prefix:** auf (at end)
+**Question:** "Kommst du heute?"
+**Answer:** "Ja, ich komme heute."
 
-27. **Subordinate clause: prefix doesn't separate**
-    - **Pattern:** Subject + Prefix + Stem + ...
-    - **Example:** "..., weil ich heute um 8 Uhr aufstehe."
-    - **Note:** Verb still goes to end of clause
+**Question:** "Was lernst du?"
+**Answer:** "Ich lerne Deutsch."
 
-28. **In questions with separable verbs**
-    - **Yes/No question:** "Stehst du heute um 8 Uhr auf?"
-    - **W-question:** "Wann stehst du heute auf?"
-
-## Complex Sentences
-
-**Building longer sentences:**
-
-29. **Main clause + subordinate clause**
-    - **Example:** "Ich lerne Deutsch, weil ich in Deutschland arbeiten will."
-    - **Structure:** Main clause (V2) + comma + subordinate clause (verb at end)
-
-30. **Subordinate clause + main clause**
-    - **Example:** "Weil ich Zeit habe, lerne ich Deutsch."
-    - **Note:** Subordinate clause first, verb in main clause stays in position 2
-
-31. **Multiple clauses**
-    - **Example:** "Ich denke, dass das Deutsch lernen wichtig ist, und ich übe jeden Tag."
-    - **Multiple dass clauses:** "Ich weiß, dass er kommt, und dass er das Buch mitbringt."
+**Question:** "Wann musst du gehen?"
+**Answer:** "Ich muss um 8 Uhr gehen."
 
 ## Common Mistakes to Avoid
 
-### Mistake 1: Verb not in second position
+### Mistake 1: Verb Not in Second Position
 
-❌ "Ich heute lerne Deutsch."
-✅ "Ich lerne heute Deutsch." OR "Heute lerne ich Deutsch."
+❌ Wrong: Ich heute gehe.
+✅ Right: Ich gehe heute. OR Ich gehe heute.
 
-**Rule:** Conjugated verb must be in second grammatical position.
+**Why:** Conjugated verb must be second!
 
-### Mistake 2: Wrong order in subordinate clauses
+### Mistake 2: Separating Prefix in Subordinate Clause
 
-❌ "..., weil ich Deutsch lerne."
-✅ "..., weil ich Deutsch lerne." (No, lerne goes to end)
-✅ "..., weil ich Deutsch lernen muss." (If modal)
+❌ Wrong: Er sagt, dass er auf stehen will.
+✅ Right: Er sagt, dass er aufstehen will.
 
-**Rule:** In subordinate clauses, conjugated verb goes to end.
+**Why:** In subordinate clauses, separable prefixes stay attached!
 
-### Mistake 3: Incorrect TeMoPo order
+### Mistake 3: Wrong Object Order
 
-❌ "Ich fahre nach Berlin mit dem Bus heute."
-✅ "Ich fahre heute mit dem Bus nach Berlin."
+❌ Wrong: Ich sehe den mein Vater.
+✅ Right: Ich sehe meinen Vater.
 
-**Rule:** Time before Manner before Place (TeMoPo).
+**Why:** Object comes before possessive!
+
+### Mistake 4: Wrong "Nicht" Position
+
+❌ Wrong: Ich sehe nicht den Hund.
+✅ Right: Ich sehe den Hund nicht.
+
+**Why:** "Nicht" comes after the object!
+
+### Mistake 5: Inversion in Subordinate Clause
+
+❌ Wrong: ..., weil ich komme heute.
+✅ Right: ..., weil ich heute komme.
+
+**Why:** In subordinate clauses, subject comes before verb, not after!
+
+## Advanced Word Order
+
+### Emphasis Through Inversion
+
+In main clauses, you can move elements to the beginning for emphasis:
+
+**Standard:** **Ich** (Subject) **gehe** (Verb) **heute** (Time) **nach Hause** (Place).
+- **Heute** (Time) **gehe** (Verb) **ich** (Subject) **nach Hause** (Place). = I'm going home TODAY (emphasizes today).
+- **Nach Hause** (Place) **gehe** (Verb) **ich** (Subject) **heute** (Time). = I'm going HOME (emphasizes home).
+
+**Important:** When you move something to the front, the subject must come immediately after the verb!
+
+### Multiple Verbs in One Sentence
+
+**Pattern:** Conjugated verb + infinitives at the end
+
+**Examples:**
+- **Ich** (Subject) **muss** (Modal) **heute** (Te) **gehen** (Infinitive) **nach Hause** (Place). = I must go home today.
+- **Er** (Subject) **kann** (Modal) **nicht** (Mo) **arbeiten** (Infinitive). = He cannot work.
+- **Wir** (Subject) **wollen** (Modal) **lernen** (Infinitive) **schwimmen** (Infinitive). = We want to learn to swim.
+
+**Order:** Modal 1 + Infinitive 2 + Infinitive 3...
+
+## Quick Reference Charts
+
+### Main Clause Word Order
+
+| Position | Element | Example |
+|----------|----------|---------|
+| 1 | Subject | **Ich** |
+| 2 | Te/Ka/Mo | **heute / wegen des Regens / nicht** |
+| 3 | Conjugated Verb | **arbeite / gehe / kann** |
+| 4 | Object/Manner/Place | **deinen Freund / gut / nach Hause** |
+
+### Subordinate Clause Word Order
+
+| Position | Element | Example |
+|----------|----------|---------|
+| 1 | Conjunction | **weil / dass / wenn / ob** |
+| 2 | Subject | **ich / du / er** |
+| 3 | Te/Ka/Mo | **heute / wegen / nicht** |
+| 4 | Other Elements | **meinen Freund / das Buch** |
+| 5 | Conjugated Verb | **arbeite / gehe / kann** ← Always last! |
+
+### Question Word Order
+
+| Type | Pattern | Example |
+|------|---------|---------|
+| Yes/No | Verb + Subject + ...? | **Kommst du heute?** |
+| W-Question | Question Word + Subject + Verb + ...? | **Wann kommst du?** |
 
 ## Practice Examples
 
-**Reorder these words correctly:**
+### Exercise 1: Reorder to Correct German
 
-32. **heute / Ich / Deutsch / lerne**
-    → "Ich lerne heute Deutsch." OR "Heute lerne ich Deutsch."
+Rearrange these words into correct German sentences:
 
-33. **nicht / Das / ist / gut**
-    → "Das ist nicht gut."
+1. ich / heute / komme → **Ich komme heute.**
+2. nicht / der Hund / beißt → **Der Hund beißt nicht.**
+3. du / musst / lernen → **Du musst lernen.**
+4. wir / wollen / Deutsch / lernen → **Wir wollen Deutsch lernen.**
+5. er / kann / nicht / kommen → **Er kann nicht kommen.**
 
-34. **weil / kommt / er / nicht / hat / er / Zeit**
-    → "Er kommt nicht, weil er keine Zeit hat."
+### Exercise 2: Translate to German
 
-35. **Ich / kann / heute / nicht / kommen**
-    → "Ich kann heute nicht kommen."
+1. I'm learning German today. → **Ich lerne heute Deutsch.**
+2. He cannot come because he has no time. → **Er kann nicht kommen, weil er keine Zeit hat.**
+3. She wants to buy a car. → **Sie will ein Auto kaufen.**
+4. We don't like coffee. → **Wir mögen Kaffee nicht.**
+5. Are you going home today? → **Gehst du heute nach Hause?**
 
-## Quick Reference Summary
+### Exercise 3: Identify the Mistake
 
-| Sentence Type | Word Order |
-|--------------|------------|
-| Statement | Subject + Verb + ... |
-| Emphasis | Time/Place + Verb + Subject + ... |
-| Yes/No Question | Verb + Subject + ... |
-| W-Question | W-word + Verb + Subject + ... |
-| With und/aber | Standard order continues |
-| Subordinate clause | Verb goes to end |
-| Negation | nicht after verb/object, kein before noun |
-| Modal | Subject + Modal + ... + Infinitive |
-| Separable verb | Prefix goes to end |
+Find and fix the word order mistake:
 
-## The Bottom Line
+1. Ich heute komme → **Ich komme heute.**
+2. Er sagt, dass er kann nicht kommen → **Er sagt, dass er nicht kommen kann.**
+3. Ich sehe nicht den Hund → **Ich sehe den Hund nicht.**
+4. Wir lernen Deutsch nicht → **Wir lernen Deutsch nicht.**
+5. Kannst du mir helfen? → ✓ (correct!)
 
-German word order follows clear rules:
+## Cultural Notes
 
-1. **V2 Rule:** Conjugated verb always second
-2. **TeMoPo:** Time before Manner before Place
-3. **Questions:** Verb first or W-word first
-4. **Subordinate clauses:** Verb to end
-5. **Coordinating conjunctions:** No change
-6. **Modals:** Modal + ... + infinitive
-7. **Separable verbs:** Prefix separates in main clause
+### Word Order in Formal German
 
-**Pro tip:** Start with **simple Subject + Verb + Object sentences** — master the V2 rule first. Then add time expressions, then subordinate clauses. And remember: German word order is about structure, not translation from English!
+In formal writing and speech, Germans follow these rules strictly. In casual conversation, some flexibility exists, but the V2 rule is always maintained.
 
-Your German sentence mastery starts with understanding the V2 rule. Viel Erfolg!
+### Regional Differences
+
+Some dialects may have slightly different word order, but standard German (Hochdeutsch) follows the rules outlined here.
+
+### German Efficiency
+
+German word order reflects German efficiency: important information comes early, but the verb's second position provides structure and predictability.
+
+## Summary
+
+German word order follows clear, logical patterns:
+
+1. **V2 Rule** — Conjugated verb is always second in main clauses
+2. **TeKaMo Rule** — Time-Cause-Modal come before the verb
+3. **Subordinate clauses** — Conjugated verb goes to the very end
+4. **Questions** — Verb comes first in yes/no questions
+5. **W-questions** — Question word first, then subject, then verb
+6. **Object order** — Dative before accusative when both present
+7. **Negation** — "Nicht" comes after objects/reflexives
+
+**Pro tip:** Start with simple sentences. Master Subject-Verb-Object first, then add TeKaMo elements one at a time. Once comfortable with main clauses, practice subordinate clauses where the verb goes to the end.
+
+Remember: German word order may seem rigid, but it provides structure and clarity. Master these patterns, and you'll be constructing sentences with confidence!
+
+Your journey to mastering German word order starts now. Viel Erfolg!
 
 ---
 *Ready to master German word order through interactive practice? [Open Das German Bot](https://t.me/dasgermanbot) — your first lesson takes 30 seconds.*
