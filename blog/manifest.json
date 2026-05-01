@@ -2070,5 +2070,32 @@
       "title": "Nemecké predložky: Kompletný sprievodca (Akuzatív, Datív, Genitív + Wechselpräpositionen)",
       "description": "Ovládni nemecké predložky! Nauč sa akuzatívne predložky (für, durch, ohne, um), datívne predložky (mit, von, bei, zu), genitívne predložky a obojstranné predložky (Wechselpräpositionen). Kompletný sprievodca s tabuľkami, príkladmi a mnemotechnickými pravidlami."
     }
+  },
+  {
+    "slug": "german-separable-verbs",
+    "date": "2026-05-01",
+    "tags": [
+      "verbs",
+      "grammar",
+      "beginners",
+      "vocabulary",
+      "word-formation"
+    ],
+    "en": {
+      "title": "German Separable Verbs: Complete Guide (How to Use Prefix Verbs like a Native)",
+      "description": "Master German separable verbs (trennbare Verben)! Learn how prefixes like ab-, an-, auf-, ein-, mit-, weg- work, when to separate them, and the rules for different tenses. Complete guide with examples, lists, and memory tricks for German verb mastery."
+    },
+    "ru": {
+      "title": "Немецкие разделяемые глаголы: Полный гид (Как использовать глаголы с приставками как носитель)",
+      "description": "Овладей немецкими разделяемыми глаголами (trennbare Verben)! Изучи как работают приставки ab-, an-, auf-, ein-, mit-, weg-, когда их разделять и правила для разных времён. Полный гид с примерами, списками и мнемоническими правилами."
+    },
+    "uk": {
+      "title": "Німецькі відокремлювані дієслова: Повний гід (Як використовувати дієслова з префіксами як носій)",
+      "description": "Оволодійте німецькими відокремлюваними дієсловами (trennbare Verben)! Вивчіть як працюють префікси ab-, an-, auf-, ein-, mit-, weg-, коли їх відокремлювати і правила для різних часів. Повний гід з прикладами, списками та мнемонічними правилами."
+    },
+    "sk": {
+      "title": "Nemecké deliteľné slovesá: Kompletný sprievodca (Ako používať slovesá s predponami ako rodák)",
+      "description": "Ovládni nemecké deliteľné slovesá (trennbare Verben)! Nauč sa ako fungujú predpony ab-, an-, auf-, ein-, mit-, weg-, kedy sa oddeľujú a pravidlá pre rôzne časy. Kompletný sprievodca s príkladmi, zoznamami a mnemotechnickými pravidlami."
+    }
   }
 ]
