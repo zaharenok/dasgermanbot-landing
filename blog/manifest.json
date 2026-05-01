@@ -2043,5 +2043,32 @@
       "title": "Nemecké privlastňovacie členy: Kompletný sprievodca (Mein, Dein, Sein...)",
       "description": "Ovládni nemecké privlastňovacie členy! Nauč sa mein, dein, sein, ihr, unser, euer, ihr, Ihr s tabuľkami, príkladmi a tipmi. Pochop ako funguje vlastníctvo v nemčine compared to English. Kompletný sprievodca nemeckými privlastňovacími zámenami."
     }
+  },
+  {
+    "slug": "german-prepositions-guide",
+    "date": "2026-05-01",
+    "tags": [
+      "grammar",
+      "prepositions",
+      "beginners",
+      "intermediate",
+      "cases"
+    ],
+    "en": {
+      "title": "German Prepositions: Complete Guide (Accusative, Dative, Genitive + Two-Way Prepositions)",
+      "description": "Master German prepositions! Learn accusative prepositions (für, durch, ohne, um), dative prepositions (mit, von, bei, zu), genitive prepositions, and two-way prepositions (Wechselpräpositionen). Complete guide with charts, examples, and memory tricks for German case system mastery."
+    },
+    "ru": {
+      "title": "Немецкие предлоги: Полный гид (Аккузатив, Датив, Генитив + Вechselpräpositionen)",
+      "description": "Овладей немецкими предлогами! Изучи аккузативные предлоги (für, durch, ohne, um), дативные предлоги (mit, von, bei, zu), генитивные предлоги и двухсторонние предлоги (Wechselpräpositionen). Полный гид с таблицами, примерами и мнемоническими правилами."
+    },
+    "uk": {
+      "title": "Німецькі прийменники: Повний гід (Аккузатив, Датив, Генитив + Wechselpräpositionen)",
+      "description": "Оволодійте німецькими прийменниками! Вивчіть акузативні прийменники (für, durch, ohne, um), дативні прийменники (mit, von, bei, zu), генитивні прийменники та двосторонні прийменники (Wechselpräpositionen). Повний гід з таблицями, прикладами та мнемонічними правилами."
+    },
+    "sk": {
+      "title": "Nemecké predložky: Kompletný sprievodca (Akuzatív, Datív, Genitív + Wechselpräpositionen)",
+      "description": "Ovládni nemecké predložky! Nauč sa akuzatívne predložky (für, durch, ohne, um), datívne predložky (mit, von, bei, zu), genitívne predložky a obojstranné predložky (Wechselpräpositionen). Kompletný sprievodca s tabuľkami, príkladmi a mnemotechnickými pravidlami."
+    }
   }
 ]
