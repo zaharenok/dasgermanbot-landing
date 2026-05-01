@@ -1909,5 +1909,32 @@
       "title": "Nemecké zložené slová: 100+ príkladov a ako ich vytvárať (od Hand po Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz!)",
       "description": "Objavte fascinujúci svet nemeckých zložených slov! Naučte sa, ako Nemci spájajú slová na vytvorenie všetkého — od jednoduchých termínov po ridiculous dlhé 63-písmenové monštra. Kompletný sprievodca s pravidlami, príkladmi a najdlhšími nemeckými slovami vysvetlenými."
     }
+  },
+  {
+    "slug": "german-numbers-counting",
+    "date": "2026-05-01",
+    "tags": [
+      "basics",
+      "beginners",
+      "numbers",
+      "counting",
+      "vocabulary"
+    ],
+    "en": {
+      "title": "German Numbers: Complete Guide from 0 to 1 Billion (With Audio Examples!)",
+      "description": "Master German numbers and counting from zero to one billion! Learn cardinal numbers, ordinal numbers, fractions, prices, phone numbers, and dates with clear examples and pronunciation tips."
+    },
+    "ru": {
+      "title": "Немецкие цифры: Полный гайд от 0 до 1 миллиарда (С примерами!)",
+      "description": "Овладай немецкими цифрами и счётом от нуля до миллиарда! Изучи кардинальные числа, порядковые числа, дроби, цены, телефонные номера и даты с понятными примерами и советами по произношению."
+    },
+    "uk": {
+      "title": "Німецькі цифри: Повний гід від 0 до 1 мільярда (З прикладами!)",
+      "description": "Оволодійте німецькими цифрами та рахунком від нуля до мільярда! Вивчіть кардинальні числа, порядкові числа, дроби, ціни, телефонні номери та дати з зрозумілими прикладами та порадами щодо вимови."
+    },
+    "sk": {
+      "title": "Nemecké čísla: Kompletný sprievodca od 0 do 1 miliardy (S príkladmi!)",
+      "description": "Ovládni nemecké čísla a počítanie od nuly po miliardu! Nauč sa základné čísla, poradové čísla, zlomky, ceny, telefónne čísla a dátumy s jasnými príkladmi a tipmi na výslovnosť."
+    }
   }
 ]
