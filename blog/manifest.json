@@ -2097,5 +2097,32 @@
       "title": "Nemecké deliteľné slovesá: Kompletný sprievodca (Ako používať slovesá s predponami ako rodák)",
       "description": "Ovládni nemecké deliteľné slovesá (trennbare Verben)! Nauč sa ako fungujú predpony ab-, an-, auf-, ein-, mit-, weg-, kedy sa oddeľujú a pravidlá pre rôzne časy. Kompletný sprievodca s príkladmi, zoznamami a mnemotechnickými pravidlami."
     }
+  },
+  {
+    "slug": "german-adjective-endings",
+    "date": "2026-05-01",
+    "tags": [
+      "grammar",
+      "adjectives",
+      "beginners",
+      "intermediate",
+      "declension"
+    ],
+    "en": {
+      "title": "German Adjective Endings: Complete Guide (Strong, Weak, and Mixed Declension)",
+      "description": "Master German adjective endings! Learn strong, weak, and mixed declension, when to use which type, adjective endings after definite/indefinite articles, and possessive adjectives. Complete guide with charts, examples, and memory tricks for German adjective mastery."
+    },
+    "ru": {
+      "title": "Немецкие окончания прилагательных: Полный гид (Сильное, слабое и смешанное склонение)",
+      "description": "Овладей немецкими окончаниями прилагательных! Изучи сильное, слабое и смешанное склонение, когда использовать какое тип, окончания прилагательных после определённого/неопределённого артикля и притяжательных прилагательных. Полный гид с таблицами, примерами и мнемоническими правилами."
+    },
+    "uk": {
+      "title": "Німецькі закінчення прикметників: Повний гід (Сильне, слабке та змішане відмінювання)",
+      "description": "Оволодійте німецькими закінченнями прикметників! Вивчіть сильне, слабке та змішане відмінювання, коли використовувати який тип, закінчення прикметників після визначеного/невизначеного артикля та присвійних прикметників. Повний гід з таблицями, прикладами та мнемонічними правилами."
+    },
+    "sk": {
+      "title": "Nemecké koncovky prídavných mien: Kompletný sprievodca (Silné, slabé a zmiešané skloňovanie)",
+      "description": "Ovládni nemecké koncovky prídavných mien! Nauč sa silné, slabé a zmiešané skloňovanie, kedy použiť ktorý typ, koncovky prídavných mien po určitom/neurčitom člene a posesívnych prídavných mien. Kompletný sprievodca s tabuľkami, príkladmi a mnemotechnickými pravidlami."
+    }
   }
 ]
