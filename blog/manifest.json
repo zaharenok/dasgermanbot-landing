@@ -1882,5 +1882,32 @@
       "title": "Nemecké modálne slovesá: Kompletný sprievodca pre začiatočníkov (Können, Müssen, Wollen a ďalšie!)",
       "description": "Ovládnite 6 nemeckých modálnych slovies (können, müssen, wollen, dürfen, sollen, mögen) s jednoduchými tabuľkami skloňovania, pravidlami používania a príkladmi. Naučte sa, ako vyjadriť schopnosť, povinnosť a želanie v nemčine!"
     }
+  },
+  {
+    "slug": "german-compound-words",
+    "date": "2026-05-01",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "compound-words",
+      "komposita",
+      "word-formation"
+    ],
+    "en": {
+      "title": "German Compound Words: 100+ Examples & How to Build Them (From Hand to Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz!)",
+      "description": "Discover the fascinating world of German compound words! Learn how Germans combine words to create everything from simple terms to ridiculous 63-letter monsters. Complete guide with rules, examples, and the longest German words explained."
+    },
+    "ru": {
+      "title": "Немецкие составные слова: 100+ примеров и как их создавать (от Hand до Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz!)",
+      "description": "Откройте для себя увлекательный мир немецких составных слов! Узнайте, как немцы объединяют слова для создания всего — от простых терминов до ridiculously длинных 63-буквенных монстров. Полный справочник с правилами, примерами и самыми длинными немецкими словами."
+    },
+    "uk": {
+      "title": "Німецькі складені слова: 100+ прикладів та як їх створювати (від Hand до Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz!)",
+      "description": "Відкрийте для себе захоплюючий світ німецьких складених слів! Дізнайтеся, як німці об'єднують слова для створення всього — від простих термінів до ridiculously довгих 63-буквених монстрів. Повний посібник із правилами, прикладами та найдовшими німецькими словами."
+    },
+    "sk": {
+      "title": "Nemecké zložené slová: 100+ príkladov a ako ich vytvárať (od Hand po Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz!)",
+      "description": "Objavte fascinujúci svet nemeckých zložených slov! Naučte sa, ako Nemci spájajú slová na vytvorenie všetkého — od jednoduchých termínov po ridiculous dlhé 63-písmenové monštra. Kompletný sprievodca s pravidlami, príkladmi a najdlhšími nemeckými slovami vysvetlenými."
+    }
   }
 ]
