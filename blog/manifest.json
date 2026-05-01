@@ -2205,5 +2205,32 @@
       "title": "Nemecké spovedlivoslovia (Zungenbrecher): Zábavný spôsob, ako zlepšiť výslovnosť",
       "description": "Ovládni nemeckú výslovnosť s 20+ klasickými spovedlivosloviami! Nauč sa zábavné Zungenbrecher od ľahkého po expertú úroveň, zlepši akcent, trénuj ťažké zvuky ch, eu, ü, r. Kompletný sprievodca s prekladmi, tipmi na výslovnosť a kultúrnymi insightmi."
     }
+  },
+  {
+    "slug": "german-idioms-literal",
+    "date": "2026-05-01",
+    "tags": [
+      "idioms",
+      "vocabulary",
+      "culture",
+      "intermediate",
+      "fun"
+    ],
+    "en": {
+      "title": "25 German Idioms with Hilarious Literal Translations (And What They Actually Mean)",
+      "description": "Discover the funniest German idioms! Learn 25+ German expressions with literal translations like 'I only understand train station' and 'to have tomatoes on your eyes.' Complete guide with meanings, usage examples, and cultural insights for German learners who want to sound like natives."
+    },
+    "ru": {
+      "title": "25 немецких идиом с смешными буквальными переводами (И что они на самом деле означают)",
+      "description": "Открой самые смешные немецкие идиомы! Изучи 25+ немецких выражений с буквальными переводами вроде 'я понимаю только вокзал' и 'иметь помидоры на глазах'. Полный гид со значениями, примерами использования и культурными инсайтами для изучающих немецкий."
+    },
+    "uk": {
+      "title": "25 німецьких ідіом з кумедними буквальними перекладами (І що вони насправді означають)",
+      "description": "Відкрий найсмішніші німецькі ідіоми! Вивчай 25+ німецьких виразів із буквальними перекладами як 'я розумію тільки вокзал' та 'мати помідори на очах'. Повний гід зі значеннями, прикладами використання та культурними інсайтами."
+    },
+    "sk": {
+      "title": "25 nemeckých idióm so vtipným doslovnými prekladmi (A čo v skutočnosti znamenajú)",
+      "description": "Objav najzábavnejšie nemecké idiomy! Nauč sa 25+ nemeckých výrazov s doslovnými prekladmi ako 'chápem len stanicu' a 'mať paradajky na očiach'. Kompletný sprievodca s významami, príkladmi použitia a kultúrnymi insightmi."
+    }
   }
 ]
