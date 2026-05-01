@@ -2124,5 +2124,32 @@
       "title": "Nemecké koncovky prídavných mien: Kompletný sprievodca (Silné, slabé a zmiešané skloňovanie)",
       "description": "Ovládni nemecké koncovky prídavných mien! Nauč sa silné, slabé a zmiešané skloňovanie, kedy použiť ktorý typ, koncovky prídavných mien po určitom/neurčitom člene a posesívnych prídavných mien. Kompletný sprievodca s tabuľkami, príkladmi a mnemotechnickými pravidlami."
     }
+  },
+  {
+    "slug": "german-modal-verbs",
+    "date": "2026-05-01",
+    "tags": [
+      "verbs",
+      "grammar",
+      "beginners",
+      "essential",
+      "communication"
+    ],
+    "en": {
+      "title": "German Modal Verbs: Complete Guide (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+      "description": "Master German modal verbs! Learn the 6 modal verbs können, müssen, wollen, dürfen, sollen, mögen with meanings, conjugation, usage rules, and difference from English. Complete guide with examples, charts, and common mistakes to avoid for German communication mastery."
+    },
+    "ru": {
+      "title": "Немецкие модальные глаголы: Полный гид (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+      "description": "Овладей немецкими модальными глаголами! Изучи 6 модальных глаголов können, müssen, wollen, dürfen, sollen, mögen с их значениями, спряжением, правилами использования и отличиями от английского. Полный гид с примерами, таблицами и распространёнными ошибками."
+    },
+    "uk": {
+      "title": "Німецькі модальні дієслова: Повний гід (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+      "description": "Оволодійте німецькими модальними дієсловами! Вивчіть 6 модальних дієслів können, müssen, wollen, dürfen, sollen, mögen з їх значеннями, відмінюванням, правилами використання та відмінностями від англійської. Повний гід з прикладами, таблицями та поширеними помилками."
+    },
+    "sk": {
+      "title": "Nemecké modálne slovesá: Kompletný sprievodca (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+      "description": "Ovládni nemecké modálne slovesá! Nauč sa 6 modálnych slovies können, müssen, wollen, dürfen, sollen, mögen s ich významami, skloňovaním, pravidlami používania a rozdielmi od angličtiny. Kompletný sprievodca s príkladmi, tabuľkami a bežnými chybami, ktorým sa treba vyhnúť."
+    }
   }
 ]

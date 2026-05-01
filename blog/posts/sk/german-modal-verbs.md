@@ -1,406 +1,372 @@
 ---
-title: "Nemecké modálne slovesá: Kompletný sprievodca pre začiatočníkov (Können, Müssen, Wollen a ďalšie!)"
-description: "Ovládnite 6 nemeckých modálnych slovies (können, müssen, wollen, dürfen, sollen, mögen) s jednoduchými tabuľkami skloňovania, pravidlami používania a príkladmi. Naučte sa, ako vyjadriť schopnosť, povinnosť a želanie v nemčine!"
-date: "2026-04-30"
+title: "Nemecké modálne slovesá: Kompletný sprievodca (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)"
+description: "Ovládni nemecké modálne slovesá! Nauč sa 6 modálnych slovies können, müssen, wollen, dürfen, sollen, mögen s ich významami, skloňovaním, pravidlami používania a rozdielmi od angličtiny. Kompletný sprievodca s príkladmi, tabuľkami a bežnými chybami, ktorým sa treba vyhnúť."
+date: "2026-05-01"
 lang: "sk"
 image: ""
-tags: ["gramatika", "zaciatocnici", "slovesa", "modalne", "sklonovanie"]
+tags: ["slovesa", "gramatika", "zaciatocnici", "dolezite", "komunikacia"]
 ---
 
-# Nemecké modálne slovesá: Kompletný sprievodca pre začiatočníkov
+# Nemecké modálne slovesá: Kompletný sprievodca po 6 modálnych slovesách
 
-Učíte sa nemčinu. Chcete povedať „môžem“, „musím“, „chcem“.
+Modálne slovesá sú jedny z najdôležitejších slovies v nemečej gramatike. Budete ich používať každý deň na vyjadrenie toho, čo môžete, musíte, chcete, smiete, máte a radi robíte.
 
-Ale ako? Spoznajte **modálne slovesá** — 6 mocných slovies nemeckej, ktoré vám umožnia vyjadriť schopnosť, povinnosť, povolenie a želanie.
+**Dobrá správa:** V nemčine je len 6 modálnych slovies a nasledujú predvídateľným vzorom. Akonáhle ich ovládnete, vaša schopnosť vyjadrovať sa po nemecky výrazne rozšíri.
 
-**Dobrá správa:** Modálne slovesá nasledujú predvídateľný vzor. Keď raz ovládnete týchto 6 slovies, odomknete tisíce výrazov!
+## Čo sú modálne slovesá?
 
-## Čo sú to modálne slovesá?
+Modálne slovesá upravujú význam hlavného slovesa v vete. Vyjadrujú:
 
-**Modálne slovesá** sú pomocné slovesá, ktoré vyjadrujú:
-- **Schopnosť** (vedieť, byť schopný)
-- **Povinnosť** (musieť, mať)
-- **Povolenie** (smieť, mať povolenie)
-- **Želanie** (chcieť)
-- **Odporúčanie** (mal by)
-- **Preferenciu** (páčiť sa)
+- **Schopnosť** (vedieť môcť) → können
+- **Nevoľnosť** (musieť) → müssen
+- **Prianie** (chcieť) → wollen
+- **Povolenie** (smieť/byť povolený) → dürfen
+- **Povinnosť/Rada** (mať by) → sollen
+- **Preferencia** (páčiť sa) → mögen
 
-V nemčine je **6 modálnych slovies**:
-1. **können** (vedieť, byť schopný)
-2. **müssen** (musieť)
-3. **wollen** (chcieť)
-4. **dürfen** (smieť, mať povolenie)
-5. **sollen** (mať, mal by)
-6. **mögen** (páčiť sa)
+**Príklad:**
+- **Ich kann Deutsch sprechen.** (Viem rozprávať po nemecky)
+  - kann (modálne) upravuje sprechen (hlavné sloveso)
 
 ## 6 nemeckých modálnych slovies
 
-### 1. KÖNNEN (vedieť, byť schopný)
+| Modálne sloveso | Význam | Anglický ekvivalent |
+|-----------------|----------|----------------------|
+| **können** | vedieť môcť | can |
+| **müssen** | musieť, byť povinný | must |
+| **wollen** | chcieť | want to |
+| **dürfen** | smieť, byť povolený | may/be allowed to |
+| **sollen** | mať by, mal by | should/ought to |
+| **mögen** | páčiť sa (niečo) | to like |
 
-**Význam:** Schopnosť, možnosť, povolenie
+## Skloňovanie modálnych slovies
 
-| Osoba | Skloňovanie | Slovenčina |
-|-------|-------------|-----------|
-| ich | **kann** | ja môžem |
-| du | **kannst** | ty môžeš |
-| er/sie/es | **kann** | on/ona/ono môže |
-| wir | **können** | my môžeme |
-| ihr | **könnt** | vy môžete (mn. číslo) |
-| sie/Sie | **können** | oni/Vy môžete (formálne) |
+Modálne slovesá majú nepravidelné skloňovanie v jednotnom čísle (ich, du, er/sie/es), ale pravidelné v množnom čísle (wir, ihr, Sie).
 
-**Príklady:**
-- Ich **kann** Deutsch sprechen. (Viem hovoriť po nemecky)
-- Was **kann** ich für dich tun? (Čo môžem pre teba urobiť?)
-- Er **kann** heute nicht kommen. (Nemôže dnes prísť)
+**Kľúčový vzor:** Samohláska sa mení v formách jednotného čísla!
 
-### 2. MÜSSEN (musieť)
+### Skloňovanie v prítomnom čase
 
-**Význam:** Nevyhnutnosť, povinnosť, silná potreba
+| Osoba | können | müssen | wollen | dürfen | sollen | mögen |
+|-------|---------|---------|---------|---------|---------|--------|
+| **ich** | kann | muss | will | darf | soll | mag |
+| **du** | kannst | musst | willst | darfst | sollst | magst |
+| **er/sie/es** | kann | muss | will | darf | soll | mag |
+| **wir** | können | müssen | wollen | dürfen | sollen | mögen |
+| **ihr** | könnt | müsst | wollt | dürft | sollt | mögt |
+| **Sie** | können | müssen | wollen | dürfen | sollen | mögen |
 
-| Osoba | Skloňovanie | Slovenčina |
-|-------|-------------|-----------|
-| ich | **muss** | ja musím |
-| du | **musst** | ty musíš |
-| er/sie/es | **muss** | on/ona/ono musí |
-| wir | **müssen** | my musíme |
-| ihr | **müsst** | vy musíte (mn. číslo) |
-| sie/Sie | **müssen** | oni/Vy musíte (formálne) |
+**Mnemotechnické pravidlá:**
+- **können/müssen**: Umlaut len v **ich/er/sie/es**
+- **wollen/sollen/mögen**: Žiadny umlaut nikde
+- **dürfen**: Extra -e v tvare **du** (darfst)
 
-**Príklady:**
-- Ich **muss** heute arbeiten. (Musím dnes pracovať)
-- Du **musst** das machen. (Musíš to urobiť)
-- Wir **müssen** gehen. (Musíme ísť)
+## Podrobné významy a použitie
 
-### 3. WOLLEN (chcieť)
+### 1. Können (Vedieť môcť)
 
-**Význam:** Silné želanie, zámer, plán
-
-| Osoba | Skloňovanie | Slovenčina |
-|-------|-------------|-----------|
-| ich | **will** | ja chcem |
-| du | **willst** | ty chceš |
-| er/sie/es | **will** | on/ona/ono chce |
-| wir | **wollen** | my chceme |
-| ihr | **wollt** | vy chcete (mn. číslo) |
-| sie/Sie | **wollen** | oni/Vy chcete (formálne) |
+**Význam:** Schopnosť, možnosť, znalosť
 
 **Príklady:**
-- Ich **will** nach Deutschland reisen. (Chcem cestovať do Nemecka)
-- Was **willst** du essen? (Čo chceš jesť?)
-- Er **will** ein neues Auto kaufen. (Chce kúpiť nové auto)
+- **Ich kann schwimmen.** (Viem plávať)
+- **Kannst du mir helfen?** (Môžeš mi pomôcť?)
+- **Er kann Deutsch.** (Ovláda nemecky / Vie hovoriť po nemecky)
+- **Das kann wahr sein.** (To môže byť pravda)
 
-### 4. DÜRFEN (smieť, mať povolenie)
+**Dôležité:** "Können" vyjadruje schopnosť, nie povolenie. Na povolenie použite "dürfen"!
 
-**Význam:** Povolenie, možnosť (slušne)
+**Nebezpečný preklad:** "Können" môže znamenať "vedieť/umieť" v niektorých kontextoch:
+- **Ich kann das.** (Viem ako to spraviť)
 
-| Osoba | Skloňovanie | Slovenčina |
-|-------|-------------|-----------|
-| ich | **darf** | ja smiem/mám povolenie |
-| du | **darfst** | ty smieš/máš povolenie |
-| er/sie/es | **darf** | on/ona/ono smie/má povolenie |
-| wir | **dürfen** | my smieme/máme povolenie |
-| ihr | **dürft** | vy smiete/máte povolenie (mn. číslo) |
-| sie/Sie | **dürfen** | oni smiejú/majú povolenie/Vy smiete (formálne) |
+### 2. Müssen (Musieť/Povinný byť)
+
+**Význam:** Nevoľnosť, povinnosť, silná potreba
 
 **Príklady:**
-- **Darf** ich hereinkommen? (Smím vojsť dnu?)
-- Du **darfst** nicht rauchen. (Nesmieš fajčiť)
-- Wir **dürfen** das machen. (Smíme to urobiť)
+- **Ich muss gehen.** (Musím ísť / Musím ísť preč)
+- **Du musst lernen.** (Musíš sa učiť)
+- **Wir müssen um 8 Uhr da sein.** (Musíme byť tam o 8. hodine)
+- **Das muss gemacht werden.** (To musí byť spravené)
 
-### 5. SOLLEN (mať, mal by)
+**Tip na použitie:** "Müssen" vyjadruje silnú potrebu. Na rady použite "sollen."
 
-**Význam:** Rada, návrh, vonkajšia povinnosť
+### 3. Wollen (Chcieť)
 
-| Osoba | Skloňovanie | Slovenčina |
-|-------|-------------|-----------|
-| ich | **soll** | mám (podľa rady) |
-| du | **sollst** | máš (podľa rady) |
-| er/sie/es | **soll** | má (podľa rady) |
-| wir | **sollen** | máme (podľa rady) |
-| ihr | **sollt** | máte (podľa rady, mn. číslo) |
-| sie/Sie | **sollen** | majú (podľa rady)/Máte (formálne) |
+**Význam:** Silné pranie, vôľa, zámer
 
 **Príklady:**
-- Du **solltest** mehr lernen. (Mal by sa viac učiť)
-- Was **soll** ich machen? (Čo mám robiť?)
-- Er **soll** morgen anrufen. (Mal by zajtra zavolať)
+- **Ich will nach Deutschland.** (Chcem ísť do Nemecka)
+- **Was willst du essen?** (Čo chceš jesť?)
+- **Sie will Deutsch lernen.** (Chce sa naučiť nemecky)
+- **Wir wollen ein Haus kaufen.** (Chceme kúpiť dom)
 
-### 6. MÖGEN (páčiť sa)
+**Dôležité:** "Wollen" vyjadruje silnú vôľu/pranie. Na slušné žiadosti použite "möchten" (konjunktív mögen):
+- **Ich möchte einen Kaffee.** (Chcel by som kávu) ← Slušne
+- **Ich will einen Kaffee.** (Chcem kávu) ← Náročné
 
-**Význam:** Preferencia, chuť (zvyčajne sa používa s „möchte“ pre slušné žiadosti)
+### 4. Dürfen (Smieť/Byť povolený)
 
-| Osoba | Skloňovanie | Slovenčina |
-|-------|-------------|-----------|
-| ich | **mag** | mám rád (robiť niečo) |
-| du | **magst** | máš rád (robiť niečo) |
-| er/sie/es | **mag** | má rád (robiť niečo) |
-| wir | **mögen** | máme radi (robíme niečo) |
-| ihr | **mögt** | máte radi (robíte niečo, mn. číslo) |
-| sie/Sie | **mögen** *májú radi (robia niečo)/Máte radi (formálne) |
+**Význam:** Povolenie, možnosť (formálne)
 
 **Príklady:**
-- Ich **mag** Kaffee. (Mám rád kávu)
-- **Magst** du Pizza? (Máš rád pizzu?)
-- Sie **mögen** deutsche Musik. (Páči sa im nemecká hudba)
+- **Darf ich hereinkommen?** (Môžem vojsť dnu?)
+- **Du darfst nicht rauchen.** (Nesmieš fajčiť / Nemôžeš fajčiť)
+- **Hier darf man parken.** (Tu sa môže parkovať)
+- **Das darf nicht wahr sein.** (To nemôže byť pravda)
 
-**Špeciálna forma:** **MÖCHTE** (chcel by)
-- Ich **möchte** einen Kaffee. (Chcel by som kávu)
-- Was **möchtest** du? (Čo by si chcel?)
+**Tip na použitie:** Používajte "dürfen" na povolenie, nie "können"!
 
-## Kompletná tabuľka skloňovania
+### 5. Sollen (Mať by/Mal by)
 
-| Osoba | Können | Müssen | Wollen | Dürfen | Sol len | Mögen |
-|--------|--------|--------|--------|--------|--------|-------|
-| ich | kann | muss | will | darf | soll | mag |
-| du | kannst | musst | willst | darfst | sollst | magst |
-| er/sie/es | kann | muss | will | darf | soll | mag |
-| wir | können | müssen | wollen | dürfen | sollen | mögen |
-| ihr | könnt | müsst | wollt | dürft | sollt | mögt |
-| sie/Sie | können | müssen | wollen | dürfen | sollen | mögen |
-
-## Slovosled s modálnymi slovesami
-
-### Pravidlo 1: Modálne sloveso + Infinitív na konci
-
-**Vzor:** [Podmet] + [MODÁLNE SLOVESO] + [Zvyšok vety] + [INFINITÍV]
-
-```
-✅ Ich   kann   Deutsch   sprechen.
-   Ja    viem   nemecky  hovoriť
-
-✅ Du   musst   heute   arbeiten.
-   Ty   musíš  dnes     pracovať
-```
-
-**Dôležité:** Modálne sloveso sa skloňuje (mení tvar), zatiaľ čo hlavné sloveso ostáva v **infinitívnej forme** na konci!
-
-### Pravidlo 2: Otázky
-
-**Otázky áno/nie:** Modálne sloveso ide prvé
-
-```
-✅ Kannst   du   kommen?
-    Môžeš  ty  prísť?
-
-✅ Mussen   wir   gehen?
-    Musíme  my   ísť?
-```
-
-**W-otázky:** Otázovacie slovo + modálne sloveso + podmet + infinitív
-
-```
-✅ Was   willst   du   essen?
-    Čo  chceš  ty  jesť?
-
-✅ Wann   müssen   sie   gehen?
-    Kedy  musia     oni ísť?
-```
-
-### Pravidlo 3: Zápor
-
-Použite **nicht** za skloňovaným modálnym slovesom:
-
-```
-✅ Ich   kann   nicht   kommen.
-   Ja    viem   nie     prísť
-
-✅ Du   musst   nicht   arbeiten.
-   Ty   musíš  nie     pracovať
-```
-
-## Rozdiely vo význame
-
-### Können vs Dürfen (Vedieť vs Smieť)
-
-- **Können** = fyzická schopnosť alebo možnosť
-  - Ich **kann** schwimmen. (Viem plávať)
-  - Das **kann** wahr sein. (To môže byť pravda)
-
-- **Dürfen** = povolenie alebo slušná možnosť
-  - **Darf** ich hereinkommen? (Smím vojsť dnu?)
-  - Das **darf** nicht wahr sein. (To nemôže byť pravda)
-
-### Müssen vs Sollen (Musieť vs Mať)
-
-- **Müssen** = vnútorná nevyhnutnosť alebo objektívna potreba
-  - Ich **muss** schlafen. (Musím spať — som unavený)
-  - Du **musst** das essen. (Musíš to jesť — lekársky predpis)
-
-- **Sollen** = vonkajšia povinnosť alebo rada
-  - Ich **soll** lernen. (Mám sa učiť — rodičia povedali)
-  - Du **solltest** das essen. (Mal by si to jesť — rada)
-
-### Wollen vs Möchten (Chcieť vs Chcel by)
-
-- **Wollen** = silné želanie alebo zámer
-  - Ich **will** reich werden. (Chcem stať sa bohatým)
-  - Er **will** nach Hause gehen. (Chce ísť domov)
-
-- **Möchten** = slušná žiadosť
-  - Ich **möchte** einen Kaffee. (Chcel by som kávu)
-  - Was **möchtest** du? (Čo by si chcel?)
-
-## Modálne slovesá + Oddeliteľné slovesá
-
-Keď sa modálne sloveso používa s oddeliteľným slovesom, oddeliteľné sloveso ostáva **spolu** na konci:
-
-```
-✅ Ich   kann   dich   abholen.
-   Ja    viem   ťa     vyzdvihnúť
-
-❌ Ich kann dich ab hole. (nesprávne — nikdy nerozdeľujte!)
-
-✅ Er   muss   um 7 Uhr   aufstehen.
-   On   musí  o 7 hodine vstať
-```
-
-## Modálne slovesá v minulom čase
-
-### Präteritum (Jednoduchý minulý)
-
-| Sloveso | ich | du | er/sie/es | wir | ihr | sie/Sie |
-|---------|-----|----|----------|-----|-----|---------|
-| können | **konnte** | konntest | konnte | **konnten** | konntet | konnten |
-| müssen | **musste** | musstest | musste | **mussten** | musstet | mussten |
-| wollen | **wollte** | wolltest | wollte | **wollten** | wolltet | wollten |
-| dürfen | **durfte** | durftest | durfte | **durften** | durftet | durften |
-| sollen | **sollte** | solltest | sollte | **sollten** | solltet | sollten |
-| mögen | **mochte** | mochtest | mochte | **mochten** | mochtet | mochten |
+**Význam:** Rada, morálna povinnosť, očakávanie
 
 **Príklady:**
-- Ich **konnte** gestern nicht kommen. (Nemohol som včera prísť)
-- Er **wollte** immer reich werden. (Vždy chcel stať sa bohatým)
-- Wir **mussten** warten. (Museli sme čakať)
+- **Du solltest mehr lernen.** (Mal by si viac učiť)
+- **Wir sollen um 7 Uhr ankommen.** (Máme prísť o 7. hodine)
+- **Man soll nicht lügen.** (Nie máš klamať)
+- **Was soll ich tun?** (Čo mám robiť?)
 
-### Perfekt (Prítelný minulý)
+**Dôležité:** "Sollen" vyjadruje vonkajšiu povinnosť (to, čo iní očakávajú). Na vnútornú morálnu povinnosť použite "müssen."
 
-Modálne slovesá sa zvyčajne používajú s **sein** alebo **haben** + infinitív (nie forma ge-!):
+**Rozdiel:**
+- **Ich muss das tun.** (Musím to urobiť — vnútorná nevoľnosť)
+- **Ich soll das tun.** (Supposed som to urobiť — niekto očakáva, že to urobím)
 
-```
-✅ Ich   habe   kommen   müssen.
-   Ja    musel som prísť
+### 6. Mögen (Páčiť sa)
 
-✅ Er   hat   das   machen   können.
-   On   vedel   to   urobiť
-```
+**Význam:** Preferencia, chuť (zvyčaj sa používa so podstatnými menami, nie so slovesami)
 
-**Dôležité:** Modálne sloveso ide posledné v infinitívnej forme!
+**Príklady:**
+- **Ich mag Kaffee.** (Páči sa mi káva)
+- **Magst du Schokolade?** (Páči sa ti čokoláda?)
+- **Er mag deutsche Musik.** (Páči sa mu nemecká hudba)
+- **Wir mögen das Auto.** (Páči sa nám auto)
 
-## Bežné chyby
+**Dôležité:** "Mögen" sa zvyčaj používa s podstatnými menami. Na to, že sa vám páči niečo robiť, Nemci často používajú "gerne" s hlavným slovesom:
+- **Ich schwimme gerne.** (Rád plávam) ← Nie "Ich mag schwimmen"
+- **Ich spiele gerne Fußball.** (Rád hrajem futbal)
 
-### Chyba 1: Skloňovanie hlavného slovesa
+**Möchten (Chcel by som):**
+- **Ich möchte bezahlen.** (Chcel by som zaplatiť)
+- **Möchten Sie etwas trinken?** (Chceli by ste niečo piť?)
 
-❌ Ich kann kommst. (obidve slovesá sa skloňujú)
-✅ Ich kann kommen. (skloňuje sa len modálne)
+## Modálne slovesá v vetách
 
-**Pravidlo:** Skloňujte len modálne sloveso. Hlavné sloveso ostáva v infinitíve.
+### Základná štruktúra vety
 
-### Chyba 2: Nesprávny slovosled
+**Vzor:** [Podmet] + [Modálne sloveso] + [Infinitív hlavného slovesa] + [Zvyšok vety]
 
-❌ Ich kann nicht kommen nicht. (dvojitý zápor)
-✅ Ich kann nicht kommen. (jeden nicht)
+**Príklady:**
+- **Ich** (podmet) **muss** (modálne) **gehen** (infinitív) **jetzt** (zvyšok). = Musím ísť teraz.
+- **Du** (podmet) **kannst** (modálne) **kommen** (infinitív) **dnes** (zvyšok). = Môžeš prísť dnes.
 
-**Pravidlo:** Používajte len jedno slovo záporu.
+**Dôležité:** Hlavné sloveso vždy ide na koniec v infinitíve!
 
-### Chyba 3: Nesprávny výber modálneho slovesa
+### S časovacími slovesami
 
-❌ Ich muss einen Kaffee. (použitie müssen pre preferenciu)
-✅ Ich möchte einen Kaffee. (použitie möchten pre slušnosť)
+Keď je hlavné sloveso časovacie, predpona ostáva pripojená:
 
-**Pravidlo:** Vyberte správne modálne sloveso pre váš význam.
+- **Ich muss aufstehen.** (Musím vstať) ← NE "Ich muss auf stehen"
+- **Kannst du das Fenster öffnen?** (Môžeš otvoriť okno?)
+- **Wir wollen einkaufen gehen.** (Chceme ísť na nákup)
 
-### Chyba 4: Zabudnutie infinitívu
+### Modálne slovesá + Čas/Spôsob konania
 
-❌ Ich kann Deutsch. (chýba hlavné sloveso)
-✅ Ich kann Deutsch sprechen. (kompletná veta)
+Informácia o čase a spôsobe konania ide medzi modálnym a hlavným slovesom:
 
-**Pravidlo:** Modálne slovesá vyžadujú hlavné sloveso v infinitívnej forme.
+- **Ich kann heute kommen.** (Môžem prísť dnes)
+- **Du musst gut lernen.** (Musíš sa dobre učiť)
+- **Er will Deutsch lernen.** (Chce sa naučiť nemecky)
 
-## Cvičenia
+### V otázkach
 
-### Cvičenie 1: Doplňte prázdne miesta
+**Otázky áno/nie:** Modálne sloveso je prvé, hlavné na konci
+- **Kannst du schwimmen?** (Vieš plávať?)
+- **Muss ich das tun?** (Musím to urobiť?)
+- **Willst du mitkommen?** (Chceš ísť so mnou?)
 
-1. Ich _____ (können) heute nicht kommen.
-   → Ich **kann** heute nicht kommen.
+**W-otázky:** Otázovacie slovo je prvé, potom podmet, potom modálne sloveso, potom hlavné sloveso na konci
+- **Was kannst du?** (Čo vieš?)
+- **Wann müssen wir gehen?** (Kedy musíme ísť?)
+- **Warum willst du Deutsch lernen?** (Preč chceš naučiť nemecky?)
 
-2. Du _____ (müssen) lernen.
-   → Du **musst** lernen.
+## Modálne slovesá v rôznych časoch
 
-3. Was _____ (wollen) du essen?
-   → Was **willst** du essen?
+### Minulý čas (Perfekt)
 
-4. Wir _____ (dürfen) hier rauchen.
-   → Wir **dürfen** hier rauchen.
+Modálne slovesá používajú "haben" ako pomocné sloveso. Aj modálne, aj hlavné sloveso idú na koniec v infinitíve:
 
-5. Er _____ (sollen) anrufen.
-   → Er **soll** anrufen.
+**Vzor:** [Podmet] + habe/hast/hat... + [Infinitív modálneho] + [Infinitív hlavného slovesa]
+
+**Príklady:**
+- **Ich habe schwimmen gekonnt.** (Vedel som plávať)
+- **Er hat gehen müssen.** (Musel ísť preč)
+- **Wir haben kommen wollen.** (Chceli sme prísť)
+
+**Dôležité:** V Perfekte obe slovesá zostávajú v infinitíve na konci!
+
+### Minulý čas (Präteritum)
+
+Modálne slovesá majú svoje minulé formy:
+
+| Modálne | Minulý čas | Význam |
+|----------|-------------|----------|
+| können | **konnte** | vedel som |
+| müssen | **musste** | musel som |
+| wollen | **wollte** | chcel som |
+| dürfen | **durfte** | smel som |
+| sollen | **sollte** | mal som |
+| mögen | **mochte** | páčil sa mi |
+
+**Príklady:**
+- **Ich konnte gestern nicht kommen.** (Včera som nemohol prísť)
+- **Er musste nach Hause.** (Musel ísť domov)
+- **Sie wollte Deutsch lernen.** (Chcela sa naučiť nemecky)
+
+### Budúci čas (Futur I)
+
+S "werden" modálne sloveso ostáva v pozícii infinitívu:
+
+**Príklady:**
+- **Ich werde können kommen.** (Budem môcť prísť)
+- **Du musstest gehen werden.** (Budeš musieť ísť)
+- **Er wird wollen lernen.** (Bude chcieť sa učiť)
+
+## Bežné chyby, ktorým sa treba vyhnúť
+
+### Chyba 1: Nesprávne modálne sloveso
+
+❌ Nesprávne: Ich **kann** hier rauchen. (Môžem tu fajčiť?)
+✅ Správne: Ich **darf** hier rauchen. (Môžem tu fajčiť?)
+
+**Prečo:** "Können" = schopnosť, "Dürfen" = povolenie
+
+### Chyba 2: Zabudnutý infinitív na konci
+
+❌ Nesprávne: Ich muss **gehe**.
+✅ Správne: Ich muss **gehen**.
+
+**Prečo:** Hlavné sloveso musí ostať v infinitíve na konci!
+
+### Chyba 3: Skloňovanie hlavného slovesa
+
+❌ Nesprávne: Ich kann **schwimme**.
+✅ Správne: Ich kann **schwimmen**.
+
+**Prečo:** Hlavné sloveso ostáva v tvare infinitívu!
+
+### Chyba 4: Nesprávne poradie slov s časom
+
+❌ Nesprávne: Ich kann heute **nicht** kommen.
+✅ Správne: Ich kann **heute** nicht kommen.
+
+**Prečo:** Výrazy času zvyčaj stoja pred záporom "nicht".
+
+### Chyba 5: Mögen vs Gerne
+
+❌ Nesprávne: Ich **mag** schwimmen.
+✅ Správne: Ich schwimme **gerne**.
+
+**Prečo:** Používajte "gerne" + sloveso na činnosti, ktoré sa vám páčia!
+
+## Modálne slovesá vs. Anglické modálne slovesá
+
+| Angličtina | Nemčina | Poznámky |
+|-------------|----------|------------|
+| can | können | Schopnosť (dürfen = povolenie) |
+| must | müssen | Silná potreba |
+| have to | müssen | Rovnaké ako "must" v nemčine |
+| want to | wollen | Silné pranie (möchten = slušne) |
+| may | dürfen | Povolenie (können = možnosť) |
+| should | sollen | Vonkajšia povinnosť (müssen = vnútorná) |
+| would like | möchten | Slušná forma "wollen" |
+| like to | gerne + sloveso | Pre činnosti |
+| like | mögen | Len pre podstatné mená |
+
+## Príklady na precvičenie
+
+### Cvičenie 1: Doplniť správne modálne sloveso
+
+1. Ich ___ Deutsch lernen. (chcieť) → **will**
+2. Du ___ schwimmen. (vedieť môcť) → **kannst**
+3. Er ___ nach Hause gehen. (musieť) → **muss**
+4. Wir ___ heute kommen. (smieť) → **dürfen**
+5. Sie ___ Kaffee trinken. (mal by) → **sollte**
 
 ### Cvičenie 2: Preložte do nemčiny
 
-1. I can speak German.
-   → Ich kann Deutsch sprechen.
+1. Viem rozprávať po nemecky → **Ich kann Deutsch sprechen.**
+2. Musíš sa veľa učiť → **Du musst viel lernen.**
+3. Chce prísť → **Er will kommen.**
+4. Môžeme ísť domov → **Wir dürfen nach Hause gehen.**
+5. Mal by viac spať → **Sie sollte mehr schlafen.**
 
-2. You must work today.
-   → Du musst heute arbeiten.
+### Cvičenie 3: Dokončite vety
 
-3. She wants to travel to Germany.
-   → Sie will nach Deutschland reisen.
+1. Ich __________ nach Deutschland ___________ (reisen / chcieť) → **will / reisen**
+2. Du ___________ Deutsch ________________ (lernen / vedieť môcť) → **kannst / lernen**
+3. Er ____________ heute ________________ (kommen / musieť) → **muss / kommen**
+4. Wir ___________ Pizza _________________ (essen / páčiť sa) → **mögen / essen** OR essen **gerne**
 
-4. We may go home.
-   → Wir dürfen nach Hause gehen.
+## Kultúrne poznámky
 
-5. They should study more.
-   → Sie sollen mehr lernen.
+### Modálne slovesá v nemeckej kultúre
 
-## Karta rýchlej referencie
+**Úrovne slušnosti:**
+- Používajte "möchten" namiesto "wollen" pre slušné žiadosti
+- Používajte "könnten" (konjunktív) namiesto "können" pre veľmi slušné žiadosti
+- Používajte "solltest du" namiesto "musst du" pre priateľské rady
 
-**6 nemeckých modálnych slovies:**
+**Nemecká priamosnosť:**
+- Nemci často používajú "müssen" a "wollen" priamejšie ako anglicky hovoriaci "must" a "want"
+- "Ich will das" znie menšie náročne po nemecky, ako "I want that" po anglicky
 
-| Nemčina | Slovenčina | Kedy použiť |
-|---------|-----------|-------------|
-| **können** | vedieť, byť schopný | Schopnosť, možnosť |
-| **müssen** | musieť | Nevyhnutnosť, povinnosť |
-| **wollen** | chcieť | Silné želanie |
-| **dürfen** | smieť, mať povolenie | Povolenie |
-| **sollen** | mať (podľa rady) | Rada, odporúčanie |
-| **mögen** *páčiť sa | Preferencia (použite *möchte* pre „chcel by“) |
+### Bežné výrazy
 
-**Vzor skloňovania:**
+- **Das kann nicht sein.** (To nemôže byť pravda)
+- **Was soll ich machen?** (Čo mám robiť?)
+- **Ich mag das nicht.** (To sa mi nepáči)
+- **Das muss ich tun.** (Musím to urobiť)
 
-- **ich** kmeň slovesa
-- **du** kmeň slovesa + st
-- **er/sie/es** kmeň slovesa
-- **wir** kmeň slovesa + en
-- **ihr** kmeň slovesa + t
-- **sie/Sie** kmeň slovesa + en
+## Tabuľka rýchlej referencie
 
-**Špeciálne poznámky:**
-- Skloňuje sa len modálne sloveso
+| Situácia | Použiť modálne | Príklad |
+|-----------|------------------|---------|
+| Schopnosť | können | Ich kann schwimmen |
+| Silná potreba | müssen | Ich muss gehen |
+| Povolenie | dürfen | Darf ich hier rauchen? |
+| Silné pranie | wollen | Ich will nach Hause |
+| Slušná žiadosť | möchten | Ich möchte bezahlen |
+| Vonkajšia povinnosť | sollen | Ich soll lernen |
+| Rada | sollen | Du solltest mehr lesen |
+| Páči sa mi podstatné meno | mögen | Ich mag Kaffee |
+| Páči sa mi činnosť | gerne + sloveso | Ich schwimme gerne |
+
+## Zhrnutie
+
+Nemecké modálne slovesá sú nevyhnutné pre každodennú komunikáciu:
+
+1. **Können** — Schopnosť (viem môcť)
+2. **Müssen** — Nevoľnosť (musieť)
+3. **Wollen** — Pranie (chcieť)
+4. **Dürfen** — Povolenie (smieť)
+5. **Sollen** — Povinnosť (mal by)
+6. **Mögen** — Preferencia (páčiť sa)
+
+**Kľúčové pravidlá na zapamätanie:**
+- Modálne slovesá sa skloňujú normálne v množnom čísle
 - Hlavné sloveso ostáva v infinitíve na konci
-- Používajte *nicht* za modálnym pre zápor
-- Používajte *möchten* pre slušné žiadosti
+- Čas/spôsob konania ide medzi modálnym a hlavným slovesom
+- V Perfekte obe slovesá zostávajú v infinitíve na konci
+- Používajte "dürfen" na povolenie, "können" na schopnosť
+- Používajte "möchten" pre slušné žiadosti, nie "wollen"
+- Používajte "gerne" + sloveso pre činnosti, ktoré sa vám páčia
 
-## Kultúrna poznámka
+**Pro tip:** Začnite s "können," "müssen," a "wollen" — to sú najbežnejšie. Keď sa budete cítiť istejšie, pridajte "dürfen," "sollen," a "mögen" do svojej slovnej zásoby.
 
-Modálne slovesá sú medzi najčastejšie používanými slovesami v nemčine. Rodení hovoriaci ich neustále používajú v bežnej reči. Ovládanie týchto 6 slovies výrazne zlepší vašu schopnosť komunikovať nemecky!
+Pamätajte: Modálne slovesá sa neustále používajú v nemeckej konverzácii. Ovládnite týchto 6 slovies a budete môcť vyjadrovať potreby, želania, schopnosti a povolenia ako rodený hovoriaci!
 
-**Zaujímavosť:** Modálne sloveso *wollen* môže znieť pomerne priamo alebo náročne v nemčine. Pre slušné žiadosti Nemci uprednostňujú použitie *möchten* (chcel by) namiesto toho.
-
-## Záver
-
-Nemecké modálne slovesá nasledujú jasné vzory:
-
-1. **6 slovies na zapamätanie:** können, müssen, wollen, dürfen, sollen, mögen
-2. **Skloňujte len modálne:** Hlavné sloveso ostáva v infinitíve
-3. **Slovosled:** Modálne + podmet + zvyšok + infinitív
-4. **Zápor:** Používajte *nicht* za modálnym
-5. **Minulý čas:** Špeciálne tvary pre každé modálne
-6. **Vyberajte starostlivo:** Každé modálne má určité významy
-7. **Cvičte denne:** Používajte ich v skutočných rozhovoroch!
-
-**Profi tip:** Začnite s 3 najbežnejšími modálnymi slovesami — *können*, *müssen* a *wollen*. Používajte ich denne, kým sa nestanú automatickými. Potom pridajte *dürfen*, *sollen* a *mögen* do svojej slovnej zásoby.
-
-Pamätajte: Modálne slovesá sú kľúč k vyjadrovaniu vašich potrieb, schopností a želaní nemecky. Ovládnite týchto 6 slovies a odomknete novú úroveň komunikácie!
+Vaša cesta k ovládnutiu nemeckých modálnych slovies začína teraz. Viel Erfolg!
 
 ---
 *Pripravený ovládnuť nemecké modálne slovesá prostredníctvom interaktívneho precvičovania? [Otvorte Das German Bot](https://t.me/dasgermanbot) — vaša prvá lekcia trvá 30 sekúnd.*
