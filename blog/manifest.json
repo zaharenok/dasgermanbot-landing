@@ -2232,5 +2232,32 @@
       "title": "25 nemeckých idióm so vtipným doslovnými prekladmi (A čo v skutočnosti znamenajú)",
       "description": "Objav najzábavnejšie nemecké idiomy! Nauč sa 25+ nemeckých výrazov s doslovnými prekladmi ako 'chápem len stanicu' a 'mať paradajky na očiach'. Kompletný sprievodca s významami, príkladmi použitia a kultúrnymi insightmi."
     }
+  },
+  {
+    "slug": "german-compound-words",
+    "date": "2026-05-01",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "fun",
+      "word-formation",
+      "culture"
+    ],
+    "en": {
+      "title": "German Compound Words: How to Build and Understand Long German Words (With Examples)",
+      "description": "Master German compound words! Learn how Germans combine words to create epic terms like 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' Complete guide with rules, examples, pronunciation tips, and the 5 longest German words explained."
+    },
+    "ru": {
+      "title": "Немецкие составные слова: Как строить и понимать длинные немецкие слова (С примерами)",
+      "description": "Овладей немецкими составными словами! Узнай, как немцы объединяют слова для создания эпических терминов вроде 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Полный гид с правилами, примерами, советами по произношению и 5 самыми длинными немецкими словами."
+    },
+    "uk": {
+      "title": "Німецькі складені слова: Як будувати і розуміти довгі німецькі слова (З прикладами)",
+      "description": "Оволодій німецькими складеними словами! Дізнайся, як німці об'єднують слова для створення епічних термінів на кшталт 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Повний гід з правилами, прикладами, порадами з вимови та 5 найдовшими німецькими словами."
+    },
+    "sk": {
+      "title": "Nemecké zložené slová: Ako stavať a rozumieť dlhé nemecké slová (S príkladmi)",
+      "description": "Ovládni nemecké zložené slová! Nauč sa, ako Nemci spájajú slová na vytvorenie epických termínov ako 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Kompletný sprievodca s pravidlami, príkladmi, tipmi na výslovnosť a 5 najdlhšími nemeckými slovami."
+    }
   }
 ]
