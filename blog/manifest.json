@@ -1990,5 +1990,32 @@
       "title": "Nemecký čas: Kompletný sprievodca (Wie spät ist es? Oficiálny vs Neoficiálny čas)",
       "description": "Nauč sa hovoriť čas po nemecky ako rodák! Ovládni 'Wie spät ist es?', 12-hodinový vs 24-hodinový hodiny, oficiálny čas (Uhr) vs bežné výrazy. Kompletný sprievodca s príkladmi, slovníkom a kultúrnymi tipmi o nemeckej punctualite."
     }
+  },
+  {
+    "slug": "german-negation",
+    "date": "2026-05-01",
+    "tags": [
+      "grammar",
+      "beginners",
+      "negation",
+      "nicht",
+      "kein"
+    ],
+    "en": {
+      "title": "German Negation: Complete Guide (Nicht vs Kein — When to Use Which!)",
+      "description": "Master German negation! Learn when to use NICHT vs KEIN, how to negate sentences and nouns correctly. Complete guide with examples, rules, and common mistakes to avoid. Say 'no' in German like a native!"
+    },
+    "ru": {
+      "title": "Немецкое отрицание: Полный гид (Nicht vs Kein — Когда использовать!)",
+      "description": "Овладей немецким отрицанием! Изучи когда использовать NICHT vs KEIN, как правильно отрицать предложения и существительные. Полный справочник с примерами, правилами и распространёнными ошибками. Говори 'нет' по-немецки как носитель!"
+    },
+    "uk": {
+      "title": "Німецьке заперечення: Повний гід (Nicht vs Kein — Коли використовувати!)",
+      "description": "Оволодійте німецьким запереченням! Вивчіть коли використовувати NICHT vs KEIN, як правильно заперечувати речення та іменники. Повний посібник з прикладами, правилами та поширеними помилками. Кажіть 'ні' німецькою як носій!"
+    },
+    "sk": {
+      "title": "Nemecké zamietnanie: Kompletný sprievodca (Nicht vs Kein — Kedy použiť!)",
+      "description": "Ovládni nemecké zamietnanie! Nauč sa kedy použiť NICHT vs KEIN, ako správne zamietnuť vety a podstatné mená. Kompletný sprievodca s príkladmi, pravidlami a bežnými chybami. Povedz 'nie' po nemecky ako rodák!"
+    }
   }
 ]
