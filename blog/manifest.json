@@ -2178,5 +2178,32 @@
       "title": "Nemecké slovné poradie: Kompletný sprievodca (Štruktúra vety, pravidlo TeKaMo, pozícia slovesa)",
       "description": "Ovládni nemecké slovné poradie! Nauč sa pravidlo TeKaMo (Čas-Príčina-Modalita), pozíciu slovesa v tvrdeniach a otázkach, slovné poradie v vedľajších vetách a bežné chyby. Kompletný sprievodca s príkladmi, tabuľkami a mnemotechnickými pomôckami pre správnu nemčinu."
     }
+  },
+  {
+    "slug": "german-tongue-twisters",
+    "date": "2026-05-01",
+    "tags": [
+      "pronunciation",
+      "fun",
+      "beginners",
+      "speaking",
+      "culture"
+    ],
+    "en": {
+      "title": "German Tongue Twisters (Zungenbrecher): Fun Way to Improve Pronunciation",
+      "description": "Master German pronunciation with 20+ classic tongue twisters! Learn fun Zungenbrecher from easy to expert level, improve your accent, practice difficult sounds like ch, eu, ü, and r. Complete guide with translations, pronunciation tips, and cultural insights."
+    },
+    "ru": {
+      "title": "Немецкие скороговорки (Zungenbrecher): Весёлый способ улучшить произношение",
+      "description": "Овладей немецким произношением с 20+ классическими скороговорками! Учите забавные Zungenbrecher от лёгкого до экспертного уровня, улучшай акцент, тренируй сложные звуки ch, eu, ü, r. Полный гид с переводами, советами по произношению и культурными инсайтами."
+    },
+    "uk": {
+      "title": "Німецькі скоромовки (Zungenbrecher): Веселий спосіб покращити вимову",
+      "description": "Оволодій німецькою вимовою з 20+ класичними скоромовками! Вивчай забавні Zungenbrecher від легкого до експертного рівня, покращуй акцент, тренуй складні звуки ch, eu, ü, r. Повний гід з перекладами, порадами з вимови та культурними інсайтами."
+    },
+    "sk": {
+      "title": "Nemecké spovedlivoslovia (Zungenbrecher): Zábavný spôsob, ako zlepšiť výslovnosť",
+      "description": "Ovládni nemeckú výslovnosť s 20+ klasickými spovedlivosloviami! Nauč sa zábavné Zungenbrecher od ľahkého po expertú úroveň, zlepši akcent, trénuj ťažké zvuky ch, eu, ü, r. Kompletný sprievodca s prekladmi, tipmi na výslovnosť a kultúrnymi insightmi."
+    }
   }
 ]
