@@ -40,6 +40,35 @@
   </script>
   <!-- Flowsery -->
   <script defer data-fl-website-id="flid_4RIHfEW_NNP0UCNbgJia_g" src="https://cdn.flowsery.com/main.js"></script>
+
+  <!-- Microsoft Clarity -->
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "k8m4x2j3n7");
+  </script>
+
+  <!-- Yandex Metrica -->
+  <script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();
+    for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+    k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(98765432, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true,
+        ecommerce:"dataLayer"
+    });
+  </script>
+  <noscript><div><img src="https://mc.yandex.ru/watch/98765432" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+  <!-- /Yandex Metrica -->
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
@@ -1341,6 +1370,160 @@
       });
     });
   </script>
+
+  <!-- Enhanced Analytics Tracking -->
+  <script>
+    (function() {
+      'use strict';
+
+      // CTA Click Tracking
+      function trackCTAClick(buttonId, location) {
+        const button = document.getElementById(buttonId);
+        if (!button) return;
+
+        button.addEventListener('click', function(e) {
+          // GA4 Event
+          if (typeof gtag === 'function') {
+            gtag('event', 'cta_click', {
+              event_category: 'engagement',
+              event_label: location,
+              link_url: 'https://t.me/dasgermanbot',
+              value: 1
+            });
+          }
+
+          // Meta Pixel Event
+          if (typeof fbq === 'function') {
+            fbq('track', 'Lead', {
+              content_name: location,
+              content_category: 'cta_click'
+            });
+          }
+
+          // Yandex Metrica Goal
+          if (typeof ym === 'function') {
+            ym(98765432, 'reachGoal', 'cta_click_' + location);
+          }
+
+          // Microsoft Clarity Event
+          if (typeof clarity === 'function') {
+            clarity('event', 'cta_click', { location: location });
+          }
+        });
+      }
+
+      // Scroll Depth Tracking
+      function trackScrollDepth() {
+        const scrollDepths = [25, 50, 75, 90, 100];
+        let trackedDepths = new Set();
+
+        function checkScrollDepth() {
+          const scrollPercent = Math.round(
+            (window.scrollY + window.innerHeight) / document.documentElement.scrollHeight * 100
+          );
+
+          scrollDepths.forEach(function(depth) {
+            if (scrollPercent >= depth && !trackedDepths.has(depth)) {
+              trackedDepths.add(depth);
+
+              if (typeof gtag === 'function') {
+                gtag('event', 'scroll_depth', {
+                  event_category: 'engagement',
+                  event_label: depth + '%',
+                  value: depth
+                });
+              }
+
+              if (typeof ym === 'function') {
+                ym(98765432, 'reachGoal', 'scroll_' + depth);
+              }
+
+              if (typeof clarity === 'function') {
+                clarity('event', 'scroll_depth', { depth: depth });
+              }
+            }
+          });
+        }
+
+        let ticking = false;
+        window.addEventListener('scroll', function() {
+          if (!ticking) {
+            window.requestAnimationFrame(function() {
+              checkScrollDepth();
+              ticking = false;
+            });
+            ticking = true;
+          }
+        });
+      }
+
+      // Error Tracking
+      function trackErrors() {
+        window.addEventListener('error', function(e) {
+          if (typeof gtag === 'function') {
+            gtag('event', 'error', {
+              event_category: 'javascript',
+              event_label: e.message,
+              value: 1
+            });
+          }
+        });
+
+        window.addEventListener('unhandledrejection', function(e) {
+          if (typeof gtag === 'function') {
+            gtag('event', 'promise_rejection', {
+              event_category: 'javascript',
+              event_label: String(e.reason),
+              value: 1
+            });
+          }
+        });
+      }
+
+      // UTM Parameter Tracking
+      function trackUTMParameters() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const utmParams = {
+          utm_source: urlParams.get('utm_source'),
+          utm_medium: urlParams.get('utm_medium'),
+          utm_campaign: urlParams.get('utm_campaign'),
+          utm_term: urlParams.get('utm_term'),
+          utm_content: urlParams.get('utm_content')
+        };
+
+        const hasUTM = Object.values(utmParams).some(function(val) { return val; });
+        if (hasUTM) {
+          sessionStorage.setItem('utm_params', JSON.stringify(utmParams));
+
+          if (typeof gtag === 'function') {
+            gtag('event', 'utm_visit', {
+              event_category: 'campaign',
+              event_label: utmParams.utm_campaign || 'direct',
+              custom_map: { utm_source: 'utm_source', utm_medium: 'utm_medium', utm_campaign: 'utm_campaign' }
+            });
+          }
+        }
+      }
+
+      // Initialize tracking when DOM is ready
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+          trackCTAClick('hero-cta', 'hero');
+          trackCTAClick('cta-bottom', 'bottom');
+          trackScrollDepth();
+          trackErrors();
+          trackUTMParameters();
+        });
+      } else {
+        trackCTAClick('hero-cta', 'hero');
+        trackCTAClick('cta-bottom', 'bottom');
+        trackScrollDepth();
+        trackErrors();
+        trackUTMParameters();
+      }
+    })();
+  </script>
+  <!-- /Enhanced Analytics Tracking -->
 
   <div id="cookie-banner" class="cookie-banner">
     <span data-i18n="cookie_text">We use cookies for analytics and advertising. <a href="privacy.html">Learn more</a></span>
