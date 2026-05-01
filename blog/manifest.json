@@ -1963,5 +1963,32 @@
       "title": "Nemecká výslovnosť: Kompletný sprievodca pre začiatočníkov (Master R, Ch a umlaute!)",
       "description": "Bojuješ s nemeckou výslovnosťou? Ovládni zložité nemecké zvuky: R, ch, sch a umlaute (ä, ö, ü). Nauč sa nemeckú abecednú výslovnosť s príkladmi, tipmi na výslovnosť a bežnými chybami. Hovor po nemecky ako rodák!"
     }
+  },
+  {
+    "slug": "german-time-telling",
+    "date": "2026-05-01",
+    "tags": [
+      "time",
+      "beginners",
+      "vocabulary",
+      "daily-life",
+      "culture"
+    ],
+    "en": {
+      "title": "German Time: Complete Guide (Wie spät ist es? Official vs Casual Time)",
+      "description": "Learn to tell time in German like a native! Master 'Wie spät ist es?', 12-hour vs 24-hour clock, official time (Uhr) vs casual expressions. Complete guide with examples, vocabulary, and cultural tips about German punctuality."
+    },
+    "ru": {
+      "title": "Немецкое время: Полный гид (Wie spät ist es? Официальное vs Неофициальное время)",
+      "description": "Научись говорить время по-немецки как носитель! Овладей 'Wie spät ist es?', 12-часовой vs 24-часовой часы, официальное время (Uhr) vs разговорные выражения. Полный гид с примерами, словарём и культурными советами о немецкой пунктуальности."
+    },
+    "uk": {
+      "title": "Німецький час: Повний гід (Wie spät ist es? Офіційний vs Неофіційний час)",
+      "description": "Навчись говорити час німецькою як носій! Оволодійте 'Wie spät ist es?', 12-годинний vs 24-годинний годинник, офіційний час (Uhr) vs розмовні вирази. Повний гід з прикладами, словником і культурними порадами про німецьку пунктуальність."
+    },
+    "sk": {
+      "title": "Nemecký čas: Kompletný sprievodca (Wie spät ist es? Oficiálny vs Neoficiálny čas)",
+      "description": "Nauč sa hovoriť čas po nemecky ako rodák! Ovládni 'Wie spät ist es?', 12-hodinový vs 24-hodinový hodiny, oficiálny čas (Uhr) vs bežné výrazy. Kompletný sprievodca s príkladmi, slovníkom a kultúrnymi tipmi o nemeckej punctualite."
+    }
   }
 ]
