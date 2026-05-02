@@ -2259,5 +2259,32 @@
       "title": "Nemecké zložené slová: Ako stavať a rozumieť dlhé nemecké slová (S príkladmi)",
       "description": "Ovládni nemecké zložené slová! Nauč sa, ako Nemci spájajú slová na vytvorenie epických termínov ako 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Kompletný sprievodca s pravidlami, príkladmi, tipmi na výslovnosť a 5 najdlhšími nemeckými slovami."
     }
+  },
+  {
+    "slug": "german-pronunciation-guide",
+    "date": "2026-05-02",
+    "tags": [
+      "pronunciation",
+      "beginners",
+      "speaking",
+      "accent",
+      "phonetics"
+    ],
+    "en": {
+      "title": "German Pronunciation Guide: Master the Difficult Sounds (Ch, Eu, Ü, R, Umlauts)",
+      "description": "Master German pronunciation! Learn how to pronounce the difficult sounds: the ch sound, umlauts (ä, ö, ü), eu vs äu, the German r, sch vs s, ie, and silent letters. Complete guide with examples, audio descriptions, common mistakes to avoid, and practice exercises for perfect German accent."
+    },
+    "ru": {
+      "title": "Немецкое произношение: Освой сложные звуки (Ch, Eu, Ü, R, Умлауты)",
+      "description": "Овладей немецким произношением! Узнай, как произносить сложные звуки: звук ch, умлауты (ä, ö, ü), eu vs äu, немецкое r, sch vs s, ie и немые буквы. Полный гид с примерами, описанием звуков, распространёнными ошибками и упражнениями для идеального немецкого акцента."
+    },
+    "uk": {
+      "title": "Німецька вимова: Оволодій складними звуками (Ch, Eu, Ü, R, Умлаути)",
+      "description": "Оволодій німецькою вимовою! Дізнайся, як вимовляти складні звуки: звук ch, умлаути (ä, ö, ü), eu vs äu, німецьке r, sch vs s, ie та німі літери. Повний гід з прикладами, описом звуків, поширеними помилками та вправами для ідеального німецького акценту."
+    },
+    "sk": {
+      "title": "Nemecká výslovnosť: Ovládni ťažké zvuky (Ch, Eu, Ü, R, Umlauty)",
+      "description": "Ovládni nemeckú výslovnosť! Nauč sa, ako vyslovovať ťažké zvuky: zvuk ch, umlauty (ä, ö, ü), eu vs äu, nemecké r, sch vs s, ie a nemé písmená. Kompletný sprievodca s príkladmi, popisom zvukov, bežnými chybami a cvičeniami pre dokonalý nemecký akcent."
+    }
   }
 ]
