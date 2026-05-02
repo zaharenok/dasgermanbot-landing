@@ -2398,5 +2398,35 @@
         "description": "Ovládni nemecké ospravedlnenia! Nauč sa, ako povedať sorry po nemecky pre každú situáciu — od malých chýb až po závažné priestupky. Kompletný sprievodca s Entschuldigung vs Verzeihung, formálne vs casual ospravedlnenia, kultúrny kontext, a 50+ praktických fráz."
       }
     }
+  },
+  {
+    "slug": "german-swear-words",
+    "date": "2026-05-02",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "intermediate",
+      "advanced",
+      "slang",
+      "communication"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Swear Words and Profanity: Complete Guide (What NOT to Say in Germany)",
+        "description": "Learn German swear words and profanity safely! Complete guide to German bad words, insults, and vulgar language with cultural context, severity levels, when NOT to use them, and proper alternatives. Essential for understanding German media and avoiding embarrassing mistakes. WARNING: Adult content."
+      },
+      "ru": {
+        "title": "Немецкие ругательства и мат: Полный гайд (Что НЕ говорить в Германии)",
+        "description": "Изучи немецкие ругательства и мат безопасно! Полный гайд немецким плохим словам, оскорблениям и вульгарному языку с культурным контекстом, уровнями серьёзности, когда НЕ использовать их, и правильными альтернативами. Необходимо для понимания немецких медиа и избежания неловких ошибок."
+      },
+      "uk": {
+        "title": "Німецькі лайки та мат: Повний посібник (Що НЕ говорити в Німеччині)",
+        "description": "Вивчи німецькі лайки та мат безпечно! Повний посібник німецьким поганим словам, образам та вульгарній мові з культурним контекстом, рівнями серйозності, коли НЕ використовувати їх, і правильними альтернативами. Необхідно для розуміння німецьких медіа та уникнення незручних помилок."
+      },
+      "sk": {
+        "title": "Nemecké nadávky a nadávanie: Kompletný sprievodca (Čo NE hovoriť v Nemecku)",
+        "description": "Nauč sa nemecké nadávky a nadávanie bezpečne! Kompletný sprievodca nemeckým zlým slovám, urážkam a vulgárnej reči s kultúrnym kontextom, úrovňami závažnosti, kedy NE používať ich, a správnymi alternatívami. Nevyhnutné pre porozumenie nemeckých médií a vyhnutie sa neprijemným chybám."
+      }
+    }
   }
 ]
