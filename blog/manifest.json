@@ -2519,5 +2519,37 @@
         "description": "Ovládi nemeckú kuchynskú slovnú zásobu! Nauč sa všetky nemecké miery, kuchynské termíny, váhy, receptúrovú slovnú zásobu a kuchynské základy. Od Gramu po Liter, od backen po kochen — kompletný sprievodca s príkladmi, konverziou a kultúrnymi tipmi na varenie po nemecky."
       }
     }
+  },
+  {
+    "slug": "german-banking-finance",
+    "date": "2026-05-02",
+    "tags": [
+      "vocabulary",
+      "finance",
+      "banking",
+      "money",
+      "beginners",
+      "intermediate",
+      "daily-life",
+      "expat"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Banking and Finance Vocabulary: Complete Guide to Money, Banks, and Financial Terms",
+        "description": "Master German banking vocabulary! Learn all German money terms, bank phrases, ATM vocabulary, financial expressions, and essential banking words. From Geld to Konto, from Überweisung to Geldautomat — complete guide with examples, dialogues, and tips for managing finances in German-speaking countries."
+      },
+      "ru": {
+        "title": "Немецкая банковская лексика и финансы: Полный гайд по деньгам, банкам и финансовым терминам",
+        "description": "Овладей немецкой банковской лексикой! Изучи все немецкие денежные термины, банковские фразы, лексику банкоматов, финансовые выражения и существенные банковские слова. От Geld до Konto, от Überweisung до Geldautomat — полный гайд с примерами, диалогами и советами по управлению финансами в немецкоговорящих странах."
+      },
+      "uk": {
+        "title": "Німецька банківська лексика та фінанси: Повний гайд по грошах, банках та фінансових термінах",
+        "description": "Оволодій німецькою банківською лексикою! Вивчи всі німецькі грошові терміни, банківські фрази, лексику банкоматів, фінансові вирази та важливі банкові слова. Від Geld до Konto, від Überweisung до Geldautomat — повний гайд з прикладами, діалогами та порадами по управлінню фінансами в німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecká banková slovná zásoba a financie: Kompletný sprievodca peniazmi, bankami a finančnými termínmi",
+        "description": "Ovládi nemeckú bankovú slovnú zásobu! Nauč sa všetky nemecké peniažne termíny, bankové frázy, slovnú zásobu bankomatov, finančné výrazy a dôležité bankové slová. Od Geld po Konto, od Überweisung po Geldautomat — kompletný sprievodca s príkladmi, dialógmi a tipmi na správu financií v nemecky hovoriacich krajinách."
+      }
+    }
   }
 ]
