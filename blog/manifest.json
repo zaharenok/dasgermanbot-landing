@@ -2368,5 +2368,35 @@
       "title": "Nemecké zoznamovacie frázy: 50+ frázy na zoznámenie, ktoré naozaj fungujú (2026)",
       "description": "Ovládi nemecké zoznámenie! Nauč sa 50+ nemeckých zoznamovacích fráz od odvážnych po charizmujúcich, plus nevyhnutnú slovnú zásobu na zoznámenie. Kompletný sprievodca s výslovnosťou, kultúrnymi poznámkami, čomu sa vyhnúť, a skutočnými frázami, ktoré Nemci naozaj používajú."
     }
+  },
+  {
+    "slug": "german-apologies",
+    "date": "2026-05-02",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "beginners",
+      "intermediate",
+      "social",
+      "communication"
+    ],
+    "langs": {
+      "en": {
+        "title": "How to Apologize in German: Complete Guide (Entschuldigung, Verzeihung, Sorry)",
+        "description": "Master German apologies! Learn how to say sorry in German for every situation - from minor mistakes to serious offenses. Complete guide with Entschuldigung vs Verzeihung, formal vs casual apologies, cultural context, and 50+ practical phrases."
+      },
+      "ru": {
+        "title": "Как извиняться по-немецки: Полный гайд (Entschuldigung, Verzeihung, Sorry)",
+        "description": "Овладей немецкими извинениями! Узнай, как говорить sorry по-немецки для любой ситуации — от мелких ошибок до серьёзных проступков. Полный гайд с Entschuldigung против Verzeihung, формальные против casual извинения, культурный контекст, и 50+ практических фраз."
+      },
+      "uk": {
+        "title": "Як вибачатися німецькою: Повний посібник (Entschuldigung, Verzeihung, Sorry)",
+        "description": "Оволодій німецькими вибаченнями! Дізнайся, як казати sorry німецькою для будь-якої ситуації — від маленьких помилок до серйозних образ. Повний посібник з Entschuldigung проти Verzeihung, формальні проти casual вибачення, культурний контекст, і 50+ практичних фраз."
+      },
+      "sk": {
+        "title": "Ako sa ospravedlniť po nemecky: Kompletný sprievodca (Entschuldigung, Verzeihung, Sorry)",
+        "description": "Ovládni nemecké ospravedlnenia! Nauč sa, ako povedať sorry po nemecky pre každú situáciu — od malých chýb až po závažné priestupky. Kompletný sprievodca s Entschuldigung vs Verzeihung, formálne vs casual ospravedlnenia, kultúrny kontext, a 50+ praktických fráz."
+      }
+    }
   }
 ]
