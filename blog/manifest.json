@@ -2458,5 +2458,35 @@
         "description": "Ovládni nemecké SMS ako miestny! Nauč sa 100+ nemeckých skratiek, chat slangu a internetového jazyka používaných v WhatsApp, Telegram, Instagram a viac. Kompletný sprievodca s výslovnosťou, kultúrnym kontextom, kedy použiť každú skratku, a reálne príklady z nemeckej chat kultúry."
       }
     }
+  },
+  {
+    "slug": "german-pronunciation",
+    "date": "2026-05-02",
+    "tags": [
+      "pronunciation",
+      "beginners",
+      "speaking",
+      "phonetics",
+      "accent",
+      "communication"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Pronunciation Guide: Master German Sounds (ü, ö, ch, sch, r) with Examples",
+        "description": "Master German pronunciation! Complete guide to German sounds including difficult letters ü, ö, ch, sch, r. Learn pronunciation rules with examples, audio descriptions, common mistakes, practice exercises, and tips to sound like a native speaker. Essential for speaking German confidently!"
+      },
+      "ru": {
+        "title": "Немецкое произношение: Мастер немецких звуков (ü, ö, ch, sch, r) с примерами",
+        "description": "Овладей немецким произношением! Полный гайд немецким звукам включая сложные буквы ü, ö, ch, sch, r. Изучи правила произношения с примерами, описаниями звуков, распространёнными ошибками, практическими упражнениями, и советами как звучать как носитель. Необходимо для уверенной речи по-немецки!"
+      },
+      "uk": {
+        "title": "Німецька вимова: Майстер німецьких звуків (ü, ö, ch, sch, r) з прикладами",
+        "description": "Оволодій німецькою вимовою! Повний гайд німецьким звукам включно зі складними літерами ü, ö, ch, sch, r. Вивчи правила вимови з прикладами, описами звуків, поширеними помилками, практичними вправами, і порадами як звучати як носій. Необхідно для впевненої німецької мови!"
+      },
+      "sk": {
+        "title": "Nemecká výslovnosť: Majster nemeckých zvukov (ü, ö, ch, sch, r) s príkladmi",
+        "description": "Ovládni nemeckú výslovnosť! Kompletný sprievodca nemeckým zvukom vrátane ťažkých písmen ü, ö, ch, sch, r. Nauč sa výslovnostné pravidlá s príkladmi, popisy zvukov, bežnými chybami, cvičnými cvičeniami, a tipmi ako znieť ako rodený. Nevyhnutné pre isté nemecké hovorenie!"
+      }
+    }
   }
 ]
