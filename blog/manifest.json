@@ -2488,5 +2488,36 @@
         "description": "Ovládni nemeckú výslovnosť! Kompletný sprievodca nemeckým zvukom vrátane ťažkých písmen ü, ö, ch, sch, r. Nauč sa výslovnostné pravidlá s príkladmi, popisy zvukov, bežnými chybami, cvičnými cvičeniami, a tipmi ako znieť ako rodený. Nevyhnutné pre isté nemecké hovorenie!"
       }
     }
+  },
+  {
+    "slug": "german-measurements-cooking",
+    "date": "2026-05-02",
+    "tags": [
+      "vocabulary",
+      "cooking",
+      "measurements",
+      "kitchen",
+      "beginners",
+      "intermediate",
+      "daily-life"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Measurements and Cooking Vocabulary: Complete Guide to Kitchen, Weights, and Recipe Terms",
+        "description": "Master German kitchen vocabulary! Learn all German measurements, cooking terms, weights, recipe vocabulary, and kitchen essentials. From Gramm to Liter, from backen to kochen — complete guide with examples, conversions, and cultural tips for cooking in German."
+      },
+      "ru": {
+        "title": "Немецкие меры измерения и кулинарная лексика: Полный гайд по кухне, весам и рецептам",
+        "description": "Овладей немецкой кухонной лексикой! Изучи все немецкие меры измерения, кулинарные термины, веса, рецептурную лексику и кухонные essentials. От Грамма до Литра, от backen до kochen — полный гайд с примерами, конвертацией и культурными советами для готовки по-немецки."
+      },
+      "uk": {
+        "title": "Німецькі міри виміру та кулінарна лексика: Повний гайд по кухні, мірах та рецептах",
+        "description": "Оволодій німецькою кухонною лексикою! Вивчи всі німецькі міри виміру, кулінарні терміни, ваги, рецептурну лексику та кухонні essentials. Від Грама до Літра, від backen до kochen — повний гайд з прикладами, конвертацією та культурними порадами для приготування по-німецьки."
+      },
+      "sk": {
+        "title": "Nemecké miery a kuchynská slovní zásoba: Kompletný sprievodca kuchyne, váh a receptov",
+        "description": "Ovládi nemeckú kuchynskú slovnú zásobu! Nauč sa všetky nemecké miery, kuchynské termíny, váhy, receptúrovú slovnú zásobu a kuchynské základy. Od Gramu po Liter, od backen po kochen — kompletný sprievodca s príkladmi, konverziou a kultúrnymi tipmi na varenie po nemecky."
+      }
+    }
   }
 ]
