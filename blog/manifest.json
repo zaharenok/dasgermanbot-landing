@@ -2286,5 +2286,32 @@
       "title": "Nemecká výslovnosť: Ovládni ťažké zvuky (Ch, Eu, Ü, R, Umlauty)",
       "description": "Ovládni nemeckú výslovnosť! Nauč sa, ako vyslovovať ťažké zvuky: zvuk ch, umlauty (ä, ö, ü), eu vs äu, nemecké r, sch vs s, ie a nemé písmená. Kompletný sprievodca s príkladmi, popisom zvukov, bežnými chybami a cvičeniami pre dokonalý nemecký akcent."
     }
+  },
+  {
+    "slug": "german-slang-youth-language",
+    "date": "2026-05-02",
+    "tags": [
+      "slang",
+      "vocabulary",
+      "culture",
+      "intermediate",
+      "modern"
+    ],
+    "en": {
+      "title": "German Slang and Youth Language: 50+ Modern Terms Germans Actually Use (2026)",
+      "description": "Learn contemporary German slang! Discover 50+ modern terms Germans use in daily life from 'geil' to 'krass'. Complete guide to German youth language, text abbreviations, Denglisch loanwords, and how to sound young and current. Perfect for understanding real German beyond textbooks."
+    },
+    "ru": {
+      "title": "Немецкий сленг и молодежный язык: 50+ современных терминов, которые немцы действительно используют (2026)",
+      "description": "Изучайте современный немецкий сленг! Откройте 50+ современных терминов, которые немцы используют в повседневной жизни от 'geil' до 'krass'. Полный guide по немецкому молодежному языку, аббревиатурам в сообщениях, англо-немецким заимствованиям и тому, как звучать молодым и актуальным."
+    },
+    "uk": {
+      "title": "Німецький сленг і молодіжна мова: 50+ сучасних термінів, які німці справді використовують (2026)",
+      "description": "Вивчайте сучасний німецький сленг! Відкрийте 50+ сучасних термінів, які німці використовують у повсякденному житті від 'geil' до 'krass'. Повний guide по німецькій молодіжній мові, абревіатурам у повідомленнях, англо-німецьким запозиченням."
+    },
+    "sk": {
+      "title": "Nemecký slang a mládežnícky jazyk: 50+ moderných termínov, ktorí Nemci skutočne používajú (2026)",
+      "description": "Naučte sa súčasný nemecký slang! Objavte 50+ moderných termínov, ktorí Nemci používajú v každodennom živote od 'geil' po 'krass'. Kompletný guide k nemeckému mládežníckemu jazyku, skratkám v sprách, anglicko-nemeckým požičičkám."
+    }
   }
 ]
