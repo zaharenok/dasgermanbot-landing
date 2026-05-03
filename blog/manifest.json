@@ -2673,5 +2673,35 @@
       "title": "Nemecké falošní priatelia jazyka a bežné chyby: Nedaj sa oblieť!",
       "description": "Nezahanbi sa! Nauč sa nemecké falošné priatelia jazyka a bežné chyby."
     }
+  },
+  {
+    "slug": "german-idioms-proverbs",
+    "date": "2026-05-03",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "intermediate",
+      "advanced",
+      "idioms",
+      "proverbs",
+      "sayings",
+      "expressions"
+    ],
+    "en": {
+      "title": "German Idioms and Proverbs: Speak Like a Native with 50+ Essential Expressions",
+      "description": "Want to sound like a native German speaker? Master German idioms, proverbs, and sayings! Learn colorful German expressions that don't translate literally."
+    },
+    "ru": {
+      "title": "Немецкие идиомы, пословицы и поговорки: Говори как носитель с 50+ выражениями",
+      "description": "Хочешь звучать как носитель немецкого? Овладей немецкими идиомами, пословицами и поговорками! Изучай красочные немецкие выражения."
+    },
+    "uk": {
+      "title": "Німецькі ідіоми, прислів'я та приказки: Говори як носій з 50+ виразами",
+      "description": "Хочеш звучати як носій німецької? Оволодій німецькими ідіомами, прислів'ями та приказками! Вивчай барвисті німецькі вирази."
+    },
+    "sk": {
+      "title": "Nemecké idiómy, príslovia a porekadenia: Hovor ako rodák s 50+ výrazmi",
+      "description": "Chceš znieť ako rodený Nemec? Ovládaj nemecké idiómy, príslovia a porekadenia! Nauč sa farebné nemecké výrazy."
+    }
   }
 ]
