@@ -2583,5 +2583,35 @@
         "description": "Prost! Ovládi nemeckú pivnú slovnú zásobu! Nauč sa všetky typy nemeckého piva, barové frázy, alkoholickú slovnú zásobu, pitné výrazy a kultúrne tipy. Od Helles po Weizen, od Prost! po Ich hab Durst — kompletný sprievodca s príkladmi, dialógmi a prehľadom do nemeckej pivnej kultúry."
       }
     }
+  },
+  {
+    "slug": "german-christmas-holidays",
+    "date": "2026-05-03",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "beginners",
+      "intermediate",
+      "holidays",
+      "christmas",
+      "winter",
+      "traditions"
+    ],
+    "en": {
+      "title": "German Christmas and Holiday Vocabulary: Complete Guide to Weihnachten, Advent, and Winter Traditions",
+      "description": "Frohe Weihnachten! Master German Christmas and holiday vocabulary! Learn German Advent traditions, Christmas market vocabulary, winter holiday phrases, and cultural insights."
+    },
+    "ru": {
+      "title": "Немецкая рождественская лексика: Полный гид по Вайнахтен, Адвенту и зимним традициям",
+      "description": "Frohe Weihnachten! Овладевайте немецкой рождественской лексикой! Изучайте традиции немецкого Адвента, лексику рождественских ярмарок и зимние праздничные фразы."
+    },
+    "uk": {
+      "title": "Німецька різдвяна лексика: Повний посібник з Вайнахтен, Адвенту та зимових традицій",
+      "description": "Frohe Weihnachten! Оволодівайте німецькою різдвяною лексикою! Вивчайте традиції німецького Адвенту, лексику різдвяних ярмарків та зимові різдвяні фрази."
+    },
+    "sk": {
+      "title": "Nemecká vianočná slovní zásoba: Kompletný sprievodca Vianocami, Adventom a zimnými tradíciami",
+      "description": "Frohe Weihnachten! Ovládajte nemeckú vianočnú slovnú zásobu! Naučte sa tradície nemeckého Adventu a slovní zásobu vianočných trhov."
+    }
   }
 ]
