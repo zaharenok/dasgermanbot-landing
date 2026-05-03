@@ -1,442 +1,480 @@
 ---
-title: "Nemecké falošní priatelia: 50+ slov, ktoré vás oklamú (nerobte tieto chyby!)"
-description: "Myslíte si, že 'gift' znamená dar v nemčine? Mylite sa! Objavte 50+ nemeckých falošných priateľov — slov, ktoré vyzerajú ako anglické, ale znamenajú úplne niečo iné. Vyhnite sa trapasom s týmto essential sprievodcom pre začiatočníkov v nemčine."
-date: "2026-04-30"
+title: "Nemecké falošní priatelia jazyka a bežné chyby: Nedaj sa oblieť! Kompletný sprievodca"
+description: "Nezahanbi sa! Nauč sa nemecké falošné priatelia jazyka a bežné chyby, ktoré klamú anglicky hovoriacich. Ovládni slová, ktoré vyzerajú podobne, ale znamenajú rozdielne veci. Od 'gift' (jed) po 'bekommen' (dostať)."
+date: "2026-05-03"
 lang: "sk"
 image: ""
-tags: ["slovnik", "zaciatocnici", "falosni-priatelia", "chyby", "zaklady"]
+tags: ["vocabulary", "beginners", "intermediate", "mistakes", "false-friends", "confusing-words", "tips", "learning"]
 ---
 
-# Nemecké falošní priatelia: 50+ slov, ktoré vás oklamú
+# Nemecké falošní priatelia jazyka a bežné chyby: Nedaj sa oblieť!
 
-Učíte sa nemčinu. Vidíte slovo, ktoré vyzerá známo.
+**Kedy si hovoril nieč zahanľivé po nemecky bez toho, aby si si to uvedomil?** 🚫😅
 
-"Ah, toto slovo poznám!" — myslíte si sebavedomo.
+Myslíš si, že ovládaš nemčinu, pretože niektoré slová vyzerajú ako anglické? Premysli to znova! Tieto "priateľské" slová sú vlastne falošní priatelia jazyka — podvádzači, ktorí vyzerajú podobne, ale znamenajú úplne iné veci.
 
-**STOP!** Toto slovo môže byť **falošný priateľ** — podvodné nemecké slovo, ktoré vyzerá ako anglické (alebo slovenské), ale znamená úplne niečo iné. Použitie ho nesprávne môže viesť k trapasom (a vtipným) nedorozumeniam.
+**Si na správnom mieste.**
 
-**Riešenie:** Ovládnete najbežnejšie nemecké falošných priateľov, kým vás oklamú!
+Nemeckí falošní priatelia jazyka zahanlili bezpočetne učiacech sa jazyk. Od náhodného nazývania niekoho "jedom" po ponúknutie mu "telo" namiesto "darca" — tento sprievodca vás zachráni od týchto trapných momentov.
 
-## Čo sú to falošní priatelia?
+**V tomto sprievodcovi:** Ovládneš najbežnejšie nemecké falošných priateľov jazyka, vyhneš sa zahanlivým chybám a naučíš sa skutočné významy za týmito klamlivými slovami.
 
-**Falošní priatelia** (alebo *falsche Freunde*) sú slová v dvoch jazykoch, ktoré vyzerajú alebo znejú podobne, ale majú rôzne významy. Sú to "nepriatelia" v učení sa jazykov — priateľské na prvý pohľad, ale podvodné pri skutočnom používaní.
+## Čo sú to falošní priatelia jazyka?
 
-**Prečo sú nebezpeční?**
+**Falošní priatelia jazyka** (alebo *falsche Freunde* nemecky) sú slová v dvoch jazykoch, ktoré vyzerajú alebo znejú podobne, ale majú rozdielne významy. Sú to lingvistický ekvivalent vlka v ovčom kožuchu — neškodný vzhľad, nebezpečné následky.
 
-- Myslíte si, že poznáte ich význam
-- Používate ich sebavedomo
-- Rodilí hovoriaci sú zmätení (alebo pobavení)
-- Vaša nemčina znie nesprávne
+**Prečo sú nebezpeční:**
+- 🎯 **Falošná sebavedomie** — Myslíš si, že poznáš význam
+- 😅 **Zahanlivé situácie** — Hovoríš nesprávne veci
+- 🤔 **Zmätenosť** — Nesprávne porozumenie rozhovorom
+- 😈 **Trapné momenty** — Náhodný humor alebo urážka
+- 📚 **Vzdelávacie úskalia** — Posilňovanie nesprávnych významov
 
-**Príklad:** Klasická chyba — povedať, že sa "stanete" kávu, namiesto toho aby ste ju "dostali"!
+**Dobrá správa:** Akonáhle ich poznáš, už ťa nikdy neoklamú!
 
 ## Najnebezpečnejší falošní priatelia
 
-### 1. Gift vs Gift
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| dar (gift) | **Geschenk** |
-| **Gift** (jed) | Gift |
-
-**Zapamätajte si:** V nemčine **Gift = JED** ❌🎁✅☠️
-
-**Trapas:** "Ich habe dir ein Gift gekauft" = "Kúpil ti jed"
-
-**Správne:** "Ich habe dir ein Geschenk gekauft" = "Kúpil ti dar"
-
-### 2. Become vs Bekommen
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| stávať sa | **werden** |
-| dostávať | **bekommen** |
-
-**Zapamätajte si:** **Bekommen = DOSTAŤ**
-
-**Trapas:** "Ich werde einen Kaffee" = "Stanem sa káva" ☕😅
-
-**Správne:** "Ich bekomme einen Kaffee" = "Dostávam kávu"
-
-### 3. Fast vs Fast
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| rýchly | **schnell** |
-| **fast** (takmer) | fast |
-
-**Zapamätajte si:** Nemecké **fast = TAKMERE**
-
-**Trapas:** "Ich bin fast!" = "Som takmer!" (neukončená myšlienka)
-
-**Správne:** "Ich bin schnell!" = "Som rýchly!"
-
-### 4. Cook vs Koch
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| kuchár | **Koch** |
-| variť | **kochen** |
-
-**Poznámka:** Toto funguje! Ale dajte pozor na výslovnosť.
-
-### 5. Camera vs Kamera
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| kamera | **Kamera** ✅ |
-
-**Toto slovo je rovnaké!** (Nie všetci falošní priatelia sú falošní)
-
-## Falošní priatelia: Jedlo
-
-### 6. Menu vs Menü
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| menu (zoznam jedál) | **Speisekarte** |
-| **Menü** (viacchodové jedlo) | Menü |
-
-**Zámena:** V nemeckých reštauráciách povedzte *Speisekarte*, nie *Menü* (to je fixný viacchodový obed).
-
-### 7. Dinner vs Dinner
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| večera | **Abendessen** |
-| **Dinner** (slávnosnosť) | Dinner |
-
-**Použitie:** Nemci hovoria *Abendessen* na bežnú večeru.
-
-### 8. Chef vs Chef
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| kuchár | **Koch** |
-| **Chef** (šéf) | Chef |
-
-**Dôležité:** V nemčine *Chef* znamená šéf, nie kuchár!
-
-### 9. Sauce vs Sauce
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| omáčka | **Soße** |
-| **Sauce** (zriedka/archaicky) | Sauce |
-
-**Bežné:** Nemci používajú *Soße* pre omáčku.
-
-## Falošní priatelia: Biznis
-
-### 10. Boss vs Boss
-
-| Slovenčina | Nemčina |
-|------------|---------|
-- šéf | **Chef** |
-| **Boss** (neformálne) | Boss |
-
-**Profesionálne:** Používajte *Chef* v oficiálnych situáciách.
-
-### 11. Office vs Büro
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| kancelária | **Büro** ✅ |
-
-**Poznámka:** Veľkým písmom v nemčine!
-
-### 12. Profit vs Profit
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| zisk | **Gewinn** |
-| **Profit** (zriedka) | Profit |
-
-**Biznis:** Používajte *Gewinn* pre zisk.
-
-## Falošní priatelia: Vzdelanie
-
-### 13. School vs Schule
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| škola | **Schule** ✅ |
-
-**Dobré!** Toto funguje správne.
-
-### 14. Student vs Student
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| študent (univerzita) | **Student** ✅ |
-| žiak (škola) | **Schüler** |
-
-**Rozdiel:** *Student* = univerzita, *Schüler* = školský žiak.
-
-### 15. Professor vs Professor
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| profesor | **Professor** ✅ |
-
-**Rovnaké slovo!** (Ale veľkým písmom v nemčine)
-
-## Falošní priatelia: Cestovanie
-
-### 16. Ticket vs Ticket
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| lístok | **Fahrkarte** / **Ticket** ✅ |
-
-**Oba fungujú!** *Fahrkarte* tradične, *Ticket* moderné.
-
-### 17. Trip vs Trip
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| výlet | **Reise** / **Ausflug** |
-| **Trip** (sleng pre drogový zážitok) | Trip |
-
-**Opatrne:** Nepoužívajte *Trip* pre dovolenku — použite *Reise*!
-
-### 18. Guide vs Guide
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| sprievodca (človek) | **Führer** / **Reiseführer** |
-| sprievodca (kniha) | **Reiseführer** ✅ |
-
-**Varovanie:** *Führer* má negatívne historické asociácie. Používajte *Reiseführer*.
-
-## Falošní priatelia: Emócie
-
-### 19. Angry vs Ärgerlich
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| nahnevaný | **wütend** / **böse** |
-| **ärgerlich** (nahnevaný/irritovaný) | ärgerlich |
-
-**Nuansa:** *Ärgerlich* je miernejší ako nahnevaný.
-
-### 20. Sad vs Traurig
-
-| Slovenčina | Nemčina |
-|------------|---------|
-- smutný | **traurig** ✅ |
-
-**Správne!** Toto funguje.
-
-## Falošní priatelia: Telo
-
-### 21. Hand vs Hand
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| ruka | **Hand** ✅ |
-
-**Rovnaké slovo!** (Množné číslo: *Hände*)
-
-### 22. Foot vs Fuß
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| noha (chodidlo) | **Fuß** |
-| nohy (mn.) | **Füße** |
-
-**Rôzny pravopis:** *Fuß* s umlautom.
-
-### 23. Finger vs Finger
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| prst | **Finger** ✅ |
-
-**Rovnaké slovo!** (Ale množné číslo *Finger*, nie *Fingers*)
-
-## Falošní priatelia: Oblečenie
-
-### 24. Dress vs Kleid
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| šaty (oblečenie) | **Kleid** |
-| **Dress** (zriedka) | Dress |
-
-**Bežné:** Používajte *Kleid* pre šaty.
-
-### 25. Shirt vs Hemd
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| košeľa (na gombíky) | **Hemd** |
-| **Shirt** (tričko) | Shirt |
-
-**Kontext:** *Hemd* = košeľa, *Shirt* = casual košeľa.
-
-## Falošní priatelia: Technológie
-
-### 26. Phone vs Telefon
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| telefón | **Telefon** ✅ |
-
-**Rovnaké slovo!** (Ale *Handy* = mobilný telefón!)
-
-### 27. Computer vs Computer
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| počítač | **Computer** ✅ |
-
-**Rovnaké slovo!** (Množné číslo: *Computer*)
-
-### 28. Internet vs Internet
-
-| Slovenčina | Nemčina |
-|------------|---------|
-| internet | **Internet** ✅ |
-
-**Rovnaké slovo!** (Ale veľkým písmom)
-
-## Kompletný zoznam bežných falošných priateľov
-
-| Vyzerá ako | Znamená | Preklad |
-|------------|----------|---------|
-| gift | jed | **Geschenk** (dar) |
-| to become | dostávať | **werden** (stávať sa) |
-| fast | takmer | **schnell** (rýchly) |
-| chef | šéf | **Koch** (kuchár) |
-| menu | viacchodové jedlo | **Speisekarte** (menu) |
-| tripod | (archaicky) | **Stativ** (statív) |
-| path | (nepoužíva sa) | **Weg** (cesta) |
-| brave | (nepoužíva sa) | **brav** (poslušný) |
-| taste | (nepoužíva sa) | **schmecken** (chutnať) |
-| smell | (nepoužíva sa) | **riechen** (čuť) |
-| oven | (nepoužíva sa) | **Ofen** (rúra) |
-| dust | (nepoužíva sa) | **Staub** (prach) |
-| fog | (nepoužíva sa) | **Nebel** (hmla) |
-| who | (nepoužíva sa) | **wer** (kto) |
-| where | (nepoužíva sa) | **wo** (kde) |
-| when | (nepoužíva sa) | **wann** (kedy) |
-| wall | (nepoužíva sa) | **Wand** (stena) |
-| hall | (nepoužíva sa) | **Halle** (hala) |
-| stall | (nepoužíva sa) | **Stall** (stajňa) ✅ |
-| star | (nepoužíva sa) | **Stern** (hviezda) |
-| stick | (nepoužíva sa) | **Stock** (palica) |
-| stone | (nepoužíva sa) | **Stein** (kameň) |
-| storm | (nepoužíva sa) | **Sturm** (búrka) ✅ |
-| stream | (nepoužíva sa) | **Bach** (potok) |
-| pool | (nepoužíva sa) | **Pool** ✅ |
-| park | (nepoužíva sa) | **Park** ✅ |
-| bank | lavička | **Bank** (lavička/banka) |
-| gross | veľký | **groß** (veľký) |
-| gut | dobrý | **gut** ✅ (dobrý) |
-| bad | zlý | **schlecht** (zlý) |
-| mann | muž | **Mann** ✅ (muž) |
-| frau | žena | **Frau** ✅ (žena) |
-| kind | dieťa | **Kind** ✅ (dieťa) |
-
-## Ako sa vyhnúť chybám s falošnými priateľmi
-
-### Stratégia 1: Vždy overujte
-
-**Pravidlo:** Ak nemecké slovo vyzerá presne ako anglické — **dvakrát overte!**
-
-Čím viac známe vyzerá, tým viac ostražite by ste mali byť.
-
-### Stratégia 2: Učte sa slová v kontexte
-
-**Nezapamätajte:** Zoznamy slov
-
-**Zapamätajte:** Príklady viet
-
-- ❌ "Gift = jed"
-- ✅ "Ich habe dir ein Gift gekauft" (Kúpil ti jed) — počkajte, to je nesprávne!
-- ✅✅ "Ich habe dir ein Geschenk gekauft" (Kúpil ti dar)
-
-### Stratégia 3: Používajte kartičky s varovaniami
-
-**Anki/Flashcards:**
-
-- Lícna strana: "Gift 🎁"
-- Zadná strana: "JED! ☠️ (Geschenk = dar)"
-
-### Stratégia 4: Cvičte s rodilými hovoriacimi
-
-**Najlepšia obrana:** Rodilí hovoriaci chytnú vaše chyby
-
-**Nebuďte:** Strach robiť chyby — sú vtipné!
-
-**Buďte:** Vďační za opravy
-
-## Najtrapnejšie skutočné chyby
-
-**Príbeh 1:** Katastrofa s "Gift"
-
-Študent chcel dať svojej nemeckej hostiteľskej rodine dar a povedal: "Ich habe Ihnen ein special Gift!" — myslel "Mám pre vás špeciálny dar!" Rodina bola v hrôze, kým im nevysvetlil.
-
-**Príbeh 2:** "Stávajúca sa" káva
-
-Americký turista v Berlíne povedal čašníkovi: "Ich werde einen Kaffee" — Čašník odpovedal: "Stanete sa káva? To je impozantná premena!"
-
-**Príbeh 3:** "Rýchly" takmer
-
-Niekto povedal: "Ich bin sehr fast!" mysliac "Som veľmi rýchly!" — ale povedal "Som veľmi takmer!" (neukončená veta).
-
-## Mnemotechnické pomôcky
-
-**Pre GIFT:**
-- Myslite: **G**ermáni **I**nijektujú **T**oxické **T**ekutiny
-- Alebo: Gift začína na G = **G**ift = **G**iftig (jedovatý)
-
-**Pre BEKOMMEN:**
-- Myslite: **Bekommen** znie ako "become", ale znamená **DOSTAŤ**
-- Mnemotechnika: "Ja **bekomme** (dostávam) to, čo ja **become**" — nie, to je zmätené
-- Lepšie: "**Bekommen** = **BU**dem **DO**STávať niečo"
-
-**Pre FAST:**
-- Myslite: **Fast** a **Almost** — obe krátke slová
-- Alebo: "Ja **fast** takmer tam" — nemá zmysel, čo pomôže zapamätať!
-
-## Kultúrna poznámka
-
-Nemci nájdu chyby s falošnými priateľmi **zábavnými**, nie urážlivými. Chápu tieto pascle, pretože sa stretávajú s rovnakými problémmi pri učení sa angličtiny!
-
-**Postoj Nemcov:** "Nestrážte, robíme tie isté chyby v angličtine!"
-
-## Karta rýchlej referencie
-
-**Top-10 falošných priateľov na zapamätanie:**
-
-1. **Gift** = jed (nie dar!)
-2. **bekommen** = dostať (nie stať sa!)
-3. **fast** = takmer (nie rýchly!)
-4. **Chef** = šéf (nie kuchár!)
-5. **Menü** = viacchodové jedlo (nie menu!)
-6. **Salary** = plat (✅ na skutočnosť funguje!)
-7. **Job** = práca (✅ na skutočnosť funguje!)
-8. **Computer** = počítač (✅ na skutočnosť funguje!)
-9. **Restaurant** = reštaurácia (✅ na skutočnosť funguje!)
-10. **Student** = vysokoškolský študent (nie školák!)
+### Gift vs. Gift
+
+| Jazyk | Slovo | Význam | Úroveň nebezpečnosti |
+|-------|------|---------|---------------------|
+| **Anglický** | Gift | Dar | 🎁 Bezpečné |
+| **Nemecký** | Gift | Jed | ☠️ NEBEZPEČNÉ! |
+
+**Príklady chýb:**
+- ❌ "Ich habe ein Gift für dich" = "Mám pre teba jed"
+- ✅ "Ich habe ein Geschenk für dich" = "Mám pre teba dar"
+
+**Pamätaj si:** Nemecké *Gift* = jed, *Geschenk* = dar!
+
+### Bekommen vs. Become
+
+| Jazyk | Slovo | Význam | Úroveň zmeny |
+|-------|------|---------|-------------|
+| **Anglický** | Become | Stať sa | 😕 Bežné |
+| **Nemecký** | Bekommen | Dostať | 😕 Bežné |
+
+**Príklady chýb:**
+- ❌ "Ich werde alt bekommen" = "Stanem sa starý dostať" (nezmysel)
+- ✅ "Ich werde alt" = "Budem starnúť"
+- ✅ "Ich bekomme ein Geschenk" = "Dostávam dar"
+
+**Pamätaj si:** Nemecké *bekommen* = dostať, *werden* = stať sa!
+
+### Wer vs. Who
+
+| Jazyk | Slovo | Význam | Gramatická pasc |
+|-------|------|---------|---------------|
+| **Anglický** | Who | Kto | 👤 Človek |
+| **Nemecký** | Wer | Kto | 👤 Človek |
+| **Nemecký** | Was | Čo | 🤵 Vec |
+
+**Príklady chýb:**
+- ❌ "Was bist du?" (nesprávne — *Was* nefunguje pre ľudí)
+- ✅ "Wer bist du?" = "Kto si?"
+- ✅ "Was ist das?" = "Čo je to?"
+
+**Pamätaj si:** *Wer* = kto (človek), *Was* = čo (vec)!
+
+## Falošní priatelia v jedle a pití
+
+### Chyby v menu
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Menü** | Menu | Pevné jedlo | Fixné jedlo |
+| **Speisekarte** | - | Menu | Menu |
+| **Rezept** | Receipt | Recept | Recept |
+| **Quittung** | - | Potvrdenka | Potvrdenka |
+| **Kellner** | - | Čašník | Čašník |
+| **Bedienung** | - | Služba | Služba |
+| **Besteck** | - | Príbory | Príbory |
+| **Teller** | - | Tanier | Tanier |
+
+**Príklady chýb:**
+- ❌ "Kann ich das Menü haben?" (možeš dostať plnohodnotný 3-chodový obed!)
+- ✅ "Kann ich die Speisekarte sehen?" = "Môžem vidieť menu?"
+- ❌ "Ich brauche ein Rezept" (recept, nie potvrdenka)
+- ✅ "Ich brauche eine Quittung" = "Potrebujem potvrdenku"
+
+### Nebezpečenstvá v pití
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Trunk** | Trunk | Nápoj | Nápoj |
+| **Betrunken** | - | Opitý | Opitý |
+| **Betrunkener** | - | Opitá osoba | Opitá osoba |
+| **Alkohol** | Alcohol | Alkohol | Alkohol |
+| **Saufe** | - | Opitie | Slang pre opitie |
+
+**Príklady chýb:**
+- ❌ "Ich bin Trunk" (znie ako "Som nápoj")
+- ✅ "Ich habe getrunken" = "Napil som sa"
+- ✅ "Ich bin betrunken" = "Som opitý"
+
+## Falošní priatelia v tele a zdraví
+
+### Chyby v častiach tela
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Körper** | - | Telo | Telo |
+| **Leib** | Life | Telo/trup | Trup (formálne) |
+| **Bauch** | - | Brucho | Brucho |
+| **Rücken** | - | Chrbát | Chrbát |
+| **Hand** | Hand | Ruka | Ruka |
+| **Finger** | Finger | Prst | Prst |
+| **Fuß** | Foot | Noha | Noha |
+| **Zeh** | - | Prst na nohe | Prst na nohe |
+
+**Príklady chýb:**
+- ❌ "Mein Leib tut weh" (staromódne, znamená trup)
+- ✅ "Mein Körper tut weh" = "Moje telo bolí"
+- ❌ "Mein Rücken ist zurück" (zmätuté)
+- ✅ "Mein Rücken tut weh" = "Moje chrbát bolí"
+
+### Zmena v zdraví
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Krank** | Crank | Chorý | Chorý/nemocný |
+| **Krankheit** | - | Choroba | Choroba |
+| **Arzt** | - | Lekár | Lekár |
+| **Tablette** | Tablet | Tableta | Tableta |
+| **Medizin** | Medicine | Medicína | Medicína |
+| **Apotheke** | - | Lekáreň | Lekáreň |
+| **Krankenhaus** | - | Nemocnica | Nemocnica |
+
+**Príklady chýb:**
+- ❌ "Ich bin ein Krank" (znie ako "Som chorobca")
+- ✅ "Ich bin krank" = "Som chorý"
+- ❌ "Ich brauche einen Crank" (neexistuje)
+- ✅ "Ich brauche einen Arzt" = "Potrebujem lekára"
+
+## Falošní priatelia v emóciách a pocitoch
+
+### Zmena pocitov
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Gefühl** | - | Pocit | Pocit |
+| **Empfinden** | - | Cítiť | Cítiť (emócia) |
+| **Fühlen** | - | Cítiť | Cítiť (fyzicky) |
+| **Wut** | - | Hnev | Hnev/zlosť |
+| **Zorn** | - | Hnev | Hnev |
+| **Freude** | - | Radosť | Radosť |
+| **Trauer** | - | Smútok | Smútok |
+
+**Príklady chýb:**
+- ❌ "Ich empfinde mich glücklich" (nesprávna gramatika)
+- ✅ "Ich habe ein gutes Gefühl" = "Mám dobrý pocit"
+- ✅ "Ich freue mich" = "Teším sa"
+
+## Falošní priatelia v akcii a pohybe
+
+### Chyby v pohybe
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Bewegen** | - | Pohybovať | Pohybovať (niečo) |
+| **Sich bewegen** | - | Pohybovať sa | Pohybovať sa (seba) |
+| **Gehen** | - | Chodiť ísť | Ísť |
+| **Laufen** | - | Behať chodiť | Behať |
+| **Rennen** | - | Behať | Behať rýchlo |
+| **Springen** | Spring | Skákať | Skákať |
+| **Fahren** | - | Viesť ísť | Viesť |
+| **Fliegen** | - | Lietať | Lietať |
+
+**Príklady chýb:**
+- ❌ "Ich will springen" (znamená skákať, nie pohybovať sa rýchlo)
+- ✅ "Ich will rennen" = "Chcem behať"
+- ❌ "Der Laden bewegt" (obchod sa nepohybuje)
+- ✅ "Der Laden ist geöffnet" = "Obchod je otvorený"
+
+## Falošní priatelia v čase
+
+### Časové pasci
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Stunde** | - | Hodina | Hodina |
+| **Uhr** | - | Hodina/hodiny | Hodina/hodiny |
+| **Zeit** | - | Čas | Čas |
+| **Mal** | - | Raz | Raz |
+| **Manchmal** | - | Niekedy | Niekedy |
+| **Jetzt** | - | Teraz | Teraz |
+| **Später** | Later | Neskôr | Neskôr |
+| **Bald** | Bald | Čoskoro | Čoskoro |
+| **Vorher** | Before | Predtým | Predtým |
+| **Nachher** | After | Potom | Potom |
+
+**Príklady chýb:**
+- ❌ "Ich bin bald" (Budem čoskoro plešatý!)
+- ✅ "Ich bin bald fertig" = "Budem čoskoro hotový"
+- ❌ "Es ist Zeit zu gehen" (môže znieť ako "Je čas ísť")
+- ✅ "Es ist an der Zeit zu gehen" = "Je čas ísť"
+
+## Bežné slovesá falošní priatelia
+
+### Zmena slovesies
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Werden** | - | Stať sa/bude | Stať sa |
+| **Bekommen** | Become | Dostať | Dostať |
+| **Haben** | - | Mať | Mať |
+| **Sein** | - | Byť | Byť |
+| **Machen** | Make | Robiť/vytvoriť | Robiť |
+| **Tun** | - | Robiť | Robiť |
+| **Wollen** | - | Chcieť | Chcieť |
+| **Möchten** | - | Chcel by | Chcel by |
+| **Können** | - | Vedieť/môcť | Môcť |
+| **Müssen** | Must | Musieť | Musieť |
+
+**Príklady chýb:**
+- ❌ "Ich bekomme alt" (Dostávam starý)
+- ✅ "Ich werde alt" = "Starne sa"
+- ❌ "Ich will das machen" (príliš priame)
+- ✅ "Ich möchte das machen" = "Chcel by som to urobiť"
+
+## Popisné prídavné mená falošní priatelia
+
+### Zmena prídavných mien
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Nett** | Net | Milý | Milý/príjemný |
+| **Hübsch** | - | Krásny | Krásny/milý |
+| **Schön** | - | Krásny | Krásny |
+| **Gut** | Good | Dobrý | Dobrý |
+| **Schlecht** | - | Zlý | Zlý |
+| **Alt** | Old | Starý | Starý |
+| **Jung** | Young | Mladý | Mladý |
+| **Groß** | Gross | Veľký/vysoký | Veľký |
+| **Klein** | - | Malý | Malý |
+| **Dünn** | - | Tenký | Tenký |
+| **Dick** | Dick | Tučný | Tučný |
+
+**Príklady chýb:**
+- ❌ "Du bist ein Net" (nesprávne)
+- ✅ "Du bist nett" = "Si milý"
+- ❌ "Du bist dick" (si tučný/člen!)
+- ✅ "Du bist kräftig" = "Si statný"
+
+## Falošní priatelia v bežných výrazoch
+
+### Chyby vo výrazoch
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Tschüss** | - | Čau | Dovidenia (casual) |
+| **Hallo** | Hello | Ahoj | Ahoj |
+| **Danke** | - | Ďakujem | Ďakujem |
+| **Bitte** | - | Prosím/prosím | Prosím |
+| **Ja** | Yes | Áno | Áno |
+| **Nein** | Nine (nie!) | Nie | Nie |
+| **Vielleicht** | - | Možno | Možno |
+| **Sicher** | Secure | Istý/samozrejme | Istý |
+| **Klar** | Clear | Jasný/samozrejme | Jasný |
+
+**Príklady chýb:**
+- ❌ "Nein!" (nie "Nine"!)
+- ✅ "Nein, danke" = "Nie, ďakujem"
+- ❌ "Es ist sicher" (Je to bezpečné)
+- ✅ "Ich bin sicher" = "Som istý"
+
+## Profesionálni a akademickí falošní priatelia
+
+### Akademické pasci
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Studium** | Study | Univerzitné štúdium | Univerzita |
+| **Lernen** | Learn | Učiť sa | Učiť sa |
+| **Unterricht** | - | Hodina/trieda | Hodina |
+| **Schule** | School | Škola | Škola |
+| **Universität** | University | Univerzita | Univerzita |
+| **Prüfung** | - | Skúška | Skúška |
+| **Note** | Note | Známka | Známka |
+| **Semester** | Semester | Semester | Semester |
+| **Professor** | Professor | Profesor | Profesor |
+| **Student** | Student | Študent | Študent |
+
+**Príklady chýb:**
+- ❌ "Ich lerne Medizin" (príliš jednoduché)
+- ✅ "Ich studiere Medizin" = "Študujem medicínu (na univerzite)"
+- ❌ "Ich habe eine gute Note" (Mám dobrú poznámku)
+- ✅ "Ich habe eine gute Note bekommen" = "Dostal som dobrú známku"
+
+## Technologickí a moderní falošní priatelia
+
+### Technologické pasci
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Handy** | Handy | Mobilný telefón | Mobilný telefón |
+| **Computer** | Computer | Počítač | Počítač |
+| **Maus** | Mouse | Myš | Myš |
+| **Bildschirm** | - | Obrazovka | Obrazovka |
+| **Tastatur** | - | Klávesnica | Klávesnica |
+| **Drucker** | - | Tlačiareň | Tlačiareň |
+| **Internet** | Internet | Internet | Internet |
+| **Online** | Online | Online | Online |
+| **Downloaden** | Download | Sťahovať | Sťahovať |
+| **Streamen** | Stream | Streamovať | Streamovať |
+
+**Príklady chýb:**
+- ❌ "Ist dein Handy handy?" (Je tvoj mobil pohodlný?)
+- ✅ "Hast du dein Handy dabei?" = "Máš pri sebe mobil?"
+
+## Regionálni a kultúrni falošní priatelia
+
+### Špecifické nemecké slová
+
+| Nemecké | Vyzerá ako | Skutočný význam | Anglický ekvivalent |
+|----------|-----------|-----------------|-------------------|
+| **Fahrkarte** | - | Listok | Listok |
+| **Fahrstuhl** | - | Výťah | Výťah |
+| **Fahrrad** | - | Bicykel | Bicykel |
+| **Auto** | Auto | Auto | Auto |
+| **Bus** | Bus | Autobus | Autobus |
+| **Zug** | - | Vlak | Vlak |
+| **U-Bahn** | - | Metro | Metro |
+| **S-Bahn** | - | S-vlak | Mestská železnica |
+| **Flughafen** | - | Letisko | Letisko |
+| **Bahnhof** | - | Stanica | Stanica |
+
+**Príklady chýb:**
+- ❌ "Ich nehme den Auto" (nesprávny člen)
+- ✅ "Ich nehme das Auto" = "Vezmem auto"
+- ❌ "Wo ist der Zug?" (správne)
+- ✅ "Wann kommt der Zug?" = "Kedy príde vlak?"
+
+## Rýchla referencia
+
+### Top 15 najnebezpečnejších falošných priateľov
+
+| # | Nemecké | Vyzerá ako | Skutočný význam | Správny nemecký |
+|---|----------|-----------|-----------------|-----------------|
+| 1 | **Gift** | Gift | Jed | Geschenk |
+| 2 | **Bekommen** | Become | Dostať | Werden |
+| 3 | **Wer** | Who | Kto (človek) | Wer/Was |
+| 4 | **Menu** | Menu | Pevné jedlo | Speisekarte |
+| 5 | **Rezept** | Receipt | Recept | Quittung |
+| 6 | **Kellner** | - | Čašník | Čašník |
+| 7 | **Krank** | Crank | Chorý | Chorý |
+| 8 | **Arzt** | - | Lekár | Lekár |
+| 9 | **Springen** | Spring | Skákať | Skákať |
+| 10 | **Bald** | Bald | Čoskoro | Plešatý |
+| 11 | **Nein** | Nine | Nie | Deväť |
+| 12 | **Handy** | Handy | Mobilný telefón | Mobilný telefón |
+| 13 | **Studium** | Study | Univerzitné štúdium | Štúdium |
+| 14 | **Lernen** | Learn | Učiť sa | Učiť sa |
+| 15 | **Note** | Note | Známka | Známka/poznámka |
+
+## Ako sa vyhnúť falošným priateľom
+
+### Stratégie predchádzania
+
+✅ **Rob toto:**
+- Uč sa slová v kontexte
+- Používaj nemecko-nemecký slovník
+- Cvič s rodákmi
+- Venuj pozornosť členom
+- Používaj kartičky s vetami
+- Pozrite nemecké médiá
+- Čítajte nemecké texty
+
+❌ **Vyhnúť sa tomuto:**
+- Predpokladať podobné = rovnaké významy
+- Prekladať slovo za slovom
+- Učiť sa bez kontextu
+- Ignorovať gramatiku
+- Hádať podľa vzhľadu
+
+### Mnemotechnické pomôcky
+
+**Pre Gift/Geschenk:**
+- Premýšľaj: *Gift* ti dá jed, *Geschenk* je dar
+
+**Pre Bekommen/Werden:**
+- *Bekommen* = ty *dostávaš* niečo
+- *Werden* = ty *staneš sa* niečím
+
+**Pre Springen:**
+- *Springen* ťa prinúti *skočiť* ako pružina
+
+**Pre Handy:**
+- *Handy* je v tvojej *ruke*, nie nutne *pohodlný*
+
+## Praktické príklady
+
+### Oprav chyby
+
+**Cvičenie 1:**
+- ❌ "Ich bekomme alt"
+- ✅ "Ich werde alt" = Starne sa
+
+**Cvičenie 2:**
+- ❌ "Kann ich das Rezept haben?"
+- ✅ "Kann ich die Quittung haben?" = Môžem dostať potvrdenku?
+
+**Cvičenie 3:**
+- ❌ "Ich bin ein Krank"
+- ✅ "Ich bin krank" = Som chorý
+
+**Cvičenie 4:**
+- ❌ "Ich habe ein Gift für dich"
+- ✅ "Ich habe ein Geschenk für dich" = Máň pre teba dar
+
+## Reálne scenáre
+
+### Scenáre v reštaurácii
+
+**Moment falošného priateľa:**
+- ❌ "Ich möchte das Menü" (môžeš dostať plnohodnotný 3-chodový obed!)
+- ✅ "Kann ich die Speisekarte sehen?" = "Môžem vidieť menu?"
+
+**Platenie účtu:**
+- ❌ "Ich brauche ein Rezept" (prosím recept)
+- ✅ "Ich brauche eine Quittung" = "Potrebujem potvrdenku"
+
+### Návšteva u lekára
+
+**Popis príznakov:**
+- ❌ "Ich bin ein Krank" (Som choroba!)
+- ✅ "Ich bin krank" = "Som chorý"
+
+**Prosba o pomoc:**
+- ❌ "Ich brauche einen Crank" (neexistuje)
+- ✅ "Ich brauche einen Arzt" = "Potrebujem lekára"
 
 ## Záver
 
-Falošní priatelia sú podvodní, ale ovládnuteľní:
+Nemeckí falošní priatelia jazyka sú všade, ale s týmto sprievodcom si teraz vybavený vyhnúť najbežnejším chybám:
 
-1. **Buďte ostražití** voči známym slovám
-2. **Vždy overujte** pred použitím
-3. **Učte sa v kontexte** s vetami
-4. **Robte chyby** — sú zábavné a zapamätateľné!
-5. **Cvičte** s rodilými hovoriacimi
-6. **Používajte mnemotechniku** pre najhorších páchateľov
-7. **Pokračujte** — falošní priatelia sa časom stanú skutočnými priateľmi!
+**Pamätaj si:**
+- 🎯 **Kontext je kľúč** — Slová menia význam s kontextom
+- 📚 **Uč sa systematicky** — Nespoliehaj sa na vzhľad
+- 😅 **Chyby sa stávajú** — Aj rodáci robia chyby
+- 🧠 **Mnemotechnika pomáha** — Vytváraj asociácie, ktoré fungujú
+- 🔄 **Cvič pravidelne** — Používaj falošných priateľov kým nebudú známi
 
-**Profi tip:** Vytvorte si vlastný "čierny zoznam falošných priateľov" zo slov, ktoré vás oklamali. Prezerajte si ho týždenne, kým sa správne významy nezakotvia.
+**Profesionálne tipy:**
+1. **Začni s najnebezpečnejšími** — Gift, bekommen, Menu
+2. **Používaj mnemotechniku** — Vytváraj pamäťové pomôcky
+3. **Cvič s Nemcami** — Dostávaj okamžitú spätnú väzbu
+4. **Ved zoznam falošných priateľov** — Pridávaj nové, ktoré objavíš
+5. **Preskúmaj pred hovorením** — Rýchla mentálna kontrola
+6. **Smaj sa nad chybami** — Stanú sa skvelými príbemy neskôr!
 
-Pamätajte: Každý, kto sa učí jazyk, narazí na falošných priateľov. Kľúč je rozpoznať ich, smiať sa z chýb a pokračovať. Vaša nemčina bude odtiaľ bohatšia!
+**🎯 Teraz si pripravený vyhnúť sa nemeckým falošným priateľom jazyka ako profesionál!**
 
 ---
-*Pripravený ovládnuť nemeckú slovnú zásobu prostredníctvom interaktívneho precvičovania a vyhnúť sa trapasom s falošnými priateľmi? [Otvorte Das German Bot](https://t.me/dasgermanbot) — vaša prvá lekcia trvá 30 sekúnd.*
+
+**🔗 Súvisiace články:**
+- [Nemecký slang a kolokviálne výrazy](german-slang-colloquial.html)
+- [Nemecká výslovnosť](german-pronunciation.html)
+- [Nemecká slovná zásoba jedál](german-food-vocabulary.html)
+
+**🚀 Pripravený ovládnuť skutočnú nemčinu?** Dozvi sa viac s Das German Bot na Telegram — [t.me/dasgermanbot](https://t.me/dasgermanbot)

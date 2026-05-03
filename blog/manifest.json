@@ -2643,5 +2643,35 @@
       "title": "Nemecký slang a kolokviálne výrazy: Hovor ako skutočný Nemec",
       "description": "Chceš znieť ako skutočný Nemec? Ovládaj nemecký slang a kolokviálne výrazy! Nauč sa štýlové nemecké frázy, uličnú slovnú zásobu, každodenné výrazy."
     }
+  },
+  {
+    "slug": "german-false-friends",
+    "date": "2026-05-03",
+    "tags": [
+      "vocabulary",
+      "beginners",
+      "intermediate",
+      "mistakes",
+      "false-friends",
+      "confusing-words",
+      "tips",
+      "learning"
+    ],
+    "en": {
+      "title": "German False Friends and Common Mistakes: Don't Get Fooled! Complete Guide",
+      "description": "Don't embarrass yourself! Learn German false friends and common mistakes that trick English speakers."
+    },
+    "ru": {
+      "title": "Немецкие ложные друзья языка и распространенные ошибки: Не дай себя обмануть!",
+      "description": "Не смущай себя! Изучай немецкие ложные друзья языка и распространенные ошибки."
+    },
+    "uk": {
+      "title": "Німецькі хибні друзі мови та поширені помилки: Не дай себе обдурити!",
+      "description": "Не сором себя! Вивчай німецькі хибні друзі мови та поширені помилки."
+    },
+    "sk": {
+      "title": "Nemecké falošní priatelia jazyka a bežné chyby: Nedaj sa oblieť!",
+      "description": "Nezahanbi sa! Nauč sa nemecké falošné priatelia jazyka a bežné chyby."
+    }
   }
 ]
