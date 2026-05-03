@@ -2551,5 +2551,37 @@
         "description": "Ovládi nemeckú bankovú slovnú zásobu! Nauč sa všetky nemecké peniažne termíny, bankové frázy, slovnú zásobu bankomatov, finančné výrazy a dôležité bankové slová. Od Geld po Konto, od Überweisung po Geldautomat — kompletný sprievodca s príkladmi, dialógmi a tipmi na správu financií v nemecky hovoriacich krajinách."
       }
     }
+  },
+  {
+    "slug": "german-beer-drinking",
+    "date": "2026-05-03",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "beginners",
+      "intermediate",
+      "social",
+      "beer",
+      "alcohol",
+      "lifestyle"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Beer and Drinking Vocabulary: Complete Guide to Beer Culture, Bar Phrases, and Alcohol Terms",
+        "description": "Prost! Master German beer and drinking vocabulary! Learn all German beer types, bar phrases, alcohol vocabulary, drinking expressions, and cultural tips. From Helles to Weizen, from Prost! to Ich hab Durst — complete guide with examples, dialogues, and insights into German beer culture."
+      },
+      "ru": {
+        "title": "Немецкая пивная лексика и культура пития: Полный гайд по пиву, барным фразам и алкогольным терминам",
+        "description": "Prost! Овладей немецкой пивной лексикой! Изучи все типы немецкого пива, барные фразы, алкогольную лексику, выражения для пития и культурные советы. От Helles до Weizen, от Prost! до Ich hab Durst — полный гайд с примерами, диалогами и пониманием немецкой пивной культуры."
+      },
+      "uk": {
+        "title": "Німецька пивна лексика та культура пиття: Повний гайд по пиву, барним фразам та алкогольним термінам",
+        "description": "Prost! Оволодій німецькою пивною лексикою! Вивчи всі типи німецького пива, барні фрази, алкогольну лексику, вирази для пиття та культурні поради. Від Helles до Weizen, від Prost! до Ich hab Durst — повний гайд з прикладами, діалогами та розумінням німецької пивної культури."
+      },
+      "sk": {
+        "title": "Nemecká pivná slovná zásoba a kultúra pitia: Kompletný sprievodca pívom, barovými frázami a alkoholickými termínmi",
+        "description": "Prost! Ovládi nemeckú pivnú slovnú zásobu! Nauč sa všetky typy nemeckého piva, barové frázy, alkoholickú slovnú zásobu, pitné výrazy a kultúrne tipy. Od Helles po Weizen, od Prost! po Ich hab Durst — kompletný sprievodca s príkladmi, dialógmi a prehľadom do nemeckej pivnej kultúry."
+      }
+    }
   }
 ]
