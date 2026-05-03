@@ -2613,5 +2613,35 @@
       "title": "Nemecká vianočná slovní zásoba: Kompletný sprievodca Vianocami, Adventom a zimnými tradíciami",
       "description": "Frohe Weihnachten! Ovládajte nemeckú vianočnú slovnú zásobu! Naučte sa tradície nemeckého Adventu a slovní zásobu vianočných trhov."
     }
+  },
+  {
+    "slug": "german-slang-colloquial",
+    "date": "2026-05-03",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "intermediate",
+      "advanced",
+      "slang",
+      "colloquial",
+      "expressions",
+      "real-german"
+    ],
+    "en": {
+      "title": "German Slang and Colloquial Expressions: Speak Like a Native German",
+      "description": "Want to sound like a real German? Master German slang and colloquial expressions! Learn cool German phrases, street vocabulary, everyday expressions Germans actually use."
+    },
+    "ru": {
+      "title": "Немецкий сленг и разговорные выражения: Говори как настоящий немец",
+      "description": "Хочешь звучать как настоящий немец? Овладей немецким сленгом и разговорными выражениями! Изучай крутые немецкие фразы, уличную лексику, повседневные выражения."
+    },
+    "uk": {
+      "title": "Німецький сленг і розмовні вирази: Говори як справжній німець",
+      "description": "Хочеш звучати як справжній німець? Оволодій німецьким сленгом і розмовними виразами! Вивчай круті німецькі фрази, вуличну лексику, повсякденні вирази."
+    },
+    "sk": {
+      "title": "Nemecký slang a kolokviálne výrazy: Hovor ako skutočný Nemec",
+      "description": "Chceš znieť ako skutočný Nemec? Ovládaj nemecký slang a kolokviálne výrazy! Nauč sa štýlové nemecké frázy, uličnú slovnú zásobu, každodenné výrazy."
+    }
   }
 ]
