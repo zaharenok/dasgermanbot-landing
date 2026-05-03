@@ -2703,5 +2703,36 @@
       "title": "Nemecké idiómy, príslovia a porekadenia: Hovor ako rodák s 50+ výrazmi",
       "description": "Chceš znieť ako rodený Nemec? Ovládaj nemecké idiómy, príslovia a porekadenia! Nauč sa farebné nemecké výrazy."
     }
+  },
+  {
+    "slug": "german-abbreviations",
+    "date": "2026-05-03",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "beginners",
+      "intermediate",
+      "abbreviations",
+      "acronyms",
+      "texting",
+      "internet",
+      "modern"
+    ],
+    "en": {
+      "title": "German Abbreviations and Acronyms: Master German Shortcuts Like a Native",
+      "description": "Germans love abbreviations! Master German abbreviations, acronyms, and short forms. From z.B. to usw., from AG to GmbH — complete guide to German shorthand in texting, social media, and daily life. Understand German text speak and sound like a local!"
+    },
+    "ru": {
+      "title": "Немецкие сокращения и аббревиатуры: Владей немецкими сокращениями как носитель",
+      "description": "Немцы обожают сокращения! Овладей немецкими сокращениями, аббревиатурами и краткими формами. От z.B. до usw., от AG до GmbH — полный指南 по немецким сокращениям в SMS, соцсетях и повседневной жизни."
+    },
+    "uk": {
+      "title": "Німецькі скорочення та абревіатури: Володій німецькими скороченнями як носій",
+      "description": "Німці обожнюють скорочення! Оволодій німецькими скороченнями, абревіатурами та короткими формами. Від z.B. до usw., від AG до GmbH — повний гід по німецьким скороченням в SMS, соцмережах та повсякденному житті."
+    },
+    "sk": {
+      "title": "Nemecké skratky a akronymy: Ovládni nemecké skratky ako rodák",
+      "description": "Nemci milujú skratky! Ovládni nemecké skratky, akronymy a krátke formy. Od z.B. až po usw., od AG po GmbH — kompletný sprievodca nemeckými skratkami v SMS, na sociálnych sieťach a v každodennom živote."
+    }
   }
 ]
