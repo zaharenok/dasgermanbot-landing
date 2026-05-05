@@ -2820,5 +2820,29 @@
         "description": "Prestaň prekladať v hlave. 7 praktických techník na myslenie po nemecky — od pomenovania predmetov po vnútorný monológ v nemčine."
       }
     }
+  },
+  {
+    "slug": "german-public-transport-phrases",
+    "date": "2026-05-05",
+    "image": "",
+    "tags": ["phrases", "travel", "transport"],
+    "langs": {
+      "en": {
+        "title": "Surviving Deutsche Bahn: German Phrases for Public Transport",
+        "description": "Every phrase you need for German trains, buses and U-Bahn — buying tickets, asking for directions, understanding announcements, and dealing with delays."
+      },
+      "ru": {
+        "title": "Выживание в Deutsche Bahn: немецкие фразы для общественного транспорта",
+        "description": "Все фразы для немецких поездов, автобусов и U-Bahn — покупка билетов, направления, объявления и задержки."
+      },
+      "uk": {
+        "title": "Виживання в Deutsche Bahn: німецькі фрази для громадського транспорту",
+        "description": "Усі фрази для німецьких потягів, автобусів та U-Bahn — купівля квитків, напрямки, оголошення та затримки."
+      },
+      "sk": {
+        "title": "Prežitie v Deutsche Bahn: Nemecké frázy pre verejnú dopravu",
+        "description": "Všetky frázy pre nemecké vlaky, autobusy a U-Bahn — kupovanie lístkov, orientácia, oznámenia a meškania."
+      }
+    }
   }
 ]
