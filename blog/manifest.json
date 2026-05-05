@@ -2796,5 +2796,29 @@
       "title": "Nemecký slovník pre randenia a romantické frázy: Flirtuj, zamiluj sa a rande v nemčine",
       "description": "Nauč sa nemecký slovník pre randenia a romantické frázy! Ovládni frázy na zoznámenie, komplimenty, termíny randenia a výrazy lásky. Od prvého flirtu po vážny vzťah — buď charizmatický v nemčine."
     }
+  },
+  {
+    "slug": "how-to-think-in-german",
+    "date": "2026-05-05",
+    "image": "",
+    "tags": ["tips", "method", "fluency"],
+    "langs": {
+      "en": {
+        "title": "How to Think in German: 7 Mental Shifts That Actually Work",
+        "description": "Stop translating in your head. Learn 7 practical techniques to start thinking in German — from naming objects around you to inner monologues in German."
+      },
+      "ru": {
+        "title": "Как начать думать на немецком: 7 приёмов, которые реально работают",
+        "description": "Хватит переводить в голове. 7 практических техник для мышления на немецком — от называния предметов до внутреннего монолога на немецком."
+      },
+      "uk": {
+        "title": "Як почати думати німецькою: 7 прийомів, які реально працюють",
+        "description": "Хватить перекладати в голові. 7 практичних технік для мислення німецькою — від називання предметів до внутрішнього монологу німецькою."
+      },
+      "sk": {
+        "title": "Ako začať myslieť po nemecky: 7 techník, ktoré naozaj fungujú",
+        "description": "Prestaň prekladať v hlave. 7 praktických techník na myslenie po nemecky — od pomenovania predmetov po vnútorný monológ v nemčine."
+      }
+    }
   }
 ]
