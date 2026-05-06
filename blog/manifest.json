@@ -2868,5 +2868,29 @@
         "description": "Skutočná hovorená nemčina, ktorú nenájdeš v žiadnej učebnici — od 'na' po 'oder' a 'halt'. Frázy, ktoré Nemci skutočne používajú denne."
       }
     }
+  },
+  {
+    "slug": "german-supermarket-survival",
+    "date": "2026-05-06",
+    "image": "",
+    "tags": ["phrases", "shopping", "culture"],
+    "langs": {
+      "en": {
+        "title": "German Supermarket Survival Guide: What Nobody Tells You About Einkaufen",
+        "description": "The unwritten rules of German supermarkets — Pfand deposits, cash-only registers, bagging your own groceries, and every phrase you need to survive Einkaufen."
+      },
+      "ru": {
+        "title": "Выживание в немецком супермаркете: о чём вам не расскажут",
+        "description": "Неписаные правила немецких супермаркетов — залог Pfand, только наличные, пакуй сам и все фразы для выживания."
+      },
+      "uk": {
+        "title": "Виживання в німецькому супермаркеті: про що вам не розкажуть",
+        "description": "Неписані правила німецьких супермаркетів — застава Pfand, тільки готівка, пакуй сам і всі фрази для виживання."
+      },
+      "sk": {
+        "title": "Prežitie v nemeckom supermarkete: Čo ti nikto nepovie",
+        "description": "Nepísané pravidlá nemeckých supermarketov — Pfand záloha, len hotovosť, balenie vlastných vecí a frázy na prežitie."
+      }
+    }
   }
 ]
