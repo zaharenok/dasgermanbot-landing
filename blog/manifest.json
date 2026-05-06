@@ -2892,5 +2892,29 @@
         "description": "Nepísané pravidlá nemeckých supermarketov — Pfand záloha, len hotovosť, balenie vlastných vecí a frázy na prežitie."
       }
     }
+  },
+  {
+    "slug": "german-bureaucracy-survival",
+    "date": "2026-05-06",
+    "image": "",
+    "tags": ["phrases", "bureaucracy", "living"],
+    "langs": {
+      "en": {
+        "title": "German Bureaucracy Survival Guide: Phrases for Behörde, Anmeldung and Beyond",
+        "description": "Every phrase you need to survive German bureaucracy — Anmeldung, Ausländerbehörde, letters from the Finanzamt. Real phrases, real situations."
+      },
+      "ru": {
+        "title": "Выживание в немецкой бюрократии: фразы для Behörde, Anmeldung и не только",
+        "description": "Все фразы для выживания в немецкой бюрократии — Anmeldung, Ausländerbehörde, письма из Finanzamt. Реальные фразы и ситуации."
+      },
+      "uk": {
+        "title": "Виживання в німецькій бюрократії: фрази для Behörde, Anmeldung та іншого",
+        "description": "Усі фрази для виживання в німецькій бюрократії — Anmeldung, Ausländerbehörde, листи з Finanzamt. Реальні фрази і ситуації."
+      },
+      "sk": {
+        "title": "Prežitie v nemeckej byrokracii: Frázy pre Behörde, Anmeldung a ďalej",
+        "description": "Všetky frázy na prežitie nemeckej byrokracie — Anmeldung, Ausländerbehörde, listy z Finanzamt. Skutočné frázy a situácie."
+      }
+    }
   }
 ]
