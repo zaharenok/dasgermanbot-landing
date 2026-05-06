@@ -2916,5 +2916,29 @@
         "description": "Všetky frázy na prežitie nemeckej byrokracie — Anmeldung, Ausländerbehörde, listy z Finanzamt. Skutočné frázy a situácie."
       }
     }
+  },
+  {
+    "slug": "german-doctor-phrases",
+    "date": "2026-05-06",
+    "image": "",
+    "tags": ["phrases", "health", "doctor"],
+    "langs": {
+      "en": {
+        "title": "German at the Doctor: Survival Phrases for Arzt and Apotheke",
+        "description": "Sick in Germany and don't know what to say? Every phrase for the doctor, pharmacy, emergency number and health insurance — from booking to prescription."
+      },
+      "ru": {
+        "title": "У врача в Германии: фразы для выживания в Arzt и Apotheke",
+        "description": "Заболел в Германии и не знаешь, что сказать? Все фразы для врача, аптеки, скорой помощи и страховки."
+      },
+      "uk": {
+        "title": "У лікаря в Німеччині: фрази для виживання в Arzt та Apotheke",
+        "description": "Захворів у Німеччині і не знаєш, що сказати? Усі фрази для лікаря, аптеки, швидкої допомоги та страховки."
+      },
+      "sk": {
+        "title": "U lekára v Nemecku: Frázy na prežitie v Arzt a Apotheke",
+        "description": "Chorý v Nemecku a nevieš čo povedať? Všetky frázy pre lekára, lekáreň, záchrannú službu a poistenie."
+      }
+    }
   }
 ]
