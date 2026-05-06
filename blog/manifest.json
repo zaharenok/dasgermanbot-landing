@@ -2844,5 +2844,29 @@
         "description": "Všetky frázy pre nemecké vlaky, autobusy a U-Bahn — kupovanie lístkov, orientácia, oznámenia a meškania."
       }
     }
+  },
+  {
+    "slug": "german-phrases-textbooks-dont-teach",
+    "date": "2026-05-06",
+    "image": "",
+    "tags": ["phrases", "speaking", "real-life"],
+    "langs": {
+      "en": {
+        "title": "German Phrases Your Textbook Never Taught You (But Germans Say Daily)",
+        "description": "Real spoken German you won't find in any textbook — from 'na' to 'oder' to 'halt'. Learn the phrases Germans actually use in everyday conversation."
+      },
+      "ru": {
+        "title": "Немецкие фразы, которым не учат в учебнике (но немцы говорят их каждый день)",
+        "description": "Настоящий разговорный немецкий, которого нет ни в одном учебнике — от 'na' до 'oder' и 'halt'. Фразы, которые немцы реально используют каждый день."
+      },
+      "uk": {
+        "title": "Німецькі фрази, яких не вчать у підручнику (але німці кажуть їх щодня)",
+        "description": "Справжня розмовна німецька, якої немає в жодному підручнику — від 'na' до 'oder' і 'halt'. Фрази, які німці реально використовують щодня."
+      },
+      "sk": {
+        "title": "Nemecké frázy, ktoré ťa neučia v učebnici (ale Nemci hovoria denne)",
+        "description": "Skutočná hovorená nemčina, ktorú nenájdeš v žiadnej učebnici — od 'na' po 'oder' a 'halt'. Frázy, ktoré Nemci skutočne používajú denne."
+      }
+    }
   }
 ]
