@@ -3012,5 +3012,29 @@
         "description": "Prestaň hádať, ako začať a skončiť nemecký e-mail. Hotové šablóny pre prihlášky, prenájom, lekára a obchodnú korešpondenciu."
       }
     }
+  },
+  {
+    "slug": "german-apartment-hunting",
+    "date": "2026-05-07",
+    "image": "",
+    "tags": ["phrases", "apartment", "renting"],
+    "langs": {
+      "en": {
+        "title": "German Apartment Hunting: How to Find a Wohnung Without Losing Your Mind",
+        "description": "The brutal reality of Wohnungssuche — reading listings, Kaltmiete vs Warmmiete, writing a Bewerbung to landlords, and every phrase to survive the German rental market."
+      },
+      "ru": {
+        "title": "Поиск квартиры в Германии: как найти Wohnung и не сойти с ума",
+        "description": "Жёсткая реальность Wohnungssuche — как читать объявления, Kaltmiete vs Warmmiete, заявка арендодателю и все фразы для рынка аренды."
+      },
+      "uk": {
+        "title": "Пошук квартири в Німеччині: як знайти Wohnung і не збожеволіти",
+        "description": "Сувора реальність Wohnungssuche — як читати оголошення, Kaltmiete vs Warmmiete, заявка орендодавцю та всі фрази для ринку оренди."
+      },
+      "sk": {
+        "title": "Hľadanie bytu v Nemecku: Ako nájsť Wohnung a nezošalieť",
+        "description": "Krutá realita Wohnungssuche — čítanie inzerátov, Kaltmiete vs Warmmiete, prihláška prenajímateľovi a frázy na prežitie na prenájomnom trhu."
+      }
+    }
   }
 ]
