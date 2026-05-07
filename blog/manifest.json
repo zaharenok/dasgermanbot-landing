@@ -2940,5 +2940,29 @@
         "description": "Chorý v Nemecku a nevieš čo povedať? Všetky frázy pre lekára, lekáreň, záchrannú službu a poistenie."
       }
     }
+  },
+  {
+    "slug": "german-netflix-shows-learn-language",
+    "date": "2026-05-07",
+    "image": "",
+    "tags": ["tips", "Netflix", "immersion"],
+    "langs": {
+      "en": {
+        "title": "7 Netflix Shows That Will Teach You German Better Than Any Textbook",
+        "description": "Binge-watch your way to fluency. Seven German Netflix shows ranked by difficulty — from beginner to native-level — with what you'll learn from each."
+      },
+      "ru": {
+        "title": "7 сериалов Netflix, которые научат тебя немецкому лучше любого учебника",
+        "description": "Смотри сериалы и учи язык. Семь немецких сериалов на Netflix по уровню сложности с объяснением, что выучишь из каждого."
+      },
+      "uk": {
+        "title": "7 серіалів Netflix, які навчать тебе німецькій краще за будь-який підручник",
+        "description": "Дивись серіали й вивчай мову. Сім німецьких серіалів на Netflix за рівнем складності з поясненням, що вивчиш."
+      },
+      "sk": {
+        "title": "7 Netflix seriálov, ktoré ťa naučia nemčinu lepšie než učebnica",
+        "description": "Pozeraj seriály a uč sa jazyk. Sedem nemeckých seriálov na Netflix podľa náročnosti s vysvetlením, čo sa naučíš."
+      }
+    }
   }
 ]
