@@ -2988,5 +2988,29 @@
         "description": "Všetko na šoférovanie v Nemecku — mýty o Autobahne, obmedzenia rýchlosti, slovná zásoba značiek a frázy na požičanie auta."
       }
     }
+  },
+  {
+    "slug": "german-formal-email-templates",
+    "date": "2026-05-07",
+    "image": "",
+    "tags": ["email", "business", "templates"],
+    "langs": {
+      "en": {
+        "title": "How to Write a Formal Email in German: Copy-Paste Templates That Work",
+        "description": "Stop guessing how to start and end German emails. Complete templates for job applications, landlord inquiries, doctor appointments and business communication."
+      },
+      "ru": {
+        "title": "Как написать официальное письмо на немецком: шаблоны для копирования",
+        "description": "Хватит гадать, как начать и закончить немецкое письмо. Готовые шаблоны для вакансий, аренды, записи к врачу и деловой переписки."
+      },
+      "uk": {
+        "title": "Як написати офіційного листа німецькою: шаблони для копіювання",
+        "description": "Хватить гадати, як почати і закінчити німецький лист. Готові шаблони для вакансій, оренди, запису до лікаря та ділового листування."
+      },
+      "sk": {
+        "title": "Ako napísať formálny e-mail v nemčine: Šablóny na kopírovanie",
+        "description": "Prestaň hádať, ako začať a skončiť nemecký e-mail. Hotové šablóny pre prihlášky, prenájom, lekára a obchodnú korešpondenciu."
+      }
+    }
   }
 ]
