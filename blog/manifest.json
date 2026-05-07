@@ -2964,5 +2964,29 @@
         "description": "Pozeraj seriály a uč sa jazyk. Sedem nemeckých seriálov na Netflix podľa náročnosti s vysvetlením, čo sa naučíš."
       }
     }
+  },
+  {
+    "slug": "german-driving-autobahn",
+    "date": "2026-05-07",
+    "image": "",
+    "tags": ["phrases", "driving", "Autobahn"],
+    "langs": {
+      "en": {
+        "title": "Autobahn Survival Guide: German Driving Phrases, Road Signs and Unwritten Rules",
+        "description": "Everything you need to drive in Germany — Autobahn myths, speed limits, road sign vocabulary, what to say at a traffic stop, and phrases for car rental or breakdown."
+      },
+      "ru": {
+        "title": "Выживание на автобане: немецкие фразы для водителя, дорожные знаки и негласные правила",
+        "description": "Всё для вождения в Германии — мифы об автобане, ограничения скорости, словарь дорожных знаков и фразы для аренды машины."
+      },
+      "uk": {
+        "title": "Виживання на автобані: німецькі фрази для водія, дорожні знаки та неписані правила",
+        "description": "Усе для водіння в Німеччині — міфи про автобан, обмеження швидкості, словник знаків і фрази для оренди авто."
+      },
+      "sk": {
+        "title": "Prežitie na Autobahne: Nemecké frázy pre vodičov, dopravné značky a nepísané pravidlá",
+        "description": "Všetko na šoférovanie v Nemecku — mýty o Autobahne, obmedzenia rýchlosti, slovná zásoba značiek a frázy na požičanie auta."
+      }
+    }
   }
 ]
