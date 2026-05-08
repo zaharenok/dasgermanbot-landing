@@ -3036,5 +3036,29 @@
         "description": "Krutá realita Wohnungssuche — čítanie inzerátov, Kaltmiete vs Warmmiete, prihláška prenajímateľovi a frázy na prežitie na prenájomnom trhu."
       }
     }
+  },
+  {
+    "slug": "german-party-nightlife-phrases",
+    "date": "2026-05-08",
+    "image": "",
+    "tags": ["phrases", "party", "nightlife"],
+    "langs": {
+      "en": {
+        "title": "German Party and Nightlife Phrases: Surviving Berlin Clubs and Beyond",
+        "description": "Everything for a night out in Germany — ordering drinks, talking to people, understanding club bouncers, and phrases that get you past the door."
+      },
+      "ru": {
+        "title": "Немецкие фразы для вечеринок: выживание в клубах Берлина",
+        "description": "Всё для ночи в Германии — как заказать напитки, общаться с людьми, пройти фейс-контроль и фразы для вечеринок."
+      },
+      "uk": {
+        "title": "Німецькі фрази для вечірок: виживання в клубах Берліна",
+        "description": "Усе для ночі в Німеччині — як замовити напої, спілкуватися з людьми, пройти фейс-контроль і фрази для вечірок."
+      },
+      "sk": {
+        "title": "Nemecké frázy pre párty a nočný život: Prežitie v berlínskych kluboch",
+        "description": "Všetko pre noc v Nemecku — objednávanie nápojov, rozhovory s ľuďmi, kluboví vyhadzovači a frázy na párty."
+      }
+    }
   }
 ]
