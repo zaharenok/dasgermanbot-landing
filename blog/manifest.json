@@ -3084,5 +3084,29 @@
         "description": "Všetky frázy pre pracovný pohovor v Nemecku — sebaúvod, odpovede na časté otázky, múdre protiotrezy a formálna nemčina, na ktorej záleží."
       }
     }
+  },
+  {
+    "slug": "german-phone-call-phrases",
+    "date": "2026-05-08",
+    "image": "",
+    "tags": ["phrases", "phone", "calls", "communication"],
+    "langs": {
+      "en": {
+        "title": "German Phone Call Phrases: How to Survive Calling Anyone in Germany",
+        "description": "Every phrase for making and answering phone calls in German — greetings, leaving messages, making appointments, and the words that save you when you understand nothing."
+      },
+      "ru": {
+        "title": "Немецкие фразы для телефонных звонков: как выжить, когда звонишь в Германии",
+        "description": "Все фразы для звонков на немецком — как ответить, записаться на приём, оставить сообщение и что говорить, когда ничего не понял."
+      },
+      "uk": {
+        "title": "Німецькі фрази для телефонних дзвінків: як вижити, коли дзвониш у Німеччині",
+        "description": "Усі фрази для дзвінків німецькою — як відповісти, записатися на прийом, залишити повідомлення і що казати, коли нічого не зрозумів."
+      },
+      "sk": {
+        "title": "Nemecké frázy pre telefonovanie: Ako prežiť hovory v Nemecku",
+        "description": "Všetky frázy na telefonovanie po nemecky — ako zdvihnúť, dohodnúť termín, nechať správu a čo povedať, keď ničomu nerozumieš."
+      }
+    }
   }
 ]
