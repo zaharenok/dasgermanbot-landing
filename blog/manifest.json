@@ -3060,5 +3060,29 @@
         "description": "Všetko pre noc v Nemecku — objednávanie nápojov, rozhovory s ľuďmi, kluboví vyhadzovači a frázy na párty."
       }
     }
+  },
+  {
+    "slug": "german-job-interview-phrases",
+    "date": "2026-05-08",
+    "image": "",
+    "tags": ["phrases", "job", "interview", "career"],
+    "langs": {
+      "en": {
+        "title": "German Job Interview Phrases: How to Survive a Vorstellungsgespräch",
+        "description": "Every phrase you need for a job interview in Germany — introducing yourself, answering common questions, asking smart questions back, and the formal German that makes or breaks your Bewerbungsgespräch."
+      },
+      "ru": {
+        "title": "Немецкие фразы для собеседования: как survive Vorstellungsgespräch",
+        "description": "Все фразы для собеседования в Германии — самопрезентация, ответы на частые вопросы, умные встречные вопросы и формальный немецкий, от которого зависит твоя Bewerbung."
+      },
+      "uk": {
+        "title": "Німецькі фрази для співбесіди: як пережити Vorstellungsgespräch",
+        "description": "Усі фрази для співбесіди в Німеччині — самопрезентація, відповіді на часті запитання, влучні зустрічні питання та формальна німецька, від якої залежить твоя Bewerbung."
+      },
+      "sk": {
+        "title": "Nemecké frázy pre pohovor: Ako prežiť Vorstellungsgespräch",
+        "description": "Všetky frázy pre pracovný pohovor v Nemecku — sebaúvod, odpovede na časté otázky, múdre protiotrezy a formálna nemčina, na ktorej záleží."
+      }
+    }
   }
 ]
