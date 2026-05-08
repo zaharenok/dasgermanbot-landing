@@ -3132,5 +3132,29 @@
         "description": "Fahrt, Schmuck, Gift, Dick — neviné nemecké slová, pri ktorých anglofóni dusia smiech. Kompletný zoznam so skutočnými významami a príkladmi."
       }
     }
+  },
+  {
+    "slug": "german-grammar-rules-germans-break",
+    "date": "2026-05-08",
+    "image": "",
+    "tags": ["grammar", "mistakes", "culture", "native"],
+    "langs": {
+      "en": {
+        "title": "German Grammar Rules That Even Germans Break",
+        "description": "Germans mess up der/die/das, confuse dass and das, and say wegen dem instead of proper genitive. Here are the grammar rules native speakers break every day — and why you can stop worrying."
+      },
+      "ru": {
+        "title": "Правила немецкой грамматики, которые сами немцы нарушают",
+        "description": "Немцы путают der/die/das, пишут dass вместо das и говорят «wegen dem» вместо правильного генитива. Вот правила, которые носители языка ломают каждый день."
+      },
+      "uk": {
+        "title": "Правила німецької граматики, які самі німці порушують",
+        "description": "Німці плутають der/die/das, пишуть dass замість das і кажуть «wegen dem» замість правильного генітива. Ось правила, які носії мови ламають щодня."
+      },
+      "sk": {
+        "title": "Pravidlá nemeckej gramatiky, ktoré sami Nemci porušujú",
+        "description": "Nemci si mýlia der/die/das, píšu dass namiesto das a hovoria wegen dem namiesto správneho genitívu. Pravidlá, ktoré rodení rečníci lúpu každý deň."
+      }
+    }
   }
 ]
