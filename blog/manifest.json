@@ -3108,5 +3108,29 @@
         "description": "Všetky frázy na telefonovanie po nemecky — ako zdvihnúť, dohodnúť termín, nechať správu a čo povedať, keď ničomu nerozumieš."
       }
     }
+  },
+  {
+    "slug": "german-words-sound-wrong",
+    "date": "2026-05-08",
+    "image": "",
+    "tags": ["vocabulary", "funny", "culture", "words"],
+    "langs": {
+      "en": {
+        "title": "German Words That Sound Wrong in English (But Are Totally Innocent)",
+        "description": "Fahrt, Schmuck, Gift, Dick — innocent German words that make English speakers giggle. A complete list with real meanings, usage examples, and why you shouldn't be embarrassed to say them."
+      },
+      "ru": {
+        "title": "Немецкие слова, которые звучат «как-то не так» по-английски (но абсолютно нормальные)",
+        "description": "Fahrt, Schmuck, Gift, Dick — невинные немецкие слова, от которых англоговорящие давятся смехом. Полный список с настоящими значениями и примерами."
+      },
+      "uk": {
+        "title": "Німецькі слова, які звучать «якось не так» англійською (але абсолютно нормальні)",
+        "description": "Fahrt, Schmuck, Gift, Dick — невинні німецькі слова, від яких англомовні давляться сміхом. Повний список зі справжніми значеннями та прикладами."
+      },
+      "sk": {
+        "title": "Nemecké slová, ktoré znejú „divne" po anglicky (ale sú úplne neviné)",
+        "description": "Fahrt, Schmuck, Gift, Dick — neviné nemecké slová, pri ktorých anglofóni dusia smiech. Kompletný zoznam so skutočnými významami a príkladmi."
+      }
+    }
   }
 ]
