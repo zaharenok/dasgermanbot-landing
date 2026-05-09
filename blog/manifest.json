@@ -3204,5 +3204,29 @@
         "description": "Nemčina znie hrubo pre cudzincov — ale Nemci sú priateľskí, proste to nepočuješ. Nauč sa slová, intonáciu a frázy, ktoré ťa robia teplým, nie prísnym."
       }
     }
+  },
+  {
+    "slug": "german-make-friends",
+    "date": "2026-05-09",
+    "image": "",
+    "tags": ["culture", "friends", "social", "expat"],
+    "langs": {
+      "en": {
+        "title": "How to Make Friends in Germany: The Rules Nobody Tells You",
+        "description": "Making German friends is different from anywhere else. They don't do small talk, they mean it when they invite you, and friendship takes time — but lasts forever."
+      },
+      "ru": {
+        "title": "Как завести друзей в Германии: правила, о которых никто не рассказывает",
+        "description": "Немецкая дружба — это не как где-либо ещё. Никакого small talk, приглашения означают дело, а дружба занимает время — но длится вечно."
+      },
+      "uk": {
+        "title": "Як завести друзів у Німеччині: правила, про які ніхто не розповідає",
+        "description": "Німецька дружба — це не як десь ще. Ніякого small talk, запрошення означають справу, а дружба займає час — але триває вічно."
+      },
+      "sk": {
+        "title": "Ako si nájsť priateľov v Nemecku: Pravidlá, ktoré ti nikto nepovie",
+        "description": "Nemecké priateľstvo je iné než všade inde. Žiaden small talk, pozvánky myslia vážne a priateľstvo trvá — ale raz získané, trvá navždy."
+      }
+    }
   }
 ]
