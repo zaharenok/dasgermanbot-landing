@@ -3228,5 +3228,29 @@
         "description": "Nemecké priateľstvo je iné než všade inde. Žiaden small talk, pozvánky myslia vážne a priateľstvo trvá — ale raz získané, trvá navždy."
       }
     }
+  },
+  {
+    "slug": "german-tipping-guide",
+    "date": "2026-05-09",
+    "image": "",
+    "tags": ["money", "culture", "guide", "tipping"],
+    "langs": {
+      "en": {
+        "title": "How to Tip in Germany: The Trinkgeld Rules Nobody Explains",
+        "description": "Tipping in Germany is nothing like America. No 20%, no calculating percentages. Here's exactly how much to tip at restaurants, bars, taxis, hairdressers, and delivery — with real numbers."
+      },
+      "ru": {
+        "title": "Как давать чаевые в Германии: правила Trinkgeld, которые никто не объясняет",
+        "description": "Чаевые в Германии — не как в Америке. Никаких 20%, никаких процентов. Сколько давать в ресторане, баре, такси, парикмахерской и доставке — с точными цифрами."
+      },
+      "uk": {
+        "title": "Як залишати чайові в Німеччині: правила Trinkgeld, які ніхто не пояснює",
+        "description": "Чайові в Німеччині — не як в Америці. Жодних 20%, жодних відсотків. Скільки давати в ресторані, барі, таксі, перукарні та доставці — з точними цифрами."
+      },
+      "sk": {
+        "title": "Ako dávať prepitné v Nemecku: Pravidlá Trinkgeld, ktoré ti nikto nevysvetlí",
+        "description": "Prepitné v Nemecku nie je ako v Amerike. Žiadnych 20%, žiadne počítanie percent. Koľko dať v reštaurácii, bare, taxi, holičstve a doručovaní — s presnými číslami."
+      }
+    }
   }
 ]
