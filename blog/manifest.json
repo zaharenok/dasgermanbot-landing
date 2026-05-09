@@ -3156,5 +3156,29 @@
         "description": "Nemci si mýlia der/die/das, píšu dass namiesto das a hovoria wegen dem namiesto správneho genitívu. Pravidlá, ktoré rodení rečníci lúpu každý deň."
       }
     }
+  },
+  {
+    "slug": "german-complain-like-native",
+    "date": "2026-05-09",
+    "image": "",
+    "tags": ["phrases", "culture", "funny", "conversation"],
+    "langs": {
+      "en": {
+        "title": "How to Complain in German Like a Native: The Art of Meckern",
+        "description": "Germans are world champions at complaining. Learn every phrase to join in — from weather complaints to train delays, rude service, and the classic Das geht gar nicht."
+      },
+      "ru": {
+        "title": "Как жаловаться по-немецки как местный: искусство Meckern",
+        "description": "Немцы — чемпионы мира по жалобам. Учим все фразы — от погоды до опозданий поездов, хамского сервиса и классического «Das geht gar nicht»."
+      },
+      "uk": {
+        "title": "Як скаржитись німецькою як місцевий: мистецтво Meckern",
+        "description": "Німці — чемпіони світу зі скарг. Учимо всі фрази — від погоди до затримок потягів, хамського сервісу та класичного «Das geht gar nicht»."
+      },
+      "sk": {
+        "title": "Ako sa sťažovať po nemecky ako miestny: Umenie Meckern",
+        "description": "Nemci sú majstri sveta v sťažovaní. Nauč sa všetky frázy — od počasia po meškanie vlakov, od hrubého obsluhovania po klasické Das geht gar nicht."
+      }
+    }
   }
 ]
