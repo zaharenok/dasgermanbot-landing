@@ -3180,5 +3180,29 @@
         "description": "Nemci sú majstri sveta v sťažovaní. Nauč sa všetky frázy — od počasia po meškanie vlakov, od hrubého obsluhovania po klasické Das geht gar nicht."
       }
     }
+  },
+  {
+    "slug": "german-sound-friendly",
+    "date": "2026-05-09",
+    "image": "",
+    "tags": ["pronunciation", "culture", "tips", "speaking"],
+    "langs": {
+      "en": {
+        "title": "How to Sound Friendly in German (Even When It Sounds Angry)",
+        "description": "German sounds harsh to foreigners — but Germans are being friendly and you just can't hear it. Learn the words, tone tricks, and phrases that make you sound warm instead of strict."
+      },
+      "ru": {
+        "title": "Как звучать дружелюбно по-немецки (когда язык кажется злым)",
+        "description": "Немецкий звучит грубо для иностранцев — но немцы дружелюбны, просто ты этого не слышишь. Учим слова, интонации и фразы, которые делают тебя тёплым, а не строгим."
+      },
+      "uk": {
+        "title": "Як звучати дружньо німецькою (коли мова здається злою)",
+        "description": "Німецька звучить грубо для іноземців — але німці дружні, просто ти цього не чуєш. Учимо слова, інтонації та фрази, які роблять тебе теплим, а не суворим."
+      },
+      "sk": {
+        "title": "Ako znieť priateľsky po nemecky (keď jazyk znie nahnevané)",
+        "description": "Nemčina znie hrubo pre cudzincov — ale Nemci sú priateľskí, proste to nepočuješ. Nauč sa slová, intonáciu a frázy, ktoré ťa robia teplým, nie prísnym."
+      }
+    }
   }
 ]
