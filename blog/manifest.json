@@ -3324,5 +3324,29 @@
         "description": "Nemecké CV má prísne pravidlá — foto povinné, bez medzier, tabuľkový formát. Tu je ako napísať Lebenslauf, ktorý ti dá interview."
       }
     }
+  },
+  {
+    "slug": "german-recycling-trash-sorting",
+    "date": "2026-05-10",
+    "image": "",
+    "tags": ["culture", "recycling", "guide", "expat"],
+    "langs": {
+      "en": {
+        "title": "German Recycling Rules: How to Sort Your Trash Without Losing Your Mind",
+        "description": "Germany has the world's strictest recycling system. Yellow bins, blue bins, green bins, Pfand bottles — here's exactly what goes where and what will make your neighbors report you."
+      },
+      "ru": {
+        "title": "Немецкая сортировка мусора: как не сойти с ума и не стать врагом соседей",
+        "description": "У Германии строжайшая система переработки. Жёлтые баки, синие баки, зелёные баки, Pfand-бутылки — что куда и за что соседи тебя сдадут."
+      },
+      "uk": {
+        "title": "Німецьке сортування сміття: як не збожеволіти і не стати ворогом сусідів",
+        "description": "У Німеччині найсуворіша система переробки. Жовті баки, сині баки, зелені баки, Pfand-пляшки — що куди і за що сусіди тебе здадуть."
+      },
+      "sk": {
+        "title": "Nemecké triedenie odpadu: Ako neprísť o rozum a nesťažiť susedov",
+        "description": "Nemecko má najprísnejší recyklačný systém. Žlté kontajnery, modré kontajnery, zelené kontajnery, Pfand fľaše — čo kam patrí a za čo ťa susedia nahlásia."
+      }
+    }
   }
 ]
