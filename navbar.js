@@ -7,7 +7,7 @@
   var blogPath = isBlog ? './' : 'blog/';
 
   // Detect current language
-  var supported = ['en', 'uk', 'ru', 'sk'];
+  var supported = ['en', 'uk', 'ru', 'sk', 'tr', 'ro', 'fa', 'ar', 'es', 'uz'];
   function detectLang() {
     var browserLangs = navigator.languages || [navigator.language || navigator.userLanguage || 'en'];
     for (var i = 0; i < browserLangs.length; i++) {
@@ -17,14 +17,20 @@
     return 'en';
   }
   var currentLang = localStorage.getItem('lang') || detectLang();
-  var langLabels = { en: 'EN', uk: 'UA', ru: 'RU', sk: 'SK' };
+  var langLabels = { en: 'EN', uk: 'UA', ru: 'RU', sk: 'SK', tr: 'TR', ro: 'RO', fa: 'FA', ar: 'AR', es: 'ES', uz: 'UZ' };
 
   // Translation strings for navbar
   var navTexts = {
     en: { logo: 'Das German Bot', nav_home: 'Home', nav_blog: 'Blog', nav_cta: 'Open in Telegram' },
     uk: { logo: 'Das German Bot', nav_home: 'Головна', nav_blog: 'Блог', nav_cta: 'Відкрити в Telegram' },
     ru: { logo: 'Das German Bot', nav_home: 'Главная', nav_blog: 'Блог', nav_cta: 'Открыть в Telegram' },
-    sk: { logo: 'Das German Bot', nav_home: 'Domov', nav_blog: 'Blog', nav_cta: 'Otvoriť v Telegram' }
+    sk: { logo: 'Das German Bot', nav_home: 'Domov', nav_blog: 'Blog', nav_cta: 'Otvoriť v Telegram' },
+    tr: { logo: 'Das German Bot', nav_home: 'Ana Sayfa', nav_blog: 'Blog', nav_cta: "Telegram'da Aç" },
+    ro: { logo: 'Das German Bot', nav_home: 'Acasă', nav_blog: 'Blog', nav_cta: 'Deschide în Telegram' },
+    fa: { logo: 'Das German Bot', nav_home: 'صفحه اصلی', nav_blog: 'بلاگ', nav_cta: 'باز کردن در تلگرام' },
+    ar: { logo: 'Das German Bot', nav_home: 'الرئيسية', nav_blog: 'المدونة', nav_cta: 'افتح في تلجرام' },
+    es: { logo: 'Das German Bot', nav_home: 'Inicio', nav_blog: 'Blog', nav_cta: 'Abrir en Telegram' },
+    uz: { logo: 'Das German Bot', nav_home: 'Bosh sahifa', nav_blog: 'Blog', nav_cta: "Telegram'da ochish" }
   };
 
   // Build navbar HTML
@@ -57,6 +63,12 @@
           '<button data-lang="uk">Українська</button>' +
           '<button data-lang="ru">Русский</button>' +
           '<button data-lang="sk">Slovenčina</button>' +
+          '<button data-lang="tr">Türkçe</button>' +
+          '<button data-lang="ro">Română</button>' +
+          '<button data-lang="fa">فارسى</button>' +
+          '<button data-lang="ar">العربية</button>' +
+          '<button data-lang="es">Español</button>' +
+          '<button data-lang="uz">O\'zbekcha</button>' +
         '</div>' +
       '</div>' +
       '<a href="https://t.me/dasgermanbot" class="btn-primary" id="nav-cta">' +

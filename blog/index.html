@@ -677,11 +677,71 @@
         blog_subtitle: "Tipy, návody a postrehy o učení nemčiny s AI.",
         blog_empty: "Zatiaľ žiadne články. Vráťte sa neskôr!",
         read_more: "Čítať viac"
+      },
+      tr: {
+        logo: "Das German Bot",
+        nav_home: "Ana Sayfa",
+        nav_blog: "Blog",
+        nav_cta: "Telegram'da Aç",
+        blog_title: "Blog",
+        blog_subtitle: "Yapay zeka ile Almanca öğrenme ipuçları, rehberler ve bilgiler.",
+        blog_empty: "Henüz makale yok. Daha sonra tekrar gelin!",
+        read_more: "Devamını oku"
+      },
+      ro: {
+        logo: "Das German Bot",
+        nav_home: "Acasă",
+        nav_blog: "Blog",
+        nav_cta: "Deschide în Telegram",
+        blog_title: "Blog",
+        blog_subtitle: "Sfaturi, ghiduri și informații despre învățarea germanei cu AI.",
+        blog_empty: "Încă niciun articol. Reveniți mai târziu!",
+        read_more: "Citește mai mult"
+      },
+      fa: {
+        logo: "Das German Bot",
+        nav_home: "صفحه اصلی",
+        nav_blog: "بلاگ",
+        nav_cta: "باز کردن در تلگرام",
+        blog_title: "بلاگ",
+        blog_subtitle: "نکات، راهنماها و بینش‌ها درباره یادگیری آلمانی با هوش مصنوعی.",
+        blog_empty: "هنوز مقاله‌ای نیست. بعداً برگردید!",
+        read_more: "بیشتر بخوانید"
+      },
+      ar: {
+        logo: "Das German Bot",
+        nav_home: "الرئيسية",
+        nav_blog: "المدونة",
+        nav_cta: "افتح في تلجرام",
+        blog_title: "المدونة",
+        blog_subtitle: "نصائح وأدلة ورؤى حول تعلم الألمانية بالذكاء الاصطناعي.",
+        blog_empty: "لا مقالات بعد. عد لاحقاً!",
+        read_more: "اقرأ المزيد"
+      },
+      es: {
+        logo: "Das German Bot",
+        nav_home: "Inicio",
+        nav_blog: "Blog",
+        nav_cta: "Abrir en Telegram",
+        blog_title: "Blog",
+        blog_subtitle: "Consejos, guías e ideas sobre aprender alemán con IA.",
+        blog_empty: "Aún no hay artículos. ¡Vuelve pronto!",
+        read_more: "Leer más"
+      },
+      uz: {
+        logo: "Das German Bot",
+        nav_home: "Bosh sahifa",
+        nav_blog: "Blog",
+        nav_cta: "Telegram'da ochish",
+        blog_title: "Blog",
+        blog_subtitle: "Sun'iy intellekt yordamida nemis tilini o'rganish bo'yicha maslahatlar va qo'llanmalar.",
+        blog_empty: "Hali maqolalar yo'q. Keyinroq qayting!",
+        read_more: "Batafsil o'qish"
       }
     };
 
     function detectLanguage() {
-      const supported = ['en', 'uk', 'ru', 'sk'];
+      const supported = ['en', 'uk', 'ru', 'sk', 'tr', 'ro', 'fa', 'ar', 'es', 'uz'];
       const browserLangs = navigator.languages || [navigator.language || navigator.userLanguage || 'en'];
       for (const bl of browserLangs) {
         const code = bl.toLowerCase().substring(0, 2);
@@ -716,13 +776,13 @@
     // ── Render articles ──
     function formatDate(dateStr, lang) {
       const date = new Date(dateStr);
-      const locales = { en: 'en-US', uk: 'uk-UA', ru: 'ru-RU', sk: 'sk-SK' };
+      const locales = { en: 'en-US', uk: 'uk-UA', ru: 'ru-RU', sk: 'sk-SK', tr: 'tr-TR', ro: 'ro-RO', fa: 'fa-IR', ar: 'ar-SA', es: 'es-ES', uz: 'uz-UZ' };
       return date.toLocaleDateString(locales[lang] || 'en-US', { year: 'numeric', month: 'long', day: 'numeric' });
     }
 
     function renderLangDots(langs, currentLang) {
-      const allLangs = ['en', 'uk', 'ru', 'sk'];
-      const labels = { en: 'EN', uk: 'UA', ru: 'RU', sk: 'SK' };
+      const allLangs = ['en', 'uk', 'ru', 'sk', 'tr', 'ro', 'fa', 'ar', 'es', 'uz'];
+      const labels = { en: 'EN', uk: 'UA', ru: 'RU', sk: 'SK', tr: 'TR', ro: 'RO', fa: 'FA', ar: 'AR', es: 'ES', uz: 'UZ' };
       return '<div class="article-card__langs">' +
         allLangs.filter(l => langs[l]).map(l =>
           '<div class="article-card__lang-dot' + (l === currentLang ? ' article-card__lang-dot--current' : '') + '">' + labels[l] + '</div>'

@@ -545,7 +545,7 @@
     };
 
     function detectLanguage() {
-      const supported = ['en', 'uk', 'ru', 'sk'];
+      const supported = ['en', 'uk', 'ru', 'sk', 'tr', 'ro', 'fa', 'ar', 'es', 'uz'];
       const browserLangs = navigator.languages || [navigator.language || navigator.userLanguage || 'en'];
       for (const bl of browserLangs) {
         const code = bl.toLowerCase().substring(0, 2);
