@@ -3276,5 +3276,29 @@
         "description": "Všetko, čo potrebuješ u holiča v Nemecku — ako požiadať o strih, vysvetliť čo chceš, pochopiť ich otázky a odísť s účesom, aký si chcel."
       }
     }
+  },
+  {
+    "slug": "german-things-considered-rude",
+    "date": "2026-05-10",
+    "image": "",
+    "tags": ["culture", "etiquette", "expat", "mistakes"],
+    "langs": {
+      "en": {
+        "title": "15 Things That Are Rude in Germany (And You Had No Idea)",
+        "description": "Not saying Mahlzeit at lunch, walking in the bike lane, splitting the bill wrong — cultural mistakes foreigners make every day without realizing Germans consider them rude."
+      },
+      "ru": {
+        "title": "15 вещей, которые грубы в Германии (а ты даже не подозреваешь)",
+        "description": "Не сказать Mahlzeit в обед, идти по велодорожке, неправильно делить счёт — культурные ошибки, которые иностранцы делают каждый день."
+      },
+      "uk": {
+        "title": "15 речей, які грубі в Німеччині (а ти навіть не підозрюєш)",
+        "description": "Не сказати Mahlzeit обідом, іти велосипедною доріжкою, неправильно ділити рахунок — культурні помилки іноземців."
+      },
+      "sk": {
+        "title": "15 vecí, ktoré sú v Nemecku nevyberané (a ty to ani nevieš)",
+        "description": "Nepovedať Mahlzeit na obed, ísť po cyklozóne, zle deliť účet — kultúrne chyby cudzincov, ktoré Nemci považujú za hrubé."
+      }
+    }
   }
 ]
