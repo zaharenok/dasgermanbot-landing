@@ -3300,5 +3300,29 @@
         "description": "Nepovedať Mahlzeit na obed, ísť po cyklozóne, zle deliť účet — kultúrne chyby cudzincov, ktoré Nemci považujú za hrubé."
       }
     }
+  },
+  {
+    "slug": "german-write-cv-lebenslauf",
+    "date": "2026-05-10",
+    "image": "",
+    "tags": ["career", "cv", "guide", "expat"],
+    "langs": {
+      "en": {
+        "title": "How to Write a German Lebenslauf (CV): Complete Guide for Expats",
+        "description": "German CVs have strict rules — photo required, no gaps, tabular format. Here's exactly how to write a Lebenslauf that gets you interviews."
+      },
+      "ru": {
+        "title": "Как написать немецкий Lebenslauf (CV): полный гид для экспатов",
+        "description": "Немецкие CV имеют строгие правила — фото обязательно, без пробелов, табличный формат. Вот как написать Lebenslauf, который даст тебе интервью."
+      },
+      "uk": {
+        "title": "Як написати німецький Lebenslauf (CV): повний гід для експатів",
+        "description": "Німецькі CV мають суворі правила — фото обов'язкове, без пропусків, табличний формат. Ось як написати Lebenslauf, який дасть тобі інтерв'ю."
+      },
+      "sk": {
+        "title": "Ako napísať nemecký Lebenslauf (CV): Kompletný sprievodca pre expatov",
+        "description": "Nemecké CV má prísne pravidlá — foto povinné, bez medzier, tabuľkový formát. Tu je ako napísať Lebenslauf, ktorý ti dá interview."
+      }
+    }
   }
 ]
