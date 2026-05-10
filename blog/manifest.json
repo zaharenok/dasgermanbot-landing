@@ -3252,5 +3252,29 @@
         "description": "Prepitné v Nemecku nie je ako v Amerike. Žiadnych 20%, žiadne počítanie percent. Koľko dať v reštaurácii, bare, taxi, holičstve a doručovaní — s presnými číslami."
       }
     }
+  },
+  {
+    "slug": "german-hairdresser-phrases",
+    "date": "2026-05-10",
+    "image": "",
+    "tags": ["phrases", "hairdresser", "everyday", "expat"],
+    "langs": {
+      "en": {
+        "title": "How to Survive a German Haircut: Phrases for Beim Friseur",
+        "description": "Everything you need at the hairdresser in Germany — how to ask for a haircut, explain what you want, understand their questions, and leave looking exactly like you hoped."
+      },
+      "ru": {
+        "title": "Как выжить у немецкого парикмахера: фразы для beim Friseur",
+        "description": "Всё, что нужно у парикмахера в Германии — как попросить стрижку, объяснить чего хочешь, понять их вопросы и выйти с нужной причёской."
+      },
+      "uk": {
+        "title": "Як вижити у німецького перукаря: фрази для beim Friseur",
+        "description": "Усе, що потрібно у перукаря в Німеччині — як попросити стрижку, пояснити чого хочеш, зрозуміти їхні запитання і вийти з потрібною зачіскою."
+      },
+      "sk": {
+        "title": "Ako prežiť u nemeckého holiča: Frázy pre beim Friseur",
+        "description": "Všetko, čo potrebuješ u holiča v Nemecku — ako požiadať o strih, vysvetliť čo chceš, pochopiť ich otázky a odísť s účesom, aký si chcel."
+      }
+    }
   }
 ]
