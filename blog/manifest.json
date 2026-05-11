@@ -7194,5 +7194,57 @@
         "description": "40 harfli so'zlar, roman oxiridagi fe'llar va tahdiddek eshitiladigan salomlash — har bir chet ellikning miyasini portlatadigan nemis tili lahzalari."
       }
     }
+  },
+  {
+    "slug": "moving-to-germany-guide",
+    "date": "2026-05-11",
+    "tags": [
+      "expat",
+      "guide",
+      "moving",
+      "survival"
+    ],
+    "langs": {
+      "en": {
+        "title": "Moving to Germany in 2026: The Complete Survival Guide",
+        "description": "Visas, Anmeldung, apartments, bank accounts, health insurance — everything you need to know before moving to Germany, explained by someone who learned the hard way."
+      },
+      "ru": {
+        "title": "Переезд в Германию в 2026: Полное руководство по выживанию",
+        "description": "Визы, Anmeldung, квартиры, банковские счета, медицинская страховка — всё, что нужно знать перед переездом в Германию, от того, кто учился на своих ошибках."
+      },
+      "uk": {
+        "title": "Переїзд до Німеччини у 2026: Повний посібник з виживання",
+        "description": "Візи, Anmeldung, квартири, банківські рахунки, медичне страхування — все, що потрібно знати перед переїздом до Німеччини, від когось, хто вчився на власних помилках."
+      },
+      "sk": {
+        "title": "Sťahovanie do Nemecka v 2026: Kompletný sprievodca prežitím",
+        "description": "Víza, Anmeldung, byty, bankové účty, zdravotné poistenie — všetko, čo potrebuješ vedieť pred sťahovaním do Nemecka, od niekoho, kto sa to naučil tvrdo."
+      },
+      "tr": {
+        "title": "2026'de Almanya'ya Taşınma: Tam Hayatta Kalma Rehberi",
+        "description": "Vizeler, Anmeldung, daireler, banka hesapları, sağlık sigortası — Almanya'ya taşınmadan önce bilmeniz gereken her şey, zor yoldan öğrenen biri tarafından."
+      },
+      "ro": {
+        "title": "Mutarea în Germania în 2026: Ghidul complet de supraviețuire",
+        "description": "Vize, Anmeldung, apartamente, conturi bancare, asigurare medicală — tot ce trebuie să știi înainte să te muți în Germania, explicat de cineva care a învățat pe pielea lui."
+      },
+      "fa": {
+        "title": "مهاجرت به آلمان در ۲۰۲۶: راهنمای کامل بقا",
+        "description": "ویزا، Anmeldung، آپارتمان، حساب بانکی، بیمه سلامت — همه چیزهایی که قبل از مهاجرت به آلمان باید بدانید، از کسی که از راه سخت یاد گرفته."
+      },
+      "ar": {
+        "title": "الانتقال إلى ألمانيا في 2026: دليل البقاء الشامل",
+        "description": "تأشيرات، Anmeldung، شقق، حسابات بنكية، تأمين صحي — كل ما تحتاج معرفته قبل الانتقال إلى ألمانيا، من شخص تعلم بالطريقة الصعبة."
+      },
+      "es": {
+        "title": "Mudarse a Alemania en 2026: Guía completa de supervivencia",
+        "description": "Visados, Anmeldung, pisos, cuentas bancarias, seguro médico — todo lo que necesitas saber antes de mudarte a Alemania, explicado por alguien que lo aprendió por las malas."
+      },
+      "uz": {
+        "title": "2026-yilda Germaniyaga ko'chish: To'liq omon qolish qo'llanmasi",
+        "description": "Vizalar, Anmeldung, kvartiralar, bank hisoblari, tibbiy sug'urta — Germaniyaga ko'chishdan oldin bilishingiz kerak bo'lgan hamma narsa, qiyin yo'ldan o'rgangan odamdan."
+      }
+    }
   }
 ]
