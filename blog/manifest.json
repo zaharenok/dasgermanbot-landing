@@ -553,6 +553,26 @@
       "es": {
         "title": "Preposiciones en alemán: guía completa de Präpositionen con casos para principiantes",
         "description": "¿Luchas con las preposiciones en alemán y sus casos? Domina las preposiciones esenciales del alemán, desde las de acusativo (für, durch, ohne) y dativo (mit, von, bei) hasta las preposiciones bidireccionales (in, auf, an). Aprende con ejemplos claros, trucos de memorización y estrategias de práctica."
+      },
+      "tr": {
+        "title": "Almanca Edatlar: Başlangıç Seviyesi İçin Präpositionen ve Haller Hakkında Kapsamlı Rehber",
+        "description": "Almanca edatlar ve haller konusunda zorlanıyor musunuz? Akkusatif (für, durch, ohne) ve datif (mit, von, bei) edatlarından çift yönlü edatlara (in, auf, an) kadar temel Almanca edatları öğrenin. Açık örnekler, hafıza tüyoları ve pratik stratejileriyle öğrenin."
+      },
+      "ro": {
+        "title": "Prepoziții în limba germană: Ghid complet pentru Präpositionen cu cazuri pentru începători",
+        "description": "Te confrunți cu prepozițiile germane și cazurile lor? Stăpânește prepozițiile esențiale din limba germană — de la acuzativ (für, durch, ohne) și dativ (mit, von, bei) până la prepozițiile bidirecționale (in, auf, an). Învăț cu exemple clare, trucuri de memorare și strategii de exersare."
+      },
+      "fa": {
+        "title": "حروف اضافه آلمانی: راهنمای کامل Präpositionen با حالت‌ها برای مبتدیان",
+        "description": "با حروف اضافه آلمانی و حالت‌های آن‌ها مشکل دارید؟ حروف اضافه ضروری آلمانی را از حالت acusative (für، durch، ohne) و dative (mit، von، bei) تا حروف اضافه دوگانه (in، auf، an) بیاموزید. با مثال‌های واضح، ترفندهای حفظ کردن و استراتژی‌های تمرین یاد بگیرید."
+      },
+      "ar": {
+        "title": "حروف الجر في الألمانية: الدليل الشامل لحروف الجر Präpositionen مع الحالات للمبتدئين",
+        "description": "تواجه صعوبة مع حروف الجر الألمانية وحالاتها؟ أتقن حروف الجر الأساسية من حالة النصب (für، durch، ohne) وحالة الجر (mit، von، bei) إلى حروف الجر ثنائية الحالة (in، auf، an). تعلّم بأمثلة واضحة وحيل للذاكرة واستراتيجيات التدريب."
+      },
+      "uz": {
+        "title": "Nemis predloglari: Boshlang'ichchilar uchun Präpositionen va kelishiklar bo'yicha to'liq qo'llanma",
+        "description": "Nemis predloglari va ularning kelishiklari bilan qišinyapsizmi? Akkusativ (für, durch, ohne) va dativ (mit, von, bei) dan tortib ikki tomonlama predloglargacha (in, auf, an) bo'lgan muhim nemis predloglarini o'rganing. Tushunarli misollar, eslash usullari va mashq strategiyalari bilan o'rganing."
       }
     }
   },
@@ -2011,6 +2031,24 @@
         "title": "Nemecká rodina: Kompletný sprievodca rodinnej slovnej zásoby",
         "description": "Chceš hovoriť o svojej rodine po nemecky? Ovládni dôležitú nemeckú rodinnú slovnú a slová príbuzenských — od Mutter a Vater po starých rodičov. Nauč sa nemecké rodinné termíny, vlastné formy a kultúrne poznámky o rodine v nemecky hovoriacich krajinách."
       }
+    },
+    "langs": {
+      "en": {
+        "title": "German Family Vocabulary: Complete Guide to Talking About Family",
+        "description": "Want to talk about your family in German? Master essential German family vocabulary and relatives words — from Mutter and Vater to cousin and grandparents. Learn German family terms, possessive forms, and cultural notes about family in German-speaking countries."
+      },
+      "uk": {
+        "title": "Німецька сім'я: Повний словник сімейної лексики",
+        "description": "Хочеш говорити про свою сім'ю німецькою? Оволодій важливою німецькою сімейною лексикою та словами родичів — від Mutter та Vater до бабусі та дідуся. Вивчи німецькі сімейні терміни, присвійні форми та культурні нотатки про сім'ю в німецькомовних країнах."
+      },
+      "ru": {
+        "title": "Немецкая семья: Полный гид по семейной лексике",
+        "description": "Хочешь говорить о своей семье по-немецки? Овладей важнейшей немецкой семейной лексикой и словами родственников — от Mutter и Vater до дедушки и бабушки. Изучи немецкие семейные термины, притяжательные формы и культурные заметки о семье в немецкоязычных странах."
+      },
+      "sk": {
+        "title": "Nemecká rodina: Kompletný sprievodca rodinnej slovnej zásoby",
+        "description": "Chceš hovoriť o svojej rodine po nemecky? Ovládni dôležitú nemeckú rodinnú slovnú a slová príbuzenských — od Mutter a Vater po starých rodičov. Nauč sa nemecké rodinné termíny, vlastné formy a kultúrne poznámky o rodine v nemecky hovoriacich krajinách."
+      }
     }
   },
   {
@@ -2034,6 +2072,24 @@
       "uk": {
         "title": "Німецький одяг: Повний словник моди та шопінгу",
         "description": "Хочеш говорити про одяг німецькою? Оволодій важливою німецькою лексикою одягу від основ як-от Hemd та Hose до аксесуарів, взуття та фраз для шопінгу. Вивчи модні терміни, артиклі та культурні нотатки для покупок у німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecké oblečenie: Kompletný sprievodca módy a nakupovania",
+        "description": "Chceš hovoriť o oblečení po nemecky? Ovládni dôležitú nemeckú slovnú zásobu oblečenia od základov ako Hemd a Hose po doplnky, obuv a frázy pre nakupovanie. Nauč sa módne termíny, členy a kultúrne poznámky pre nákupy v nemecky hovoriacich krajinách."
+      }
+    },
+    "langs": {
+      "en": {
+        "title": "German Clothing Vocabulary: Complete Guide to Fashion and Shopping",
+        "description": "Want to talk about clothes in German? Master essential German clothing vocabulary from basics like Hemd and Hose to accessories, shoes, and shopping phrases. Learn fashion terms, articles, and cultural notes for shopping in German-speaking countries."
+      },
+      "uk": {
+        "title": "Німецький одяг: Повний словник моди та шопінгу",
+        "description": "Хочеш говорити про одяг німецькою? Оволодій важливою німецькою лексикою одягу від основ як-от Hemd та Hose до аксесуарів, взуття та фраз для шопінгу. Вивчи модні терміни, артиклі та культурні нотатки для покупок у німецькомовних країнах."
+      },
+      "ru": {
+        "title": "Немецкая одежда: Полный гид по лексике для шоппинга",
+        "description": "Хочешь говорить об одежде по-немецки? Овладей важнейшей немецкой лексикой одежды от основ вроде Hemd и Hose до аксессуаров, обуви и фраз для шоппинга. Изучи модные термины, артикли и культурные заметки для покупок в немецкоговорящих странах."
       },
       "sk": {
         "title": "Nemecké oblečenie: Kompletný sprievodca módy a nakupovania",
@@ -2067,6 +2123,24 @@
         "title": "Nemecké časti tela: Kompletný sprievodca Körperteile slovnej zásoby",
         "description": "Chceš hovoriť o častiach tela po nemecky? Ovládni dôležitú nemeckú slovnú zásobu častí tela od hlavy až po päty — Kopf, Auge, Arm, Bein a viac. Nauč sa Körperteile so správnymi členmi, lekárskymi frázami a kultúrnymi poznámkami pre zdravotné situácie v nemecky hovoriacich krajinách."
       }
+    },
+    "langs": {
+      "en": {
+        "title": "German Body Parts: Complete Guide to Körperteile Vocabulary",
+        "description": "Want to talk about body parts in German? Master essential German body vocabulary from head to toe — Kopf, Auge, Arm, Bein and more. Learn Körperteile with proper articles, medical phrases, and cultural notes for health situations in German-speaking countries."
+      },
+      "uk": {
+        "title": "Німецькі частини тіла: Повний словник лексики Körperteile",
+        "description": "Хочеш говорити про частини тіла німецькою? Оволодій важливою німецькою лексикою частин тіла від голови до ніг — Kopf, Auge, Arm, Bein і багато іншого. Вивчи Körperteile з правильними артиклями, медичними фразами та культурними нотатками для медичних ситуацій у німецькомовних країнах."
+      },
+      "ru": {
+        "title": "Немецкие части тела: Полный гид по лексике Körperteile",
+        "description": "Хочешь говорить о частях тела по-немецки? Овладей важнейшей немецкой лексикой частей тела от головы до ног — Kopf, Auge, Arm, Bein и многое другое. Изучи Körperteile с правильными артиклями, медицинскими фразами и культурными заметками для медицинских ситуаций в немецкоговорящих странах."
+      },
+      "sk": {
+        "title": "Nemecké časti tela: Kompletný sprievodca Körperteile slovnej zásoby",
+        "description": "Chceš hovoriť o častiach tela po nemecky? Ovládni dôležitú nemeckú slovnú zásobu častí tela od hlavy až po päty — Kopf, Auge, Arm, Bein a viac. Nauč sa Körperteile so správnymi členmi, lekárskymi frázami a kultúrnymi poznámkami pre zdravotné situácie v nemecky hovoriacich krajinách."
+      }
     }
   },
   {
@@ -2090,6 +2164,24 @@
       "uk": {
         "title": "Німецькі хобі та дозвілля: Повний словник лексики Freizeit",
         "description": "Хочеш говорити про свої хобі німецькою? Оволодій важливою німецькою лексикою Freizeit від Sport та Musik до Lesen та Reisen. Вивчи лексику хобі, фрази діяльності та культурні нотатки про дозвілля в німецькомовних країнах."
+      },
+      "sk": {
+        "title": "Nemecké hobby a voľný čas: Kompletný sprievodca Freizeit slovnej zásoby",
+        "description": "Chceš hovoriť o svojich hobbi po nemecky? Ovládni dôležitú nemeckú slovnú zásobu Freizeit od Sport a Musik po Lesen a Reisen. Nauč sa slovnú zásobu hobí, frázy aktivít a kultúrne poznámky o voľnom čase v nemecky hovoriacich krajinách."
+      }
+    },
+    "langs": {
+      "en": {
+        "title": "German Hobbies and Leisure: Complete Guide to Freizeit Vocabulary",
+        "description": "Want to talk about your hobbies in German? Master essential German Freizeit vocabulary from Sport and Musik to Lesen and Reisen. Learn hobby vocabulary, activity phrases, and cultural notes about leisure in German-speaking countries."
+      },
+      "uk": {
+        "title": "Німецькі хобі та дозвілля: Повний словник лексики Freizeit",
+        "description": "Хочеш говорити про свої хобі німецькою? Оволодій важливою німецькою лексикою Freizeit від Sport та Musik до Lesen та Reisen. Вивчи лексику хобі, фрази діяльності та культурні нотатки про дозвілля в німецькомовних країнах."
+      },
+      "ru": {
+        "title": "Немецкие хобби и досуг: Полный гид по лексике Freizeit",
+        "description": "Хочешь говорить о своих хобби по-немецки? Овладей важнейшей немецкой лексикой Freizeit от Sport и Musik до Lesen и Reisen. Изучи лексику хобби, фразы деятельности и культурные заметки о досуге в немецкоговорящих странах."
       },
       "sk": {
         "title": "Nemecké hobby a voľný čas: Kompletný sprievodca Freizeit slovnej zásoby",
@@ -2123,6 +2215,24 @@
         "title": "Nemecký dom a bývanie: Kompletný sprievodca Haus a Wohnung slovnej zásoby",
         "description": "Chceš hovoriť o svojom dome po nemecky? Ovládni dôležitú nemeckú slovnú zásobu bývania od Haus a Wohnung po Zimmer, Küche a nábytok. Nauč sa slovnú zásobu domu, frázy prenájmu a kultúrne poznámky o bývaní v nemecky hovoriacich krajinách."
       }
+    },
+    "langs": {
+      "en": {
+        "title": "German House and Home Vocabulary: Complete Guide to Haus and Wohnung",
+        "description": "Want to talk about your home in German? Master essential German house vocabulary from Haus and Wohnung to Zimmer, Küche, and furniture. Learn home vocabulary, rental phrases, and cultural notes about housing in German-speaking countries."
+      },
+      "uk": {
+        "title": "Німецький дім і житло: Повний словник лексики Haus та Wohnung",
+        "description": "Хочеш говорити про свій дім німецькою? Оволодій важливою німецькою лексикою житла від Haus та Wohnung до Zimmer, Küche та меблів. Вивчи лексику дому, фрази оренди та культурні нотатки про житло в німецькомовних країнах."
+      },
+      "ru": {
+        "title": "Немецкий дом и жильё: Полный гид по лексике Haus и Wohnung",
+        "description": "Хочешь говорить о своём доме по-немецки? Овладей важнейшей немецкой лексикой жилья от Haus и Wohnung до Zimmer, Küche и мебели. Изучи лексику дома, фразы аренды и культурные заметки о жилье в немецкоговорящих странах."
+      },
+      "sk": {
+        "title": "Nemecký dom a bývanie: Kompletný sprievodca Haus a Wohnung slovnej zásoby",
+        "description": "Chceš hovoriť o svojom dome po nemecky? Ovládni dôležitú nemeckú slovnú zásobu bývania od Haus a Wohnung po Zimmer, Küche a nábytok. Nauč sa slovnú zásobu domu, frázy prenájmu a kultúrne poznámky o bývaní v nemecky hovoriacich krajinách."
+      }
     }
   },
   {
@@ -2150,6 +2260,24 @@
       "sk": {
         "title": "Nemecké zvieratá: Kompletný sprievodca Tiere slovnej zásoby pre milovníkov zvieratiek",
         "description": "Chceš hovoriť o zvieratách po nemecky? Ovládi dôležitú nemeckú slovnú zásobu zvierat od Haustiere (domáce) po Wildtiere (divé). Nauč sa slovnú zásobu Tiere so správnymi členmi, zvukmi zvierat a kultúrnymi poznámkami o zvieratách v nemecky hovoriacich krajinách."
+      }
+    },
+    "langs": {
+      "en": {
+        "title": "German Animals: Complete Guide to Tiere Vocabulary for Pet Lovers",
+        "description": "Want to talk about animals in German? Master essential German animal vocabulary from Haustiere (pets) to Wildtiere (wild animals). Learn Tiere vocabulary with proper articles, animal sounds, and cultural notes about pets in German-speaking countries."
+      },
+      "uk": {
+        "title": "Німецькі тварини: Повний словник лексики Tiere для любителів домашніх тварин",
+        "description": "Хочеш говорити про тварин німецькою? Оволодій важливою німецькою лексикою тварин від Haustiere (домашні) до Wildtiere (дикі). Вивчи лексику Tiere з правильними артиклями, звуками тварин та культурними нотатками про домашніх тварин у німецькомовних країнах."
+      },
+      "ru": {
+        "title": "Немецкие животные: Полный гид по лексике Tiere для любителей питомцев",
+        "description": "Хочешь говорить о животных по-немецки? Овладей важнейшей немецкой лексикой животных от Haustiere (домашние) до Wildtiere (дикие). Изучи лексику Tiere с правильными артиклями, звуками животных и культурными заметками о питомцах в немецкоговорящих странах."
+      },
+      "sk": {
+        "title": "Nemecké zvieratá: Kompletný sprievodca Tiere slovnej zásoby pre milovníkov zvieratiek",
+        "description": "Chceš hovoriť o zvieratách po nemecky? Ovládi dôležitú nemeckú slovnú zásobu zvierat od Haustiere (domáce) po Wildtiere (divé). Nauč sa slovnú zásobu Tiere so správnými členmi, zvukmi zvierat a kultúrnymi poznámkami o zvieratách v nemecky hovoriacich krajinách."
       }
     }
   },
@@ -2706,6 +2834,26 @@
       "es": {
         "title": "Preposiciones en alemán: guía completa de Präpositionen con casos para principiantes",
         "description": "¿Luchas con las preposiciones en alemán y sus casos? Domina las preposiciones esenciales del alemán, desde las de acusativo (für, durch, ohne) y dativo (mit, von, bei) hasta las preposiciones bidireccionales (in, auf, an). Aprende con ejemplos claros, trucos de memorización y estrategias de práctica."
+      },
+      "tr": {
+        "title": "Almanca Edatlar: Başlangıç Seviyesi İçin Präpositionen ve Haller Hakkında Kapsamlı Rehber",
+        "description": "Almanca edatlar ve haller konusunda zorlanıyor musunuz? Akkusatif (für, durch, ohne) ve datif (mit, von, bei) edatlarından çift yönlü edatlara (in, auf, an) kadar temel Almanca edatları öğrenin. Açık örnekler, hafıza tüyoları ve pratik stratejileriyle öğrenin."
+      },
+      "ro": {
+        "title": "Prepoziții în limba germană: Ghid complet pentru Präpositionen cu cazuri pentru începători",
+        "description": "Te confrunți cu prepozițiile germane și cazurile lor? Stăpânește prepozițiile esențiale din limba germană — de la acuzativ (für, durch, ohne) și dativ (mit, von, bei) până la prepozițiile bidirecționale (in, auf, an). Învăț cu exemple clare, trucuri de memorare și strategii de exersare."
+      },
+      "fa": {
+        "title": "حروف اضافه آلمانی: راهنمای کامل Präpositionen با حالت‌ها برای مبتدیان",
+        "description": "با حروف اضافه آلمانی و حالت‌های آن‌ها مشکل دارید؟ حروف اضافه ضروری آلمانی را از حالت acusative (für، durch، ohne) و dative (mit، von، bei) تا حروف اضافه دوگانه (in، auf، an) بیاموزید. با مثال‌های واضح، ترفندهای حفظ کردن و استراتژی‌های تمرین یاد بگیرید."
+      },
+      "ar": {
+        "title": "حروف الجر في الألمانية: الدليل الشامل لحروف الجر Präpositionen مع الحالات للمبتدئين",
+        "description": "تواجه صعوبة مع حروف الجر الألمانية وحالاتها؟ أتقن حروف الجر الأساسية من حالة النصب (für، durch، ohne) وحالة الجر (mit، von، bei) إلى حروف الجر ثنائية الحالة (in، auf، an). تعلّم بأمثلة واضحة وحيل للذاكرة واستراتيجيات التدريب."
+      },
+      "uz": {
+        "title": "Nemis predloglari: Boshlang'ichchilar uchun Präpositionen va kelishiklar bo'yicha to'liq qo'llanma",
+        "description": "Nemis predloglari va ularning kelishiklari bilan qišinyapsizmi? Akkusativ (für, durch, ohne) va dativ (mit, von, bei) dan tortib ikki tomonlama predloglargacha (in, auf, an) bo'lgan muhim nemis predloglarini o'rganing. Tushunarli misollar, eslash usullari va mashq strategiyalari bilan o'rganing."
       }
     }
   },
@@ -2735,6 +2883,30 @@
       "sk": {
         "title": "Nemecké skloňovanie slovies: Kompletný sprievodca Verben konjugieren pre začiatočníkov",
         "description": "Bojuješ s nemeckým skloňovaním slovies? Ovládni ako skloňovať nemecké slovesá v prítomnom čase s jednoduchými vzormi. Nauč sa pravidelné slovesá (slabé), nepravidelné slovesá (silné), modálne slovesá (können, müssen, wollen) a najdôležitejšie nemecké slovesá s tabuľkami skloňovania a príkladmi."
+      },
+      "tr": {
+        "title": "Almanca Fiil Çekimi: Başlangıç Seviyesi İçin Verben konjugieren Rehberi",
+        "description": "Almanca fiil çekiminde zorlanıyor musunuz? Almanca fiilleri şimdiki zamanda basit kalıplarla çekmeyi öğrenin. Düzenli fiiller (zayıf), düzensiz fiiller (güçlü), modal fiiller (können, müssen, wollen) ve en önemli Almanca fiilleri çekim tabloları ve örneklerle öğrenin."
+      },
+      "ro": {
+        "title": "Conjugarea verbelor în germană: Ghid complet pentru Verben konjugieren – începători",
+        "description": "Ai dificultăți cu conjugarea verbelor în germană? Învață să conjughezi verbele germane la timpul prezent cu modele simple. Descoperă verbele regulate (slabe), verbele neregulate (tari), verbele modale (können, müssen, wollen) și cele mai importante verbe germane cu tabele de conjugare și exemple."
+      },
+      "fa": {
+        "title": "صرف فعل در آلمانی: راهنمای کامل Verben konjugieren برای مبتدیان",
+        "description": "در صرف فعل‌های آلمانی مشکل دارید؟ الگوهای ساده صرف فعل‌های آلمانی در زمان حال را بیاموزید. فعل‌های باقاعده (ضعیف)، فعل‌های بی‌قاعده (قوی)، افعال وجهی (können، müssen، wollen) و مهم‌ترین فعل‌های آلمانی را با جداول صرف و مثال‌ها یاد بگیرید."
+      },
+      "ar": {
+        "title": "تصريف الأفعال الألمانية: دليل شامل لـ Verben konjugieren للمبتدئين",
+        "description": "تواجه صعوبة في تصريف الأفعال الألمانية؟ أتقن كيفية تصريف الأفعال الألمانية في الزمن الحاضر بأنماط بسيطة. تعلّم الأفعال المنتظمة (الضعيفة)، والأفعال الشاذة (القوية)، والأفعال المساعدة (können، müssen، wollen)، وأهم الأفعال الألمانية مع جداول تصريف وأمثلة."
+      },
+      "es": {
+        "title": "Conjugación de verbos en alemán: Guía completa de Verben konjugieren para principiantes",
+        "description": "¿Tienes dificultades con la conjugación de verbos en alemán? Domina cómo conjugar verbos alemanes en presente con patrones simples. Aprende verbos regulares (débiles), verbos irregulares (fuertes), verbos modales (können, müssen, wollen) y los verbos alemanes más importantes con tablas de conjugación y ejemplos."
+      },
+      "uz": {
+        "title": "Nemis fe'l tusratish (Verben konjugieren): Boshlovchilar uchun to'liq qo'llanma",
+        "description": "Nemis fe'llarini tusratishda qişinayapsizmi? Hozirgi zamon fe'llarini qanday tusratishni sodda naqunlar bilan o'rganing. Qoidali fe'llar (zaif), qoidasiz fe'llar (kuchli), modal fe'llar (können, müssen, wollen) va eng muhim nemis fe'llari tusratish jadvallari va misollar bilan."
       }
     }
   },
@@ -2816,6 +2988,24 @@
     "sk": {
       "title": "Nemecké pády Der Die Das: Kompletný sprievodca pádmi pre začiatočníkov",
       "description": "Bojuješ s nemeckými pádmi (Kasus)? Ovládnite štyri nemecké pády — Nominativ, Akkusativ, Dativ, Genitiv — s jednoduchými pravidlami, tabuľkami a príkladmi. Naučte sa kedy a ako použiť každý pád s demo-slovami der/die/das."
+    },
+    "langs": {
+      "en": {
+        "title": "German Cases: Complete Guide to Die Fälle for Beginners",
+        "description": "Struggling with German cases? Master German cases (Nominative, Accusative, Dative, Genitive) with clear explanations. Learn when to use each case, how articles change, case endings for articles and pronouns, and practical examples for every case."
+      },
+      "uk": {
+        "title": "Німецькі відмінки Der Die Das: Повний довідник відмінків для початківців",
+        "description": "Борешся з німецькими відмінками (Kasus)? Оволодійте чотирма німецькими відмінками — Nominativ, Akkusativ, Dativ, Genitiv — з простими правилами, таблицями та прикладами. Вивчи коли і як використовувати кожен відмінок з демо-словами der/die/das."
+      },
+      "ru": {
+        "title": "Немецкие падежи Der Die Das: Полный справочник падежей для начинающих",
+        "description": "Борешься с немецкими падежами (Kasus)? Овладей четырьмя немецкими падежами — Nominativ, Akkusativ, Dativ, Genitiv — с простыми правилами, таблицами и примерами. Изучи когда и как использовать каждый падеж с демо-словами der/die/das."
+      },
+      "sk": {
+        "title": "Nemecké pády Der Die Das: Kompletný sprievodca pádmi pre začiatočníkov",
+        "description": "Bojuješ s nemeckými pádmi (Kasus)? Ovládnite štyri nemecké pády — Nominativ, Akkusativ, Dativ, Genitiv — s jednoduchými pravidlami, tabuľkami a príkladmi. Naučte sa kedy a ako použiť každý pád s demo-slovami der/die/das."
+      }
     }
   },
   {
@@ -2843,6 +3033,48 @@
     "sk": {
       "title": "Nemecké falošní priatelia: 50+ slov, ktoré vás oklamú (nerobte tieto chyby!)",
       "description": "Myslíte si, že 'gift' znamená dar v nemčine? Mylite sa! Objavte 50+ nemeckých falošných priateľov — slov, ktoré vyzerajú ako anglické, ale znamenajú úplne niečo iné. Vyhnite sa trapasom s týmto essential sprievodcom pre začiatočníkov v nemčine."
+    },
+    "langs": {
+      "en": {
+        "title": "German False Friends and Common Mistakes: Don't Get Fooled! Complete Guide",
+        "description": "Don't embarrass yourself! Learn German false friends and common mistakes that trick English speakers. Master words that look similar but mean different things. From 'gift' (poison) to 'bekommen' (to receive), avoid embarrassing German-English mix-ups."
+      },
+      "uk": {
+        "title": "Німецькі хибні друзі мови та поширені помилки: Не дай себе обдурити!",
+        "description": "Не сором себе! Вивчай німецькі хибні друзі мови та поширені помилки, які підводять англомовних. Оволодій словами, які виглядають схоже, але означають зовсім різні речі. Від 'gift' (отрута) до 'bekommen' (отримати)."
+      },
+      "ru": {
+        "title": "Немецкие ложные друзья языка и распространенные ошибки: Не дай себя обмануть!",
+        "description": "Не смущай себя! Изучай немецкие ложные друзья языка и распространенные ошибки, которые подводят англоговорящих. Овладей словами, которые выглядят похоже, но означают совершенно разные вещи. От 'gift' (яд) до 'bekommen' (получить)."
+      },
+      "sk": {
+        "title": "Nemecké falošní priatelia jazyka a bežné chyby: Nedaj sa oblieť! Kompletný sprievodca",
+        "description": "Nezahanbi sa! Nauč sa nemecké falošné priatelia jazyka a bežné chyby, ktoré klamú anglicky hovoriacich. Ovládni slová, ktoré vyzerajú podobne, ale znamenajú rozdielne veci. Od 'gift' (jed) po 'bekommen' (dostať)."
+      },
+      "tr": {
+        "title": "Almanca Yalancı Dostlar ve Yaygın Hatalar: Aldanmayın! Kapsamlı Rehber",
+        "description": "Utanç yaşamayın! İngilizce konuşanları kandıran Almanca yalancı dostları ve yaygın hataları öğrenin. Benzer görünüp farklı anlamlara gelen kelimeleri ustalıkla kullanın. 'Gift' (zehir) ile 'bekommen' (almak) arasındaki farkı öğrenin ve utanç verici karışıklıklardan kurtulun."
+      },
+      "ro": {
+        "title": "Prietenii Falși în Germană și Greșeli Comune: Nu Te Lăsa Păcălit! Ghid Complet",
+        "description": "Nu te face de râs! Învăță prietenii falși din germană și greșelile comune care îi păcălesc pe vorbitorii de engleză. Stăpânește cuvintele care arată similar dar înseamnă lucruri diferite. De la 'gift' (otravă) la 'bekommen' (a primi), evită confuziile jenante între germană și engleză."
+      },
+      "fa": {
+        "title": "دوستان کاذب آلمانی و اشتباهات رایج: فریب نخورید! راهنمای کامل",
+        "description": "خجالت نکشید! دوستان کاذب آلمانی و اشتباهات رایجی که گویشوران انگلیسی را گول می‌زند را بیاموزید. کلماتی که شبیه به نظر می‌رسند اما معانی متفاوتی دارند را مسلط شوید. از 'Gift' (سم) تا 'bekommen' (دریافت کردن)، از اشتباهات خجالت‌آور آلمانی-انگلیسی جلوگیری کنید."
+      },
+      "ar": {
+        "title": "الكلمات الخادعة والأخطاء الشائعة في الألمانية: لا تنخدع! دليل شامل",
+        "description": "لا تُحرج نفسك! تعرّف على الكلمات الخادعة والأخطاء الشائعة التي تُخدع متحدثي الإنجليزية في الألمانية. أتقن الكلمات المتشابهة التي تحمل معانٍ مختلفة. من 'Gift' (سم) إلى 'bekommen' (يستلم)، تجنّب الخلط المحرج بين الألمانية والإنجليزية."
+      },
+      "es": {
+        "title": "Falsos amigos del alemán y errores comunes: ¡No te dejes engañar! Guía completa",
+        "description": "¡No te avergüences! Aprende los falsos amigos del alemán y los errores comunes que engañan a los hispanohablantes. Domina las palabras que parecen similares pero significan cosas distintas. Desde 'Gift' (veneno) hasta 'bekommen' (recibir), evita confusiones embarazosas entre el alemán y el español."
+      },
+      "uz": {
+        "title": "Nemis tilidagi so'zbemalar va keng tarqalgan xatolar: Aldanmang! To'liq qo'llanma",
+        "description": "Xijolat bo'lishdan saqlaning! Ingliz tilida so'zlashuvchilarni chalg'itadigan nemis tilidagi so'zbemalar va keng tarqalgan xatolarni o'rganing. Ko'rinishi o'xshash, lekin ma'nosi butunlay boshqacha bo'lgan so'zlarni o'zlashtiring. 'Gift' (zahar) dan 'bekommen' (qabul qilmoq) gacha — nemis-ingliz aralashmalaridan qoching."
+      }
     }
   },
   {
@@ -2870,6 +3102,24 @@
     "sk": {
       "title": "Nemecké oddeliteľné slovesá (Trennbare Verben): Kompletný sprievodca pre začiatočníkov",
       "description": "Bojuješ s nemeckými slovesami, ktoré sa rozdelia na polovicu? Ovládnite nemecké oddeliteľné slovesá (trennbare Verben) s jednoduchými pravidlami, bežnými predponami a pamäťovými trikmi. Naučte sa, ako predpona «odletí» na koniec vety!"
+    },
+    "langs": {
+      "en": {
+        "title": "German Separable Verbs: Complete Guide (How to Use Prefix Verbs like a Native)",
+        "description": "Master German separable verbs (trennbare Verben)! Learn how prefixes like ab-, an-, auf-, ein-, mit-, weg- work, when to separate them, and the rules for different tenses. Complete guide with examples, lists, and memory tricks."
+      },
+      "uk": {
+        "title": "Німецькі відокремлювані дієслова: Повний гід (Як використовувати дієслова з префіксами як носій)",
+        "description": "Оволодійте німецькими відокремлюваними дієсловами (trennbare Verben)! Вивчіть як працюють префікси ab-, an-, auf-, ein-, mit-, weg-, коли їх відокремлювати і правила для різних часів. Повний гід з прикладами, списками та мнемонічними правилами."
+      },
+      "ru": {
+        "title": "Немецкие разделяемые глаголы: Полный гид (Как использовать глаголы с приставками как носитель)",
+        "description": "Овладей немецкими разделяемыми глаголами (trennbare Verben)! Изучи как работают приставки ab-, an-, auf-, ein-, mit-, weg-, когда их разделять и правила для разных времён. Полный гид с примерами, списками и мнемоническими правилами."
+      },
+      "sk": {
+        "title": "Nemecké deliteľné slovesá: Kompletný sprievodca (Ako používať slovesá s predponami ako rodák)",
+        "description": "Ovládni nemecké deliteľné slovesá (trennbare Verben)! Nauč sa ako fungujú predpony ab-, an-, auf-, ein-, mit-, weg-, kedy sa oddeľujú a pravidlá pre rôzne časy. Kompletný sprievodca s príkladmi, zoznamami a mnemotechnickými pravidlami."
+      }
     }
   },
   {
@@ -2897,6 +3147,24 @@
     "sk": {
       "title": "Nemecké modálne slovesá: Kompletný sprievodca pre začiatočníkov (Können, Müssen, Wollen a ďalšie!)",
       "description": "Ovládnite 6 nemeckých modálnych slovies (können, müssen, wollen, dürfen, sollen, mögen) s jednoduchými tabuľkami skloňovania, pravidlami používania a príkladmi. Naučte sa, ako vyjadriť schopnosť, povinnosť a želanie v nemčine!"
+    },
+    "langs": {
+      "en": {
+        "title": "German Modal Verbs: Complete Guide (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Master German modal verbs! Learn the 6 modal verbs können, müssen, wollen, dürfen, sollen, mögen with meanings, conjugation, usage rules, and difference from English. Complete guide with examples, charts, and common mistakes to avoid."
+      },
+      "uk": {
+        "title": "Німецькі модальні дієслова: Повний гід (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Оволодійте німецькими модальними дієсловами! Вивчіть 6 модальних дієслів können, müssen, wollen, dürfen, sollen, mögen з їх значеннями, відмінюванням, правилами використання та відмінностями від англійської. Повний гід з прикладами, таблицями та поширеними помилками."
+      },
+      "ru": {
+        "title": "Немецкие модальные глаголы: Полный гид (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Овладей немецкими модальными глаголами! Изучи 6 модальных глаголов können, müssen, wollen, dürfen, sollen, mögen с их значениями, спряжением, правилами использования и отличиями от английского. Полный гид с примерами, таблицами и распространёнными ошибками."
+      },
+      "sk": {
+        "title": "Nemecké modálne slovesá: Kompletný sprievodca (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Ovládni nemecké modálne slovesá! Nauč sa 6 modálnych slovies können, müssen, wollen, dürfen, sollen, mögen s ich významami, skloňovaním, pravidlami používania a rozdielmi od angličtiny. Kompletný sprievodca s príkladmi, tabuľkami a bežnými chybami, ktorým sa treba vyhnúť."
+      }
     }
   },
   {
@@ -2924,6 +3192,48 @@
     "sk": {
       "title": "Nemecké zložené slová: 100+ príkladov a ako ich vytvárať (od Hand po Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz!)",
       "description": "Objavte fascinujúci svet nemeckých zložených slov! Naučte sa, ako Nemci spájajú slová na vytvorenie všetkého — od jednoduchých termínov po ridiculous dlhé 63-písmenové monštra. Kompletný sprievodca s pravidlami, príkladmi a najdlhšími nemeckými slovami vysvetlenými."
+    },
+    "langs": {
+      "en": {
+        "title": "German Compound Words: How to Build and Understand Long German Words (With Examples)",
+        "description": "Master German compound words! Learn how Germans combine words to create epic terms like 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' Complete guide with rules, examples, pronunciation tips, and the 5 longest German words explained."
+      },
+      "uk": {
+        "title": "Німецькі складені слова: Як будувати і розуміти довгі німецькі слова (З прикладами)",
+        "description": "Оволодій німецькими складеними словами! Дізнайся, як німці об'єднують слова для створення епічних термінів на кшталт 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Повний гід з правилами, прикладами, порадами з вимови та 5 найдовшими німецькими словами."
+      },
+      "ru": {
+        "title": "Немецкие составные слова: Как строить и понимать длинные немецкие слова (С примерами)",
+        "description": "Овладей немецкими составными словами! Узнай, как немцы объединяют слова для создания эпических терминов вроде 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Полный гид с правилами, примерами, советами по произношению и 5 самыми длинными немецкими словами."
+      },
+      "sk": {
+        "title": "Nemecké zložené slová: Ako stavať a rozumieť dlhé nemecké slová (S príkladmi)",
+        "description": "Ovládni nemecké zložené slová! Nauč sa, ako Nemci spájajú slová na vytvorenie epických termínov ako 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Kompletný sprievodca s pravidlami, príkladmi, tipmi na výslovnosť a 5 najdlhšími nemeckými slovami."
+      },
+      "tr": {
+        "title": "Almanca Birleşik Kelimeler: Uzun Almanca Kelimeler Nasıl Oluşturulur ve Anlaşılır (Örneklerle)",
+        "description": "Almanca birleşik kelimelerde ustalaşın! Almanların kelimeleri nasıl birleştirerek 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' gibi muhteşem terimler yarattığını öğrenin. Kurallar, örnekler, telaffuz ipuçları ve en uzun 5 Almanca kelimenin açıklandığı kapsamlı rehber."
+      },
+      "ro": {
+        "title": "Cuvintele compuse în germană: Cum să construiești și să înțelegi cuvintele lungi germane (Cu exemple)",
+        "description": "Stăpânește cuvintele compuse în germană! Învăță cum germanii combină cuvinte pentru a crea termeni epici precum 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' Ghid complet cu reguli, exemple, sfaturi de pronunție și cele 5 cele mai lungi cuvinte germane explicate."
+      },
+      "fa": {
+        "title": "واژه‌های مرکب آلمانی: چگونه واژه‌های طولانی آلمانی را بسازیم و درک کنیم (با مثال)",
+        "description": "واژه‌های مرکب آلمانی را یاد بگیرید! کشف کنید چگونه آلمانی‌ها واژه‌ها را ترکیب می‌کنند تا اصطلاحاتی حماسی مثل 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' بسازند. راهنمای کامل با قوانین، مثال‌ها، نکات تلفظ و توضیح ۵ واژه طولانی آلمانی."
+      },
+      "ar": {
+        "title": "الكلمات الألمانية المركبة: كيف تبني وتفهم الكلمات الألمانية الطويلة (مع أمثلة)",
+        "description": "أتقن الكلمات الألمانية المركبة! تعلّم كيف يدمج الألمان الكلمات لإنشاء مصطلحات ملحمية مثل 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' دليل شامل مع القواعد والأمثلة ونطق الملاحظات وشرح لأطول 5 كلمات ألمانية."
+      },
+      "es": {
+        "title": "Palabras compuestas en alemán: Cómo construir y entender las palabras largas en alemán (con ejemplos)",
+        "description": "¡Domina las palabras compuestas en alemán! Aprende cómo los alemanes combinan palabras para crear términos épicos como 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' Guía completa con reglas, ejemplos, consejos de pronunciación y las 5 palabras más largas del alemán explicadas."
+      },
+      "uz": {
+        "title": "Nemis qo'shma so'zlari: Uzoq nemis so'zlarini qanday tuzish va tushunish (misollar bilan)",
+        "description": "Nemis qo'shma so'zlarini o'rganing! Nemislar so'zlarni qanday birlashtirib, 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' kabi ajoyib atamalar yaratishini bilib oling. Qoidalar, misollar, talaffuz maslahatlari va eng uzun 5 ta nemis so'zining to'liq tushuntirishi bilan qo'llanma."
+      }
     }
   },
   {
@@ -2951,6 +3261,24 @@
     "sk": {
       "title": "Nemecké čísla: Kompletný sprievodca od 0 do 1 miliardy (S príkladmi!)",
       "description": "Ovládni nemecké čísla a počítanie od nuly po miliardu! Nauč sa základné čísla, poradové čísla, zlomky, ceny, telefónne čísla a dátumy s jasnými príkladmi a tipmi na výslovnosť."
+    },
+    "langs": {
+      "en": {
+        "title": "German Numbers: Complete Guide from 0 to 1 Billion (With Audio Examples!)",
+        "description": "Master German numbers and counting from zero to one billion! Learn cardinal numbers, ordinal numbers, fractions, prices, phone numbers, and dates with clear examples and pronunciation tips."
+      },
+      "uk": {
+        "title": "Німецькі цифри та числа: Повний довідник від 0 до 1 мільярда (З аудіо прикладами!)",
+        "description": "Оволодійте німецькими цифрами та лічбою від нуля до одного мільярда! Вивчіть кількісні, порядкові числа, дроби, ціни, телефонні номери та дати з ясними прикладами та порадами щодо вимови."
+      },
+      "ru": {
+        "title": "Немецкие цифры и числа: Полный справочник от 0 до 1 миллиарда (С аудио примерами!)",
+        "description": "Овладейте немецкими цифрами и счётом от нуля до одного миллиарда! Изучите количественные, порядковые числа, дроби, цены, телефонные номера и даты с ясными примерами и советами по произношению."
+      },
+      "sk": {
+        "title": "Nemecké čísla a počítanie: Kompletný sprievodca od 0 do 1 miliardy (S audio príkladmi!)",
+        "description": "Ovládnite nemecké čísla a počítanie od nuly do jednej miliardy! Naučte sa základné, poradové čísla, zlomky, ceny, telefónne čísla a dátumy s jasnými príkladmi a tipmi na výslovnosť."
+      }
     }
   },
   {
@@ -2978,6 +3306,24 @@
     "sk": {
       "title": "Nemecká výslovnosť: Kompletný sprievodca pre začiatočníkov (Master R, Ch a umlaute!)",
       "description": "Bojuješ s nemeckou výslovnosťou? Ovládni zložité nemecké zvuky: R, ch, sch a umlaute (ä, ö, ü). Nauč sa nemeckú abecednú výslovnosť s príkladmi, tipmi na výslovnosť a bežnými chybami. Hovor po nemecky ako rodák!"
+    },
+    "langs": {
+      "en": {
+        "title": "German Pronunciation Guide: Master the Difficult Sounds (Ch, Eu, Ü, R, Umlauts)",
+        "description": "Master German pronunciation! Learn how to pronounce the difficult sounds: the ch sound, umlauts (ä, ö, ü), eu vs äu, the German r, sch vs s, ie, and silent letters. Complete guide with examples, audio descriptions, common mistakes to avoid, and practice exercises for perfect German accent."
+      },
+      "uk": {
+        "title": "Німецька вимова: Оволодій складними звуками (Ch, Eu, Ü, R, Умлаути)",
+        "description": "Оволодій німецькою вимовою! Дізнайся, як вимовляти складні звуки: звук ch, умлаути (ä, ö, ü), eu vs äu, німецьке r, sch vs s, ie та німі літери. Повний гід з прикладами, описом звуків, поширеними помилками та вправами для ідеального німецького акценту."
+      },
+      "ru": {
+        "title": "Немецкое произношение: Освой сложные звуки (Ch, Eu, Ü, R, Умлауты)",
+        "description": "Овладей немецким произношением! Узнай, как произносить сложные звуки: звук ch, умлауты (ä, ö, ü), eu vs äu, немецкое r, sch vs s, ie и немые буквы. Полный гид с примерами, описанием звуков, распространёнными ошибками и упражнениями для идеального немецкого акцента."
+      },
+      "sk": {
+        "title": "Nemecká výslovnosť: Ovládni ťažké zvuky (Ch, Eu, Ü, R, Umlauty)",
+        "description": "Ovládni nemeckú výslovnosť! Nauč sa, ako vyslovovať ťažké zvuky: zvuk ch, umlauty (ä, ö, ü), eu vs äu, nemecké r, sch vs s, ie a nemé písmená. Kompletný sprievodca s príkladmi, popisom zvukov, bežnými chybami a cvičeniami pre dokonalý nemecký akcent."
+      }
     }
   },
   {
@@ -3005,6 +3351,24 @@
     "sk": {
       "title": "Nemecký čas: Kompletný sprievodca (Wie spät ist es? Oficiálny vs Neoficiálny čas)",
       "description": "Nauč sa hovoriť čas po nemecky ako rodák! Ovládni 'Wie spät ist es?', 12-hodinový vs 24-hodinový hodiny, oficiálny čas (Uhr) vs bežné výrazy. Kompletný sprievodca s príkladmi, slovníkom a kultúrnymi tipmi o nemeckej punctualite."
+    },
+    "langs": {
+      "en": {
+        "title": "German Time: Complete Guide (Wie spät ist es? Official vs Casual Time)",
+        "description": "Learn to tell time in German like a native! Master 'Wie spät ist es?', 12-hour vs 24-hour clock, official time (Uhr) vs casual expressions. Complete guide with examples, vocabulary, and cultural tips about German punctuality."
+      },
+      "uk": {
+        "title": "Німецький час: Повний гід (Wie spät ist es? Офіційний vs Неофіційний час)",
+        "description": "Навчись говорити час німецькою як носій! Оволодійте 'Wie spät ist es?', 12-годинний vs 24-годинний годинник, офіційний час (Uhr) vs розмовні вирази. Повний гід з прикладами, словником і культурними порадами про німецьку пунктуальність."
+      },
+      "ru": {
+        "title": "Немецкое время: Полный гид (Wie spät ist es? Официальное vs Неофициальное время)",
+        "description": "Научись говорить время по-немецки как носитель! Овладей 'Wie spät ist es?', 12-часовой vs 24-часовой часы, официальное время (Uhr) vs разговорные выражения. Полный гид с примерами, словарём и культурными советами о немецкой пунктуальности."
+      },
+      "sk": {
+        "title": "Nemecký čas: Kompletný sprievodca (Wie spät ist es? Oficiálny vs Neoficiálny čas)",
+        "description": "Nauč sa hovoriť čas po nemecky ako rodák! Ovládni 'Wie spät ist es?', 12-hodinový vs 24-hodinový hodiny, oficiálny čas (Uhr) vs bežné výrazy. Kompletný sprievodca s príkladmi, slovníkom a kultúrnymi tipmi o nemeckej punctualite."
+      }
     }
   },
   {
@@ -3032,6 +3396,24 @@
     "sk": {
       "title": "Nemecké zamietnanie: Kompletný sprievodca (Nicht vs Kein — Kedy použiť!)",
       "description": "Ovládni nemecké zamietnanie! Nauč sa kedy použiť NICHT vs KEIN, ako správne zamietnuť vety a podstatné mená. Kompletný sprievodca s príkladmi, pravidlami a bežnými chybami. Povedz 'nie' po nemecky ako rodák!"
+    },
+    "langs": {
+      "en": {
+        "title": "German Negation: Complete Guide (Nicht vs Kein — When to Use Which!)",
+        "description": "Master German negation! Learn when to use NICHT vs KEIN, how to negate sentences and nouns correctly. Complete guide with examples, rules, and common mistakes to avoid. Say 'no' in German like a native!"
+      },
+      "uk": {
+        "title": "Німецьке заперечення: Повний гід (Nicht vs Kein — Коли використовувати!)",
+        "description": "Оволодійте німецьким запереченням! Вивчіть коли використовувати NICHT vs KEIN, як правильно заперечувати речення та іменники. Повний посібник з прикладами, правилами та поширеними помилками. Кажіть 'ні' німецькою як носій!"
+      },
+      "ru": {
+        "title": "Немецкое отрицание: Полный гид (Nicht vs Kein — Когда использовать!)",
+        "description": "Овладей немецким отрицанием! Изучи когда использовать NICHT vs KEIN, как правильно отрицать предложения и существительные. Полный справочник с примерами, правилами и распространёнными ошибками. Говори 'нет' по-немецки как носитель!"
+      },
+      "sk": {
+        "title": "Nemecké zamietnanie: Kompletný sprievodca (Nicht vs Kein — Kedy použiť!)",
+        "description": "Ovládni nemecké zamietnanie! Nauč sa kedy použiť NICHT vs KEIN, ako správne zamietnuť vety a podstatné mená. Kompletný sprievodca s príkladmi, pravidlami a bežnými chybami. Povedz 'nie' po nemecky ako rodák!"
+      }
     }
   },
   {
@@ -3058,6 +3440,24 @@
     "sk": {
       "title": "Nemecké privlastňovacie členy: Kompletný sprievodca (Mein, Dein, Sein...)",
       "description": "Ovládni nemecké privlastňovacie členy! Nauč sa mein, dein, sein, ihr, unser, euer, ihr, Ihr s tabuľkami, príkladmi a tipmi. Pochop ako funguje vlastníctvo v nemčine compared to English. Kompletný sprievodca nemeckými privlastňovacími zámenami."
+    },
+    "langs": {
+      "en": {
+        "title": "German Possessive Articles: Complete Guide (Mein, Dein, Sein, Ihr + Declension!)",
+        "description": "Master German possessive articles! Learn mein, dein, sein, ihr, unser, euer with complete declension tables for all cases. Essential A1 grammar with examples, rules, and practice exercises. Say 'my your his her' in German correctly!"
+      },
+      "uk": {
+        "title": "Німецькі присвійні артиклі: Повний гід (Mein, Dein, Sein, Ihr + Відміни!)",
+        "description": "Оволодійте німецькими присвійними артиклями! Вивчіть mein, dein, sein, ihr, unser, euer з повними таблицями відмінювання для всіх відмінків. Основна граматика A1 з прикладами, правилами та вправами. Кажіть 'мій твій його її' німецькою правильно!"
+      },
+      "ru": {
+        "title": "Немецкие притяжательные артикли: Полный гид (Mein, Dein, Sein, Ihr + Склонение!)",
+        "description": "Овладей немецкими притяжательными артиклями! Изучи mein, dein, sein, ihr, unser, euer с полными таблицами склонения для всех падежей. Основная грамматика A1 с примерами, правилами и упражнениями. Говори 'мой твой его её' по-немецки правильно!"
+      },
+      "sk": {
+        "title": "Nemecké prívlastné členy: Kompletný sprievodca (Mein, Dein, Sein, Ihr + Skloňovanie!)",
+        "description": "Ovládni nemecké prívlastné členy! Nauč sa mein, dein, sein, ihr, unser, euer s kompletnými tabuľkami skloňovania pre všetky pády. Základná gramatika A1 s príkladmi, pravidlami a cvičeniami. Povedz 'môj tvoj jeho jej' po nemecky správne!"
+      }
     }
   },
   {
@@ -3085,6 +3485,24 @@
     "sk": {
       "title": "Nemecké predložky: Kompletný sprievodca (Akuzatív, Datív, Genitív + Wechselpräpositionen)",
       "description": "Ovládni nemecké predložky! Nauč sa akuzatívne predložky (für, durch, ohne, um), datívne predložky (mit, von, bei, zu), genitívne predložky a obojstranné predložky (Wechselpräpositionen). Kompletný sprievodca s tabuľkami, príkladmi a mnemotechnickými pravidlami."
+    },
+    "langs": {
+      "en": {
+        "title": "German Prepositions: Complete Guide (Accusative, Dative, Genitive + Wechselpräpositionen)",
+        "description": "Master German prepositions! Learn accusative prepositions (für, durch, ohne, um), dative prepositions (mit, von, bei, zu), genitive prepositions, and two-way prepositions (Wechselpräpositionen). Complete guide with charts, examples, and memory tricks."
+      },
+      "uk": {
+        "title": "Німецькі прийменники: Повний гід (Аккузатив, Датив, Генитив + Wechselpräpositionen)",
+        "description": "Оволодійте німецькими прийменниками! Вивчіть акузативні прийменники (für, durch, ohne, um), дативні прийменники (mit, von, bei, zu), генитивні прийменники та двосторонні прийменники (Wechselpräpositionen). Повний гід з таблицями, прикладами та мнемонічними правилами."
+      },
+      "ru": {
+        "title": "Немецкие предлоги: Полный гид (Аккузатив, Датив, Генитив + Вechselpräpositionen)",
+        "description": "Овладей немецкими предлогами! Изучи аккузативные предлоги (für, durch, ohne, um), дативные предлоги (mit, von, bei, zu), генитивные предлоги и двухсторонние предлоги (Wechselpräpositionen). Полный гид с таблицами, примерами и мнемоническими правилами."
+      },
+      "sk": {
+        "title": "Nemecké predložky: Kompletný sprievodca (Akuzatív, Datív, Genitív + Wechselpräpositionen)",
+        "description": "Ovládni nemecké predložky! Nauč sa akuzatívne predložky (für, durch, ohne, um), datívne predložky (mit, von, bei, zu), genitívne predložky a obojstranné predložky (Wechselpräpositionen). Kompletný sprievodca s tabuľkami, príkladmi a mnemotechnickými pravidlami."
+      }
     }
   },
   {
@@ -3112,6 +3530,24 @@
     "sk": {
       "title": "Nemecké deliteľné slovesá: Kompletný sprievodca (Ako používať slovesá s predponami ako rodák)",
       "description": "Ovládni nemecké deliteľné slovesá (trennbare Verben)! Nauč sa ako fungujú predpony ab-, an-, auf-, ein-, mit-, weg-, kedy sa oddeľujú a pravidlá pre rôzne časy. Kompletný sprievodca s príkladmi, zoznamami a mnemotechnickými pravidlami."
+    },
+    "langs": {
+      "en": {
+        "title": "German Separable Verbs: Complete Guide (How to Use Prefix Verbs like a Native)",
+        "description": "Master German separable verbs (trennbare Verben)! Learn how prefixes like ab-, an-, auf-, ein-, mit-, weg- work, when to separate them, and the rules for different tenses. Complete guide with examples, lists, and memory tricks."
+      },
+      "uk": {
+        "title": "Німецькі відокремлювані дієслова: Повний гід (Як використовувати дієслова з префіксами як носій)",
+        "description": "Оволодійте німецькими відокремлюваними дієсловами (trennbare Verben)! Вивчіть як працюють префікси ab-, an-, auf-, ein-, mit-, weg-, коли їх відокремлювати і правила для різних часів. Повний гід з прикладами, списками та мнемонічними правилами."
+      },
+      "ru": {
+        "title": "Немецкие разделяемые глаголы: Полный гид (Как использовать глаголы с приставками как носитель)",
+        "description": "Овладей немецкими разделяемыми глаголами (trennbare Verben)! Изучи как работают приставки ab-, an-, auf-, ein-, mit-, weg-, когда их разделять и правила для разных времён. Полный гид с примерами, списками и мнемоническими правилами."
+      },
+      "sk": {
+        "title": "Nemecké deliteľné slovesá: Kompletný sprievodca (Ako používať slovesá s predponami ako rodák)",
+        "description": "Ovládni nemecké deliteľné slovesá (trennbare Verben)! Nauč sa ako fungujú predpony ab-, an-, auf-, ein-, mit-, weg-, kedy sa oddeľujú a pravidlá pre rôzne časy. Kompletný sprievodca s príkladmi, zoznamami a mnemotechnickými pravidlami."
+      }
     }
   },
   {
@@ -3139,6 +3575,24 @@
     "sk": {
       "title": "Nemecké koncovky prídavných mien: Kompletný sprievodca (Silné, slabé a zmiešané skloňovanie)",
       "description": "Ovládni nemecké koncovky prídavných mien! Nauč sa silné, slabé a zmiešané skloňovanie, kedy použiť ktorý typ, koncovky prídavných mien po určitom/neurčitom člene a posesívnych prídavných mien. Kompletný sprievodca s tabuľkami, príkladmi a mnemotechnickými pravidlami."
+    },
+    "langs": {
+      "en": {
+        "title": "German Adjective Endings: Complete Guide (Strong, Weak, and Mixed Declension)",
+        "description": "Master German adjective endings! Learn strong, weak, and mixed declension, when to use which type, adjective endings after definite/indefinite articles, and possessive adjectives. Complete guide with charts, examples, and memory tricks."
+      },
+      "uk": {
+        "title": "Німецькі закінчення прикметників: Повний гід (Сильне, слабке та змішане відмінювання)",
+        "description": "Оволодійте німецькими закінченнями прикметників! Вивчіть сильне, слабке та змішане відмінювання, коли використовувати який тип, закінчення прикметників після визначеного/невизначеного артикля та присвійних прикметників. Повний гід з таблицями, прикладами та мнемонічними правилами."
+      },
+      "ru": {
+        "title": "Немецкие окончания прилагательных: Полный гид (Сильное, слабое и смешанное склонение)",
+        "description": "Овладей немецкими окончаниями прилагательных! Изучи сильное, слабое и смешанное склонение, когда использовать какое тип, окончания прилагательных после определённого/неопределённого артикля и притяжательных прилагательных. Полный гид с таблицами, примерами и мнемоническими правилами."
+      },
+      "sk": {
+        "title": "Nemecké koncovky prídavných mien: Kompletný sprievodca (Silné, slabé a zmiešané skloňovanie)",
+        "description": "Ovládni nemecké koncovky prídavných mien! Nauč sa silné, slabé a zmiešané skloňovanie, kedy použiť ktorý typ, koncovky prídavných mien po určitom/neurčitom člene a posesívnych prídavných mien. Kompletný sprievodca s tabuľkami, príkladmi a mnemotechnickými pravidlami."
+      }
     }
   },
   {
@@ -3166,6 +3620,24 @@
     "sk": {
       "title": "Nemecké modálne slovesá: Kompletný sprievodca (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
       "description": "Ovládni nemecké modálne slovesá! Nauč sa 6 modálnych slovies können, müssen, wollen, dürfen, sollen, mögen s ich významami, skloňovaním, pravidlami používania a rozdielmi od angličtiny. Kompletný sprievodca s príkladmi, tabuľkami a bežnými chybami, ktorým sa treba vyhnúť."
+    },
+    "langs": {
+      "en": {
+        "title": "German Modal Verbs: Complete Guide (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Master German modal verbs! Learn the 6 modal verbs können, müssen, wollen, dürfen, sollen, mögen with meanings, conjugation, usage rules, and difference from English. Complete guide with examples, charts, and common mistakes to avoid."
+      },
+      "uk": {
+        "title": "Німецькі модальні дієслова: Повний гід (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Оволодійте німецькими модальними дієсловами! Вивчіть 6 модальних дієслів können, müssen, wollen, dürfen, sollen, mögen з їх значеннями, відмінюванням, правилами використання та відмінностями від англійської. Повний гід з прикладами, таблицями та поширеними помилками."
+      },
+      "ru": {
+        "title": "Немецкие модальные глаголы: Полный гид (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Овладей немецкими модальными глаголами! Изучи 6 модальных глаголов können, müssen, wollen, dürfen, sollen, mögen с их значениями, спряжением, правилами использования и отличиями от английского. Полный гид с примерами, таблицами и распространёнными ошибками."
+      },
+      "sk": {
+        "title": "Nemecké modálne slovesá: Kompletný sprievodca (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Ovládni nemecké modálne slovesá! Nauč sa 6 modálnych slovies können, müssen, wollen, dürfen, sollen, mögen s ich významami, skloňovaním, pravidlami používania a rozdielmi od angličtiny. Kompletný sprievodca s príkladmi, tabuľkami a bežnými chybami, ktorým sa treba vyhnúť."
+      }
     }
   },
   {
@@ -3193,6 +3665,48 @@
     "sk": {
       "title": "Nemecké slovné poradie: Kompletný sprievodca (Štruktúra vety, pravidlo TeKaMo, pozícia slovesa)",
       "description": "Ovládni nemecké slovné poradie! Nauč sa pravidlo TeKaMo (Čas-Príčina-Modalita), pozíciu slovesa v tvrdeniach a otázkach, slovné poradie v vedľajších vetách a bežné chyby. Kompletný sprievodca s príkladmi, tabuľkami a mnemotechnickými pomôckami pre správnu nemčinu."
+    },
+    "langs": {
+      "en": {
+        "title": "German Word Order: Complete Guide (Sentence Structure, TeKaMo Rule, Verb Position)",
+        "description": "Master German word order! Learn the TeKaMo rule (Time-Cause-Manner), verb position in statements vs questions, subordinate clause word order, and common mistakes. Complete guide with examples, charts, and memory tricks for speaking German correctly."
+      },
+      "uk": {
+        "title": "Порядок слів у німецькій: Повний посібник (Структура речення, правило TeKaMo, позиція дієслова)",
+        "description": "Опануйте порядок слів у німецькій! Дізнайтеся правило TeKaMo (Час-Причина-Модальність), позицію дієслова в твердженнях та запитаннях, порядок слів у підрядних реченнях та поширені помилки. Повний посібник з прикладами, таблицями та мнемонічними прийомами для правильного мовлення німецькою."
+      },
+      "ru": {
+        "title": "Порядок слов в немецком: Полное руководство (Структура предложения, правило TeKaMo, позиция глагола)",
+        "description": "Освойте порядок слов в немецком! Узнайте правило TeKaMo (Время-Причина-Модальность), позицию глагола в утверждениях и вопросах, порядок слов в придаточных предложениях и распространённые ошибки. Полное руководство с примерами, таблицами и мнемоническими приёмами для правильной речи по-немецки."
+      },
+      "sk": {
+        "title": "Nemecké slovné poradie: Kompletný sprievodca (Štruktúra vety, pravidlo TeKaMo, pozícia slovesa)",
+        "description": "Ovládni nemecké slovné poradie! Nauč sa pravidlo TeKaMo (Čas-Príčina-Modalita), pozíciu slovesa v tvrdeniach a otázkach, slovné poradie v vedľajších vetách a bežné chyby. Kompletný sprievodca s príkladmi, tabuľkami a mnemotechnickými pomôckami pre správnu nemčinu."
+      },
+      "tr": {
+        "title": "Almanca Sözcük Dizimi: Kapsamlı Rehber (Cümle Yapısı, TeKaMo Kuralı, Fiil Konumu)",
+        "description": "Almanca sözcük diziminde ustalaşın! TeKaMo kuralını (Zaman-Neden-Tarz), yükleme ve sorularda fiil konumunu, yan cümlelerde sözcük dizimini ve yaygın hataları öğrenin. Örnekler, tablolar ve hafıza teknikleriyle kapsamlı rehber."
+      },
+      "ro": {
+        "title": "Ordinea cuvintelor în germană: Ghid complet (Structura propoziției, Regula TeKaMo, Poziția verbului)",
+        "description": "Stăpânește ordinea cuvintelor în germană! Învață regula TeKaMo (Timp-Cauză-Mod), poziția verbului în propoziții vs întrebări, ordinea cuvintelor în propozițiile subordonate și greșelile frecvente. Ghid complet cu exemple, tabele și trucuri de memorare pentru a vorbi germana corect."
+      },
+      "fa": {
+        "title": "ترتیب کلمات آلمانی: راهنمای کامل (ساختار جمله، قانون TeKaMo، جایگاه فعل)",
+        "description": "ترتیب کلمات آلمانی را یاد بگیرید! قانون TeKaMo (زمان-علت-نحو)، جایگاه فعل در جملات خبری و پرسشی، ترتیب کلمات در جملات فرعی و اشتباهات رایج را بیاموزید. راهنمای کامل با مثال‌ها، نمودارها و ترفندهای حافظه."
+      },
+      "ar": {
+        "title": "ترتيب الكلمات في الألمانية: دليل شامل (بنية الجملة، قاعدة تيكامو، موقع الفعل)",
+        "description": "أتقن ترتيب الكلمات في الألمانية! تعلم قاعدة تيكامو (الزمن-السبب-الطريقة)، موقع الفعل في الجمل الخبرية والاستفهامية، ترتيب الكلمات في الجمل التابعة، والأخطاء الشائعة. دليل شامل مع أمثلة ورسوم بيانية وحيل ذهنية للتحدث بالألمانية بشكل صحيح."
+      },
+      "es": {
+        "title": "El orden de las palabras en alemán: Guía completa (Estructura de la oración, Regla TeKaMo, Posición del verbo)",
+        "description": "Domina el orden de las palabras en alemán. Aprende la regla TeKaMo (Tiempo-Causa-Modo), la posición del verbo en afirmaciones y preguntas, el orden en oraciones subordinadas y los errores más comunes. Guía completa con ejemplos, tablas y trucos mnemotécnicos para hablar alemán correctamente."
+      },
+      "uz": {
+        "title": "Nemischa so'z tartibi: To'liq qo'llanma (Gap tuzilishi, TeKaMo qoidasi, Fe'l o'rni)",
+        "description": "Nemischa so'z tartibini o'rganing! TeKaMo qoidasi (Vaqt-Sabab-Usul), bayon va savol gaplarida fe'l o'rni, ergash gaplarda so'z tartibi va keng tarqalgan xatolarni o'rganing. Misollar, jadvallar va o'zlashtirish usullari bilan to'liq qo'llanma."
+      }
     }
   },
   {
@@ -3220,6 +3734,48 @@
     "sk": {
       "title": "Nemecké spovedlivoslovia (Zungenbrecher): Zábavný spôsob, ako zlepšiť výslovnosť",
       "description": "Ovládni nemeckú výslovnosť s 20+ klasickými spovedlivosloviami! Nauč sa zábavné Zungenbrecher od ľahkého po expertú úroveň, zlepši akcent, trénuj ťažké zvuky ch, eu, ü, r. Kompletný sprievodca s prekladmi, tipmi na výslovnosť a kultúrnymi insightmi."
+    },
+    "langs": {
+      "en": {
+        "title": "German Tongue Twisters (Zungenbrecher): Fun Way to Improve Pronunciation",
+        "description": "Master German pronunciation with 20+ classic tongue twisters! Learn fun Zungenbrecher from easy to expert level, improve your accent, practice difficult sounds like ch, eu, ü, and r. Complete guide with translations, pronunciation tips, and cultural insights."
+      },
+      "uk": {
+        "title": "Німецькі скоромовки (Zungenbrecher): Веселий спосіб покращити вимову",
+        "description": "Оволодій німецькою вимовою з 20+ класичними скоромовками! Вивчай забавні Zungenbrecher від легкого до експертного рівня, покращуй акцент, тренуй складні звуки ch, eu, ü, r. Повний гід з перекладами, порадами з вимови та культурними інсайтами."
+      },
+      "ru": {
+        "title": "Немецкие скороговорки (Zungenbrecher): Весёлый способ улучшить произношение",
+        "description": "Овладей немецким произношением с 20+ классическими скороговорками! Учите забавные Zungenbrecher от лёгкого до экспертного уровня, улучшай акцент, тренируй сложные звуки ch, eu, ü, r. Полный гид с переводами, советами по произношению и культурными инсайтами."
+      },
+      "sk": {
+        "title": "Nemecké spovedlivoslovia (Zungenbrecher): Zábavný spôsob, ako zlepšiť výslovnosť",
+        "description": "Ovládni nemeckú výslovnosť s 20+ klasickými spovedlivosloviami! Nauč sa zábavné Zungenbrecher od ľahkého po expertú úroveň, zlepši akcent, trénuj ťažké zvuky ch, eu, ü, r. Kompletný sprievodca s prekladmi, tipmi na výslovnosť a kultúrnymi insightmi."
+      },
+      "tr": {
+        "title": "Alman Dili Düğümleme Sözleri (Zungenbrecher): Telaffuzu Geliştirmenin Eğlencili Yolu",
+        "description": "20+ klasik düğümleme sözleriyle Alman telaffuzunda ustalaşın! Kolaydan uzman seviyesine eğlenceli Zungenbrecher öğrenin, aksanınızı geliştirin, ch, eu, ü ve r gibi zor sesleri pratik yapın. Çeviriler, telaffuz ipuçları ve kültürel bilgiler içeren kapsamlı rehber."
+      },
+      "ro": {
+        "title": "Jocuri de cuvinte germane (Zungenbrecher): O metodă amuzantă pentru a-ți îmbunătăți pronunția",
+        "description": "Stăpânește pronunția germană cu peste 20 de jocuri de cuvinte clasice! Învăță Zungenbrecher amuzante de la nivel ușor la expert, îmbunătățește-ți accentul, exersează sunete dificile precum ch, eu, ü și r. Ghid complet cu traduceri, sfaturi de pronunție și perspective culturale."
+      },
+      "fa": {
+        "title": "آواهای سرگردان آلمانی (Zungenbrecher): راهی سرگرم‌کننده برای بهبود تلفظ",
+        "description": "تلفظ آلمانی خود را با بیش از ۲۰ آوای سرگردان کلاسیک مسلط شوید! Zungenbrecher های سرگرم‌کننده را از سطح آسان تا حرفه‌ای یاد بگیرید، لهجه خود را بهبود ببخشید، صداهای دشواری مانند ch، eu، ü و r را تمرین کنید. راهنمای کامل با ترجمه‌ها، نکات تلفظ و بینش‌های فرهنگی."
+      },
+      "ar": {
+        "title": "العبارات المتشابكة الألمانية (Zungenbrecher): طريقة ممتعة لتحسين النطق",
+        "description": "أتقن النطق الألماني مع أكثر من 20 عبارة متشابكة كلاسيكية! تعلم Zungenbrecher الممتعة من المستوى السهل إلى الخبير، حسّن لهجتك، تدرب على الأصوات الصعبة مثل ch و eu و ü و r. دليل شامل مع ترجمات ونصائح للنطق ورؤى ثقافية."
+      },
+      "es": {
+        "title": "Trabalenguas alemanes (Zungenbrecher): Una forma divertida de mejorar la pronunciación",
+        "description": "¡Domina la pronunciación del alemán con más de 20 trabalenguas clásicos! Aprende divertidos Zungenbrecher desde nivel fácil hasta experto, mejora tu acento, practica sonidos difíciles como ch, eu, ü y r. Guía completa con traducciones, consejos de pronunciación e información cultural."
+      },
+      "uz": {
+        "title": "Nemis tilidagi tongue twisterlar (Zungenbrecher): Talaffuzni yaxshilashning qiziqarli usuli",
+        "description": "20+ klassik tongue twisterlar yordamida nemis talaffuzini o'zlashtiring! Oson darajadan boshlab murakkabgacha bo'lgan qiziqarli Zungenbrecherlarni o'rganing, talaffuzingizni yaxshilang, ch, eu, ü, r kabi qiyin tovushlarni mashq qiling. Tarjimalar, talaffuz maslahatlari va madaniy ma'lumotlar bilan to'liq qo'llanma."
+      }
     }
   },
   {
@@ -3247,6 +3803,24 @@
     "sk": {
       "title": "25 nemeckých idióm so vtipným doslovnými prekladmi (A čo v skutočnosti znamenajú)",
       "description": "Objav najzábavnejšie nemecké idiomy! Nauč sa 25+ nemeckých výrazov s doslovnými prekladmi ako 'chápem len stanicu' a 'mať paradajky na očiach'. Kompletný sprievodca s významami, príkladmi použitia a kultúrnymi insightmi."
+    },
+    "langs": {
+      "en": {
+        "title": "25 German Idioms with Hilarious Literal Translations (And What They Actually Mean)",
+        "description": "Discover the funniest German idioms! Learn 25+ German expressions with literal translations like 'I only understand train station' and 'to have tomatoes on your eyes.' Complete guide with meanings, usage examples, and cultural insights for German learners who want to sound like natives."
+      },
+      "uk": {
+        "title": "25 німецьких ідіом з кумедними буквальними перекладами (І що вони насправді означають)",
+        "description": "Відкрий найсмішніші німецькі ідіоми! Вивчай 25+ німецьких виразів із буквальними перекладами як 'я розумію тільки вокзал' та 'мати помідори на очах'. Повний гід зі значеннями, прикладами використання та культурними інсайтами для тих, хто вивчає німецьку."
+      },
+      "ru": {
+        "title": "25 немецких идиом с смешными буквальными переводами (И что они на самом деле означают)",
+        "description": "Открой самые смешные немецкие идиомы! Изучи 25+ немецких выражений с буквальными переводами вроде 'я понимаю только вокзал' и 'иметь помидоры на глазах'. Полный гид со значениями, примерами использования и культурными инсайтами для изучающих немецкий, которые хотят звучать как носители."
+      },
+      "sk": {
+        "title": "25 nemeckých idióm so vtipným doslovnými prekladmi (A čo v skutočnosti znamenajú)",
+        "description": "Objav najzábavnejšie nemecké idiomy! Nauč sa 25+ nemeckých výrazov s doslovnými prekladmi ako 'chápem len stanicu' a 'mať paradajky na očiach'. Kompletný sprievodca s významami, príkladmi použitia a kultúrnymi insightmi pre študentov nemčiny."
+      }
     }
   },
   {
@@ -3274,6 +3848,48 @@
     "sk": {
       "title": "Nemecké zložené slová: Ako stavať a rozumieť dlhé nemecké slová (S príkladmi)",
       "description": "Ovládni nemecké zložené slová! Nauč sa, ako Nemci spájajú slová na vytvorenie epických termínov ako 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Kompletný sprievodca s pravidlami, príkladmi, tipmi na výslovnosť a 5 najdlhšími nemeckými slovami."
+    },
+    "langs": {
+      "en": {
+        "title": "German Compound Words: How to Build and Understand Long German Words (With Examples)",
+        "description": "Master German compound words! Learn how Germans combine words to create epic terms like 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' Complete guide with rules, examples, pronunciation tips, and the 5 longest German words explained."
+      },
+      "uk": {
+        "title": "Німецькі складені слова: Як будувати і розуміти довгі німецькі слова (З прикладами)",
+        "description": "Оволодій німецькими складеними словами! Дізнайся, як німці об'єднують слова для створення епічних термінів на кшталт 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Повний гід з правилами, прикладами, порадами з вимови та 5 найдовшими німецькими словами."
+      },
+      "ru": {
+        "title": "Немецкие составные слова: Как строить и понимать длинные немецкие слова (С примерами)",
+        "description": "Овладей немецкими составными словами! Узнай, как немцы объединяют слова для создания эпических терминов вроде 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Полный гид с правилами, примерами, советами по произношению и 5 самыми длинными немецкими словами."
+      },
+      "sk": {
+        "title": "Nemecké zložené slová: Ako stavať a rozumieť dlhé nemecké slová (S príkladmi)",
+        "description": "Ovládni nemecké zložené slová! Nauč sa, ako Nemci spájajú slová na vytvorenie epických termínov ako 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Kompletný sprievodca s pravidlami, príkladmi, tipmi na výslovnosť a 5 najdlhšími nemeckými slovami."
+      },
+      "tr": {
+        "title": "Almanca Birleşik Kelimeler: Uzun Almanca Kelimeler Nasıl Oluşturulur ve Anlaşılır (Örneklerle)",
+        "description": "Almanca birleşik kelimelerde ustalaşın! Almanların kelimeleri nasıl birleştirerek 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' gibi muhteşem terimler yarattığını öğrenin. Kurallar, örnekler, telaffuz ipuçları ve en uzun 5 Almanca kelimenin açıklandığı kapsamlı rehber."
+      },
+      "ro": {
+        "title": "Cuvintele compuse în germană: Cum să construiești și să înțelegi cuvintele lungi germane (Cu exemple)",
+        "description": "Stăpânește cuvintele compuse în germană! Învăță cum germanii combină cuvinte pentru a crea termeni epici precum 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' Ghid complet cu reguli, exemple, sfaturi de pronunție și cele 5 cele mai lungi cuvinte germane explicate."
+      },
+      "fa": {
+        "title": "واژه‌های مرکب آلمانی: چگونه واژه‌های طولانی آلمانی را بسازیم و درک کنیم (با مثال)",
+        "description": "واژه‌های مرکب آلمانی را یاد بگیرید! کشف کنید چگونه آلمانی‌ها واژه‌ها را ترکیب می‌کنند تا اصطلاحاتی حماسی مثل 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' بسازند. راهنمای کامل با قوانین، مثال‌ها، نکات تلفظ و توضیح ۵ واژه طولانی آلمانی."
+      },
+      "ar": {
+        "title": "الكلمات الألمانية المركبة: كيف تبني وتفهم الكلمات الألمانية الطويلة (مع أمثلة)",
+        "description": "أتقن الكلمات الألمانية المركبة! تعلّم كيف يدمج الألمان الكلمات لإنشاء مصطلحات ملحمية مثل 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' دليل شامل مع القواعد والأمثلة ونطق الملاحظات وشرح لأطول 5 كلمات ألمانية."
+      },
+      "es": {
+        "title": "Palabras compuestas en alemán: Cómo construir y entender las palabras largas en alemán (con ejemplos)",
+        "description": "¡Domina las palabras compuestas en alemán! Aprende cómo los alemanes combinan palabras para crear términos épicos como 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' Guía completa con reglas, ejemplos, consejos de pronunciación y las 5 palabras más largas del alemán explicadas."
+      },
+      "uz": {
+        "title": "Nemis qo'shma so'zlari: Uzoq nemis so'zlarini qanday tuzish va tushunish (misollar bilan)",
+        "description": "Nemis qo'shma so'zlarini o'rganing! Nemislar so'zlarni qanday birlashtirib, 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' kabi ajoyib atamalar yaratishini bilib oling. Qoidalar, misollar, talaffuz maslahatlari va eng uzun 5 ta nemis so'zining to'liq tushuntirishi bilan qo'llanma."
+      }
     }
   },
   {
@@ -3301,6 +3917,24 @@
     "sk": {
       "title": "Nemecká výslovnosť: Ovládni ťažké zvuky (Ch, Eu, Ü, R, Umlauty)",
       "description": "Ovládni nemeckú výslovnosť! Nauč sa, ako vyslovovať ťažké zvuky: zvuk ch, umlauty (ä, ö, ü), eu vs äu, nemecké r, sch vs s, ie a nemé písmená. Kompletný sprievodca s príkladmi, popisom zvukov, bežnými chybami a cvičeniami pre dokonalý nemecký akcent."
+    },
+    "langs": {
+      "en": {
+        "title": "German Pronunciation Guide: Master the Difficult Sounds (Ch, Eu, Ü, R, Umlauts)",
+        "description": "Master German pronunciation! Learn how to pronounce the difficult sounds: the ch sound, umlauts (ä, ö, ü), eu vs äu, the German r, sch vs s, ie, and silent letters. Complete guide with examples, audio descriptions, common mistakes to avoid, and practice exercises for perfect German accent."
+      },
+      "uk": {
+        "title": "Німецька вимова: Оволодій складними звуками (Ch, Eu, Ü, R, Умлаути)",
+        "description": "Оволодій німецькою вимовою! Дізнайся, як вимовляти складні звуки: звук ch, умлаути (ä, ö, ü), eu vs äu, німецьке r, sch vs s, ie та німі літери. Повний гід з прикладами, описом звуків, поширеними помилками та вправами для ідеального німецького акценту."
+      },
+      "ru": {
+        "title": "Немецкое произношение: Освой сложные звуки (Ch, Eu, Ü, R, Умлауты)",
+        "description": "Овладей немецким произношением! Узнай, как произносить сложные звуки: звук ch, умлауты (ä, ö, ü), eu vs äu, немецкое r, sch vs s, ie и немые буквы. Полный гид с примерами, описанием звуков, распространёнными ошибками и упражнениями для идеального немецкого акцента."
+      },
+      "sk": {
+        "title": "Nemecká výslovnosť: Ovládni ťažké zvuky (Ch, Eu, Ü, R, Umlauty)",
+        "description": "Ovládni nemeckú výslovnosť! Nauč sa, ako vyslovovať ťažké zvuky: zvuk ch, umlauty (ä, ö, ü), eu vs äu, nemecké r, sch vs s, ie a nemé písmená. Kompletný sprievodca s príkladmi, popisom zvukov, bežnými chybami a cvičeniami pre dokonalý nemecký akcent."
+      }
     }
   },
   {
@@ -3328,6 +3962,24 @@
     "sk": {
       "title": "Nemecký slang a mládežnícky jazyk: 50+ moderných termínov, ktorí Nemci skutočne používajú (2026)",
       "description": "Naučte sa súčasný nemecký slang! Objavte 50+ moderných termínov, ktorí Nemci používajú v každodennom živote od 'geil' po 'krass'. Kompletný guide k nemeckému mládežníckemu jazyku, skratkám v sprách, anglicko-nemeckým požičičkám."
+    },
+    "langs": {
+      "en": {
+        "title": "German Slang and Youth Language: 50+ Modern Terms Germans Actually Use (2026)",
+        "description": "Learn contemporary German slang! Discover 50+ modern terms Germans use in daily life from 'geil' to 'krass'. Complete guide to German youth language, text abbreviations, Denglisch loanwords, and how to sound young and current. Perfect for understanding real German beyond textbooks."
+      },
+      "uk": {
+        "title": "Німецький сленг і молодіжна мова: 50+ сучасних термінів, які німці справді використовують (2026)",
+        "description": "Вивчайте сучасний німецький сленг! Відкрийте 50+ сучасних термінів, які німці використовують у повсякденному житті від 'geil' до 'krass'. Повний guide по німецькій молодіжній мові, абревіатурам у повідомленнях, англо-німецьким запозиченням і тому, як звучати молодим і актуальним. Ідеально для розуміння справжнього німецького за межами підручників."
+      },
+      "ru": {
+        "title": "Немецкий сленг и молодежный язык: 50+ современных терминов, которые немцы действительно используют (2026)",
+        "description": "Изучайте современный немецкий сленг! Откройте 50+ современных терминов, которые немцы используют в повседневной жизни от 'geil' до 'krass'. Полный guide по немецкому молодежному языку, аббревиатурам в сообщениях, англо-немецким заимствованиям и тому, как звучать молодым и актуальным. Идеально для понимания настоящего немецкого за пределами учебников."
+      },
+      "sk": {
+        "title": "Nemecký slang a mládežnícky jazyk: 50+ moderných termínov, ktorí Nemci skutočne používajú (2026)",
+        "description": "Naučte sa súčasný nemecký slang! Objavte 50+ moderných termínov, ktorí Nemci používajú v každodennom živote od 'geil' po 'krass'. Kompletný guide k nemeckému mládežníckemu jazyku, skratkám v sprách, anglicko-nemeckým požičičkám a tomu, ako znieť mladý a aktuálny. Ideálne pre pochopenie skutočnej nemčiny mimo učebnice."
+      }
     }
   },
   {
@@ -3355,6 +4007,24 @@
     "sk": {
       "title": "Nemecké zmenšenovacie slová: Kompletný sprievodca po -chen a -lein (roztomilé nemecké slová!)",
       "description": "Ovládni nemecké zmenšenovacie slová! Nauč sa vytvárať roztomilé nemecké slová pomocou prípon -chen a -lein. Kompletný sprievodca s 100+ príkladmi, pravidlami výslovnosti, gramatickým rodom (vždy stredný!) a kultúrnymi poznámkami."
+    },
+    "langs": {
+      "en": {
+        "title": "German Diminutives: The Ultimate Guide to -chen and -lein (Cute German Words!)",
+        "description": "Master German diminutives! Learn how to create cute German words using -chen and -lein suffixes. Complete guide with 100+ examples, pronunciation rules, grammatical gender (always neuter!), and cultural insights. Perfect for beginners wanting to sound more natural and affectionate in German."
+      },
+      "uk": {
+        "title": "Німецькі зменшувальні: Повний guide по -chen та -lein (милі німецькі слова!)",
+        "description": "Оволодій німецькими зменшувальними! Навчися створювати милі німецькі слова за допомогою суфіксів -chen та -lein. Повний guide з 100+ прикладами, правилами вимови, граматичним родом (завжди середній!) та культурними особливостями. Ідеально для початківців, які хочуть звучати більш природно і лагідно в німецькому."
+      },
+      "ru": {
+        "title": "Немецкие уменьшительные: Полный guide по -chen и -lein (милые немецкие слова!)",
+        "description": "Овладей немецкими уменьшительными! Научись создавать милые немецкие слова с помощью суффиксов -chen и -lein. Полный guide с 100+ примерами, правилами произношения, грамматическим родом (всегда средний!) и культурными особенностями. Идеально для начинающих, которые хотят звучать более естественно и ласково в немецком."
+      },
+      "sk": {
+        "title": "Nemecké zmenšenovací slová: Kompletný sprievodca po -chen a -lein (roztomilé nemecké slová!)",
+        "description": "Ovládni nemecké zmenšenovacie slová! Nauč sa vytvárať roztomilé nemecké slová pomocou prípon -chen a -lein. Kompletný sprievodca s 100+ príkladmi, pravidlami výslovnosti, gramatickým rodom (vždy stredný!) a kultúrnymi poznámkami. Ideálne pre začiatočníkov, ktorí chcú znieť prirodzenejšie a láskavejšie po nemecky."
+      }
     }
   },
   {
@@ -3383,6 +4053,24 @@
     "sk": {
       "title": "Nemecké zoznamovacie frázy: 50+ frázy na zoznámenie, ktoré naozaj fungujú (2026)",
       "description": "Ovládi nemecké zoznámenie! Nauč sa 50+ nemeckých zoznamovacích fráz od odvážnych po charizmujúcich, plus nevyhnutnú slovnú zásobu na zoznámenie. Kompletný sprievodca s výslovnosťou, kultúrnymi poznámkami, čomu sa vyhnúť, a skutočnými frázami, ktoré Nemci naozaj používajú."
+    },
+    "langs": {
+      "en": {
+        "title": "German Pick-Up Lines: 50+ Flirting Phrases That Actually Work (2026)",
+        "description": "Master German flirting! Learn 50+ German pick-up lines from cheesy to charming, plus essential dating vocabulary. Complete guide with pronunciation, cultural notes, what to avoid, and real phrases Germans actually use. Perfect for breaking the ice and making a genuine connection!"
+      },
+      "uk": {
+        "title": "Німецькі пікап фрази: 50+ фраз для флірту, які справді працюють (2026)",
+        "description": "Оволодій німецьким фліртом! Вивчи 50+ німецьких пікап фраз від корявих до чарівних, плюс необхідний лексик для побачень. Повний guide з вимовою, культурними нотатками, чого уникати, і реальними фразами, які німці справді використовують. Ідеально для знайомства і створення справжнього зв'язку!"
+      },
+      "ru": {
+        "title": "Немецкие пикап фразы: 50+ фраз для флирта, которые реально работают (2026)",
+        "description": "Овладей немецким флиртом! Изучи 50+ немецких пикап фраз от корявых до обворожительных, плюс необходимый лексик для свиданий. Полный guide с произношением, культурными заметками, чего избегать, и реальными фразами, которые немцы реально используют. Идеально для знакомства и создания настоящей связи!"
+      },
+      "sk": {
+        "title": "Nemecké zoznamovacie frázy: 50+ frázy na zoznámenie, ktoré naozaj fungujú (2026)",
+        "description": "Ovládi nemecké zoznámenie! Nauč sa 50+ nemeckých zoznamovacích fráz od odvážnych po charizmujúcich, plus nevyhnutnú slovnú zásobu na zoznámenie. Kompletný sprievodca s výslovnosťou, kultúrnymi poznámkami, čomu sa vyhnúť, a skutočnými frázami, ktoré Nemci naozaj používajú. Ideálne na zoznámenie a vytvorenie skutočného spojenia!"
+      }
     }
   },
   {
@@ -3412,6 +4100,30 @@
       "sk": {
         "title": "Ako sa ospravedlniť po nemecky: Kompletný sprievodca (Entschuldigung, Verzeihung, Sorry)",
         "description": "Ovládni nemecké ospravedlnenia! Nauč sa, ako povedať sorry po nemecky pre každú situáciu — od malých chýb až po závažné priestupky. Kompletný sprievodca s Entschuldigung vs Verzeihung, formálne vs casual ospravedlnenia, kultúrny kontext, a 50+ praktických fráz."
+      },
+      "tr": {
+        "title": "Almanca'da Nasıl Özür Dilenir: Kapsamlı Rehber (Entschuldigung, Verzeihung, Sorry)",
+        "description": "Almanca özürlerini öğrenin! Her durumda Almanca nasıl özür dilenir - küçük hatalardan ciddi suçlara kadar. Entschuldigung ve Verzeihung arasındaki fark, resmi ve günlük özürler, kültürel bağlam ve 50'den fazla pratik ifade ile kapsamlı rehber. Alman sosyal ortamlarında zarif bir şekilde iletişim kurmak için vazgeçilmez!"
+      },
+      "ro": {
+        "title": "Cum să ceri scuze în germană: Ghid complet (Entschuldigung, Verzeihung, Sorry)",
+        "description": "Stăpânește scuzele în germană! Învață cum să spui „îmi pare rău\" în germană pentru orice situație — de la greșeli minore până la ofense serioase. Ghid complet cu Entschuldigung vs Verzeihung, scuze formale vs informale, context cultural și peste 50 de expresii practice. Esențial pentru a naviga situațiile sociale germane cu eleganță!"
+      },
+      "fa": {
+        "title": "چگونه در آلمانی عذرخواهی کنیم: راهنمای کامل (Entschuldigung، Verzeihung، Sorry)",
+        "description": "عذرخواهی به آلمانی را بیاموزید! یاد بگیرید چگونه در هر موقعیتی به آلمانی بگویید متأسفم - از اشتباهات کوچک تا خطاهای جدی. راهنمای کامل با تفاوت Entschuldigung و Verzeihung، عذرخواهی رسمی و غیررسمی، زمینه فرهنگی و بیش از ۵۰ عبارت کاربردی. ضروری برای حرکت روان در موقعیت‌های اجتماعی آلمانی!"
+      },
+      "ar": {
+        "title": "كيف تعتذر بالألمانية: دليل شامل (Entschuldigung, Verzeihung, Sorry)",
+        "description": "أتقن الاعتذار بالألمانية! تعلّم كيف تقول آسف بالألمانية في كل موقف - من الأخطاء البسيطة إلى الإساءات الجسيمة. دليل شامل يشرح الفرق بين Entschuldigung و Verzeihung، والاعتذار الرسمي مقابل العادي، والسياق الثقافي، مع أكثر من 50 عبارة عملية. أساسي للتعامل بثقة في المواقف الاجتماعية الألمانية!"
+      },
+      "es": {
+        "title": "Cómo disculparse en alemán: Guía completa (Entschuldigung, Verzeihung, Sorry)",
+        "description": "Domina las disculpas en alemán. Aprende a decir lo siento en alemán para cada situación: desde pequeños errores hasta ofensas graves. Guía completa con Entschuldigung vs Verzeihung, disculpas formales e informales, contexto cultural y más de 50 frases prácticas. ¡Esencial para desenvolverte con elegancia en situaciones sociales en Alemania!"
+      },
+      "uz": {
+        "title": "Nemis tilida uzr so'rash: To'liq qo'llanma (Entschuldigung, Verzeihung, Sorry)",
+        "description": "Nemis tilida uzr so'rashni o'rganing! Har bir holat uchun uzr so'rash usullari — kichik xatolardan tortib jiddiy qilmishlargacha. Entschuldiging va Verzeihung o'rtasidagi farq, rasmiy va norasmiy uzrlar, madaniy kontekst va 50 dan ortiq amaliy iboralar. Nemis ijtimoiy muhitida o'zini qulay tutish uchun zarur!"
       }
     }
   },
@@ -3442,6 +4154,30 @@
       "sk": {
         "title": "Nemecké nadávky a nadávanie: Kompletný sprievodca (Čo NE hovoriť v Nemecku)",
         "description": "Nauč sa nemecké nadávky a nadávanie bezpečne! Kompletný sprievodca nemeckým zlým slovám, urážkam a vulgárnej reči s kultúrnym kontextom, úrovňami závažnosti, kedy NE používať ich, a správnymi alternatívami. Nevyhnutné pre porozumenie nemeckých médií a vyhnutie sa neprijemným chybám."
+      },
+      "tr": {
+        "title": "Almanca Küfür ve Hakaret Kelimeleri: Tam Rehber (Almanya'da Söylenmemesi Gerekenler)",
+        "description": "Almanca küfür ve hakaret kelimelerini güvenle öğrenin! Almanca kötü kelimeler, hakaretler ve kaba dil üzerine kültürel bağlam, şiddet seviyeleri, hangi durumlarda KULLANILMAMALI ve uygun alternatifler ile tam rehber. Alman medyasını anlamak ve utanç verici hatalardan kaçınmak için gerekli. UYARI: Yetişkin içeriği."
+      },
+      "ro": {
+        "title": "Înjurături și vulgarități în germană: Ghid complet (Ce să NU spui în Germania)",
+        "description": "Învață înjurăturile germane în siguranță! Ghid complet al cuvintelor urâte, insultelor și limbajului vulgar din germană, cu context cultural, niveluri de severitate, când să NU le folosești și alternative potrivite. Esențial pentru a înțelege media germană și a evita greșelile jenante. AVERTISMENT: Conținut pentru adulți."
+      },
+      "fa": {
+        "title": "کلمات رکیک و فحش‌های آلمانی: راهنمای کامل (چه چیزهایی در آلمان نباید بگویید)",
+        "description": "کلمات رکیک و فحش‌های آلمانی را با ایمنی یاد بگیرید! راهنمای کامل کلمات بد، توهین‌ها و زبان Vulgar آلمانی با زمینه فرهنگی، سطح شدت، زمان‌هایی که نباید از آن‌ها استفاده کنید و جایگزین‌های مناسب. ضروری برای درک رسانه‌های آلمانی و اجتناب از اشتباهات شرم‌آور. هشدار: محتوای بزرگسالان."
+      },
+      "ar": {
+        "title": "الألفاظ البذيئة والشتائم بالألمانية: دليل شامل (ما يجب ألا تقوله في ألمانيا)",
+        "description": "تعلّم الألفاظ البذيئة بالألمانية بأمان! دليل شامل للكلمات السيئة والشتائم واللغة العامية الألمانية مع السياق الثقافي ومستويات الخطورة ومتى يجب ألا تستخدمها وبدائل مناسبة. أساسي لفهم وسائل الإعلام الألمانية وتجنب الأخطاء المحرجة. تحذير: محتوى للبالغين."
+      },
+      "es": {
+        "title": "Insultos y palabrotas en alemán: Guía completa (Lo que NO debes decir en Alemania)",
+        "description": "Aprende los insultos y palabrotas en alemán de forma segura. Guía completa de palabras malsonantes, insultos y lenguaje vulgar en alemán con contexto cultural, niveles de gravedad, cuándo NO usarlos y alternativas adecuadas. Esencial para entender los medios alemanes y evitar errores vergonzosos. AVISO: Contenido para adultos."
+      },
+      "uz": {
+        "title": "Nemis haqorat so'zlari va qo'pollik: To'liq qo'llanma (Germaniyada NIMA DEMASLIK kerak)",
+        "description": "Nemis haqorat so'zlarini xavfsiz o'rganing! Nemis qo'pol so'zlari, haqoratlari va vulgar tili haqida to'liq qo'llanma — madaniy kontekst, og'irlik darajalari, qachon ISHLATMASLIK kerakligi va to'g'ri alternativalar bilan birga. Nemis mediasini tushunish va xatolardan qochish uchun zarur. OGOHLANTIRISH: Voyaga yetganlar uchun kontent."
       }
     }
   },
@@ -3472,6 +4208,22 @@
       "sk": {
         "title": "Nemecké skratky pre SMS a chat slang: Kompletný sprievodca (WhatsApp, Telegram, Instagram)",
         "description": "Ovládni nemecké SMS ako miestny! Nauč sa 100+ nemeckých skratiek, chat slangu a internetového jazyka používaných v WhatsApp, Telegram, Instagram a viac. Kompletný sprievodca s výslovnosťou, kultúrnym kontextom, kedy použiť každú skratku, a reálne príklady z nemeckej chat kultúry."
+      },
+      "tr": {
+        "title": "Almanca Mesajlaşma Kısaltmaları ve Sohbet Dili: Tam Rehber (WhatsApp, Telegram, Instagram)",
+        "description": "Almanca mesajlaşmayı bir yerli gibi öğrenin! WhatsApp, Telegram, Instagram ve daha fazlasında Almanların günlük olarak kullandığı 100'den fazla Almanca kısaltma, sohbet dili ve internet dilini öğrenin. Telaffuz, kültürel bağlam, her kısaltmanın ne zaman kullanılacağı ve Alman sohbet kültüründen gerçek örneklerle birlikte tam rehber. Otantik Almanca iletişim için vazgeçilmez!"
+      },
+      "ar": {
+        "title": "اختصارات المراسلة الألمانية واللغة العامية في الدردشة: دليل شامل (واتساب، تيليجرام، إنستغرام)",
+        "description": "أتقن المراسلة بالألمانية مثل المحليين! تعلّم أكثر من 100 اختصار ألماني ولغة عامية للدردشة ولغة الإنترنت المستخدمة في واتساب وتيليجرام وإنستغرام وغيرها. دليل شامل مع النطق والسياق الثقافي ومتى تستخدم كل اختصار وأمثلة حقيقية من ثقافة الدردشة الألمانية. أساسي للتواصل الألماني الأصيل!"
+      },
+      "es": {
+        "title": "Abreviaturas y Jerga de Chat en Alemán: Guía Completa (WhatsApp, Telegram, Instagram)",
+        "description": "¡Domina los mensajes en alemán como un nativo! Aprende más de 100 abreviaturas en alemán, jerga de chat y lenguaje de internet usados en WhatsApp, Telegram, Instagram y más. Guía completa con pronunciación, contexto cultural, cuándo usar cada abreviatura y ejemplos reales de la cultura de chat alemana. ¡Esencial para una comunicación auténtica en alemán!"
+      },
+      "uz": {
+        "title": "Nemischa SMS qisqartmalari va chat slangi: To'liq qo'llanma (WhatsApp, Telegram, Instagram)",
+        "description": "Nemischa yozishni mahalliy kabi o'rganing! WhatsApp, Telegram, Instagram va boshqa platformalarda nemislar tomonidan kundalik foydalaniladigan 100+ nemischa qisqartmalar, chat slangi va internet tilini o'rganing. Talaffuz, madaniy kontekst, har bir qisqartmani qachon ishlatish va nemis chat madaniyatidan haqiqiy misollar bilan to'liq qo'llanma. Haqiqiy nemischa muloqot uchun juda muhim!"
       }
     }
   },
@@ -3502,6 +4254,14 @@
       "sk": {
         "title": "Nemecká výslovnosť: Majster nemeckých zvukov (ü, ö, ch, sch, r) s príkladmi",
         "description": "Ovládni nemeckú výslovnosť! Kompletný sprievodca nemeckým zvukom vrátane ťažkých písmen ü, ö, ch, sch, r. Nauč sa výslovnostné pravidlá s príkladmi, popisy zvukov, bežnými chybami, cvičnými cvičeniami, a tipmi ako znieť ako rodený. Nevyhnutné pre isté nemecké hovorenie!"
+      },
+      "tr": {
+        "title": "Almanca Telaffuz Rehberi: Örneklerle Almanca Sesleri (ü, ö, ch, sch, r) Öğrenin",
+        "description": "Almanca telaffuzunu öğrenin! ü, ö, ch, sch, r gibi zor harfler dahil tüm Almanca sesler için kapsamlı rehber. Örneklerle telaffuz kurallarını, sık yapılan hataları, pratik egzersizleri ve ana dili gibi konuşma ipuçlarını öğrenin. Özgüvenle Almanca konuşmak için vazgeçilmez!"
+      },
+      "es": {
+        "title": "Guía de Pronunciación del Alemán: Domina los Sonidos Alemanes (ü, ö, ch, sch, r) con Ejemplos",
+        "description": "¡Domina la pronunciación del alemán! Guía completa de los sonidos alemanes, incluyendo las letras difíciles ü, ö, ch, sch, r. Aprende las reglas de pronunciación con ejemplos, descripciones de audio, errores comunes, ejercicios de práctica y consejos para sonar como un hablante nativo. ¡Esencial para hablar alemán con confianza!"
       }
     }
   },
@@ -3628,6 +4388,24 @@
     "sk": {
       "title": "Nemecká vianočná slovní zásoba: Kompletný sprievodca Vianocami, Adventom a zimnými tradíciami",
       "description": "Frohe Weihnachten! Ovládajte nemeckú vianočnú slovnú zásobu! Naučte sa tradície nemeckého Adventu a slovní zásobu vianočných trhov."
+    },
+    "langs": {
+      "en": {
+        "title": "German Christmas and Holiday Vocabulary: Complete Guide to Weihnachten, Advent, and Winter Traditions",
+        "description": "Frohe Weihnachten! Master German Christmas and holiday vocabulary! Learn German Advent traditions, Christmas market vocabulary, winter holiday phrases, and cultural insights. From Frohe Weihnachten to Frohes Fest, from Stille Nacht to Tannenbaum — complete guide with examples, dialogues, and German holiday celebrations."
+      },
+      "uk": {
+        "title": "Німецька різдвяна лексика: Повний посібник з Вайнахтен, Адвенту та зимових традицій",
+        "description": "Frohe Weihnachten! Оволодівайте німецькою різдвяною лексикою! Вивчайте традиції німецького Адвенту,词汇 різдвяних ярмарків, зимові різдвяні фрази та культурні insights. Від Frohe Weihnachten до Frohes Fest, від Stille Nacht до Tannenbaum — повний посібник з прикладами, діалогами та святкуваннями."
+      },
+      "ru": {
+        "title": "Немецкая рождественская лексика: Полный гайд по Weihnachten, Advent и зимним традициям",
+        "description": "Frohe Weihnachten! Овладей немецкой рождественской лексикой! Изучите немецкие традиции Адвента, лексику рождественских ярмарок, зимние праздничные фразы и культурные инсайты. От Frohe Weihnachten до Frohes Fest, от Stille Nacht до Tannenbaum — полный гайд с примерами, диалогами и немецкими рождественскими празднованиями."
+      },
+      "sk": {
+        "title": "Nemecká vianočná slovní zásoba: Kompletný sprievodca Vianocami, Adventom a zimnými tradíciami",
+        "description": "Frohe Weihnachten! Ovládajte nemeckú vianočnú slovnú zásobu! Naučte sa tradície nemeckého Adventu, slovní zásobu vianočných trhov, zimné vianočné frázy a kultúrne postrehy. Od Frohe Weihnachten po Frohes Fest, od Stille Nacht po Tannenbaum — kompletný sprievodca s príkladmi, dialógmi a nemeckými vianočnými oslavami."
+      }
     }
   },
   {
@@ -3658,6 +4436,24 @@
     "sk": {
       "title": "Nemecký slang a kolokviálne výrazy: Hovor ako skutočný Nemec",
       "description": "Chceš znieť ako skutočný Nemec? Ovládaj nemecký slang a kolokviálne výrazy! Nauč sa štýlové nemecké frázy, uličnú slovnú zásobu, každodenné výrazy."
+    },
+    "langs": {
+      "en": {
+        "title": "German Slang and Colloquial Expressions: Speak Like a Native German",
+        "description": "Want to sound like a real German? Master German slang and colloquial expressions! Learn cool German phrases, street vocabulary, everyday expressions Germans actually use. From Geil to Krass, from Na to Alter — complete guide to authentic German conversation with examples, dialogues, and cultural insights."
+      },
+      "uk": {
+        "title": "Німецький сленг і розмовні вирази: Говори як справжній німець",
+        "description": "Хочеш звучати як справжній німець? Оволодій німецьким сленгом і розмовними виразами! Вивчай круті німецькі фрази, вуличну лексику, повсякденні вирази, які німці справді використовують. Від Geil до Krass, від Na до Alter — повний путівник по аутентичній німецькій бесіді."
+      },
+      "ru": {
+        "title": "Немецкий сленг и разговорные выражения: Говори как настоящий немец",
+        "description": "Хочешь звучать как настоящий немец? Овладей немецким сленгом и разговорными выражениями! Изучай крутые немецкие фразы, уличную лексику, повседневные выражения, которые немцы действительно используют. От Geil до Krass, от Na до Alter — полный подлинник по аутентичной немецкой беседе."
+      },
+      "sk": {
+        "title": "Nemecký slang a kolokviálne výrazy: Hovor ako skutočný Nemec",
+        "description": "Chceš znieť ako skutočný Nemec? Ovládaj nemecký slang a kolokviálne výrazy! Nauč sa štýlové nemecké frázy, uličnú slovnú zásobu, každodenné výrazy, ktoré Nemci skutočne používajú. Od Geil po Krass, od Na po Alter — kompletný sprievodca autentickou nemeckou konverzáciou."
+      }
     }
   },
   {
@@ -3688,6 +4484,48 @@
     "sk": {
       "title": "Nemecké falošní priatelia jazyka a bežné chyby: Nedaj sa oblieť!",
       "description": "Nezahanbi sa! Nauč sa nemecké falošné priatelia jazyka a bežné chyby."
+    },
+    "langs": {
+      "en": {
+        "title": "German False Friends and Common Mistakes: Don't Get Fooled! Complete Guide",
+        "description": "Don't embarrass yourself! Learn German false friends and common mistakes that trick English speakers. Master words that look similar but mean different things. From 'gift' (poison) to 'bekommen' (to receive), avoid embarrassing German-English mix-ups."
+      },
+      "uk": {
+        "title": "Німецькі хибні друзі мови та поширені помилки: Не дай себе обдурити!",
+        "description": "Не сором себе! Вивчай німецькі хибні друзі мови та поширені помилки, які підводять англомовних. Оволодій словами, які виглядають схоже, але означають зовсім різні речі. Від 'gift' (отрута) до 'bekommen' (отримати)."
+      },
+      "ru": {
+        "title": "Немецкие ложные друзья языка и распространенные ошибки: Не дай себя обмануть!",
+        "description": "Не смущай себя! Изучай немецкие ложные друзья языка и распространенные ошибки, которые подводят англоговорящих. Овладей словами, которые выглядят похоже, но означают совершенно разные вещи. От 'gift' (яд) до 'bekommen' (получить)."
+      },
+      "sk": {
+        "title": "Nemecké falošní priatelia jazyka a bežné chyby: Nedaj sa oblieť! Kompletný sprievodca",
+        "description": "Nezahanbi sa! Nauč sa nemecké falošné priatelia jazyka a bežné chyby, ktoré klamú anglicky hovoriacich. Ovládni slová, ktoré vyzerajú podobne, ale znamenajú rozdielne veci. Od 'gift' (jed) po 'bekommen' (dostať)."
+      },
+      "tr": {
+        "title": "Almanca Yalancı Dostlar ve Yaygın Hatalar: Aldanmayın! Kapsamlı Rehber",
+        "description": "Utanç yaşamayın! İngilizce konuşanları kandıran Almanca yalancı dostları ve yaygın hataları öğrenin. Benzer görünüp farklı anlamlara gelen kelimeleri ustalıkla kullanın. 'Gift' (zehir) ile 'bekommen' (almak) arasındaki farkı öğrenin ve utanç verici karışıklıklardan kurtulun."
+      },
+      "ro": {
+        "title": "Prietenii Falși în Germană și Greșeli Comune: Nu Te Lăsa Păcălit! Ghid Complet",
+        "description": "Nu te face de râs! Învăță prietenii falși din germană și greșelile comune care îi păcălesc pe vorbitorii de engleză. Stăpânește cuvintele care arată similar dar înseamnă lucruri diferite. De la 'gift' (otravă) la 'bekommen' (a primi), evită confuziile jenante între germană și engleză."
+      },
+      "fa": {
+        "title": "دوستان کاذب آلمانی و اشتباهات رایج: فریب نخورید! راهنمای کامل",
+        "description": "خجالت نکشید! دوستان کاذب آلمانی و اشتباهات رایجی که گویشوران انگلیسی را گول می‌زند را بیاموزید. کلماتی که شبیه به نظر می‌رسند اما معانی متفاوتی دارند را مسلط شوید. از 'Gift' (سم) تا 'bekommen' (دریافت کردن)، از اشتباهات خجالت‌آور آلمانی-انگلیسی جلوگیری کنید."
+      },
+      "ar": {
+        "title": "الكلمات الخادعة والأخطاء الشائعة في الألمانية: لا تنخدع! دليل شامل",
+        "description": "لا تُحرج نفسك! تعرّف على الكلمات الخادعة والأخطاء الشائعة التي تُخدع متحدثي الإنجليزية في الألمانية. أتقن الكلمات المتشابهة التي تحمل معانٍ مختلفة. من 'Gift' (سم) إلى 'bekommen' (يستلم)، تجنّب الخلط المحرج بين الألمانية والإنجليزية."
+      },
+      "es": {
+        "title": "Falsos amigos del alemán y errores comunes: ¡No te dejes engañar! Guía completa",
+        "description": "¡No te avergüences! Aprende los falsos amigos del alemán y los errores comunes que engañan a los hispanohablantes. Domina las palabras que parecen similares pero significan cosas distintas. Desde 'Gift' (veneno) hasta 'bekommen' (recibir), evita confusiones embarazosas entre el alemán y el español."
+      },
+      "uz": {
+        "title": "Nemis tilidagi so'zbemalar va keng tarqalgan xatolar: Aldanmang! To'liq qo'llanma",
+        "description": "Xijolat bo'lishdan saqlaning! Ingliz tilida so'zlashuvchilarni chalg'itadigan nemis tilidagi so'zbemalar va keng tarqalgan xatolarni o'rganing. Ko'rinishi o'xshash, lekin ma'nosi butunlay boshqacha bo'lgan so'zlarni o'zlashtiring. 'Gift' (zahar) dan 'bekommen' (qabul qilmoq) gacha — nemis-ingliz aralashmalaridan qoching."
+      }
     }
   },
   {
@@ -3718,6 +4556,24 @@
     "sk": {
       "title": "Nemecké idiómy, príslovia a porekadenia: Hovor ako rodák s 50+ výrazmi",
       "description": "Chceš znieť ako rodený Nemec? Ovládaj nemecké idiómy, príslovia a porekadenia! Nauč sa farebné nemecké výrazy."
+    },
+    "langs": {
+      "en": {
+        "title": "German Idioms and Proverbs: Speak Like a Native with 50+ Essential Expressions",
+        "description": "Want to sound like a native German speaker? Master German idioms, proverbs, and sayings! Learn colorful German expressions that don't translate literally. From 'Tomaten auf den Augen haben' to 'den Nagel auf den Kopf treffen' — complete guide to German figurative language."
+      },
+      "uk": {
+        "title": "Німецькі ідіоми, прислів'я та приказки: Говори як носій з 50+ виразами",
+        "description": "Хочеш звучати як носій німецької? Оволодій німецькими ідіомами, прислів'ями та приказками! Вивчай барвисті німецькі вирази, які не перекладаються дослівно. Від 'помідорів на очах' до 'попасти в ціль' — повний путівник по німецькому образному мовленню."
+      },
+      "ru": {
+        "title": "Немецкие идиомы, пословицы и поговорки: Говори как носитель с 50+ выражениями",
+        "description": "Хочешь звучать как носитель немецкого? Овладей немецкими идиомами, пословицами и поговорками! Изучай красочные немецкие выражения, которые не переводятся буквально. От 'помидоров на глазах' до 'попасть в точку' — полный指南 по немецкому образному языку."
+      },
+      "sk": {
+        "title": "Nemecké idiómy, príslovia a porekadenia: Hovor ako rodák s 50+ výrazmi",
+        "description": "Chceš znieť ako rodený Nemec? Ovládaj nemecké idiómy, príslovia a porekadenia! Nauč sa farebné nemecké výrazy, ktoré sa neprekladajú doslovne. Od 'paradajúk na očiach' po 'zasiať hrebík hlavy' — kompletný sprievodca nemeckého obrazného jazyka."
+      }
     }
   },
   {
@@ -3749,6 +4605,24 @@
     "sk": {
       "title": "Nemecké skratky a akronymy: Ovládni nemecké skratky ako rodák",
       "description": "Nemci milujú skratky! Ovládni nemecké skratky, akronymy a krátke formy. Od z.B. až po usw., od AG po GmbH — kompletný sprievodca nemeckými skratkami v SMS, na sociálnych sieťach a v každodennom živote."
+    },
+    "langs": {
+      "en": {
+        "title": "German Abbreviations and Acronyms: Master German Shortcuts Like a Native",
+        "description": "Germans love abbreviations! Master German abbreviations, acronyms, and short forms. From z.B. to usw., from AG to GmbH — complete guide to German shorthand in texting, social media, and daily life. Understand German text speak and sound like a local!"
+      },
+      "uk": {
+        "title": "Німецькі скорочення та абревіатури: Володій німецькими скороченнями як носій",
+        "description": "Німці обожнюють скорочення! Оволодій німецькими скороченнями, абревіатурами та короткими формами. Від z.B. до usw., від AG до GmbH — повний гід по німецьким скороченням в SMS, соцмережах та повсякденному житті."
+      },
+      "ru": {
+        "title": "Немецкие сокращения и аббревиатуры: Владей немецкими сокращениями как носитель",
+        "description": "Немцы обожают сокращения! Овладей немецкими сокращениями, аббревиатурами и краткими формами. От z.B. до usw., от AG до GmbH — полный指南 по немецким сокращениям в SMS, соцсетях и повседневной жизни."
+      },
+      "sk": {
+        "title": "Nemecké skratky a akronymy: Ovládni nemecké skratky ako rodák",
+        "description": "Nemci milujú skratky! Ovládni nemecké skratky, akronymy a krátke formy. Od z.B. až po usw., od AG po GmbH — kompletný sprievodca nemeckými skratkami v SMS, na sociálnych sieťach a v každodennom živote."
+      }
     }
   },
   {
@@ -3780,6 +4654,24 @@
     "sk": {
       "title": "Nemecké nadávky a čisté alternatívy: Vyjadru frustráciu ako rodák (bez hrubosti)",
       "description": "Nauč sa nemecké nadávky a čisté alternatívy! Ovládni autentické nemecké výrazy pre sklamanie, hnev a prekvapenie. Od mierkych výkrikov po slušné alternatívy — zniej ako rodák pričom zostávaš slušný."
+    },
+    "langs": {
+      "en": {
+        "title": "German Swear Words and Clean Alternatives: Express Frustration Like a Native (Without Being Rude)",
+        "description": "Learn German swear words and clean alternatives! Master authentic German expressions for frustration, anger, and surprise. From mild exclamations to polite alternatives — sound like a native while staying classy. Safe for work, educational, and culturally accurate!"
+      },
+      "uk": {
+        "title": "Німецькі лайливі слова та чисті альтернативи: Виражай frustration як носій (без грубості)",
+        "description": "Вивчай німецькі лайливі слова та чисті альтернативи! Оволодій автентичними німецькими виразами для розчарування, гніву та здивування. Від м'яких вигуків до ввічливих альтернатив — звучи як носій, залишаючись вихованим. Безпечно для роботи, освітньо та культурно точно!"
+      },
+      "ru": {
+        "title": "Немецкие ругательства и чистые альтернативы: Выражай frustrated как носитель (без грубости)",
+        "description": "Изучай немецкие ругательства и чистые альтернативы! Овладей аутентичными немецкими выражениями для разочарования, гнева и удивления. От мягких восклицаний до вежливых альтернатив — звучи как носитель, оставаясь воспитанным. Безопасно для работы, образовательно и культурно точно!"
+      },
+      "sk": {
+        "title": "Nemecké nadávky a čisté alternatívy: Vyjadru frustráciu ako rodák (bez hrubosti)",
+        "description": "Nauč sa nemecké nadávky a čisté alternatívy! Ovládni autentické nemecké výrazy pre sklamanie, hnev a prekvapenie. Od mierkych výkrikov po slušné alternatívy — zniej ako rodák pričom zostávaš slušný. Bezpečné pre prácu, vzdelávacie a kultúrne presné!"
+      }
     }
   },
   {
@@ -3811,6 +4703,24 @@
     "sk": {
       "title": "Nemecký slovník pre randenia a romantické frázy: Flirtuj, zamiluj sa a rande v nemčine",
       "description": "Nauč sa nemecký slovník pre randenia a romantické frázy! Ovládni frázy na zoznámenie, komplimenty, termíny randenia a výrazy lásky. Od prvého flirtu po vážny vzťah — buď charizmatický v nemčine."
+    },
+    "langs": {
+      "en": {
+        "title": "German Dating Vocabulary and Phrases: Flirt, Fall in Love, and Date in German",
+        "description": "Learn German dating vocabulary and romantic phrases! Master pickup lines, compliments, dating terms, and love expressions. From first flirt to serious relationship — sound charming in German. Navigate dating culture, understand German romance, and express your feelings like a native speaker!"
+      },
+      "uk": {
+        "title": "Німецький словник для побачень і романтичні фрази: Флірт, закохайся і побачуйся німецькою",
+        "description": "Вивчай німецький словник для побачень і романтичні фрази! Оволодій фразами для знайомства, компліментами, термінами побачень та вираженнями любові. Від першого флірту до серйозних стосунків — будь чарівним німецькою. Навигуй у культурі побачень, розумій німецьку романтику!"
+      },
+      "ru": {
+        "title": "Немецкий лексикон для свиданий и романтические фразы: Флирт, влюбись и свидай на немецком",
+        "description": "Изучай немецкий лексикон для свиданий и романтические фразы! Овладей фразами для знакомства, комплиментами, терминами свиданий и выражениями любви. От первого флирта до серьезных отношений — будь очаровательным на немецком. Навигируй в культуре свиданий, понимай немецкую романтику!"
+      },
+      "sk": {
+        "title": "Nemecký slovník pre randenia a romantické frázy: Flirtuj, zamiluj sa a rande v nemčine",
+        "description": "Nauč sa nemecký slovník pre randenia a romantické frázy! Ovládni frázy na zoznámenie, komplimenty, termíny randenia a výrazy lásky. Od prvého flirtu po vážny vzťah — buď charizmatický v nemčine. Naviguj v kultúre randenia, pochop nemeckú romancu!"
+      }
     }
   },
   {
