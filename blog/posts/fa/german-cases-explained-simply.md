@@ -1,58 +1,56 @@
 ---
-title: "German Cases Explained Simply: No More Panic"
-description: "A clear, no-jargon guide to the four German grammatical cases — nominative, accusative, dative, genitive — with examples that actually make sense."
+title: "حالات آلمانی به زبان ساده: دیگر وحشت نکنید"
+description: "راهنمایی بدون اصطلاحات فنی برای چهار حالت دستور زبانی آلمانی — نامیتیو، اکوزاتیو، داتیو، ژنتیو — با مثال‌هایی که واقعاً معنی می‌دهند."
 date: "2026-04-23"
 lang: "fa"
 image: ""
-tags: ["دستور زبان", "مبتدیان"]
+tags: ["دستور-زبان", "مبتدیان"]
 ---
 
+# حالات آلمانی به زبان ساده: دیگر وحشت نکنید
 
-# German Cases Explained Simply: No More Panic
+اگر چیزی وجود دارد که مردم را از آلمانی فراری می‌دهد، حالات هستند. چهار تا از آن‌ها. هر کدام مقاله را تغییر می‌دهد. شبیه کابوس به نظر می‌رسد — تا زمانی که متوجه شوید فقط یک سیستم *نقش‌ها* است. هر اسم در یک جمله یک شغل دارد و حالت به شما می‌گوید آن شغل چیست.
 
-If there's one thing that scares people away from German, it's the cases. Four of them. Each one changes the article. It sounds like a nightmare — until you realize it's just a system of *roles*. Every noun in a sentence has a job, and the case tells you what that job is.
+یک نکته: انگلیسی هم حالات دارد. فقط متوجه نمی‌شوید چون بیشتر اوقات در ضمیرها ظاهر می‌شوند. "He called **him**." *He* دارد زنگ می‌زند. *Him* دارد زنگ زده می‌شود. این دقیقاً نامیتیو در برابر اکوزاتیو است، همان‌جا.
 
-Here's the thing: English has cases too. You just don't notice because they mostly show up in pronouns. "He called **him**." *He* is doing the calling. *Him* is being called. That's nominative vs. accusative, right there.
+## چهار شغل
 
-## The Four Jobs
+آلمانی چهار حالت دارد. آن‌ها را مثل نقش‌های یک فیلم در نظر بگیرید:
 
-German has four cases. Think of them as roles in a movie:
+1. **نامیتیو** — نهاد. چه کسی عمل را انجام می‌دهد؟ *Der Hund bellt.* (سگ پارس می‌کند.)
+2. **اکوزاتیو** — مفعول مستقیم. چه کسی عمل را دریافت می‌کند؟ *Ich sehe den Hund.* (سگ را می‌بینم.)
+3. **داتیو** — مفعول غیرمستقیم. چه کسی بهره‌مند می‌شود؟ *Ich gebe dem Hund einen Knochen.* (به سگ استخوانی می‌دهم.)
+4. **ژنتیو** — مالکیت. مال چه کسی است؟ *Das Haus des Hundes.* (خانه سگ.)
 
-1. **Nominative** — the subject. Who's doing the action? *Der Hund bellt.* (The dog barks.)
-2. **Accusative** — the direct object. Who's receiving the action? *Ich sehe den Hund.* (I see the dog.)
-3. **Dative** — the indirect object. Who benefits? *Ich gebe dem Hund einen Knochen.* (I give the dog a bone.)
-4. **Genitive** — possession. Whose is it? *Das Haus des Hundes.* (The dog's house.)
+توجه کنید *der* چگونه به *den*، بعد *dem*، بعد *des* تبدیل شد؟ این سیستم حالات است که کارش را انجام می‌دهد. مقاله تغییر می‌کند تا همیشه بدانید در جمله چه کسی کیست.
 
-Notice how *der* turned into *den*, then *dem*, then *des*? That's the case system doing its job. The article changes so you always know who's who in the sentence.
+## برگه تقلب
 
-## The Cheat Sheet
+این چیزی است که با *der/die/das* در حالات مختلف اتفاق می‌افتد:
 
-Here's what happens to *der/die/das* across the cases:
-
-| Case | der (masc.) | die (fem./pl.) | das (neut.) |
+| حالت | der (مذکر) | die (مونث/جمع) | das (خنثی) |
 |------|-------------|----------------|-------------|
-| Nom. | der | die | das |
-| Acc. | den | die | das |
-| Dat. | dem | der | dem |
-| Gen. | des | der | des |
+| نامیتیو | der | die | das |
+| اکوزاتیو | den | die | das |
+| داتیو | dem | der | dem |
+| ژنتیو | des | der | des |
 
-Yes, you'll need to memorize this. But here's the good news: feminine and neuter barely change. The real action is with the masculine *der* → *den* → *dem* → *des*. Master that one column and you're 80% there.
+بله، باید این را حفظ کنید. اما خبر خوب: مونث و خنثی تقریباً تغییر نمی‌کنند. عمل واقعی با مذکر *der* → *den* → *dem* → *des* است. آن یک ستون را یاد بگیرید و ۸۰٪ راه رفته‌اید.
 
-## Why Cases Actually Help
+## چرا حالات واقعاً کمک می‌کنند
 
-Cases look like extra work, but they give German a flexibility English doesn't have. Because the case marks the role, you can rearrange words freely:
+حالات شبیه کار اضافی به نظر می‌رسند، اما به آلمانی انعطاف‌پذیری می‌دهند که انگلیسی ندارد. چون حالت نقش را مشخص می‌کند، می‌توانید کلمات را آزادانه جابجا کنید:
 
-- *Der Hund beißt den Mann.* (The dog bites the man.)
-- *Den Mann beißt der Hund.* (The dog bites the man. Same meaning.)
+- *Der Hund beißt den Mann.* (سگ مرد را گاز می‌گیرد.)
+- *Den Mann beißt der Hund.* (سگ مرد را گاز می‌گیرد. همان معنی.)
 
-In English, swapping the order changes the meaning entirely ("The man bites the dog"). German cases protect you from that confusion. Once you get comfortable with them, you'll find they make sentences *clearer*, not harder.
+در انگلیسی، جابجایی ترتیب معنی را کاملاً تغییر می‌دهد ("مرد سگ را گاز می‌گیرد"). حالات آلمانی شما را از آن سردرگمی محافظت می‌کنند. وقتی با آن‌ها راحت شوید، متوجه می‌شوید که جملات را *واضح‌تر* می‌کنند، نه سخت‌تر.
 
-## Start Small
+## کوچک شروع کنید
 
-Don't try to learn all four cases at once. Begin with nominative and accusative — they cover most everyday sentences. Add dative when you start talking about giving things to people. Genitive can wait; even native speakers sometimes avoid it in casual speech.
+سعی نکنید هر چهار حالت را یکجا یاد بگیرید. با نامیتیو و اکوزاتیو شروع کنید — آن‌ها بیشتر جملات روزمره را پوشش می‌دهند. داتیو را وقتی شروع کردید به مردم چیزها دادن اضافه کنید. ژنتیو می‌تواند صبر کند؛ حتی گویشوران بومی گاهی در گفتار غیررسمی از آن اجتناب می‌کنند.
 
-The trick is exposure. See the cases in context enough times and they stop feeling like rules. They just start sounding *right*.
+ترفند در معرض دیدن است. حالات را در زمینه کافی ببینید و احساس می‌کنند دیگر قوانین نیستند. فقط شروع به *درست* شنیدن می‌کنند.
 
 ---
-
-*Want to practice cases in real conversations? [Open Das German Bot](https://t.me/dasgermanbot) — your first lesson takes 30 seconds.*
+*می‌خواهید حالات را در مکالمات واقعی تمرین کنید؟ [Das German Bot را باز کنید](https://t.me/dasgermanbot) — اولین درس شما فقط ۳۰ ثانیه طول می‌کشد.*

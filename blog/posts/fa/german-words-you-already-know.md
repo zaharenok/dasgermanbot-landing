@@ -1,64 +1,62 @@
 ---
-title: "20 German Words You Already Know Without Realizing It"
-description: "English and German share hundreds of cognates — words that look and mean the same thing. Here are 20 you can use today, zero studying required."
+title: "۲۰ کلمه آلمانی که بدون اینکه بدانید از قبل می‌شناسید"
+description: "انگلیسی و آلمانی صدها کلمه مشابه دارند — کلماتی که شبیه به نظر می‌رسند و یک معنی دارند. اینجا ۲۰ کلمه هستند که همین امروز می‌توانید استفاده کنید، بدون نیاز به مطالعه."
 date: "2026-04-23"
 lang: "fa"
 image: ""
 tags: ["واژگان", "مبتدیان"]
 ---
 
+# ۲۰ کلمه آلمانی که بدون اینکه بدانید از قبل می‌شناسید
 
-# 20 German Words You Already Know Without Realizing It
+یک رازی که نویسندگان کتاب‌های درسی به شما نمی‌گویند: شما از قبل کمی آلمانی بلدید. انگلیسی و آلمانی خواهر و برادر زبانی هستند — هر دو زبان‌های ژرمنی هستند که حدود ۱۵۰۰ سال پیش از هم جدا شدند. آن‌ها همچنان صدها کلمه مشترک دارند که تقریباً یکسان به نظر می‌رسند و یک معنی دارند.
 
-Here's a secret textbook authors don't tell you: you already speak some German. English and German are linguistic siblings — both Germanic languages that split about 1,500 years ago. They still share hundreds of words that look almost identical and mean the same thing.
+به این‌ها می‌گویند کلمات مشابه، و این‌ها basically واژگان رایگان هستند. بدون فلش‌کارت، بدون تکرار، بدون تلاش. فقط باید آن‌ها را بشناسید.
 
-These are called cognates, and they're basically free vocabulary. No flashcards, no repetition, no effort. You just need to recognize them.
+## کلمات بدیهی
 
-## The Obvious Ones
+این کلمات تقریباً در هر دو زبان یکسان هستند:
 
-These words are practically identical in both languages:
-
-- **Hand** — *die Hand* (same word, same meaning)
-- **Finger** — *der Finger* (yep, identical)
-- **Name** — *der Name* (pronounced "nah-muh" but spelled the same)
+- **Hand** — *die Hand* (همان کلمه، همان معنی)
+- **Finger** — *der Finger* (بله، یکسان)
+- **Name** — *der Name* (تلفظ "nah-muh" اما املای همان)
 - **Gold** — *das Gold*
 - **Ring** — *der Ring*
 - **Sand** — *der Sand*
 - **Wolf** — *der Wolf*
 
-See the pattern? Short, everyday words tend to survive across related languages because they're used so often they resist change.
+الگو را می‌بینید؟ کلمات کوتاه و روزمره تمایل دارند در زبان‌های مرتبط زنده بمانند چون آن‌قدر زیاد استفاده می‌شوند که در برابر تغییر مقاومت می‌کنند.
 
-## The Slightly Different Spelling
+## املای کمی متفاوت
 
-Some words shifted a little over the centuries, but the connection is obvious:
+برخی کلمات طی قرن‌ها کمی تغییر کردند، اما ارتباط واضح است:
 
-- **Apple** → *der Apfel* (p → pf shift, classic Germanic sound change)
-- **Water** → *das Wasser* (t → ss/ß shift, same rule)
-- **Better** → *besser* (the comparative "-er" ending is the same in both)
-- **House** → *das Haus* (German spelling is actually more phonetic here)
-- **Find** → *finden* (German infinitives end in -en, strip it and you're close)
-- **Make** → *machen* (ch replaces the k sound)
+- **Apple** → *der Apfel* (تحول p → pf، تغییر صدای کلاسیک ژرمنی)
+- **Water** → *das Wasser* (تحول t → ss/ß، همان قانون)
+- **Better** → *besser* (پسوند مقایسه‌ای "-er" در هر دو یکسان است)
+- **House** → *das Haus* (املای آلمانی در اینجا آوایی‌تر است)
+- **Find** → *finden* (مصدرهای آلمانی به -en ختم می‌شوند، آن را حذف کنید و نزدیک می‌شوید)
+- **Make** → *machen* (ch جایگزین صدای k می‌شود)
 - **Come** → *kommen*
-- **Drink** → *trinken* (d → t shift)
+- **Drink** → *trinken* (تحول d → t)
 
-## The Fun Surprises
+## غافلگیری‌های جالب
 
-These aren't obviously related at first glance, but once you see the connection, you can't unsee it:
+این‌ها در نگاه اول مرتبط به نظر نمی‌رسند، اما وقتی ارتباط را ببینید، دیگر نمی‌توانید آن را نبینید:
 
-- **Kind** → *das Kind* (means "child" in German — but "kindergarten" literally means "children's garden," which makes perfect sense)
-- **Gift** → *das Gift* (means "poison" in German! Be careful with this one. The English "gift" comes from "give," while the German shifted to "something given" → "dose of medicine" → "poison")
-- **Billion** → *die Billion* (means "trillion" in German. False friends exist — this is why context matters)
+- **Kind** → *das Kind* (به آلمانی یعنی "بچه" — اما "kindergarten" لفظاً یعنی "باغ کودکان" که کاملاً منطقی است)
+- **Gift** → *das Gift* (به آلمانی یعنی "زهر"! با این یکی مراقب باشید. "gift" انگلیسی از "give" می‌آید، اما آلمانی به "چیزی داده شده" → "دوز دارو" → "زهر" تغییر کرد)
+- **Billion** → *die Billion* (به آلمانی یعنی "تریلیون". دوستان کاذب وجود دارند — به همین دلیل زمینه مهم است)
 
-## Why This Matters
+## چرا این مهم است
 
-You're not starting from zero. Your English vocabulary is a massive head start in German. Every cognate you recognize is a word you don't have to memorize. And when you start noticing the patterns — t → ss, d → t, k → ch — you can *guess* German words you've never seen before.
+شما از صفر شروع نمی‌کنید. واژگان انگلیسی‌تان یک سرآغاز بزرگ برای آلمانی است. هر کلمه مشابهی که بشناسید کلمه‌ای است که نباید حفظ کنید. و وقتی شروع به noticing الگوها کنید — t → ss, d → t, k → ch — می‌توانید کلمات آلمانی که هرگز ندیده‌اید را **حدس بزنید**.
 
-That's not cheating. That's pattern recognition, and it's how real language learning works.
+این تقلب نیست. این تشخیص الگو است و این‌گونه یادگیری واقعی زبان کار می‌کند.
 
-## How to Find More
+## چگونه بیشتر پیدا کنید
 
-Open any German text and look for words that feel familiar. You'll spot dozens. *Mutter, Vater, Schwester, Bruder, Sonne, Mond, Stern, Garten, Fenster, Tisch, Stuhl* — mother, father, sister, brother, sun, moon, star, garden, window, table, chair. The connections are everywhere once you start looking.
+هر متنی آلمانی را باز کنید و کلماتی که آشنا به نظر می‌رسند را جستجو کنید. ده‌ها تا پیدا خواهید کرد. *Mutter, Vater, Schwester, Bruder, Sonne, Mond, Stern, Garten, Fenster, Tisch, Stuhl* — مادر، پدر، خواهر، برادر، خورشید، ماه، ستاره، باغ، پنجره، میز، صندلی. ارتباطات وقتی شروع به جستجو کنید همه جا هستند.
 
 ---
-
-*Want to discover more German you already know? [Open Das German Bot](https://t.me/dasgermanbot) — your first lesson takes 30 seconds.*
+*می‌خواهید آلمانی بیشتری که از قبل می‌دانید کشف کنید؟ [Das German Bot را باز کنید](https://t.me/dasgermanbot) — اولین درس شما فقط ۳۰ ثانیه طول می‌کشد.*

@@ -1,388 +1,221 @@
 ---
-title: "German Cases: Complete Guide to Die Fälle for Beginners"
-description: "Struggling with German cases? Master German cases (Nominative, Accusative, Dative, Genitive) with clear explanations. Learn when to use each case, how articles change, case endings for articles and pronouns, and practical examples for every case."
+title: "حالات آلمانی: راهنمای کامل Die Fälle برای مبتدیان"
+description: "با حالات آلمانی مشکل دارید؟ حالات آلمانی (نامیتیو، اکوزاتیو، داتیو، ژنتیو) را با توضیحات واضح یاد بگیرید. یاد بگیرید کدام حالت را چه زمان استفاده کنید، چگونه مقاله‌ها تغییر می‌کنند و مثال‌های عملی برای هر حالت."
 date: "2026-04-30"
 lang: "fa"
 image: ""
-tags: ["دستور زبان", "مبتدیان", "cases", "declension", "basics"]
+tags: ["دستور-زبان", "مبتدیان", "حالات", "تصریف", "پایه"]
 ---
 
+# حالات آلمانی: راهنمای کامل Die Fälle برای مبتدیان
 
-# German Cases: Complete Guide to Die Fälle for Beginners
+دارید آلمانی یاد می‌گیرید. می‌بینید: "Der Mann gibt der Frau das Buch."
 
-You're learning German. You see: "Der Mann gibt der Frau das Buch."
+گیج می‌شوید. **Der؟ Den؟ Dem؟** چرا مقاله‌ها مدام تغییر می‌کنند؟
 
-You're confused. **Der? Den? Dem?** Why do articles keep changing?
+حالات آلمانی (Die Fälle) ضروری هستند — هر مقاله، ضمیر و صفت بر اساس نقشش در جمله تغییر می‌کند.
 
-German cases (Die Fälle) are essential — every article, pronoun, and adjective changes based on its role in the sentence.
+**راه‌حل:** حالات آلمانی را با قوانین واضح، الگوها و ترفندهای حافظه‌ای یاد بگیرید.
 
-**The solution:** Master German cases with clear rules, patterns, and memory tricks.
+## حالات آلمانی چیستند؟
 
-## What Are German Cases?
+**چهار حالت آلمانی:**
 
-**The four German cases:**
+1. **نامیتیو (Nominativ)**
+   - **کاربرد:** نهاد جمله
+   - **سؤال:** چه کسی یا چه چیزی؟
+   - **مثال:** "Der Mann kommt." (مرد می‌آید.)
 
-1. **Nominative (Der Fall)**
-   - **Use:** Subject of the sentence
-   - **Question:** Who or what?
-   - **Example:** "Der Mann kommt." (The man is coming.)
+2. **اکوزاتیو (Akkusativ)**
+   - **کاربرد:** مفعول مستقیم، حرکت به سمت
+   - **سؤال:** چه کسی یا چه چیزی (عمل مستقیم)؟
+   - **مثال:** "Ich sehe den Mann." (مرد را می‌بینم.)
 
-2. **Accusative (Der Wenfall)**
-   - **Use:** Direct object, motion towards
-   - **Question:** Who or what (direct action)?
-   - **Example:** "Ich sehe den Mann." (I see the man.)
+3. **داتیو (Dativ)**
+   - **کاربرد:** مفعول غیرمستقیم، موقعیت، مکان
+   - **سؤال:** به چه کسی؟ کجا؟
+   - **مثال:** "Ich helfe dem Mann." (به مرد کمک می‌کنم.)
 
-3. **Dative (Der Wemfall)**
-   - **Use:** Indirect object, position, location
-   - **Question:** To whom? Where?
-   - **Example:** "Ich helfe dem Mann." (I help the man.)
+4. **ژنتیو (Genitiv)**
+   - **کاربرد:** مالکیت، روابط
+   - **سؤال:** مال چه کسی؟
+   - **مثال:** "Das ist das Auto des Mannes." (آن ماشین مرد است.)
+
+## مقاله‌های معرفه در حالات
 
-4. **Genitive (Der Wesfall)**
-   - **Use:** Possession, relationships
-   - **Question:** Whose?
-   - **Example:** "Das ist das Auto des Mannes." (That is the man's car.)
+**نحوه تغییر der, die, das:**
+
+| حالت | مذکر | مونث | خنثی | جمع |
+|------|-------|-------|-------|------|
+| نامیتیو | Der | Die | Das | Die |
+| اکوزاتیو | Den | Die | Das | Die |
+| داتیو | Dem | Der | Dem | Den (+ n) |
+| ژنتیو | Des | Der | Des | Der (+ n) |
 
-## Definite Articles in Cases
+## ضمیرهای شخصی در حالات
+
+**نحوه تغییر ich, du, er, sie, es:**
+
+| شخص | نامیتیو | اکوزاتیو | داتیو | ژنتیو |
+|------|----------|----------|--------|--------|
+| ich | ich | mich | mir | meiner |
+| du | du | dich | dir | deiner |
+| er | er | ihn | ihm | seiner |
+| sie | sie | sie | ihr | ihrer |
+| es | es | es | ihm | seiner |
+| wir | wir | uns | uns | unser |
+| ihr | ihr | euch | euch | euer |
+| Sie | Sie | Sie | Ihnen | Ihrer |
+
+## چه زمان از هر حالت استفاده کنید
+
+**راهنمای عملی:**
+
+**نامیتیو — نهاد**
+- **کاربرد:** نهاد جمله
+- **بعد از کلمات پرسشی:** Wer kommt? (چه کسی می‌آید؟)
+- **مثال:** "Der Mann singt." (مرد آواز می‌خواند.)
 
-**How der, die, das change:**
+**اکوزاتیو — مفعول مستقیم**
+- **کاربرد:** بعد از افعال دیدن، شنیدن، خوردن و غیره
+- **حرکت به سمت:** Ich gehe in den Park. (به پارک می‌روم.)
+- **بعد از حروف اضافه مشخص:** für, durch, ohne, gegen
+- **مثال:** "Ich sehe den Hund." (سگ را می‌بینم.)
 
-5. **Nominative (subject position)**
-   - Masculine: **Der**
-   - Feminine: **Die**
-   - Neuter: **Das**
-   - Plural: **Die**
-   - **Example:** "Der Mann sitzt hier."
+**داتیو — مفعول غیرمستقیم**
+- **کاربرد:** بعد از افعال دادن، کمک کردن، گفتن
+- **بعد از حروف اضافه مشخص:** mit, von, bei, zu, nach, aus, seit
+- **حروف اضافه دوطرفه (ایستا):** in, auf, an, unter, vor, hinter, neben, zwischen
+- **مثال:** "Ich helfe dem Mann." (به مرد کمک می‌کنم.)
 
-6. **Accusative (direct object)**
-   - Masculine: **Den**
-   - Feminine: **Die**
-   - Neuter: **Das**
-   - Plural: **Die**
-   - **Example:** "Ich sehe den Mann."
+**ژنتیو — مالکیت**
+- **کاربرد:** نشان دادن مالکیت یا رابطه
+- **معمولاً بعد از حروف اضافه:** während, trotz, wegen, innerhalb, außerhalb
+- **مثال:** "Das Auto des Mannes ist rot." (ماشین مرد قرمز است.)
 
-7. **Dative (indirect object/position)**
-   - Masculine: **Dem**
-   - Feminine: **Der**
-   - Neuter: **Dem**
-   - Plural: **Den** (+ n)
-   - **Example:** "Ich gebe dem Mann das Buch."
+## چگونه حالت را شناسایی کنید
 
-8. **Genitive (possession)**
-   - Masculine: **Des**
-   - Feminine: **Der**
-   - **Neuter: **Des**
-   - Plural: **Der** (+ n)
-   - **Example:** "Das ist das Buch des Mannes."
-
-## Case Reference Table
-
-**Quick guide to article changes:**
-
-| Case | Masculine | Feminine | Neuter | Plural |
-|-------|-----------|----------|--------|---------|
-| Nominative | Der | Die | Das | Die |
-| Accusative | Den | Die | Das | Die |
-| Dative | Dem | Der | Dem | Den (+ n) |
-| Genitive | Des | Der | Des | Der (+ n) |
-
-## Personal Pronouns in Cases
+**سؤالاتی که از خود بپرسید:**
 
-**How ich, du, er, sie, es change:**
-
-9. **First person (ich, wir)**
-   - **Nominative:** ich, wir
-   - **Accusative:** mich, uns
-   - **Dative:** mir, uns
-   - **Genitive:** meiner, unser
-
-10. **Second person informal (du, ihr)**
-    - **Nominative:** du, ihr
-    - **Accusative:** dich, euch
-    - **Dative:** dir, euch
-    - **Genitive:** deiner, euer
-
-11. **Third person (er, sie, es, sie plural)**
-    - **Nominative:** er, sie, es, sie
-    - **Accusative:** ihn, sie, es, sie
-    - **Dative:** ihm, ihr, ihm, ihnen
-    - **Genitive:** seiner, ihrer, seiner, ihrer
-
-## When to Use Each Case
-
-**Practical guide:**
-
-12. **Nominative — The Subject**
-    - **Use:** Subject of the sentence
-    - **Verb position:** Always first (in statements)
-    - **After question words:** Wer kommt? (Who is coming?)
-    - **Example:** "Der Mann singt." (The man is singing.)
-
-13. **Accusative — The Direct Object**
-    - **Use:** After verbs of seeing, hearing, eating, etc.
-    - **Motion towards:** Ich gehe in den Park. (I go into the park.)
-    - **After certain prepositions:** für, durch, ohne, gegen
-    - **Example:** "Ich sehe den Hund." (I see the dog.)
-
-14. **Dative — The Indirect Object**
-    - **Use:** After verbs of giving, helping, saying
-    - **After certain prepositions:** mit, von, bei, zu, nach, aus, zu, seit, bei
-    - **Two-way prepositions (static):** in, auf, an, unter, vor, hinter, neben, zwischen
-    - **Example:** "Ich helfe dem Mann." (I help the man.)
-
-15. **Genitive — Possession**
-    - **Use:** Showing ownership or relationship
-    - **Usually after prepositions:** während, trotz, wegen, innerhalb, außerhalb
-    - **Example:** "Das Auto des Mannes ist rot." (The man's car is red.)
-
-## How to Identify the Case
-
-**Questions to ask yourself:**
-
-16. **Nominative: Who/What is doing the action?**
-    - **Question:** "Wer oder was?"
-    - **Example:** "Der Mann schläft." (The man is sleeping.)
-
-17. **Accusative: Who/What is receiving the action directly?**
-    - **Question:** "Wen oder was?"
-    - **Example:** "Ich treffe den Mann." (I hit the man.)
-
-18. **Dative: To whom is the action directed?**
-    - **Question:** "Wem?"
-    - **Example:** "Ich gebe dem Mann ein Buch." (I give the man a book.)
-
-19. **Genitive: Whose is it?**
-    - **Question:** "Wessen?"
-    - **Example:** "Das ist das Buch des Mannes." (That's the man's book.)
-
-## Prepositions and Their Cases
-
-**Which prepositions take which case:**
-
-20. **Accusative prepositions (always)**
-    - **für** (for): "Ich mache das für dich."
-    - **durch** (through): "Wir gehen durch den Park."
-    - **ohne** (without): "Ich komme ohne dich."
-    - **gegen** (against): "Wir spielen gegen sie."
-    - **um** (around/at): "Wir laufen um den Block."
-
-21. **Dative prepositions (always)**
-    - **mit** (with): "Ich komme mit dir."
-    - **von** (from): "Ich komme von dir."
-    - **bei** (at): "Ich bin bei dir."
-    - **zu** (to): "Ich gehe zu dir."
-    - **nach** (after/to): "Ich gehe nach dir."
-    - **aus** (from): "Ich komme aus dem Haus."
-    - **seit** (since): "Ich bin seit einer Stunde hier."
-    - **außer** (except): "Alle außer mir kommen."
-    - **bei** (at): "Ich bin bei meiner Mutter."
-
-22. **Two-way prepositions (accusative OR dative)**
-    - **Accusative (motion):** Ich gehe in das Kino. (I go into the cinema.)
-    - **Dative (location):** Ich bin im Kino. (I am in the cinema.)
-    - **The WO-WOHIN rule:** Motion = accusative, Location = dative
-    - **List:** in, auf, an, unter, über, vor, hinter, neben, zwischen
-
-## Indefinite Articles in Cases
-
-**How ein, eine, ein change:**
-
-23. **Nominative**
-    - Masculine: **ein**
-    - Feminine: **eine**
-    - Neuter: **ein**
-    - **Plural:** - (no article)
-
-24. **Accusative**
-    - Masculine: **einen**
-    - Feminine: **eine**
-    - Neuter: **ein**
-    - **Plural:** - (no article)
-
-25. **Dative**
-    - Masculine: **einem**
-    - Feminine: **einer**
-    - Neuter: **einem**
-    - **Plural:** - (no article)
-
-26. **Genitive**
-    - Masculine: **eines**
-    - Feminine: **einer**
-    - Neuter: **eines**
-    - **Plural:** - (no article)
-
-## Possessive Articles
-
-**Showing whose something is:**
-
-27. **My (mein, meine, mein, meine)**
-    - **Nominative:** mein, meine, mein, meine
-    - **Accusative:** meinen, meine, mein, meine
-    - **Dative:** meinem, meiner, meinem, meinen
-    - **Genitive:** meines, meiner, meines, meiner
-
-28. **Your (dein, deine, dein, deine)**
-    - **Nominative:** dein, deine, dein, deine
-    - **Accusative:** deinen, deine, dein, deine
-    - **Dative:** deinem, deiner, deinem, deinen
-    - **Genitive:** deines, deiner, deines, deiner
-
-29. **His/Her/Its (sein, ihre, sein, ihre)**
-    - **Nominative:** sein, ihre, sein, ihre
-    - **Accusative:** seinen, ihre, sein, seine
-    - **Dative:** seinem, seiner, seinem, seinen
-    - **Genitive:** seines, seiner, seines, seiner
-
-## Question Words in Cases
-
-**Interrogative pronouns change too:**
-
-30. **Wer** (who) — only nominative usually
-    - "Wer kommt?" (Who is coming?)
-    - Accusative: Wen (whom) — "Wen siehst du?"
-    - Dative: Wem (to whom) — "Wem hilfst du?"
-    - Genitive: Wessen (whose) — "Wessen Buch ist das?"
+- **نامیتیو: چه کسی/چه چیزی عمل را انجام می‌دهد؟** → "Wer oder was?"
+- **اکوزاتیو: چه کسی/چه چیزی مستقیماً عمل را دریافت می‌کند؟** → "Wen oder was?"
+- **داتیو: عمل به چه کسی هدایت شده؟** → "Wem?"
+- **ژنتیو: مال چه کسی است؟** → "Wessen?"
 
-31. **Was** (what)
-    - Nominative/Accusative: "Was siehst du?"
-    - "Was hast du?" (What do you have?)
+## حروف اضافه و حالاتشان
 
-32. **Wo** (where)
-    - "Wo bist du?" (Where are you? — location)
-    - "Wohin gehst du?" (Where are you going? — direction)
-    - "Woher kommst du?" (Where are you coming from? — origin)
+**حروف اضافه اکوزاتیو (همیشه):**
+- **für** (برای): "Ich mache das für dich."
+- **durch** (از طریق): "Wir gehen durch den Park."
+- **ohne** (بدون): "Ich komme ohne dich."
+- **gegen** (علیه): "Wir spielen gegen sie."
+- **um** (دور/در): "Wir laufen um den Block."
 
-33. **Wie** (how)
-    - "Wie geht es dir?" (How are you? — dative)
-    - "Wie machst du das?" (How do you do that?)
+**حروف اضافه داتیو (همیشه):**
+- **mit** (با): "Ich komme mit dir."
+- **von** (از): "Ich komme von dir."
+- **bei** (نزد/در): "Ich bin bei dir."
+- **zu** (به): "Ich gehe zu dir."
+- **nach** (بعد/به): "Ich gehe nach dir."
+- **aus** (از): "Ich komme aus dem Haus."
+- **seit** (از زمان): "Ich bin seit einer Stunde hier."
 
-## Common Case Patterns
+**حروف اضافه دوطرفه (اکوزاتیو یا داتیو):**
+- **اکوزاتیو (حرکت):** Ich gehe in das Kino. (به سینما می‌روم.)
+- **داتیو (مکان):** Ich bin im Kino. (در سینما هستم.)
+- **قانون WO-WOHIN:** حرکت = اکوزاتیو، مکان = داتیو
 
-**Everyday situations:**
+## مقاله‌های نکره در حالات
 
-34. **Giving something to someone**
-    - "Ich gebe der Frau ein Buch." (I give the woman a book.)
-    - Subject: ich (nominative)
-    - Verb: gebe (conjugated)
-    - Indirect object: der Frau (dative)
-    - Direct object: ein Buch (accusative)
+| حالت | مذکر | مونث | خنثی |
+|------|-------|-------|-------|
+| نامیتیو | ein | eine | ein |
+| اکوزاتیو | einen | eine | ein |
+| داتیو | einem | einer | einem |
+| ژنتیو | eines | einer | eines |
 
-35. **Seeing something/someone**
-    - "Ich sehe das Auto." (I see the car.)
-    - Direct object: das Auto (accusative, neuter)
+## مقاله‌های ملکی
 
-36. **Helping someone**
-    - "Ich helfe dem Kind." (I help the child.)
-    - Indirect object: dem Kind (dative)
-    - **Note:** Helfen always takes dative
+**من (mein):**
+- **نامیتیو:** mein, meine, mein, meine
+- **اکوزاتیو:** meinen, meine, mein, meine
+- **داتیو:** meinem, meiner, meinem, meinen
+- **ژنتیو:** meines, meiner, meines, meiner
 
-37. **Talking about possession**
-    - "Das ist der Hund des Nachbarn." (That's the neighbor's dog.)
-    - Possession: des Nachbarn (genitive)
+**تو (dein):**
+- **نامیتیو:** dein, deine, dein, deine
+- **اکوزاتیو:** deinen, deine, dein, deine
+- **داتیو:** deinem, deiner, deinem, deinen
+- **ژنتیو:** deines, deiner, deines, deiner
 
-## Case Endings for Adjectives
+## الگوهای رایج حالات
 
-**Basic overview:**
+**دادن چیزی به کسی:**
+- "Ich gebe der Frau ein Buch." (به زن کتابی می‌دهم.)
+- نهاد: ich (نامیتیو)
+- مفعول غیرمستقیم: der Frau (داتیو)
+- مفعول مستقیم: ein Buch (اکوزاتیو)
 
-38. **After der-words (der/die/das/dieser/diese/dieses)**
-    - Strong and mixed endings
-    - **Example:** "Der gute Mann" (the good man) — nominative
-    - **Example:** "Den guten Mann" (the good man) — accusative
-    - **Example:** "Dem guten Mann" (the good man) — dative
-    - **Example:** "Des guten Mannes" (of the good man) — genitive
+**دیدن چیزی/کسی:**
+- "Ich sehe das Auto." (ماشین را می‌بینم.)
+- مفعول مستقیم: das Auto (اکوزاتیو، خنثی)
 
-39. **After ein-words**
-    - Similar pattern but different endings
-    - **Example:** "Ein guter Mann" (a good man)
-    - **Example:** "Einen guten Mann"
-    - **Example:** "Einem guten Mann"
-    - **Example:** "Eines guten Mannes"
+**کمک به کسی:**
+- "Ich helfe dem Kind." (به بچه کمک می‌کنم.)
+- مفعول غیرمستقیم: dem Kind (داتیو)
+- **نکته:** Helfen همیشه داتیو می‌گیرد
 
-## Practice Examples
+**صحبت درباره مالکیت:**
+- "Das ist der Hund des Nachbarn." (آن سگ همسایه است.)
+- مالکیت: des Nachbarn (ژنتیو)
 
-**Identify the case:**
+## اشتباهات رایج که باید از آن‌ها اجتناب کنید
 
-40. "Ich sehe ___ Hund."
-    → **den** (accusative)
+### اشتباه ۱: حالت اشتباه با افعال
 
-41. "Das ist ___ Auto meines Vaters."
-    → **meines** (genitive)
+غلط: "Ich sehe der Mann"
+درست: "Ich sehe den Mann"
 
-42. "Ich helfe ___ Frau."
-    → **der** (dative)
+**قانون:** دیدن اکوزاتیو می‌گیرد.
 
-43. "___ Mann kommt."
-    → **Der** (nominative)
+### اشتباه ۲: حالت اشتباه با فعل کمکی
 
-44. "Ich spreche mit ___ Kind."
-    → **dem** (dative)
+غلط: "Ich helfe den Mann"
+درست: "Ich helfe dem Mann"
 
-## Memory Tricks
+**قانون:** Helfen همیشه داتیو می‌گیرد.
 
-**How to remember cases:**
+### اشتباه ۳: حالت اشتباه بعد از حروف اضافه
 
-45. **Nominative = Naming**
-    - The "name" or "default" case
-    - Think: "Nominative = Name"
+غلط: "Ich bin zu der Hause"
+درست: "Ich bin zu Hause"
 
-46. **Accusative = Action target**
-    - The "target" of the action
-    - Think: "Accusative = Action target"
+**قانون:** برخی حروف اضافه به مقاله نیاز ندارند.
 
-47. **Dative = Destination/Recipient**
-    - The "receiver" or "location"
-    - Think: "Dative = Destination"
+## جدول خلاصه سریع
 
-48. **Genitive = Generator of possession**
-    - Shows "whose" something is
-    - Think: "Genitive = Generator (possession)"
+| حالت | کاربرد | سؤال | حروف اضافه کلیدی |
+|------|--------|------|------------------|
+| نامیتیو | نهاد | Wer/was? | - |
+| اکوزاتیو | مفعول، حرکت | Wen/was? | für, durch, ohne, gegen, um |
+| داتیو | گیرنده، مکان | Wem? | mit, von, bei, zu, nach, aus, seit |
+| ژنتیو | مالکیت | Wessen? | während, trotz, wegen |
 
-## Common Mistakes to Avoid
+## حرف آخر
 
-### Mistake 1: Wrong case with verbs
+حالات آلمانی از الگوها پیروی می‌کنند:
 
-❌ "Ich sehe der Mann" (incorrect)
-✅ "Ich sehe den Mann" (correct)
+1. **نامیتیو:** نهاد، نام‌گذاری
+2. **اکوزاتیو:** مفعول مستقیم، حرکت
+3. **داتیو:** مفعول غیرمستقیم، موقعیت
+4. **ژنتیو:** مالکیت، روابط
+5. **مقاله‌ها تغییر می‌کنند:** Der/den/dem/des, die/die/der/der
+6. **ضمیرها تغییر می‌کنند:** Mich/mir/mir/meiner
+7. **حروف اضافه دیکته می‌کنند:** باید حفظ کنید کدام حرف اضافه کدام حالت می‌گیرد
 
-**Rule:** Seeing takes accusative.
+**نکته حرفه‌ای:** با **رایج‌ترین موقعیت‌ها** شروع کنید — نهاد (نامیتیو)، مفعول مستقیم (اکوزاتیو)، کمک کردن (داتیو). این سه را اول یاد بگیرید، بعد ژنتیو را در آخر انجام دهید (در گفتار روزمره کمترین کاربرد را دارد). و یادتان باشد: حالات آلمانی درباره نقش هر کلمه در جمله هستند، نه تغییرات تصادفی!
 
-### Mistake 2: Wrong case with helping verb
-
-❌ "Ich helfe den Mann" (incorrect)
-✅ "Ich helfe dem Mann" (correct)
-
-**Rule:** Helfen always takes dative.
-
-### Mistake 3: Wrong case after prepositions
-
-❌ "Ich bin zu der Hause" (incorrect)
-✅ "Ich bin zu Hause" (correct)
-
-**Rule:** Some prepositions don't need articles.
-
-## Quick Summary Table
-
-| Case | Use | Question | Key Prepositions |
-|------|-----|----------|------------------|
-| Nominative | Subject | Wer/was? | - |
-| Accusative | Object, motion | Wen/was? | für, durch, ohne, gegen, um |
-| Dative | Recipient, location | Wem? | mit, von, bei, zu, nach, aus, seit |
-| Genitive | Possession | Wessen? | während, trotz, wegen |
-
-## The Bottom Line
-
-German cases follow patterns:
-
-1. **Nominative:** Subject, naming
-2. **Accusative:** Direct object, motion
-3. **Dative:** Indirect object, position
-4. **Genitive:** Possession, relationships
-5. **Articles change:** Der/den/dem/des, die/die/der/der
-6. **Pronouns change:** Mich/mir/mir/meiner
-7. **Prepositions dictate:** Must memorize which preposition takes which case
-
-**Pro tip:** Start with **the most common situations** — subject (Nominative), direct object (Accusative), helping (Dative). Master these three first, then tackle Genitive last (it's least common in everyday speech). And remember: German cases are about function in the sentence, not random changes!
-
-Your German case mastery starts with understanding what role each word plays in the sentence. Viel Erfolg!
+تسلط شما بر حالات آلمانی با درک نقش هر کلمه در جمله شروع می‌شود. Viel Erfolg!
 
 ---
-*Ready to master German cases through interactive practice? [Open Das German Bot](https://t.me/dasgermanbot) — your first lesson takes 30 seconds.*
+*آماده‌اید حالات آلمانی را از طریق تمرین تعاملی یاد بگیرید؟ [Das German Bot را باز کنید](https://t.me/dasgermanbot) — اولین درس شما فقط ۳۰ ثانیه طول می‌کشد.*

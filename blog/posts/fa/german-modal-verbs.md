@@ -1,55 +1,54 @@
 ---
-title: "German Modal Verbs: Complete Guide (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)"
-description: "Master German modal verbs! Learn the 6 modal verbs können, müssen, wollen, dürfen, sollen, mögen with meanings, conjugation, usage rules, and difference from English. Complete guide with examples, charts, and common mistakes to avoid."
+title: "افعال وجهی آلمانی: راهنمای کامل (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)"
+description: "افعال وجهی آلمانی را یاد بگیرید! ۶ فعل وجهی können, müssen, wollen, dürfen, sollen, mögen را با معانی، صرف، قوانین کاربرد و تفاوت با انگلیسی یاد بگیرید."
 date: "2026-05-01"
 lang: "fa"
 image: ""
-tags: ["verbs", "دستور زبان", "مبتدیان", "essential", "communication"]
+tags: ["افعال", "دستور-زبان", "مبتدیان", "ضروری", "ارتباط"]
 ---
 
+# افعال وجهی آلمانی: راهنمای کامل برای یادگیری ۶ فعل وجهی
 
-# German Modal Verbs: Complete Guide to Mastering the 6 Modals
+افعال وجهی از مهم‌ترین افعال در آلمانی هستند. هر روز از آن‌ها استفاده می‌کنید تا بیان کنید چه چیزی می‌توانید انجام دهید، باید انجام دهید، می‌خواهید انجام دهید، اجازه دارید انجام دهید و دوست دارید انجام دهید.
 
-Modal verbs are among the most important verbs in German. You'll use them every day to express what you can do, must do, want to do, may do, should do, and like to do.
+**خبر خوب:** فقط ۶ فعل وجهی در آلمانی وجود دارد و الگوهای قابل پیش‌بینی دارند. وقتی آن‌ها را یاد بگیرید، توانایی بیان خود به آلمانی به طرز چشمگیری گسترش می‌یابد.
 
-**The good news:** There are only 6 modal verbs in German, and they follow predictable patterns. Once you master them, your ability to express yourself in German will expand dramatically.
+## افعال وجهی چیستند؟
 
-## What Are Modal Verbs?
+افعال وجهی معنی فعل اصلی جمله را تغییر می‌دهند. آن‌ها بیان می‌کنند:
 
-Modal verbs modify the meaning of the main verb in a sentence. They express:
+- **توانایی** (می‌توانم) → können
+- **ضرورت** (باید) → müssen
+- **خواستن** (می‌خواهم) → wollen
+- **اجازه** (مجاز هستم) → dürfen
+- **تکلیف/مشوره** (باید) → sollen
+- **ترجیح** (دوست دارم) → mögen
 
-- **Ability** (can) → können
-- **Necessity** (must) → müssen
-- **Desire** (want to) → wollen
-- **Permission** (may/be allowed to) → dürfen
-- **Obligation/Advice** (should) → sollen
-- **Preference** (like to) → mögen
+**مثال:**
+- **Ich kann Deutsch sprechen.** (می‌توانم آلمانی صحبت کنم)
+  - kann (وجهی) sprechen (فعل اصلی) را تغییر می‌دهد
 
-**Example:**
-- **Ich kann Deutsch sprechen.** (I can speak German)
-  - kann (modal) modifies sprechen (main verb)
+## ۶ فعل وجهی آلمانی
 
-## The 6 German Modal Verbs
+| فعل وجهی | معنی | معادل انگلیسی |
+|----------|-------|----------------|
+| **können** | توانستن، می‌توانم | can |
+| **müssen** | باید کردن، مجبور بودن | must |
+| **wollen** | خواستن | want to |
+| **dürfen** | اجازه داشتن، مجاز بودن | may |
+| **sollen** | باید کردن (تکلیف)، شایسته بودن | should |
+| **mögen** | دوست داشتن | to like |
 
-| Modal Verb | Meaning | English Equivalent |
-|------------|---------|-------------------|
-| **können** | to be able to, can | can |
-| **müssen** | to have to, must | must |
-| **wollen** | to want to | want to |
-| **dürfen** | to be allowed to, may | may/be allowed to |
-| **sollen** | to be supposed to, should | should/ought to |
-| **mögen** | to like (something) | to like |
+## صرف افعال وجهی
 
-## Conjugation of Modal Verbs
+افعال وجهی در مفرد (ich, du, er/sie/es) صرف نامنظم دارند، اما در جمع (wir, ihr, Sie) منظم هستند.
 
-Modal verbs have irregular conjugation in the singular (ich, du, er/sie/es), but regular in the plural (wir, ihr, Sie).
+**الگوی کلیدی:** مصوت در اشکال مفرد تغییر می‌کند!
 
-**Key pattern:** The vowel changes in singular forms!
+### صرف زمان حال
 
-### Present Tense Conjugation
-
-| Person | können | müssen | wollen | dürfen | sollen | mögen |
-|--------|---------|---------|---------|---------|---------|--------|
+| شخص | können | müssen | wollen | dürfen | sollen | mögen |
+|------|---------|---------|---------|---------|---------|--------|
 | **ich** | kann | muss | will | darf | soll | mag |
 | **du** | kannst | musst | willst | darfst | sollst | magst |
 | **er/sie/es** | kann | muss | will | darf | soll | mag |
@@ -57,317 +56,182 @@ Modal verbs have irregular conjugation in the singular (ich, du, er/sie/es), but
 | **ihr** | könnt | müsst | wollt | dürft | sollt | mögt |
 | **Sie** | können | müssen | wollen | dürfen | sollen | mögen |
 
-**Memory tricks:**
-- **können/müssen**: Only umlaut in **ich/er/sie/es**
-- **wollen/sollen/mögen**: No umlaut anywhere
-- **dürfen**: Extra -e in **du** form (darfst)
+## معانی و کاربرد دقیق
 
-## Detailed Meanings and Usage
+### ۱. Können (توانستن/می‌توانم)
 
-### 1. Können (Can/To Be Able To)
+**معنی:** توانایی، امکان، دانش
 
-**Meaning:** Ability, possibility, knowledge
+- **Ich kann schwimmen.** (می‌توانم شنا کنم)
+- **Kannst du mir helfen?** (می‌توانی کمکم کنی؟)
+- **Er kann Deutsch.** (او آلمانی بلد است)
 
-**Examples:**
-- **Ich kann schwimmen.** (I can swim)
-- **Kannst du mir helfen?** (Can you help me?)
-- **Er kann Deutsch.** (He knows German / He can speak German)
-- **Das kann wahr sein.** (That can be true)
+**مهم:** "Können" توانایی را بیان می‌کند، نه اجازه. برای اجازه از "dürfen" استفاده کنید!
 
-**Important:** "Können" expresses ability, not permission. Use "dürfen" for permission!
+### ۲. Müssen (باید کردن/مجبور بودن)
 
-**False friend warning:** "Können" can mean "to know" in some contexts:
-- **Ich kann das.** (I know how to do that)
+**معنی:** ضرورت، الزام، نیاز قوی
 
-### 2. Müssen (Must/To Have To)
+- **Ich muss gehen.** (باید بروم)
+- **Du musst lernen.** (باید درس بخوانی)
+- **Wir müssen um 8 Uhr da sein.** (باید ساعت ۸ آنجا باشیم)
 
-**Meaning:** Necessity, obligation, strong need
+### ۳. Wollen (خواستن)
 
-**Examples:**
-- **Ich muss gehen.** (I must go / I have to go)
-- **Du musst lernen.** (You must study)
-- **Wir müssen um 8 Uhr da sein.** (We have to be there at 8)
-- **Das muss gemacht werden.** (That must be done)
+**معنی:** خواسته قوی، آرزو، نیت
 
-**Usage tip:** "Müssen" expresses strong necessity. For suggestions, use "sollen."
+- **Ich will nach Deutschland.** (می‌خواهم به آلمان بروم)
+- **Was willst du essen?** (چه چیزی می‌خواهی بخوری؟)
+- **Sie will Deutsch lernen.** (او می‌خواهد آلمانی یاد بگیرد)
 
-### 3. Wollen (To Want To)
+**مهم:** "Wollen" خواسته قوی را بیان می‌کند. برای درخواست‌های مودبانه از "möchten" استفاده کنید:
+- **Ich möchte einen Kaffee.** (یک قهوه می‌خواستم) ← مودبانه
+- **Ich will einen Kaffee.** (قهوه می‌خواهم) ← طلبکارانه
 
-**Meaning:** Strong desire, wish, intention
+### ۴. Dürfen (اجازه داشتن/مجاز بودن)
 
-**Examples:**
-- **Ich will nach Deutschland.** (I want to go to Germany)
-- **Was willst du essen?** (What do you want to eat?)
-- **Sie will Deutsch lernen.** (She wants to learn German)
-- **Wir wollen ein Haus kaufen.** (We want to buy a house)
+**معنی:** اجازه، امکان (رسمی)
 
-**Important:** "Wollen" expresses strong will/desire. For polite requests, use "möchten" (subjunctive of mögen):
-- **Ich möchte einen Kaffee.** (I would like a coffee) ← Polite
-- **Ich will einen Kaffee.** (I want a coffee) ← Demanding
+- **Darf ich hereinkommen?** (اجازه هست وارد شوم؟)
+- **Du darfst nicht rauchen.** (اجازه نداری سیگار بکشی)
+- **Hier darf man parken.** (اینجا پارک کردن مجاز است)
 
-### 4. Dürfen (May/To Be Allowed To)
+**نکته کاربرد:** برای اجازه از "dürfen" استفاده کنید، نه "können"!
 
-**Meaning:** Permission, possibility (formal)
+### ۵. Sollen (باید/شایسته بودن)
 
-**Examples:**
-- **Darf ich hereinkommen?** (May I come in?)
-- **Du darfst nicht rauchen.** (You are not allowed to smoke / You must not smoke)
-- **Hier darf man parken.** (One is allowed to park here)
-- **Das darf nicht wahr sein.** (That can't be true)
+**معنی:** مشوره، الزام اخلاقی، انتظار
 
-**Usage tip:** Use "dürfen" for permission, not "können"!
+- **Du solltest mehr lernen.** (باید بیشتر درس بخوانی)
+- **Wir sollen um 7 Uhr ankommen.** (قرار است ساعت ۷ برسیم)
+- **Was soll ich tun?** (باید چه کار کنم؟)
 
-### 5. Sollen (Should/To Be Supposed To)
+**تفاوت:**
+- **Ich muss das tun.** (باید این کار را بکنم — ضرورت درونی)
+- **Ich soll das tun.** (قرار است این کار را بکنم — کسی از من انتظار دارد)
 
-**Meaning:** Advice, moral obligation, expectation
+### ۶. Mögen (دوست داشتن)
 
-**Examples:**
-- **Du solltest mehr lernen.** (You should study more)
-- **Wir sollen um 7 Uhr ankommen.** (We're supposed to arrive at 7)
-- **Man soll nicht lügen.** (One should not lie)
-- **Was soll ich tun?** (What am I supposed to do?)
+**معنی:** ترجیح، سلیقه (معمولاً با اسم‌ها استفاده می‌شود، نه افعال)
 
-**Important:** "Sollen" expresses external obligation (what others expect). For internal moral obligation, use "müssen."
+- **Ich mag Kaffee.** (قهوه دوست دارم)
+- **Magst du Schokolade?** (شکلات دوست داری؟)
+- **Wir mögen das Auto.** (ما ماشین را دوست داریم)
 
-**Difference:**
-- **Ich muss das tun.** (I must do this — internal necessity)
-- **Ich soll das tun.** (I'm supposed to do this — someone expects me to)
+**مهم:** برای دوست داشتن فعالیت‌ها از "gerne" با فعل اصلی استفاده کنید:
+- **Ich schwimme gerne.** (شنا کردن دوست دارم) ← نه "Ich mag schwimmen"
 
-### 6. Mögen (To Like)
+**Möchten (می‌خواستم):**
+- **Ich möchte bezahlen.** (می‌خواهم پرداخت کنم)
+- **Möchten Sie etwas trinken?** (چیزی برای نوشیدن می‌خواهید؟)
 
-**Meaning:** Preference, taste (usually used with nouns, not verbs)
+## افعال وجهی در جملات
 
-**Examples:**
-- **Ich mag Kaffee.** (I like coffee)
-- **Magst du Schokolade?** (Do you like chocolate?)
-- **Er mag deutsche Musik.** (He likes German music)
-- **Wir mögen das Auto.** (We like the car)
+### ساختار پایه جمله
 
-**Important:** "Mögen" is typically used with nouns. For liking activities, Germans often use "gerne" with the main verb:
-- **Ich schwimme gerne.** (I like to swim) ← Not "Ich mag schwimmen"
-- **Ich spiele gerne Fußball.** (I like to play soccer)
+**الگو:** [نهاد] + [فعل وجهی] + [مصدر فعل اصلی] + [بقیه جمله]
 
-**Möchten (Would Like):**
-- **Ich möchte bezahlen.** (I would like to pay)
-- **Möchten Sie etwas trinken?** (Would you like something to drink?)
+- **Ich muss gehen jetzt.** = باید الان بروم.
+- **Du kannst kommen heute.** = می‌توانی امروز بیایی.
 
-## Modal Verbs in Sentences
+**مهم:** فعل اصلی همیشه به شکل مصدر در انتها می‌رود!
 
-### Basic Sentence Structure
+### با افعال جدا شدنی
 
-**Pattern:** [Subject] + [Modal] + [Infinitive of Main Verb] + [Rest of Sentence]
+وقتی فعل اصلی جدا شدنی است، پیشوند متصل می‌ماند:
 
-**Examples:**
-- **Ich** (subject) **muss** (modal) **gehen** (infinitive) **jetzt** (rest). = I must go now.
-- **Du** (subject) **kannst** (modal) **kommen** (infinitive) **heute** (rest). = You can come today.
+- **Ich muss aufstehen.** (باید بلند شوم) ← نه "Ich muss auf stehen"
+- **Wir wollen einkaufen gehen.** (می‌خواهیم خرید برویم)
 
-**Important:** The main verb always goes to the end in its infinitive form!
+### در سؤالات
 
-### With Separable Verbs
+**سؤالات بله/خیر:** فعل وجهی اول می‌آید، فعل اصلی در انتها
+- **Kannst du schwimmen?** (می‌توانی شنا کنی؟)
+- **Muss ich das tun?** (باید این کار را بکنم؟)
 
-When the main verb is separable, the prefix stays attached:
+**سؤالات W-:** کلمه پرسشی اول، بعد نهاد، بعد فعل وجهی، بعد فعل اصلی در انتها
+- **Was kannst du?** (چه کاری می‌توانی انجام دهی؟)
+- **Wann müssen wir gehen?** (کی باید برویم؟)
 
-- **Ich muss aufstehen.** (I must get up) ← NOT "Ich muss auf stehen"
-- **Kannst du das Fenster öffnen?** (Can you open the window?)
-- **Wir wollen einkaufen gehen.** (We want to go shopping)
+## افعال وجهی در زمان‌های مختلف
 
-### Modal Verbs + Time/Manner
+### زمان ساده گذشته (Präteritum)
 
-Time and manner information go between the modal and the main verb:
+| وجهی | گذشته ساده | معنی |
+|------|------------|-------|
+| können | **konnte** | می‌توانست |
+| müssen | **musste** | مجبور بود |
+| wollen | **wollte** | می‌خواست |
+| dürfen | **durfte** | اجازه داشت |
+| sollen | **sollte** | باید می‌کرد |
+| mögen | **mochte** | دوست داشت |
 
-- **Ich kann heute kommen.** (I can come today)
-- **Du musst gut lernen.** (You must study well)
-- **Er will Deutsch lernen.** (He wants to learn German)
+## اشتباهات رایج که باید از آن‌ها اجتناب کنید
 
-### In Questions
+### اشتباه ۱: استفاده از فعل وجهی اشتباه
 
-**Yes/No Questions:** Modal comes first, main verb at end
-- **Kannst du schwimmen?** (Can you swim?)
-- **Muss ich das tun?** (Must I do this?)
-- **Willst du mitkommen?** (Do you want to come along?)
+غلط: Ich **kann** hier rauchen.
+درست: Ich **darf** hier rauchen.
 
-**W-Questions:** Question word first, then subject, then modal, then main verb at end
-- **Was kannst du?** (What can you do?)
-- **Wann müssen wir gehen?** (When must we go?)
-- **Warum willst du Deutsch lernen?** (Why do you want to learn German?)
+**چرا:** "Können" = توانایی، "Dürfen" = اجازه
 
-## Modal Verbs in Different Tenses
+### اشتباه ۲: فراموش کردن مصدر در انتها
 
-### Perfect Tense (Perfekt)
+غلط: Ich muss **gehe**.
+درست: Ich muss **gehen**.
 
-Modal verbs use "haben" as the auxiliary verb. Both the modal and the main verb go to the end in their infinitive forms:
+**چرا:** فعل اصلی باید به شکل مصدر بماند!
 
-**Pattern:** [Subject] + habe/hast/hat... + [Modal infinitive] + [Main verb infinitive]
+### اشتباه ۳: صرف کردن فعل اصلی
 
-**Examples:**
-- **Ich habe schwimmen gekonnt.** (I could swim / I was able to swim)
-- **Er hat gehen müssen.** (He had to go)
-- **Wir haben kommen wollen.** (We wanted to come)
+غلط: Ich kann **schwimme**.
+درست: Ich kann **schwimmen**.
 
-**Important:** In Perfekt, both verbs stay in infinitive at the end!
+**چرا:** فعل اصلی به شکل مصدر می‌ماند!
 
-### Past Tense (Präteritum)
+### اشتباه ۴: Mögen در برابر Gerne
 
-Modal verbs have their own past forms:
+غلط: Ich **mag** schwimmen.
+درست: Ich schwimme **gerne**.
 
-| Modal | Simple Past | Meaning |
-|-------|-------------|---------|
-| können | **konnte** | could |
-| müssen | **musste** | had to |
-| wollen | **wollte** | wanted to |
-| dürfen | **durfte** | was allowed to |
-| sollen | **sollte** | was supposed to |
-| mögen | **mochte** | liked |
+**چرا:** برای فعالیت‌هایی که دوست دارید از "gerne" + فعل استفاده کنید!
 
-**Examples:**
-- **Ich konnte gestern nicht kommen.** (I couldn't come yesterday)
-- **Er musste nach Hause.** (He had to go home)
-- **Sie wollte Deutsch lernen.** (She wanted to learn German)
+## جدول مرجع سریع
 
-### Future Tense (Futur I)
+| موقعیت | فعل وجهی مناسب | مثال |
+|---------|----------------|-------|
+| توانایی | können | Ich kann schwimmen |
+| ضرورت قوی | müssen | Ich muss gehen |
+| اجازه | dürfen | Darf ich hier rauchen? |
+| خواسته قوی | wollen | Ich will nach Hause |
+| درخواست مودبانه | möchten | Ich möchte bezahlen |
+| الزام بیرونی | sollen | Ich soll lernen |
+| مشوره | sollen | Du solltest mehr lesen |
+| دوست داشتن اسم‌ها | mögen | Ich mag Kaffee |
+| دوست داشتن فعالیت‌ها | gerne + فعل | Ich schwimme gerne |
 
-With "werden," the modal stays in infinitive position:
+## خلاصه
 
-**Examples:**
-- **Ich werde können kommen.** (I will be able to come)
-- **Du musstest gehen werden.** (You will have to go)
-- **Er wird wollen lernen.** (He will want to learn)
+افعال وجهی آلمانی برای ارتباط روزمره ضروری هستند:
 
-## Common Mistakes to Avoid
+1. **Können** — توانایی (می‌توانم)
+2. **Müssen** — ضرورت (باید)
+3. **Wollen** — خواستن (می‌خواهم)
+4. **Dürfen** — اجازه (مجاز هستم)
+5. **Sollen** — الزام (باید/شایسته)
+6. **Mögen** — ترجیح (دوست دارم)
 
-### Mistake 1: Using Wrong Modal
+**قوانین کلیدی برای یادآوری:**
+- افعال وجهی در جمع به صورت عادی صرف می‌شوند
+- فعل اصلی به شکل مصدر در انتها می‌ماند
+- زمان/نحوه بین فعل وجهی و فعل اصلی می‌رود
+- برای اجازه از "dürfen" استفاده کنید، برای توانایی "können"
+- برای درخواست‌های مودبانه از "möchten" استفاده کنید، نه "wollen"
+- برای فعالیت‌هایی که دوست دارید از "gerne" + فعل استفاده کنید
 
-❌ Wrong: Ich **kann** hier rauchen. (Can I smoke here?)
-✅ Right: Ich **darf** hier rauchen. (Am I allowed to smoke here?)
+**نکته حرفه‌ای:** با "können," "müssen," و "wollen" شروع کنید — این‌ها رایج‌ترین هستند. وقتی با این‌ها راحت شدید، "dürfen," "sollen," و "mögen" را اضافه کنید.
 
-**Why:** "Können" = ability, "Dürfen" = permission
-
-### Mistake 2: Forgetting Infinitive at End
-
-❌ Wrong: Ich muss **gehe**.
-✅ Right: Ich muss **gehen**.
-
-**Why:** Main verb must stay in infinitive at the end!
-
-### Mistake 3: Conjugating Main Verb
-
-❌ Wrong: Ich kann **schwimme**.
-✅ Right: Ich kann **schwimmen**.
-
-**Why:** The main verb stays in infinitive form!
-
-### Mistake 4: Wrong Word Order with Time
-
-❌ Wrong: Ich kann heute **nicht** kommen.
-✅ Right: Ich kann **heute** nicht kommen.
-
-**Why:** Time expressions go before the negation "nicht" (usually).
-
-### Mistake 5: Mögen vs Gerne
-
-❌ Wrong: Ich **mag** schwimmen.
-✅ Right: Ich schwimme **gerne**.
-
-**Why:** Use "gerne" + verb for activities you like doing!
-
-## Modal Verbs vs. English Modals
-
-| English | German | Notes |
-|---------|---------|-------|
-| can | können | Ability (dürfen = permission) |
-| must | müssen | Strong necessity |
-| have to | müssen | Same as "must" in German |
-| want to | wollen | Strong desire (möchten = polite) |
-| may | dürfen | Permission (können = possibility) |
-| should | sollen | External obligation (müssen = internal) |
-| would like | möchten | Polite form of "wollen" |
-| like to | gerne + verb | For activities |
-| like | mögen | For nouns only |
-
-## Practice Examples
-
-### Exercise 1: Fill in the Correct Modal
-
-1. Ich ___ Deutsch lernen. (want to) → **will**
-2. Du ___ schwimmen. (can) → **kannst**
-3. Er ___ nach Hause gehen. (must) → **muss**
-4. Wir ___ heute kommen. (are allowed to) → **dürfen**
-5. Sie ___ Kaffee trinken. (should) → **sollte**
-
-### Exercise 2: Translate to German
-
-1. I can speak German → **Ich kann Deutsch sprechen.**
-2. You must study hard → **Du musst viel lernen.**
-3. He wants to come → **Er will kommen.**
-4. We may go home → **Wir dürfen nach Hause gehen.**
-5. She should sleep more → **Sie sollte mehr schlafen.**
-
-### Exercise 3: Complete the Sentences
-
-1. Ich __________ nach Deutschland ___________ (reisen / want to) → **will / reisen**
-2. Du ___________ Deutsch ________________ (lernen / can) → **kannst / lernen**
-3. Er ____________ heute ________________ (kommen / must) → **muss / kommen**
-4. Wir ___________ Pizza _________________ (essen / like to) → **mögen / essen** OR essen **gerne**
-
-## Cultural Notes
-
-### Modal Verbs in German Culture
-
-**Politeness levels:**
-- Use "möchten" instead of "wollen" for polite requests
-- Use "könnten" (subjunctive) instead of "können" for very polite requests
-- Use "solltest du" instead of "musst du" for friendly suggestions
-
-**German directness:**
-- Germans often use "müssen" and "wollen" more directly than English speakers use "must" and "want"
-- "Ich will das" sounds less demanding in German than "I want that" does in English
-
-### Common Expressions
-
-- **Das kann nicht sein.** (That can't be)
-- **Was soll ich machen?** (What am I supposed to do?)
-- **Ich mag das nicht.** (I don't like that)
-- **Das muss ich tun.** (I have to do that)
-
-## Quick Reference Chart
-
-| Situation | Use Modal | Example |
-|-----------|-----------|---------|
-| Ability | können | Ich kann schwimmen |
-| Strong necessity | müssen | Ich muss gehen |
-| Permission | dürfen | Darf ich hier rauchen? |
-| Strong desire | wollen | Ich will nach Hause |
-| Polite request | möchten | Ich möchte bezahlen |
-| External obligation | sollen | Ich soll lernen |
-| Advice | sollen | Du solltest mehr lesen |
-| Liking nouns | mögen | Ich mag Kaffee |
-| Liking activities | gerne + verb | Ich schwimme gerne |
-
-## Summary
-
-German modal verbs are essential for everyday communication:
-
-1. **Können** — Ability (can)
-2. **Müssen** — Necessity (must)
-3. **Wollen** — Desire (want to)
-4. **Dürfen** — Permission (may)
-5. **Sollen** — Obligation (should)
-6. **Mögen** — Preference (like)
-
-**Key rules to remember:**
-- Modal verbs are conjugated normally in plural
-- Main verb stays in infinitive at the end
-- Time/manner goes between modal and main verb
-- In Perfekt, both verbs stay in infinitive at end
-- Use "dürfen" for permission, "können" for ability
-- Use "möchten" for polite requests, not "wollen"
-- Use "gerne" + verb for activities you like
-
-**Pro tip:** Start with "können," "müssen," and "wollen" — these are the most common. Once comfortable with these, add "dürfen," "sollen," and "mögen" to your vocabulary.
-
-Remember: Modal verbs are used constantly in German conversation. Master these six verbs, and you'll be able to express needs, desires, abilities, and permissions like a native speaker!
-
-Your journey to mastering German modal verbs starts now. Viel Erfolg!
+سفر شما برای یادگیری افعال وجهی آلمانی از همین الان شروع می‌شود. Viel Erfolg!
 
 ---
-*Ready to master German modal verbs through interactive practice? [Open Das German Bot](https://t.me/dasgermanbot) — your first lesson takes 30 seconds.*
+*آماده‌اید افعال وجهی آلمانی را از طریق تمرین تعاملی یاد بگیرید؟ [Das German Bot را باز کنید](https://t.me/dasgermanbot) — اولین درس شما فقط ۳۰ ثانیه طول می‌کشد.*
