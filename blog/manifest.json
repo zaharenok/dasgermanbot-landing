@@ -4588,5 +4588,57 @@
         "description": "Germaniya dunyodagi eng qattiq qayta ishlash tizimiga ega. Sariq, ko'k, yashil konteynerlar, Pfand shishalari — nima qayerga borishi, nima pulingizni olishi va qanday qilib qo'shnilaringizni shikoyatga olib kelishi haqida barcha ma'lumotlar bu yerda."
       }
     }
+  },
+  {
+    "slug": "english-words-that-are-german",
+    "date": "2026-05-11",
+    "tags": [
+      "vocabulary",
+      "fun facts",
+      "culture",
+      "language history"
+    ],
+    "langs": {
+      "en": {
+        "title": "English Words That Are Actually German: You Know More Than You Think",
+        "description": "Kindergarten, doppelgänger, wanderlust — dozens of everyday English words were stolen from German. Here are the best ones and the stories behind them."
+      },
+      "uk": {
+        "title": "Англійські слова, які насправді німецькі: ти знаєш більше, ніж думаєш",
+        "description": "Kindergarten, doppelgänger, wanderlust — десятки англійських словам насправді походять з німецької. Ось найцікавіші та історії за ними."
+      },
+      "ru": {
+        "title": "Английские слова, которые на самом деле немецкие: ты знаешь больше, чем думаешь",
+        "description": "Kindergarten, doppelgänger, wanderlust — десятки английских слов на самом деле украдены из немецкого. Вот самые интересные и истории за ними."
+      },
+      "sk": {
+        "title": "Anglické slová, ktoré sú vlastne nemecké: Vieš viac, ako si myslíš",
+        "description": "Kindergarten, doppelgänger, wanderlust — desiatky anglických slov pochádza z nemčiny. Tu sú najzaujímavejšie a príbehy za nimi."
+      },
+      "tr": {
+        "title": "Aslında Almanca Olan İngilizce Kelimeler: Düşündüğünden Daha Çok Biliyorsun",
+        "description": "Kindergarten, doppelgänger, wanderlust — onlarca İngilizce kelime aslında Almancadan alınmış. İşte en ilginçleri ve hikayeleri."
+      },
+      "ro": {
+        "title": "Cuvintele englezești care sunt de fapt germane: Știi mai mult decât crezi",
+        "description": "Kindergarten, doppelgänger, wanderlust — zeci de cuvinte englezești sunt de fapt împrumutate din germană. Iată-le pe cele mai interesante și poveștile din spatele lor."
+      },
+      "fa": {
+        "title": "کلمات انگلیسی که در واقع آلمانی هستند: بیشتر از چیزی که فکر می‌کنید می‌دانید",
+        "description": "Kindergarten، doppelgänger، wanderlust — ده‌ها کلمه انگلیسی در واقع از آلمانی گرفته شده‌اند. در اینجا جالب‌ترین‌ها و داستان‌های پشت آن‌ها را ببینید."
+      },
+      "ar": {
+        "title": "كلمات إنجليزية هي في الحقيقة ألمانية: أنت تعرف أكثر مما تعتقد",
+        "description": "Kindergarten، doppelgänger، wanderlust — عشرات الكلمات الإنجليزية مأخوذة من الألمانية. إليك الأكثر إثارة للاهتمام والقصص وراءها."
+      },
+      "es": {
+        "title": "Palabras en inglés que en realidad son alemanas: Sabes más de lo que crees",
+        "description": "Kindergarten, doppelgänger, wanderlust — decenas de palabras en inglés fueron robadas del alemán. Aquí están las más curiosas y las historias detrás de ellas."
+      },
+      "uz": {
+        "title": "Aslida nemischa bo'lgan inglizcha so'zlar: O'ylagandingdan ko'ra ko'proq bilasiz",
+        "description": "Kindergarten, doppelgänger, wanderlust — o'nlab inglizcha so'zlar aslida nemis tilidan olingan. Qiziqarlilari va ular ortidagi hikoyalar."
+      }
+    }
   }
 ]
