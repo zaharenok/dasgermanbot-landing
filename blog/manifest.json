@@ -7142,5 +7142,57 @@
         "description": "Rammsteinning kristall talaffuzidan nemis hip-hop slangi — sizni har qanday darslikdan tezroq haqiqiy nemis tiliga o'rgatadigan qo'shiqlar va san'atkorlar."
       }
     }
+  },
+  {
+    "slug": "things-that-shock-foreigners-german",
+    "date": "2026-05-11",
+    "tags": [
+      "fun facts",
+      "culture",
+      "language",
+      "beginners"
+    ],
+    "langs": {
+      "en": {
+        "title": "10 Things About German That Shock Every Foreigner",
+        "description": "Words that are 40 letters long, verbs at the end of a novel, and a greeting that sounds like a threat — the German language moments that break every foreigner's brain."
+      },
+      "uk": {
+        "title": "10 речей про німецьку, які шокують кожного іноземця",
+        "description": "Слова з 40 літер, дієслова в кінці роману і привітання, що звучить як погроза — моменти німецької мови, які рвуть мозок кожному іноземцю."
+      },
+      "ru": {
+        "title": "10 вещей о немецком, которые шокируют каждого иностранца",
+        "description": "Слова длиной в 40 букв, глаголы в конце романа и приветствие, звучащее как угроза — те самые моменты в немецком языке, которые взрывают мозг каждому иностранцу."
+      },
+      "sk": {
+        "title": "10 vecí o nemčine, ktoré šokujú každého cudzinca",
+        "description": "Slová s 40 písmenami, slovesá na konci románu a pozdrav, ktorý znie ako hrozba — momenty nemeckého jazyka, ktoré rozbijú mozog každému cudzincovi."
+      },
+      "tr": {
+        "title": "Almanca Hakkında Her Yabancıyı Şok Eden 10 Şey",
+        "description": "40 harflik kelimeler, romanın sonundaki fiiller ve bir tehdit gibi görünen selamlar — her yabancının beynini patlatan Almanca anlar."
+      },
+      "ro": {
+        "title": "10 lucruri despre germană care șochează fiecare străin",
+        "description": "Cuvinte de 40 de litere, verbe la sfârșitul unui roman și un salut care sună a amenințare — momentele limbii germane care sparg creierul oricărui străin."
+      },
+      "fa": {
+        "title": "۱۰ چیز درباره آلمانی که هر خارجی را شوک می‌کند",
+        "description": "کلمات ۴۰ حرفی، افعال در انتهای رمان و سلامی که شبیه تهدید است — لحظات زبان آلمانی که مغز هر خارجی را منفجر می‌کند."
+      },
+      "ar": {
+        "title": "١٠ أشياء في الألمانية تصدم كل أجنبي",
+        "description": "كلمات من ٤٠ حرفاً، أفعال في نهاية رواية، وتحية تبدو كتهديد — لحظات اللغة الألمانية التي تفجر دماغ كل أجنبي."
+      },
+      "es": {
+        "title": "10 cosas del alemán que impactan a todo extranjero",
+        "description": "Palabras de 40 letras, verbos al final de una novela y un saludo que suena a amenaza — los momentos del alemán que revientan el cerebro de todo extranjero."
+      },
+      "uz": {
+        "title": "Nemis tilini har bir chet ellikni hayratda qoldiradigan 10 narsa",
+        "description": "40 harfli so'zlar, roman oxiridagi fe'llar va tahdiddek eshitiladigan salomlash — har bir chet ellikning miyasini portlatadigan nemis tili lahzalari."
+      }
+    }
   }
 ]
