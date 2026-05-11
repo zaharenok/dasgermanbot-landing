@@ -25,6 +25,30 @@
       "sk": {
         "title": "Nemecké slovesá zvratné slovesá jednoducho: Ako používať Sich, Mich, Dich, Mir, Dir",
         "description": "Bojuješ s nemeckými zvratnými slovesami? Nauč sa, ako správne používať mich, mir, dich, dir, uns, euch a sich. S jednoduchými pravidlami, skutočnými príkladmi a úplným zoznamom bežných nemeckých zvratných slovies ako sich waschen, sich freuen, sich erinnern."
+      },
+      "tr": {
+        "title": "Almanca Dönüşlü Fiiller Basitleştirildi: Sich, Mich, Dich, Mir, Dir Nasıl Kullanılır",
+        "description": "Almanca dönüşlü fiillerde zorlanıyor musunuz? mich, mir, dich, dir, uns, euch ve sich'i doğru şekilde kullanmayı öğrenin. Basit kurallar, gerçek örnekler ve sich waschen, sich freuen, sich erinnern gibi yaygın Almanca dönüşlü fiillerin tam listesiyle."
+      },
+      "ro": {
+        "title": "Verbele reflexive în germană, explicate simplu: Cum folosești Sich, Mich, Dich, Mir, Dir",
+        "description": "Ai dificultăți cu verbele reflexive în germană? Învață cum folosești corect mich, mir, dich, dir, uns, euch și sich. Cu reguli simple, exemple reale și o listă completă a verbelor reflexive germane precum sich waschen, sich freuen, sich erinnern."
+      },
+      "fa": {
+        "title": "افعال بازگشتی آلمانی به سادگی: نحوه استفاده از Sich، Mich، Dich، Mir، Dir",
+        "description": "با افعال بازگشتی آلمانی مشکل دارید؟ یاد بگیرید چگونه mich، mir، dich، dir، uns، euch و sich را به درستی استفاده کنید. با قواعد ساده، مثال‌های واقعی و فهرست کاملی از افعال بازگشتی رایج آلمانی مانند sich waschen، sich freuen، sich erinnern."
+      },
+      "ar": {
+        "title": "الأفعال الانعكاسية في الألمانية ببساطة: كيف تستخدم Sich و Mich و Dich و Mir و Dir",
+        "description": "تواجه صعوبة مع الأفعال الانعكاسية في الألمانية؟ تعلم كيف تستخدم mich و mir و dich و dir و uns و euch و sich بشكل صحيح. مع قواعد بسيطة وأمثلة حقيقية وقائمة كاملة بأشهر الأفعال الانعكاسية مثل sich waschen و sich freuen و sich erinnern."
+      },
+      "es": {
+        "title": "Los verbos reflexivos en alemán simplificados: cómo usar sich, mich, dich, mir, dir",
+        "description": "¿Luchas con los verbos reflexivos en alemán? Aprende a usar mich, mir, dich, dir, uns, euch y sich correctamente. Con reglas sencillas, ejemplos reales y una lista completa de verbos reflexivos comunes como sich waschen, sich freuen, sich erinnern."
+      },
+      "uz": {
+        "title": "Nemis refleksiv fe'llari oson: Sich, Mich, Dich, Mir, Dir qanday ishlatiladi",
+        "description": "Nemis refleksiv fe'llari qiyinmi? Mich, mir, dich, dir, uns, euch va sich ni to'g'ri ishlatishni o'rganing. Oddiy qoidalar, haqiqiy misollar va sich waschen, sich freuen, sich erinnern kabi eng ko'p ishlatiladigan nemis refleksiv fe'llari ro'yxati bilan."
       }
     }
   },
@@ -54,6 +78,30 @@
       "sk": {
         "title": "Nemecký slang a hovorové výrazy: Znieť ako rodený Nemec",
         "description": "Chceš znieť ako rodený Nemec? Nauč sa najbežnejšie nemecké slangové slová a hovorové výrazy, ktoré Nemci SKUTOČNE používajú v každodennom živote. Od 'Krass' po 'Geil' a 'Alter' — znie autenticky, nie ako z učebnice."
+      },
+      "tr": {
+        "title": "Almanca Argo ve Günlük Dil İfadeleri: Ana Dili Gibi Konuşun",
+        "description": "Almanca ana dili gibi mi konuşmak istiyorsunuz? Almanların günlük hayatta gerçekten kullandığı en yaygın Almanca argo kelimeleri ve günlük dil ifadelerini öğrenin. 'Krass'tan 'Geil'e, 'Alter'dan — ders kitabı gibi değil, doğal konuşun."
+      },
+      "ro": {
+        "title": "Slang și Expresii Coloquiale în Germană: Sună ca un Vorbito nativ",
+        "description": "Vrei să suni ca un vorbitor nativ de germană? Învață cele mai comune cuvinte de slang și expresii colocviale pe care germanii le folosesc cu adevărat în viața de zi cu zi. De la „Krass\" la „Geil\" la „Alter\" — sună autentic, nu ca un manual."
+      },
+      "fa": {
+        "title": "اصطلاحات عامیانه آلمانی: مثل یک نیتیو صحبت کنید",
+        "description": "دوست دارید مثل یک آلمانی اصیل حرف بزنید؟ رایج‌ترین کلمات عامیانه و اصطلاحات محاوره‌ای آلمانی را بیاموزید که آلمانی‌ها واقعاً در زندگی روزمره استفاده می‌کنند. از «Krass» تا «Geil» تا «Alter» — طبیعی صحبت کنید، نه مثل یک کتاب درسی."
+      },
+      "ar": {
+        "title": "الكلمات العامية الألمانية والتعبيرات الدارجة: تحدث مثل الناطق الأصلي",
+        "description": "هل تريد أن تبدو مثل الناطق الألماني الأصلي؟ تعلّم أكثر الكلمات العامية الألمانية شيوعًا والتعبيرات الدارجة التي يستخدمها الألمان فعلاً في حياتهم اليومية. من 'Krass' إلى 'Geil' إلى 'Alter' — تحدث بأسلوب أصيل، وليس ككتاب مدرسي."
+      },
+      "es": {
+        "title": "Jerga Alemana y Expresiones Coloquiales: Suena Como un Hablante Nativo",
+        "description": "¿Quieres sonar como un hablante nativo de alemán? Aprende las palabras de jerga alemana más comunes y las expresiones coloquiales que los alemanes realmente usan en su vida diaria. Desde 'Krass' hasta 'Geil' hasta 'Alter' — suena auténtico, no como un libro de texto."
+      },
+      "uz": {
+        "title": "Nemis slangi va kundalik ifodalar: Mahalliy gapirgandek gapiring",
+        "description": "Nemis tilida mahalliy kishidek gapirmoqchimisiz? Nemislar kundalik hayotda haqiqatan ham ishlatadigan eng keng tarqalgan nemis slang so'zlarini va kundalik ifodalarni o'rganing. 'Krass'dan 'Geil'gacha, 'Alter'dan boshlab — o'quv qo'llanmaga o'xshab emas, haqiqiydek gapiring."
       }
     }
   },
@@ -84,6 +132,30 @@
       "sk": {
         "title": "Nemecké skratky pre správy a chatový slang: Kompletný sprievodca",
         "description": "Nauč sa najbežnejšie nemecké skratky pre správy, chatový slang a skratky pre messenger, ktoré Nemci používajú denne. Od 'hdgdl' po 'lg' a 'mfg' — pochop skutočnú nemeckú digitálnu komunikáciu a píš ako rodák."
+      },
+      "tr": {
+        "title": "Almanca Mesaj Kısaltmaları ve Sohbet Dili: Kapsamlı Rehber",
+        "description": "Almanların günlük olarak kullandığı en yaygın Almanca mesaj kısaltmalarını, sohbet dilini ve mesajlaşma kısayollarını öğrenin. 'hdgdl'den 'lg' ve 'mfg'ye — gerçek Almanca dijital iletişimi anlayın ve bir yerli gibi mesajlaşın."
+      },
+      "ro": {
+        "title": "Abrevierile din Mesajele Germane și Argoul de Chat: Ghidul Complet",
+        "description": "Învață cele mai comune abrevieri din mesajele germane, argoul de chat și scurtăturile de mesagerie pe care germanii le folosesc zilnic. De la 'hdgdl' la 'lg' și 'mfg' — înțelege comunicarea digitală reală în germană și scrie mesaje ca un vorbitor nativ."
+      },
+      "fa": {
+        "title": "اختصارات پیامک و زبان محاوره‌ای چت آلمانی: راهنمای جامع",
+        "description": "رایج‌ترین اختصارات پیامکی، اصطلاحات چت و میان‌برهای پیام‌رسانی آلمانی که آلمانی‌ها روزانه استفاده می‌کنند را بیاموزید. از 'hdgdl' تا 'lg' و 'mfg' — ارتباط دیجیتال واقعی آلمانی را درک کنید و مثل یک آلمانی واقعی پیام بفرستید."
+      },
+      "ar": {
+        "title": "اختصارات الرسائل النصية الألمانية وكون المحادثات: الدليل الشامل",
+        "description": "تعلّم أشهر اختصارات الرسائل النصية الألمانية وكون المحادثات واختصارات المراسلة التي يستخدمها الألمان يوميًا. من 'hdgdl' إلى 'lg' و'mfg' — افهم التواصل الرقمي الألماني الحقيقي وتواصل كأنك ألماني أصيل."
+      },
+      "es": {
+        "title": "Abreviaturas de mensajes de texto en alemán y jerga de chat: La guía definitiva",
+        "description": "Aprende las abreviaturas de texto en alemán más comunes, la jerga de chat y los atajos de mensajería que los alemanes usan diariamente. Desde 'hdgdl' hasta 'lg' y 'mfg' — comprende la comunicación digital real en alemán y escribe como un nativo."
+      },
+      "uz": {
+        "title": "Nemis SMS qisqartmalari va chat slangi: To'liq qo'llanma",
+        "description": "Nemislar kundalik hayotda ishlatadigan eng keng tarqalgan nemis matnli qisqartmalari, chat slangi va xabar yuborish yorliqlarini o'rganing. 'hdgdl' dan 'lg' va 'mfg' gacha — haqiqiy nemis raqamli muloqotini tushuning va mahalliy kabi yozing."
       }
     }
   },
@@ -114,6 +186,30 @@
       "sk": {
         "title": "Nemecké idiómy a porekadlá: 30 výrazov, ktoré nedávajú zmysel po anglicky",
         "description": "Nauč sa najzábavnejšie a najužitočnejšie nemecké idiómy a výrazy, ktoré mýtia anglicky hovoriacich. Od 'Chápeť len stanicu' po 'mať vtáka' — ovládaj nemecké idiómy, ktoré Nemci SKUTOČNE používajú v každodennom živote."
+      },
+      "tr": {
+        "title": "Almanca Deyimler ve Atasözleri: İngilizcede Anlamı Olmayan 30 İfade",
+        "description": "İngilizce konuşanları şaşırtan en komik ve en kullanışlı Almanca deyimleri ve ifadeleri öğrenin. 'Sadece tren istasyonunu anlıyorum'dan 'kuşun var'a kadar — Almanların günlük hayatta gerçekten kullandığı Almanca deyimlerde uzmanlaşın."
+      },
+      "ro": {
+        "title": "Expresii și zicători germane: 30 de expresii care nu au sens în engleză",
+        "description": "Învață cele mai amuzante și mai utile expresii și zicatori germane care îi confundă pe vorbitorii de engleză. De la „Înțeleg doar gară\" la „a avea o pasăre\" — stăpânește expresiile germane pe care germanii le folosesc cu adevărat în viața de zi cu zi."
+      },
+      "fa": {
+        "title": "اصطلاحات و ضرب‌المثل‌های آلمانی: ۳۰ عبارت که در انگلیسی معنی نمی‌دهند",
+        "description": "بامزه‌ترین و کاربردی‌ترین اصطلاحات و عبارات آلمانی را بیاموزید که سخنرانان انگلیسی را گیج می‌کند. از «فقط ایستگاه قطار می‌فهمم» تا «پرنده داشتن» — اصطلاحات آلمانی را مسلط شوید که آلمانی‌ها واقعاً در زندگی روزمره استفاده می‌کنند."
+      },
+      "ar": {
+        "title": "التعابير الألمانية والأمثال: 30 عبارة لا معنى لها بالإنجليزية",
+        "description": "تعلّم أطرف وأهم التعابير الاصطلاحية الألمانية التي تُربك المتحدثين بالإنجليزية. من 'أفهم فقط محطة القطار' إلى 'لديّ طائر' — أتقن التعابير الألمانية التي يستخدمها الألمان فعلاً في حياتهم اليومية."
+      },
+      "es": {
+        "title": "Modismos y refranes alemanes: 30 expresiones que no tienen sentido en español",
+        "description": "Aprende los modismos alemanes más divertidos y útiles que confunden a los hispanohablantes. Desde 'solo entiendo la estación de tren' hasta 'tener un pájaro' — domina los modismos alemanes que los alemanes realmente usan en su vida cotidiana."
+      },
+      "uz": {
+        "title": "Nemis iboralari va maqollari: Ingliz tilida ma'nosiz bo'lgan 30 ta ibora",
+        "description": "Ingliz tilida so'zlashuvchilarni chalkashtiruvchi eng qiziqarli va foydali nemis iboralarini o'rganing. 'Men faqat bekаtni tushunaman'dan' 'ko'zlarida pomidor bor'gacha — nemislar haqiqatda kundalik hayotda ishlatadigan nemis iboralarini o'zlashtiring."
       }
     }
   },
@@ -144,6 +240,30 @@
       "sk": {
         "title": "Nemeckí falošní priatelia: 30 slov, ktoré vyzerajú anglicky, ale zradia ťa",
         "description": "Myslíš si, že 'gift' znamená darček v nemčine? Znova si premysli. Objav najnebezpečnejšie nemecko-anglické falošné priateľov, ktorí mýtia začiatočníkov — a ako sa vyhnúť týmto trapným chybám v nemeckých rozhovoroch."
+      },
+      "tr": {
+        "title": "Almanca Yalancı Dostlar: İngilizceye Benziyor Ama Sizi Utandıracak 30 Kelime",
+        "description": "Almanca'da 'gift' hediye mi demek? Hayır! Yeni başlayanları en çok utandıran, İngilizceye benzeyen ama tamamen farklı anlama sahip Almanca yalancı dostları keşfedin — ve bu tuzağa nasıl düşmeyeceğinizi öğrenin."
+      },
+      "ro": {
+        "title": "Cuvintele înșelătoare din germană: 30 de cuvinte care par englezești, dar te vor trăda",
+        "description": "Crezi că 'gift' înseamnă cadou în germană? Mai gândește-te o dată. Descoperă cele mai periculoase cuvinte înșelătoare germano-englezești care îi fac pe începători să se facă de râs — și cum să eviți aceste greșeli stânjenitoare în conversațiile în germană."
+      },
+      "fa": {
+        "title": "دوستان کاذب آلمانی: ۳۰ کلمه که انگلیسی به نظر می‌رسند اما به شما خیانت می‌کنند",
+        "description": "فکر می‌کنید 'Gift' در آلمانی یعنی هدیه؟ دوباره فکر کنید. خطرناک‌ترین دوستان کاذب آلمانی-انگلیسی را کشف کنید که مبتدیان را خجالت‌زده می‌کنند — و یاد بگیرید چگونه از این اشتباهات ناشیانه در مکالمات آلمانی اجتناب کنید."
+      },
+      "ar": {
+        "title": "الكلمات الألمانية الخادعة: 30 كلمة تبدو إنجليزية لكنها ستخونك",
+        "description": "تظن أن 'Gift' تعني هدية بالألمانية؟ فكّر مرة أخرى. اكتشف أخطر الكلمات الألمانية-الإنجليزية الخادعة التي تُحرج المبتدئين — وكيف تتجنّب هذه الأخطاء المحرجة في المحادثات الألمانية."
+      },
+      "es": {
+        "title": "Falsos amigos del alemán: 30 palabras que parecen inglesas pero te traicionarán",
+        "description": "¿Crees que 'gift' significa regalo en alemán? Piénsalo de nuevo. Descubre los falsos amigos alemán-inglés más peligrosos que avergüenzan a los principiantes — y cómo evitar estos errores incómodos en conversaciones en alemán."
+      },
+      "uz": {
+        "title": "Nemis yolg'on do'stlari: Inglizchaga o'xshaydigan, lekin aldab qo'yadigan 30 ta so'z",
+        "description": "Gift' nemischada sovg'a degani deb o'ylaysizmi? Yana o'ylab ko'ring. Nemis tilidagi eng xavfli yolg'on do'st so'zlarni kashf eting — ular boshlang'ich darajadagilarni xijolatga qo'yadi va nemis suhbatlarida bu xatolardan qanday qochishni o'rganing."
       }
     }
   },
@@ -174,6 +294,30 @@
       "sk": {
         "title": "Nemecké stereotypy: 10 mýtov o Nemcoch, ktoré sú úplne nesprávne",
         "description": "Myslíš si, že Nemci nemajú zmysel pre humor, pijú pivo na raňaj a nosia ledenhoseny každý deň? Znova si premysli. Objav pravdu o nemeckých stereotypoch, ktoré cudzinci úplne nesprávne veria — od rovnováhy práce a života po zmysel pre humor."
+      },
+      "tr": {
+        "title": "Alman Stereotipleri Çürütüldü: Almanlar Hakkında Tamamen Yanlış Olan 10 Efsane",
+        "description": "Almanların mizah anlayışı yok, her zaman bira içer ve her gün deri şort giyer mi sanıyorsunuz? Bir daha düşünün. Yabancıların tamamen yanlış anladığı Alman stereotiplerinin gerçeğini keşfedin — iş-yaşam dengesinden mizah anlayışına kadar."
+      },
+      "ro": {
+        "title": "Stereotipuri despre Germani Demontate: 10 Mituri Complect Greșite Despre Germani",
+        "description": "Crezi că germanii nu au umor, beau mereu bere și poartă lederhosen zilnic? Gândește-te din nou. Descoperă adevărul despre stereotipurile germane pe care străinii le înțeleg complet greșit — de la echilibrul dintre viața profesională și cea privată până la simțul umorului."
+      },
+      "fa": {
+        "title": "نپت‌های آلمانی رد شده: ۱۰ افسانه درباره آلمانی‌ها که کاملاً اشتباه هستند",
+        "description": "فکر می‌کنید آلمانی‌ها بی‌شادی هستند، همیشه آبجو می‌نوشند و هر روز شورت چرمی می‌پوشند؟ دوباره فکر کنید. حقیقت کلیشه‌های آلمانی را کشف کنید که خارجی‌ها کاملاً اشتباه می‌گیرند — از تعادل کار و زندگی تا شوخ‌طبعی."
+      },
+      "ar": {
+        "title": "خرافات عن الألمان: 10 صور نمطية خاطئة تمامًا",
+        "description": "هل تعتقد أن الألمان بلا حس فكاهي، يشربون البيرة دائمًا، ويرتدون الملابس التقليدية يوميًا؟ فكّر مجددًا. اكتشف الحقيقة عن الصور النمطية عن الألمان التي يخطئ فيها الأجانب تمامًا — من التوازن بين العمل والحياة إلى حس الدعابة."
+      },
+      "es": {
+        "title": "Estereotipos alemanes desmentidos: 10 mitos sobre los alemanes que son completamente falsos",
+        "description": "¿Crees que los alemanes no tienen sentido del humor, siempre beben cerveza y usan lederhosen a diario? Piénsalo de nuevo. Descubre la verdad sobre los estereotipos alemanes que los extranjeros se equivocan por completo — desde el equilibrio entre trabajo y vida personal hasta el sentido del humor."
+      },
+      "uz": {
+        "title": "Nemislar haqidagi stereotiplar rad etiladi: Nemislar haqidagi 10 noto'g'ri gap",
+        "description": "Nemislar hazil-mutoyiba qilmaydi, har doym pivo ichadi va har kuni lederhosen kiyadi deb o'ylaysizmi? Yana o'ylab ko'ring. Chet elliklar to'liq noto'g'ri tushungan nemislar haqidagi stereotiplarning haqiqatini kashf eting — ish va hayot muvozanatidan tortib hazil tuyg'usigacha."
       }
     }
   },
@@ -204,6 +348,30 @@
       "sk": {
         "title": "Nemecké jazykolamy: 20 fráz, ktoré ti zaviažu jazyk",
         "description": "Bojuješ s nemeckou výslovnosťou? Ovládni týchto 20 nemeckých jazykolám (Zungenbrecher), ktoré skúšia aj pokročilých študentov — od 'Fischers Fritz' po 'Blitz blinkt' a zdokonaľ svoje nemecké rečové zručnosti, pričom sa zabavíš."
+      },
+      "tr": {
+        "title": "Alman Dili Düğümleme Sözleri (Zungenbrecher): Telaffuzu Geliştirmenin Eğlencili Yolu",
+        "description": "20+ klasik düğümleme sözleriyle Alman telaffuzunda ustalaşın! Kolaydan uzman seviyesine eğlenceli Zungenbrecher öğrenin, aksanınızı geliştirin, ch, eu, ü ve r gibi zor sesleri pratik yapın. Çeviriler, telaffuz ipuçları ve kültürel bilgiler içeren kapsamlı rehber."
+      },
+      "ro": {
+        "title": "Jocuri de cuvinte germane (Zungenbrecher): O metodă amuzantă pentru a-ți îmbunătăți pronunția",
+        "description": "Stăpânește pronunția germană cu peste 20 de jocuri de cuvinte clasice! Învăță Zungenbrecher amuzante de la nivel ușor la expert, îmbunătățește-ți accentul, exersează sunete dificile precum ch, eu, ü și r. Ghid complet cu traduceri, sfaturi de pronunție și perspective culturale."
+      },
+      "fa": {
+        "title": "آواهای سرگردان آلمانی (Zungenbrecher): راهی سرگرم‌کننده برای بهبود تلفظ",
+        "description": "تلفظ آلمانی خود را با بیش از ۲۰ آوای سرگردان کلاسیک مسلط شوید! Zungenbrecher های سرگرم‌کننده را از سطح آسان تا حرفه‌ای یاد بگیرید، لهجه خود را بهبود ببخشید، صداهای دشواری مانند ch، eu، ü و r را تمرین کنید. راهنمای کامل با ترجمه‌ها، نکات تلفظ و بینش‌های فرهنگی."
+      },
+      "ar": {
+        "title": "العبارات المتشابكة الألمانية (Zungenbrecher): طريقة ممتعة لتحسين النطق",
+        "description": "أتقن النطق الألماني مع أكثر من 20 عبارة متشابكة كلاسيكية! تعلم Zungenbrecher الممتعة من المستوى السهل إلى الخبير، حسّن لهجتك، تدرب على الأصوات الصعبة مثل ch و eu و ü و r. دليل شامل مع ترجمات ونصائح للنطق ورؤى ثقافية."
+      },
+      "es": {
+        "title": "Trabalenguas alemanes (Zungenbrecher): Una forma divertida de mejorar la pronunciación",
+        "description": "¡Domina la pronunciación del alemán con más de 20 trabalenguas clásicos! Aprende divertidos Zungenbrecher desde nivel fácil hasta experto, mejora tu acento, practica sonidos difíciles como ch, eu, ü y r. Guía completa con traducciones, consejos de pronunciación e información cultural."
+      },
+      "uz": {
+        "title": "Nemis tilidagi tongue twisterlar (Zungenbrecher): Talaffuzni yaxshilashning qiziqarli usuli",
+        "description": "20+ klassik tongue twisterlar yordamida nemis talaffuzini o'zlashtiring! Oson darajadan boshlab murakkabgacha bo'lgan qiziqarli Zungenbrecherlarni o'rganing, talaffuzingizni yaxshilang, ch, eu, ü, r kabi qiyin tovushlarni mashq qiling. Tarjimalar, talaffuz maslahatlari va madaniy ma'lumotlar bilan to'liq qo'llanma."
       }
     }
   },
@@ -234,6 +402,30 @@
       "sk": {
         "title": "Nemecké gestá: 10 základných gest, ktoré musíš poznať",
         "description": "Myslíš si, že Nemci komunikujú len slovami? Ak tak myslíš, tak sa mýliš. Ovládni týchto 10 základných nemeckých gest, ktoré sa používajú v každodennom živote, obchodných stretnutiach a spoločenských situáciách — od počítania po schválenie a všetko, čo je medzi tým."
+      },
+      "tr": {
+        "title": "Alman El Jestleri: Bilmeniz Gereken 10 Temel Jest",
+        "description": "Almanların sadece sözlerle iletişim kurduğunu mu sanıyorsunuz? Tekrar düşünün. Günlük hayatta, iş toplantılarında ve sosyal durumlarda kullanılan bu 10 temel Alman el jestini öğrenin — saymaktan onaya kadar her şey dahil."
+      },
+      "ro": {
+        "title": "Gesturi cu mâna în germană: 10 gesturi esențiale pe care trebuie să le cunoști",
+        "description": "Crezi că germanii comunică doar prin cuvinte? Gândește-te din nou. Stăpânește aceste 10 gesturi esențiale cu mâna folosite în viața de zi cu zi, în întâlnirile de afaceri și în situații sociale — de la numărare până la aprobare și tot ce se află între ele."
+      },
+      "fa": {
+        "title": "اشاره‌های دست آلمانی: ۱۰ اشاره ضروری که باید بدانید",
+        "description": "فکر می‌کنید آلمانی‌ها فقط با کلمات ارتباط برقرار می‌کنند؟ دوباره فکر کنید. این ۱۰ اشاره دست آلمانی ضروری را یاد بگیرید که در زندگی روزمره، جلسات کاری و موقعیت‌های اجتماعی استفاده می‌شوند — از شمارش تا تأیید و همه چیز بین آن‌ها."
+      },
+      "ar": {
+        "title": "إيماءات اليد الألمانية: 10 إيماءات أساسية يجب أن تعرفها",
+        "description": "تعتقد أن الألمان يتواصلون بالكلمات فقط؟ فكّر مرة أخرى. أتقن هذه الـ 10 إيماءات يد ألمانية أساسية المستخدمة في الحياة اليومية والاجتماعات العملية والمواقف الاجتماعية — من العدّ إلى الموافقة وكل شيء بينهما."
+      },
+      "es": {
+        "title": "Gestos con las manos en alemán: 10 gestos esenciales que necesitas conocer",
+        "description": "¿Crees que los alemanes solo se comunican con palabras? Piénsalo de nuevo. Domina estos 10 gestos esenciales con las manos que se usan en la vida cotidiana, reuniones de negocios y situaciones sociales — desde contar hasta aprobar y todo lo intermedio."
+      },
+      "uz": {
+        "title": "Nemis imo-ishoralari: Bilib qo'yishingiz kerak bo'lgan 10 ta muhim imo-ishora",
+        "description": "Nemislar faqat so'zlar bilan muloqot qiladi deb o'ylaysizmi? Xato. Kundalik hayotda, biznes uchrashuvlarida va ijtimoiy vaziyatlarda ishlatiladigan ushbu 10 ta muhim nemis imo-ishorasini o'rganing — sanashdan tasdiqlashgacha, hamma narsa haqida."
       }
     }
   },
@@ -264,6 +456,10 @@
       "sk": {
         "title": "Nemecké romantické frázy a pickup línie: od roztomilých po strašidelné",
         "description": "Chceš niekoho očariť po nemecky? Nauč sa 50+ nemeckých romantických fráz, love slov a pickup línií — od skutočne roztomilých po zábavne strašidelné. Zahŕňa kultúrne poznámky o flirtovaní v Nemecku a čo Nemci skutočne považujú za romantické."
+      },
+      "tr": {
+        "title": "Almanca Romantik İfadeler ve Tatlı Sözler: Sevimliden Kulağa Tırmalayana",
+        "description": "Almanca birini etkilemek mi istiyorsunuz? 50'den fazla Almanca romantik ifade, aşk kelimesi ve tatlı söz öğrenin — gerçekten sevimli olanlardan keyifli şekilde kulağa tırmalayanlara. Almanya'da flört kültürü hakkında kültürel notlar ve Almanların gerçekten romantik bulduğu şeyler dahil."
       }
     }
   },
@@ -353,6 +549,10 @@
       "sk": {
         "title": "Nemecké predložky jednoducho: Ultimate sprievodca pre Accusative, Dative & Two-Way",
         "description": "Bojuješ s nemeckými predložkami? Nauč sa ultimate sprievodcu k nemeckým predložkám s jasnými pravidlami: len accusative, len dative, obojsmerné predložky a mnemotechniky, ktoré naozaj fungujú. Zahŕňa Weil, Für, Mit, Zu, Bei a ďalšie."
+      },
+      "es": {
+        "title": "Preposiciones en alemán: guía completa de Präpositionen con casos para principiantes",
+        "description": "¿Luchas con las preposiciones en alemán y sus casos? Domina las preposiciones esenciales del alemán, desde las de acusativo (für, durch, ohne) y dativo (mit, von, bei) hasta las preposiciones bidireccionales (in, auf, an). Aprende con ejemplos claros, trucos de memorización y estrategias de práctica."
       }
     }
   },
@@ -440,6 +640,30 @@
       "sk": {
         "title": "Nemecké čísla jednoducho: Počítaj od 0 do 100 bez bolesti",
         "description": "Bojuješ s nemeckými číslami? Nauč sa počítať od 0 do 100+ s jednoduchými vzormi, výslovnostnými trikmi a mnemotechnikmi. Nemecké čísla nasledujú pravidlá — keď ich uvidíš, počítanie sa stane automatickým."
+      },
+      "tr": {
+        "title": "Almanca Sayılar: Başlangıç Seviyesi İçin Zahlen Rehberi",
+        "description": "Almanca saymak mı istiyorsunuz? Null'dan eine Million'a kadar temel Almanca sayı kelime dağarcığını öğrenin. Zahlen kelime dağarcığını doğru telaffuz ipuçları, sayı kalıpları ve Almanca konuşulan ülkelerde sayıları kullanma hakkında kültürel notlarla öğrenin."
+      },
+      "ro": {
+        "title": "Numerele în limba germană: Ghid complet pentru Zahlen pentru începători",
+        "description": "Vrei să numeri în germană? Stăpânește vocabularul esențial al numerelor în germană de la null la eine Million. Învață vocabularul Zahlen cu sfaturi de pronunție corectă, tipare numerice și note culturale despre utilizarea numerelor în țările vorbitoare de limba germană."
+      },
+      "fa": {
+        "title": "اعداد آلمانی: راهنمای کامل Zahlen برای مبتدیان",
+        "description": "می‌خواهید به آلمانی بشمارید؟ واژگان ضروری اعداد آلمانی از null تا eine Million را یاد بگیرید. Zahlen را با نکات تلفظ صحیح، الگوهای اعدادی و نکات فرهنگی درباره استفاده از اعداد در کشورهای آلمانی‌زبان بیاموزید."
+      },
+      "ar": {
+        "title": "الأرقام الألمانية: دليل شامل لتعلم Zahlen للمبتدئين",
+        "description": "هل تريد العد بالألمانية؟ أتقن مفردات الأرقام الألمانية الأساسية من null إلى eine Million. تعلم مفردات Zahlen مع نصائح النطق الصحيح وأنماط الأرقام وملاحظات ثقافية حول استخدام الأرقام في البلدان الناطقة بالألمانية."
+      },
+      "es": {
+        "title": "Números en alemán: Guía completa de Zahlen para principiantes",
+        "description": "¿Quieres contar en alemán? Domina el vocabulario esencial de números en alemán desde null hasta eine Million. Aprende el vocabulario de Zahlen con consejos de pronunciación, patrones numéricos y notas culturales sobre el uso de números en los países de habla alemana."
+      },
+      "uz": {
+        "title": "Nemis sonlari: Boshlang'ichchilar uchun Zahlen bo'yicha to'liq qo'llanma",
+        "description": "Nemis tilida sanashni xohlaysizmi? Noldan eine Million gacha bo'lgan muhim nemis sonlar lug'atini o'rganing. Zahlen lug'atini to'g'ri talaffuz maslahatlari, son naqshlari va nemis tilida so'zlashuvchi mamlakatlarda sonlardan foydalanish haqidagi madaniy ma'lumotlar bilan o'rganing."
       }
     }
   },
@@ -634,6 +858,26 @@
       "sk": {
         "title": "Prečo nemčina v Telegram?",
         "description": "Zistite, prečo sa Telegram stáva najlepšou platformou na učenie nemčiny — pohodlie, lekcie s AI a denné cvičenie bez zbytočných aplikácií."
+      },
+      "ro": {
+        "title": "De ce să înveți germană în Telegram?",
+        "description": "Descoperă de ce Telegram este platforma perfectă pentru a învăța germană — comoditate, lecții cu inteligență artificială și practică zilnică fără aplicații suplimentare."
+      },
+      "fa": {
+        "title": "چرا زبان آلمانی را در تلگرام یاد بگیریم؟",
+        "description": "کشف کنید که چرا تلگرام بهترین بستر برای یادگیری زبان آلمانی است — راحتی، درس‌های مبتنی بر هوش مصنوعی و تمرین روزانه بدون نیاز به برنامه‌های اضافی."
+      },
+      "ar": {
+        "title": "لماذا تتعلم الألمانية على تيليجرام؟",
+        "description": "اكتشف لماذا يُعد تيليجرام المنصة المثالية لتعلم اللغة الألمانية — سهولة الاستخدام، دروس مدعومة بالذكاء الاصطناعي، وممارسة يومية بدون تطبيقات إضافية."
+      },
+      "es": {
+        "title": "¿Por qué aprender alemán en Telegram?",
+        "description": "Descubre por qué Telegram es la plataforma perfecta para aprender alemán — comodidad, lecciones con IA y práctica diaria sin necesidad de aplicaciones adicionales."
+      },
+      "uz": {
+        "title": "Nima uchun Telegram'da nemis tilini o'rganish kerak?",
+        "description": "Telegram nemis tilini o'rganish uchun mukammal platforma ekanligini kashf eting — qulaylik, sun'iy intellekt asosidagi darslar va qo'shimcha ilovalarsiz kundalik mashg'ulotlar."
       }
     }
   },
@@ -661,6 +905,30 @@
       "sk": {
         "title": "5 tipov pre začiatočníkov s nemčinou",
         "description": "Praktické tipy pre každého, kto začína s nemčinou — od výslovnosti po vytvorenie denného návyku, ktorý vydrží."
+      },
+      "tr": {
+        "title": "Almanca Başlangıç Seviyesi İçin Gerçekten İşe Yarayan 5 İpucu",
+        "description": "Almanca öğrenmeye yeni başlayanlar için pratik ipuçları — telaffuz hilelerinden kalıcı bir günlük alışkanlık oluşturmaya kadar."
+      },
+      "ro": {
+        "title": "5 Sfaturi pentru Începătorii de Germană care Funcționează cu Adevărat",
+        "description": "Sfaturi practice pentru oricine începe să învețe germană — de la trucuri de pronunție până la construirea unei obișnuințe zilnice care rezistă."
+      },
+      "fa": {
+        "title": "۵ نکته برای مبتدیان آلمانی که واقعاً مؤثر هستند",
+        "description": "نکته‌های عملی برای هر کسی که شروع به یادگیری آلمانی کرده — از ترفندهای تلفظ تا ساختن یک عادت روزانه که ماندگار باشد."
+      },
+      "ar": {
+        "title": "5 نصائح لمبتدئي اللغة الألمانية فعلاً تعمل",
+        "description": "نصائح عملية لأي شخص يبدأ بتعلم اللغة الألمانية — من حيل النطق إلى بناء عادة يومية تستمر."
+      },
+      "es": {
+        "title": "5 Consejos para Principiantes de Alemán que Realmente Funcionan",
+        "description": "Consejos prácticos para cualquiera que empiece a aprender alemán — desde trucos de pronunciación hasta cómo crear un hábito diario que perdure."
+      },
+      "uz": {
+        "title": "Nemis tilini o'rganayotgan boshlang'ichchilar uchun 5 ta samarali maslahat",
+        "description": "Nemis tilini o'rganishni boshlayotganlar uchun amaliy maslahatlar — talaffuz sirlaridan boshlab, mustahkam kundalik odatlarni shakllantirishgacha."
       }
     }
   },
@@ -688,6 +956,30 @@
       "sk": {
         "title": "Nemecký mládežnícky slang 2026: slová, ktoré niesli v učebnici",
         "description": "Zabudni na 'Wie geht's' — tu je ten nemecký slang, ktorý sa reálne používa v 2026. Od 'snack' po 'cringe' — znej ako miestny, nie ako turista."
+      },
+      "tr": {
+        "title": "Alman Gençlik Argo Suyu 2026: Ders Kitabınızın Öğretmediği Kelimeler",
+        "description": "Wie geht's'ü unutun — 2026'da insanların gerçekten kullandığı Alman gençlik argosu burada. 'Snack'ten 'cringe'e kadar, turist gibi değil, yerli gibi konuşun."
+      },
+      "ro": {
+        "title": "Slangul tinerilor din Germania 2026: Cuvintele pe care manualul nu ți le-a predat",
+        "description": "Uită de 'Wie geht's' — iată slangul pe care tinerii germani îl folosesc cu adevărat în 2026. De la 'snack' la 'cringe', sună ca un local, nu ca un turist."
+      },
+      "fa": {
+        "title": "اصطلاحات جوانان آلمانی ۲۰۲۶: کلماتی که کتاب درسی به شما یاد نداده",
+        "description": "فراموش کنید 'Wie geht's' — این اصطلاحات واقعی جوانان آلمانی است که در سال ۲۰۲۶ استفاده می‌شود. از 'snack' تا 'cringe'، مثل یک بومی صحبت کنید، نه یک توریست."
+      },
+      "ar": {
+        "title": "لغة الشباب الألمانية 2026: كلمات لم يعلمك إياها الكتاب المدرسي",
+        "description": "انسَ 'Wie geht's' — إليك لغة الشباب الألمانية التي يستخدمها الناس فعليًا في 2026. من 'snack' إلى 'cringe'، تحدث مثل المحلي وليس مثل السائح."
+      },
+      "es": {
+        "title": "Jerga Juvenil Alemana 2026: Palabras que tu libro de texto no te enseñó",
+        "description": "Olvida 'Wie geht's' — aquí está la jerga juvenil alemana que la gente realmente usa en 2026. Desde 'snack' hasta 'cringe', suena como un local, no como un turista."
+      },
+      "uz": {
+        "title": "Nemis yoshlar jargonlari 2026: Darslik o'rgatmagan so'zlar",
+        "description": "Wie geht's'ni uning — bu 2026-yilda odamlar haqiqatda ishlatadigan nemis yoshlar jargonlari. 'Snack'dan 'cringe'gacha, turist emas, mahalliydek gapiring."
       }
     }
   },
@@ -715,6 +1007,30 @@
       "sk": {
         "title": "Chyby v nemeckej výslovnosti, ktoré ťa prezradia ako turistu",
         "description": "Prestaň hovoriť 'brötchen' ako po anglicky. Tu sú chyby v nemeckej výslovnosti začiatočníkov — a ako ich opraviť za 5 minút."
+      },
+      "tr": {
+        "title": "Sizi Turist Gibi Gösteren Almanca Telaffuz Hataları",
+        "description": "Brötchen' kelimesini İngilizce gibi söylemeyi bırakın. İşte başlangıç seviyesindeki öğrencilerin yaptığı Almanca telaffuz hataları — ve 5 dakikada nasıl düzelteceğiniz."
+      },
+      "ro": {
+        "title": "Greșeli de pronunție în germană care te trădează ca turist",
+        "description": "Nu mai pronunța 'brötchen' ca în engleză. Iată greșelile de pronunție pe care le fac începătorii — și cum să le corectezi în 5 minute."
+      },
+      "fa": {
+        "title": "اشتباهات تلفظ آلمانی که باعث می‌شن مثل توریست صدا بزنی",
+        "description": "دیگه 'brötchen' رو مثل انگلیسی تلفظ نکن. این اشتباهات تلفظ آلمانی هست که مبتدی‌ها مرتکب میشن — و نحوه اصلاحشون در ۵ دقیقه."
+      },
+      "ar": {
+        "title": "أخطاء نطق ألمانية تجعلك تبدو كسياح",
+        "description": "توقف عن نطق 'brötchen' كما لو كانت كلمة إنجليزية. إليك أخطاء النطق الألماني التي يرتكبها المبتدئون — وكيفية إصلاحها في 5 دقائق."
+      },
+      "es": {
+        "title": "Errores de pronunciación en alemán que te hacen sonar como turista",
+        "description": "Deja de decir 'brötchen' como si fuera inglés. Estos son los errores de pronunciación que cometen los principiantes — y cómo corregirlos en 5 minutos."
+      },
+      "uz": {
+        "title": "Nemis talaffuzidagi xatoliklar sizni turistdek ko'rsatadi",
+        "description": "Talaffuzdan to'g'ri foydalanishni o'rganing. Mana, boshlang'ich darajadagi o'quvchilarning eng ko'p qiladigan nemis talaffuzi xatoliklari — va ularni 5 daqiqada tuzatish yo'llari."
       }
     }
   },
@@ -742,6 +1058,30 @@
       "sk": {
         "title": "Nemecká gramatika: triky, ktoré ušetria mesiace štúdia",
         "description": "Prestaň s memorovaním nekonečných tabuliek. Tieto skratky v nemeckej gramatike ti spravia plynulosť rýchlejšie — bez bolesti hlavy."
+      },
+      "tr": {
+        "title": "Aylarca Süren Çalışmayı Kurtaran Almanca Dilbilgisi Tüyoları",
+        "description": "Sonsuz tabloları ezberlemeyi bırakın. Bu Almanca dilbilgisi kısayolları, baş ağrısı çekmeden daha hızlı akıcı konuşmanızı sağlayacak."
+      },
+      "ro": {
+        "title": "Scurtături de gramatică germană care îți economisesc luni de studiu",
+        "description": "Nu mai memora tabele nesfârșite. Aceste scurtături de gramatică germană te vor face să suni fluent mai repede — fără bătaie de cap."
+      },
+      "fa": {
+        "title": "ترفندهای گرامر آلمانی که ماه‌ها زمان یادگیری شما را کم می‌کنند",
+        "description": "دیگر جداول بی‌پایان را حفظ نکنید. این میان‌برهای گرامر آلمانی باعث می‌شوند سریع‌تر روان صحبت کنید — بدون سردرد."
+      },
+      "ar": {
+        "title": "حيل نحوية ألمانية توفّر عليك أشهراً من الدراسة",
+        "description": "توقف عن حفظ الجداول اللانهائية. هذه الاختصارات النحوية الألمانية ستجعلك تبدو متحدثاً بطلاقة أسرع — بلا صداع."
+      },
+      "es": {
+        "title": "Trucos de gramática alemana que te ahorran meses de estudio",
+        "description": "Deja de memorizar tablas interminables. Estos atajos de gramática alemana te harán sonar fluido más rápido — sin dolor de cabeza."
+      },
+      "uz": {
+        "title": "Nemis tili grammatikasi bo'yicha tezkor usullar — o'qishni oylab qisqartiradi",
+        "description": "Cheksiz jadvallarni yodlashni to'xtating. Bu nemis tili grammatika qisqartmalari sizni tezroq ravon gapirishga majbur qiladi — bosh og'rig'isiz."
       }
     }
   },
@@ -769,6 +1109,30 @@
       "sk": {
         "title": "Nemecké kultúrne zvyklosti, ktoré šokujú cudzincov",
         "description": "Tiché nedele, nahé sauny a reštaurácie len za hotovosť. Vitaj v Nemecku — kde je kultúrny šok reálny, ale kvalita života to vynahrádzuje."
+      },
+      "tr": {
+        "title": "Yabancıları Şoka Sokan Alman Kültürel Alışkanlıkları",
+        "description": "Sessiz Pazarlar, çıplak saunalar ve sadece nakit kabul eden restoranlar. Almanya'ya hoş geldiniz — kültür şoku gerçek, ancak yaşam kalitesi bunu telafi ediyor."
+      },
+      "ro": {
+        "title": "Obiceiuri Culturale Germane Care Îi Șochează pe Străini",
+        "description": "Duminici liniștite, saune goale și restaurante doar cu cash. Bun venit în Germania — unde șocul cultural este real, dar calitatea vieții compensează."
+      },
+      "fa": {
+        "title": "عادت‌های فرهنگی آلمانی که خارجی‌ها را شوکه می‌کند",
+        "description": "یکشنبه‌های ساکت، سوناهای برهنه و رستوران‌های فقط نقدی. به آلمان خوش آمدید — جایی که شوک فرهنگی واقعی است، اما کیفیت زندگی جبران می‌کند."
+      },
+      "ar": {
+        "title": "عادات ألمانية ثقافية تصدم الأجانب",
+        "description": "أحداث الأحد الهادئة، والساونا العارية، والمطاعم التي تقبل النقد فقط. مرحبًا بك في ألمانيا — حيث الصدمة الثقافية حقيقية، لكن جودة الحياة تعوّض عن ذلك."
+      },
+      "es": {
+        "title": "Hábitos culturales alemanes que sorprenden a los extranjeros",
+        "description": "Domingos silenciosos, saunas desnudos y restaurantes que solo aceptan efectivo. Bienvenido a Alemania, donde el choque cultural es real, pero la calidad de vida lo compensa."
+      },
+      "uz": {
+        "title": "Nemis madaniyati: chet elliklarni hayratda qoldiruvchi odatlar",
+        "description": "Tinch yakshanbalar, yalang'och saunalar va faqat naqd pul qabul qiluvchi restoranlar. Germaniyaga xush kelibsiz — madaniy shok haqiqiy, ammo hayot sifati buni qoplaydi."
       }
     }
   },
@@ -796,6 +1160,30 @@
       "sk": {
         "title": "Nemčina pre prácu: Práca v Nemecku 2026",
         "description": "Potrebujete nemčinu na prácu v Nemecku? Pravda o jazykových požiadavkách pre rôzne zamestnania — a ako preukázať svoju úroveň."
+      },
+      "tr": {
+        "title": "Almanca ve İş Hayatı: 2026'da Almanya'da Çalışmak",
+        "description": "Almanya'da çalışmak için gerçekten Almanca bilmek gerekiyor mu? Farklı işler için dil şartları ve seviyenizi kanıtlamanın yolları."
+      },
+      "ro": {
+        "title": "Germană pentru locuri de muncă: Cum lucrezi în Germania în 2026",
+        "description": "Ai într-adevăr nevoie de germană pentru a lucra în Germania? Adevărul despre cerințele lingvistice pentru diferite locuri de muncă — și cum să îți demonstrezi nivelul."
+      },
+      "fa": {
+        "title": "آلمانی برای کار: کار در آلمان ۲۰۲۶",
+        "description": "آیا واقعاً به آلمانی نیاز دارید تا در آلمان کار کنید؟ حقیقت درباره الزامات زبانی برای مشاغل مختلف — و چگونگی اثبات سطح زبان خود."
+      },
+      "ar": {
+        "title": "الألمانية من أجل العمل: العمل في ألمانيا 2026",
+        "description": "هل تحتاج حقاً إلى اللغة الألمانية للعمل في ألمانيا؟ الحقيقة حول متطلبات اللغة لمختلف المهن — وكيف تُثبت مستواك."
+      },
+      "es": {
+        "title": "Alemán para trabajar: Trabajar en Alemania en 2026",
+        "description": "¿Realmente necesitas alemán para trabajar en Alemania? La verdad sobre los requisitos de idioma para diferentes trabajos y cómo certificar tu nivel."
+      },
+      "uz": {
+        "title": "Nemis tili ish uchun: 2026-yilda Germaniyada ishlash",
+        "description": "Germaniyada ishlash uchun haqiqatan ham nemis tili kerakmi? Turli kasblar uchun til talablari haqida haqiqat va o'z darajangizni qanday isbotlash."
       }
     }
   },
@@ -823,6 +1211,30 @@
       "sk": {
         "title": "Nemecké festivaly a tradície: učte sa nemčinu cez kultúru",
         "description": "Oktoberfest, vianočné trhy a Karneval — tu je ako nemecké festivaly a tradície môžu urýchliť štúdium rýchlej než akkoko učebnica."
+      },
+      "tr": {
+        "title": "Alman Festivalleri ve Gelenekleri: Kültürle Almanca Öğrenin",
+        "description": "Oktoberfest, Noel pazarları ve Karneval — Alman festivalleri ve geleneklerinin herhangi bir ders kitabından daha hızlı nasıl dil öğrenmenizi sağlayabileceğini keşfedin."
+      },
+      "ro": {
+        "title": "Festivaluri și Tradiții Germane: Învață Germană prin Cultură",
+        "description": "Oktoberfest, târguri de Crăciun și Karneval — iată cum festivalurile și tradițiile germane îți pot accelera învățarea limbii mai repede decât orice manual."
+      },
+      "fa": {
+        "title": "جشنواره‌ها و سنت‌های آلمانی: زبان آلمانی را از طریق فرهنگ بیاموزید",
+        "description": "اکتبرفست، بازارهای کریسمس و کارناوال — بیاموزید که چگونه جشنواره‌ها و سنت‌های آلمانی می‌توانند یادگیری زبان شما را سریع‌تر از هر کتاب درسی تسریع کنند."
+      },
+      "ar": {
+        "title": "المهرجانات والتقاليد الألمانية: تعلّم الألمانية عبر الثقافة",
+        "description": "أوكتوبرفست، أسواق عيد الميلاد، والكرنفال — إليك كيف يمكن للمهرجانات والتقاليد الألمانية أن تسرّع تعلمك للغة بشكل أسرع من أي كتاب مدرسي."
+      },
+      "es": {
+        "title": "Festivales y tradiciones alemanas: Aprende alemán a través de la cultura",
+        "description": "Oktoberfest, mercados de Navidad y Karneval — descubre cómo los festivales y tradiciones alemanas pueden acelerar tu aprendizaje del idioma más rápido que cualquier libro de texto."
+      },
+      "uz": {
+        "title": "Nemis festivallari va an'analari: Madaniyat orqali nemis tilini o'rganish",
+        "description": "Oktoberfest, Rojdestvo bozorlari va Karneval — nemis festivallari va an'analari til o'rganishni har qanday darslikdan tezroq tezlashtirishi mumkin."
       }
     }
   },
@@ -850,6 +1262,30 @@
       "sk": {
         "title": "Nemeckí falošní priatelia: slová, ktoré vyzerajú anglicky, ale nie sú nimi",
         "description": "Myslíš si, že 'gift' znamená darček v nemčine? Zamysli sa znova. Tu sú najnebezpečnejšie nemecko-anglické falošní priatelia, ktorí pripravia začiatočníkov — a ako sa vyhnúť trapným chybám."
+      },
+      "tr": {
+        "title": "Almanca Yalancı Dostlar ve Yaygın Hatalar: Aldanmayın! Kapsamlı Rehber",
+        "description": "Utanç yaşamayın! İngilizce konuşanları kandıran Almanca yalancı dostları ve yaygın hataları öğrenin. Benzer görünüp farklı anlamlara gelen kelimeleri ustalıkla kullanın. 'Gift' (zehir) ile 'bekommen' (almak) arasındaki farkı öğrenin ve utanç verici karışıklıklardan kurtulun."
+      },
+      "ro": {
+        "title": "Prietenii Falși în Germană și Greșeli Comune: Nu Te Lăsa Păcălit! Ghid Complet",
+        "description": "Nu te face de râs! Învăță prietenii falși din germană și greșelile comune care îi păcălesc pe vorbitorii de engleză. Stăpânește cuvintele care arată similar dar înseamnă lucruri diferite. De la 'gift' (otravă) la 'bekommen' (a primi), evită confuziile jenante între germană și engleză."
+      },
+      "fa": {
+        "title": "دوستان کاذب آلمانی و اشتباهات رایج: فریب نخورید! راهنمای کامل",
+        "description": "خجالت نکشید! دوستان کاذب آلمانی و اشتباهات رایجی که گویشوران انگلیسی را گول می‌زند را بیاموزید. کلماتی که شبیه به نظر می‌رسند اما معانی متفاوتی دارند را مسلط شوید. از 'Gift' (سم) تا 'bekommen' (دریافت کردن)، از اشتباهات خجالت‌آور آلمانی-انگلیسی جلوگیری کنید."
+      },
+      "ar": {
+        "title": "الكلمات الخادعة والأخطاء الشائعة في الألمانية: لا تنخدع! دليل شامل",
+        "description": "لا تُحرج نفسك! تعرّف على الكلمات الخادعة والأخطاء الشائعة التي تُخدع متحدثي الإنجليزية في الألمانية. أتقن الكلمات المتشابهة التي تحمل معانٍ مختلفة. من 'Gift' (سم) إلى 'bekommen' (يستلم)، تجنّب الخلط المحرج بين الألمانية والإنجليزية."
+      },
+      "es": {
+        "title": "Falsos amigos del alemán y errores comunes: ¡No te dejes engañar! Guía completa",
+        "description": "¡No te avergüences! Aprende los falsos amigos del alemán y los errores comunes que engañan a los hispanohablantes. Domina las palabras que parecen similares pero significan cosas distintas. Desde 'Gift' (veneno) hasta 'bekommen' (recibir), evita confusiones embarazosas entre el alemán y el español."
+      },
+      "uz": {
+        "title": "Nemis tilidagi so'zbemalar va keng tarqalgan xatolar: Aldanmang! To'liq qo'llanma",
+        "description": "Xijolat bo'lishdan saqlaning! Ingliz tilida so'zlashuvchilarni chalg'itadigan nemis tilidagi so'zbemalar va keng tarqalgan xatolarni o'rganing. Ko'rinishi o'xshash, lekin ma'nosi butunlay boshqacha bo'lgan so'zlarni o'zlashtiring. 'Gift' (zahar) dan 'bekommen' (qabul qilmoq) gacha — nemis-ingliz aralashmalaridan qoching."
       }
     }
   },
@@ -877,6 +1313,30 @@
       "sk": {
         "title": "Nemecké zložené slová: najdlhšie slová, ktoré miluješ",
         "description": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz. Áno, to je jedno slovo. Tu je ako fungujú nemecké zložené slová, prečo sú úžasné, a ako vytvoriť vlastné dielo s 50 písmenami."
+      },
+      "tr": {
+        "title": "Almanca Birleşik Kelimeler: Uzun Almanca Kelimeler Nasıl Oluşturulur ve Anlaşılır (Örneklerle)",
+        "description": "Almanca birleşik kelimelerde ustalaşın! Almanların kelimeleri nasıl birleştirerek 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' gibi muhteşem terimler yarattığını öğrenin. Kurallar, örnekler, telaffuz ipuçları ve en uzun 5 Almanca kelimenin açıklandığı kapsamlı rehber."
+      },
+      "ro": {
+        "title": "Cuvintele compuse în germană: Cum să construiești și să înțelegi cuvintele lungi germane (Cu exemple)",
+        "description": "Stăpânește cuvintele compuse în germană! Învăță cum germanii combină cuvinte pentru a crea termeni epici precum 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' Ghid complet cu reguli, exemple, sfaturi de pronunție și cele 5 cele mai lungi cuvinte germane explicate."
+      },
+      "fa": {
+        "title": "واژه‌های مرکب آلمانی: چگونه واژه‌های طولانی آلمانی را بسازیم و درک کنیم (با مثال)",
+        "description": "واژه‌های مرکب آلمانی را یاد بگیرید! کشف کنید چگونه آلمانی‌ها واژه‌ها را ترکیب می‌کنند تا اصطلاحاتی حماسی مثل 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' بسازند. راهنمای کامل با قوانین، مثال‌ها، نکات تلفظ و توضیح ۵ واژه طولانی آلمانی."
+      },
+      "ar": {
+        "title": "الكلمات الألمانية المركبة: كيف تبني وتفهم الكلمات الألمانية الطويلة (مع أمثلة)",
+        "description": "أتقن الكلمات الألمانية المركبة! تعلّم كيف يدمج الألمان الكلمات لإنشاء مصطلحات ملحمية مثل 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' دليل شامل مع القواعد والأمثلة ونطق الملاحظات وشرح لأطول 5 كلمات ألمانية."
+      },
+      "es": {
+        "title": "Palabras compuestas en alemán: Cómo construir y entender las palabras largas en alemán (con ejemplos)",
+        "description": "¡Domina las palabras compuestas en alemán! Aprende cómo los alemanes combinan palabras para crear términos épicos como 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' Guía completa con reglas, ejemplos, consejos de pronunciación y las 5 palabras más largas del alemán explicadas."
+      },
+      "uz": {
+        "title": "Nemis qo'shma so'zlari: Uzoq nemis so'zlarini qanday tuzish va tushunish (misollar bilan)",
+        "description": "Nemis qo'shma so'zlarini o'rganing! Nemislar so'zlarni qanday birlashtirib, 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz' kabi ajoyib atamalar yaratishini bilib oling. Qoidalar, misollar, talaffuz maslahatlari va eng uzun 5 ta nemis so'zining to'liq tushuntirishi bilan qo'llanma."
       }
     }
   },
@@ -904,6 +1364,30 @@
       "sk": {
         "title": "11 nemeckých slov, ktoré angličtina desperátne potrebuje",
         "description": "Už si niekedy cítil schadenfreude? Zažil si fernweh? Nemčina má slová pre emócie, ktoré anglicky hovoriaci ľudia cítia, ale nemôžu pomenovať. Tu sú nemecké slová, ktoré dokonale popisujú pocity, o ktorých si ani nevedel, že ich máš."
+      },
+      "tr": {
+        "title": "İngilizcenin Çaresizce İhtiyaç Duyduğu 11 Almanca Kelime",
+        "description": "Hiç schadenfreude hissettiniz mi? Fernweh yaşadınız mı? Almanca, İngilizce konuşanların hissettiği ama adlandıramadığı duygular için kelimelere sahip. İngilizcede karşılığı olmayan, hislerinizi mükemmel tarif eden Almanca kelimeler burada."
+      },
+      "ro": {
+        "title": "11 cuvinte germane de care engleza are disperată nevoie",
+        "description": "Ai simțit vreodată schadenfreude? Ai trăit fernweh? Germana are cuvinte pentru emoțiile pe care vorbitorii de engleză le simt, dar nu pot numi. Iată cuvintele germane care descriu perfect sentimente pe care nu știai că le ai."
+      },
+      "fa": {
+        "title": "۱۱ واژه آلمانی که انگلیسی به شدت به آنها نیاز دارد",
+        "description": "تا حالا شادن‌فروده حس کرده‌اید؟ فرن‌وه را تجربه کرده‌اید؟ آلمانی واژه‌هایی برای احساساتی دارد که انگلیسی‌زبانان حس می‌کنند اما نمی‌توانند نامگذاری‌اش کنند. این واژگان آلمانی هستند که کاملاً احساساتی که نمی‌دانستید دارید را توصیف می‌کنند."
+      },
+      "ar": {
+        "title": "11 كلمة ألمانية يحتاجها الإنجليزية بشدة",
+        "description": "هل شعرت يوماً بـ schadenfreude؟ أو اختبرت fernweh؟ الألمانية تمتلك كلمات لمشاعر يحس بها الناطقون بالإنجليزية لكنهم لا يستطيعون تسميتها. إليك الكلمات الألمانية التي تصف بدقة مشاعر لم تكن تعرف أنك تملكها."
+      },
+      "es": {
+        "title": "11 palabras alemanas que el inglés necesita desesperadamente",
+        "description": "¿Alguna vez has sentido schadenfreude? ¿Has experimentado fernweh? El alemán tiene palabras para emociones que los hispanohablantes sienten pero no pueden nombrar. Aquí están las palabras alemanas que describen perfectamente sentimientos que no sabías que tenías."
+      },
+      "uz": {
+        "title": "Ingliz tili shoshilinch ravishda kerak bo'lgan 11 ta nemis so'zi",
+        "description": "Hech schadenfreude his qilganmisiz? Fernwehni boshdan kechirganmisiz? Nemis tilida ingliz tilida so'zlashuvchilar his qiladigan, lekin nomlay olmaydigan hissiyotlar uchun so'zlar bor. Quyida siz borligini ham bilmaydigan hislarni mukammal ifodalovchi nemis so'zlari keltirilgan."
       }
     }
   },
@@ -934,6 +1418,30 @@
       "sk": {
         "title": "Nemecké reštauračné frázy: Objednaj si jedlo ako miestny (aj s nulovou nemčinou)",
         "description": "Jesť v Nemecku? Ovládnuty dôležité nemecké reštauračné frázy na objednávanie jedla, žiadanie účtu a pochopenie nemeckej kultúry stravovania. Od 'Die Speisekarte bitte' po 'Zahlen, bitte' — preži v akejkoľvek nemeckej reštaurácii, kaviarni alebo pivnej záhrade ako profík."
+      },
+      "tr": {
+        "title": "Almanca Restoran İfadeleri: Yerel Birisi Gibi Yemek Sipariş Verin (Sıfır Almanca Bilseniz Bile)",
+        "description": "Almanya'da yemek mi yiyeceksiniz? Yemek siparişi vermek, hesap istemek ve Alman yemek kültürünü anlamak için gerekli Almanca restoran ifadelerini öğrenin. 'Die Speisekarte bitte'den 'Zahlen, bitte'ye kadar — herhangi bir Alman restoranında, kafede veya bira bahçesinde profesyonel gibi hareket edin."
+      },
+      "ro": {
+        "title": "Fraze utile la restaurant în germană: Comandă mâncare ca un localnic (chiar și fără niciun pic de germană)",
+        "description": "Mănânci în Germania? Învață frazele esențiale în germană pentru a comanda mâncare la restaurant, a cere nota de plată și a înțelege cultura culinară germană. De la „Die Speisekarte bitte\" la „Zahlen, bitte\" — descurcă-te în orice restaurant, cafenea sau biergarten din Germania ca un profesionist."
+      },
+      "fa": {
+        "title": "عبارات رستوران آلمانی: غذای خود را مثل یک بومی سفارش دهید (حتی با صفر آلمانی)",
+        "description": "در آلمان غذا می‌خورید؟ عبارات ضروری رستوران آلمانی را برای سفارش غذا، درخواست صورت‌حساب و درک فرهنگ غذاخوری آلمانی یاد بگیرید. از 'Die Speisekarte bitte' تا 'Zahlen, bitte' — در هر رستوران، کافه یا بیرگارتن آلمانی مثل یک حرفه‌ای عمل کنید."
+      },
+      "ar": {
+        "title": "عبارات المطاعم الألمانية: اطلب الطعام مثل السكان المحليين (حتى بدون أي معرفة بالألمانية)",
+        "description": "تتناول الطعام في ألمانيا؟ أتقن عبارات المطاعم الألمانية الأساسية لطلب الطعام، وطلب الفاتورة، وفهم ثقافة تناول الطعام الألمانية. من 'Die Speisekarte bitte' إلى 'Zahlen, bitte' — تجاوز أي مطعم ألماني، أو مقهى، أو حديقة بيرة مثل المحترفين."
+      },
+      "es": {
+        "title": "Frases para Restaurantes en Alemán: Pide Comida Como un Local (Incluso con Cero Alemán)",
+        "description": "¿Comiendo fuera en Alemania? Domina las frases esenciales en alemán para pedir comida, pedir la cuenta y entender la cultura gastronómica alemana. Desde 'Die Speisekarte bitte' hasta 'Zahlen, bitte' — sobrevive en cualquier restaurante, cafetería o biergarten alemán como un profesional."
+      },
+      "uz": {
+        "title": "Nemischa restoran iboralari: Mahalliy kabi ovqat buyurtma qiling (hatto nemis tili nol bilansa ham)",
+        "description": "Germaniyada tashqarida ovqatlanasizmi? Ovqat buyurtma qilish, hisobni so'rash va nemis ovqatlanish madaniyatini tushunish uchun zarur bo'lgan nemischa restoran iboralarini o'rganing. 'Die Speisekarte bitte' dan 'Zahlen, bitte' gacha — har qanday nemis restorani, kafesi yoki biergartenida professionaldek chiqing."
       }
     }
   },
@@ -964,6 +1472,30 @@
       "sk": {
         "title": "Nemecké poradie slov: Jednoduché pravidlá, ktoré dávajú zmysel nemeckej syntaxe",
         "description": "Bojuješ s nemeckým poradím slov? Nauč sa jednoduché pravidlá, ktoré dávajú zmysel nemeckej štruktúre viet — od pravidla verb-second po TEKaMoLo, vedľajšie vety a klauzuly. Ovládni nemeckú syntax bez straty rozumu."
+      },
+      "tr": {
+        "title": "Almanca Sözcük Dizimi: Kapsamlı Rehber (Cümle Yapısı, TeKaMo Kuralı, Fiil Konumu)",
+        "description": "Almanca sözcük diziminde ustalaşın! TeKaMo kuralını (Zaman-Neden-Tarz), yükleme ve sorularda fiil konumunu, yan cümlelerde sözcük dizimini ve yaygın hataları öğrenin. Örnekler, tablolar ve hafıza teknikleriyle kapsamlı rehber."
+      },
+      "ro": {
+        "title": "Ordinea cuvintelor în germană: Ghid complet (Structura propoziției, Regula TeKaMo, Poziția verbului)",
+        "description": "Stăpânește ordinea cuvintelor în germană! Învață regula TeKaMo (Timp-Cauză-Mod), poziția verbului în propoziții vs întrebări, ordinea cuvintelor în propozițiile subordonate și greșelile frecvente. Ghid complet cu exemple, tabele și trucuri de memorare pentru a vorbi germana corect."
+      },
+      "fa": {
+        "title": "ترتیب کلمات آلمانی: راهنمای کامل (ساختار جمله، قانون TeKaMo، جایگاه فعل)",
+        "description": "ترتیب کلمات آلمانی را یاد بگیرید! قانون TeKaMo (زمان-علت-نحو)، جایگاه فعل در جملات خبری و پرسشی، ترتیب کلمات در جملات فرعی و اشتباهات رایج را بیاموزید. راهنمای کامل با مثال‌ها، نمودارها و ترفندهای حافظه."
+      },
+      "ar": {
+        "title": "ترتيب الكلمات في الألمانية: دليل شامل (بنية الجملة، قاعدة تيكامو، موقع الفعل)",
+        "description": "أتقن ترتيب الكلمات في الألمانية! تعلم قاعدة تيكامو (الزمن-السبب-الطريقة)، موقع الفعل في الجمل الخبرية والاستفهامية، ترتيب الكلمات في الجمل التابعة، والأخطاء الشائعة. دليل شامل مع أمثلة ورسوم بيانية وحيل ذهنية للتحدث بالألمانية بشكل صحيح."
+      },
+      "es": {
+        "title": "El orden de las palabras en alemán: Guía completa (Estructura de la oración, Regla TeKaMo, Posición del verbo)",
+        "description": "Domina el orden de las palabras en alemán. Aprende la regla TeKaMo (Tiempo-Causa-Modo), la posición del verbo en afirmaciones y preguntas, el orden en oraciones subordinadas y los errores más comunes. Guía completa con ejemplos, tablas y trucos mnemotécnicos para hablar alemán correctamente."
+      },
+      "uz": {
+        "title": "Nemischa so'z tartibi: To'liq qo'llanma (Gap tuzilishi, TeKaMo qoidasi, Fe'l o'rni)",
+        "description": "Nemischa so'z tartibini o'rganing! TeKaMo qoidasi (Vaqt-Sabab-Usul), bayon va savol gaplarida fe'l o'rni, ergash gaplarda so'z tartibi va keng tarqalgan xatolarni o'rganing. Misollar, jadvallar va o'zlashtirish usullari bilan to'liq qo'llanma."
       }
     }
   },
@@ -994,6 +1526,30 @@
       "sk": {
         "title": "Nemecké komplimenty: 50+ fráz na pochvalu ako rodák",
         "description": "Chceš niekomu spraviť deň po nemecky? Nauč sa 50+ nemeckých komplimentov a fráz na chválu — od casual po formal, pre vzhľad, prácu, osobnosť a viac. Zniej autenticky, nie ako z učebnice."
+      },
+      "tr": {
+        "title": "Almanca Övgü Cümleleri: Bir Anadili Konuşucusu Gibi Övmek İçin 50+ İfade",
+        "description": "Almanca birinin gününü güzelleştirmek ister misiniz? Gündelikten resmiyeye, dış görünüşten iş yaşamına, kişilikten daha fazlasına — 50'den fazla Almanca övgü ve iltifat ifadesi öğrenin. Ders kitabı gibi değil, gerçekçi konuşun."
+      },
+      "ro": {
+        "title": "Complimente în germană: 50+ expresii pentru a lăuda pe cineva ca un vorbitor nativ",
+        "description": "Vrei să faci cuiva ziua mai bună în germană? Învață 50+ complimente și expresii de laudă în germană — de la casual la formal, pentru aspect, muncă, personalitate și multe altele. Sună autentic, nu ca un manual."
+      },
+      "fa": {
+        "title": "تعریف و تمجید به آلمانی: بیش از ۵۰ عبارت برای تحسین دیگران مثل یک نیتیو",
+        "description": "می‌خواهید روز کسی را بسازید؟ بیش از ۵۰ عبارت تعریف و تمجید به آلمانی یاد بگیرید — از غیررسمی تا رسمی، برای ظاهر، کار، شخصیت و بیشتر. اصیل صحبت کنید، نه مثل یک کتاب درسی."
+      },
+      "ar": {
+        "title": "المجاملة بالألمانية: أكثر من 50 عبارة للإشادة بشخص ما مثل المتحدث الأصلي",
+        "description": "تريد إسعاد شخص ما بالألمانية؟ تعلم أكثر من 50 عبارة مجاملة وإشادة بالألمانية — من العفوية إلى الرسمية، للمظهر والعمل والشخصية والمزيد. تحدث بأسلوب أصيل، وليس ككتاب مدرسي."
+      },
+      "es": {
+        "title": "Elogios en alemán: más de 50 frases para halagar a alguien como un hablante nativo",
+        "description": "¿Quieres alegrarle el día a alguien en alemán? Aprende más de 50 elogios y frases de halago en alemán — desde casuales hasta formales, para la apariencia, el trabajo, la personalidad y más. Suena auténtico, no como un libro de texto."
+      },
+      "uz": {
+        "title": "Nemischa maqtovlar: Mahalliy odamdek maqtash uchun 50+ ibora",
+        "description": "Nemis tilida kimningdir kunini yoritib yubormoqchimisiz? 50+ nemischa maqtov va olqishlash iboralarini o'rganing — kundalikdan rasmiygacha, tashqi ko'rinish, ish, xarakter va boshqalar uchun. Darslik emas, haqiqiy gapirishni o'rganing."
       }
     }
   },
@@ -1024,6 +1580,30 @@
       "sk": {
         "title": "Nemecké pozdravy: Ako povedať ahoj, do videnia a všetko medzi tým ako rodák",
         "description": "Chceš pozdraviť ľudí po nemecky ako miestny? Nauč sa dôležité nemecké pozdravy a rozlúčky — od Guten Tag po Moin, od formal po casual, plus regionálne variácie a kultúrne etiketa."
+      },
+      "tr": {
+        "title": "Almanca Selamlaşmalar: Yerel Gibi Merhaba, Hoşçakal ve Aradaki Her Şeyi Nasıl Söylersiniz",
+        "description": "Almanya'da yerel biri gibi selamlaşmak mı istiyorsunuz? Guten Tag'den Moin'e, resmi olandan gündelik olanına, bölgesel varyasyonlar ve kültürel görgü kuralları dahil temel Almanca selamlaşma ve vedalaşma ifadelerini öğrenin."
+      },
+      "ro": {
+        "title": "Formule de salut în germană: Cum să spui bună ziua, la revedere și tot ce e între ele ca un localnic",
+        "description": "Vrei să saluți oamenii în germană ca un localnic? Învăță formulele esențiale de salut și de rămas-bun în germană — de la Guten Tag la Moin, de la formal la informal, plus variante regionale și etichetă culturală."
+      },
+      "fa": {
+        "title": "احوال‌پرسی آلمانی: چگونه مثل یک بومی سلام کنید، خداحافظی کنید و همه چیزهای بین آن",
+        "description": "می‌خواهید مثل یک بومی در آلمان احوال‌پرسی کنید؟ سلام و خداحافظی‌های ضروری آلمانی را بیاموزید — از Guten Tag تا Moin، از رسمی تا غیررسمی، به‌علاوه تفاوت‌های منطقه‌ای و آداب و رسوم فرهنگی."
+      },
+      "ar": {
+        "title": "التحيات الألمانية: كيف تقول مرحبًا ووداعًا وكل ما بينهما مثل المحليين",
+        "description": "هل تريد تحية الناس بالألمانية مثل المحليين؟ تعلّم التحيات والوداعات الألمانية الأساسية — من Guten Tag إلى Moin، من الرسمية إلى العفوية، بالإضافة إلى الاختلافات الإقليمية وآداب الثقافة الألمانية."
+      },
+      "es": {
+        "title": "Saludos en alemán: Cómo decir hola, adiós y todo lo intermedio como un local",
+        "description": "¿Quieres saludar en alemán como un local? Aprende los saludos y despedidas esenciales en alemán — desde Guten Tag hasta Moin, de lo formal a lo casual, además de variaciones regionales y etiqueta cultural."
+      },
+      "uz": {
+        "title": "Nemischa salomlashish: Mahalliy kabi Salom, Xayr va boshqa hamma narsani qanday aytish",
+        "description": "Nemistili mahalliy kabi odamlarni salomlashni xohlaysizmi? Asosiy nemischa salomlash va xayrlashuv iboralarini o'rganing — Guten Tag dan Moin gacha, rasmiydan erkinlargacha, shuningdek mintaqaviy o'zgarishlar va madaniy odob-axloq qoidalari."
       }
     }
   },
@@ -1054,6 +1634,30 @@
       "sk": {
         "title": "Nemecký small talk: Dôležité frázy pre sociálne situácie a konverzácie",
         "description": "Bojuješ s nemeckým small talkom? Nauč sa 50+ dôležitých nemeckých fráz pre sociálne situácie, konverzačné štarty, výplne, témy a kultúrne etiketa. Ovládaj nemecký small talk a spoj sa s rodákmi prirodzene."
+      },
+      "tr": {
+        "title": "Almanca Sohbet: Her Sosyal Durumda Hayatta Kalmanızı Sağlayacak 50+ Temel İfade",
+        "description": "Almanca sohbet konusunda zorlanıyor musunuz? Havadan sudan tatillere, ofisten partilere kadar temel Almanca sohbet başlangıçları, dolgu kelimeleri ve konuları öğrenin. Almanların sohbet yapmadığı efsanesini yıkın."
+      },
+      "ro": {
+        "title": "Small Talk în Germană: 50+ Expresii Esențiale pentru Orice Situație Socială",
+        "description": "Ai dificultăți cu small talk-ul în germană? Învață cele mai importante inițiatori de conversație, expresii de umplutură și subiecte — de la vreme la weekenduri, de la birou la petreceri. Sparge stereotipul că germanii nu fac small talk."
+      },
+      "fa": {
+        "title": "گفتگوی کوچک آلمانی: بیش از ۵۰ عبارت ضروری برای مقابله با هر موقعیت اجتماعی",
+        "description": "در گفتگوی کوچک آلمانی مشکل دارید؟ عبارات آغازگر مکالمه، کلمات پرکننده و موضوعات ضروری آلمانی را یاد بگیرید — از هوا تا آخر هفته، از دفتر کار تا مهمانی‌ها. کلیشه‌ای که آلمانی‌ها گفتگوی کوچک نمی‌کنند را بشکنید."
+      },
+      "ar": {
+        "title": "الدردشة الألمانية: أكثر من 50 عبارة أساسية للنجاح في أي موقف اجتماعي",
+        "description": "تواجه صعوبة في الدردشة الألمانية؟ تعلم عبارات بدء المحادثة الأساسية، والكلمات الحشوية، والمواضيع — من الطقس إلى عطلة نهاية الأسبوع، من المكتب إلى الحفلات. كسر الصورة النمطية بأن الألمان لا يجيدون الدردشة."
+      },
+      "es": {
+        "title": "Small Talk en Alemán: Más de 50 Frases Esenciales para Sobrevivir a Cualquier Situación Social",
+        "description": "¿Te cuesta el small talk en alemán? Aprende las frases esenciales para iniciar conversaciones, expresiones de relleno y temas de conversación — desde el clima hasta los fines de semana, de la oficina a las fiestas. Rompe el estereotipo de que los alemanes no hacen small talk."
+      },
+      "uz": {
+        "title": "Nemischa mayda suhbat: Har qanday ijtimoiy vaziyatda omon qolish uchun 50+ muhim ibora",
+        "description": "Nemischa mayda suhbat qiyinmi? Nemischa suhbat boshlovchi iboralar, to'ldirgichlar va mavzularni o'rganing — ob-havodan dam olish kunlarigacha, idoradan ziyofatlarga qadar. Nemislar mayda suhbat qilmasdi degan stereotipni buzish vaqti keldi."
       }
     }
   },
@@ -1084,6 +1688,30 @@
       "sk": {
         "title": "Nemecké otázky: Ovládni W-slová a pýtaj sa ako rodený Nemec",
         "description": "Bojuješ s pýtaním sa po nemecky? Nauč sa všetky nemecké otázky (W-slová), vzorce otázok a ako správne formovať otázky. Od 'Was' po 'Warum' — ovládni nemecké otázky a znie ako rodený Nemec."
+      },
+      "tr": {
+        "title": "Almanca Soru Kelimeleri: Başlangıç Seviyesi için W-Fragen Rehberi",
+        "description": "Almanca'da soru sormak mı istiyorsunuz? Wer ve was'tan wo ve wann'a kadar temel Almanca soru kelimelerini öğrenin. W-Fragen kelimesini doğru kullanım, örnekler ve Almanca konuşulan ülkelerde soru sorma hakkında kültürel notlarla birlikte öğrenin."
+      },
+      "ro": {
+        "title": "Pronumele interogative în germană: Ghid complet pentru W-Fragen (întrebări cu W)",
+        "description": "Vrei să pui întrebări în germană? Stăpânește pronumele interogative esențiale din limba germană, de la wer și was până la wo și wann. Învață vocabularul W-Fragen cu utilizare corectă, exemple și note culturale despre adresarea întrebărilor în țările vorbitoare de limba germană."
+      },
+      "fa": {
+        "title": "کلمات پرسشی آلمانی: راهنمای کامل W-Fragen برای مبتدیان",
+        "description": "می‌خواهید به آلمانی سوال بپرسید? کلمات پرسشی اساسی آلمانی از wer و was تا wo و wann را یاد بگیرید. واژگان W-Fragen را با کاربرد صحیح، مثال‌ها و نکات فرهنگی درباره پرسیدن سوال در کشورهای آلمانی‌زبان بیاموزید."
+      },
+      "ar": {
+        "title": "كلمات الاستفهام الألمانية: الدليل الشامل لـ W-Fragen للمبتدئين",
+        "description": "هل تريد طرح الأسئلة بالألمانية؟ أتقن كلمات الاستفهام الألمانية الأساسية من wer و was إلى wo و wann. تعلم مفردات W-Fragen مع الاستخدام الصحيح والأمثلة والملاحظات الثقافية حول طرح الأسئلة في البلدان الناطقة بالألمانية."
+      },
+      "es": {
+        "title": "Palabras interrogativas en alemán: guía completa de las W-Fragen para principiantes",
+        "description": "¿Quieres hacer preguntas en alemán? Domina las palabras interrogativas esenciales del alemán, desde wer y was hasta wo y wann. Aprende el vocabulario de las W-Fragen con su uso correcto, ejemplos y notas culturales sobre cómo hacer preguntas en los países de habla alemana."
+      },
+      "uz": {
+        "title": "Nemis savol so'zlari: Boshlanuvchilar uchun W-Fragen bo'yicha to'liq qo'llanma",
+        "description": "Nemis tilida savollar berishni xohlaysizmi? Wer va was dan boshlab, wo va wann gacha bo'lgan asosiy nemis savol so'zlarini o'rganing. W-Fragen lug'atini to'g'ri qo'llash, misollar va nemis tilida so'zlashuvchi mamlakatlarda savol berish haqida madaniy ma'lumotlar bilan o'rganing."
       }
     }
   },
@@ -1114,6 +1742,30 @@
       "sk": {
         "title": "Nemecké výplňové slová: Znie prirodzene a iste v konverzácii",
         "description": "Chceš znieť ako rodený Nemec? Ovládni dôležité nemecké výplňové slová a konverzačné fillery — od 'ähm' po 'halt' a 'einfach'. Prestaň znieť ako učebnica a začni hovoriť prirodzenou nemčinou."
+      },
+      "tr": {
+        "title": "Almanca Dolgu Kelimeleri: Konuşmada Doğal ve Özgüvenli Görünün",
+        "description": "Ana dili Almanca olan biri gibi mi konuşmak istiyorsunuz? 'Ähm'den 'halt' ve 'einfach'e kadar temel Almanca dolgu kelimelerini ve konuşma dolgularını öğrenin. Ders kitabı gibi konuşmayı bırakın ve doğal Almanca konuşmaya başlayın."
+      },
+      "ro": {
+        "title": "Cuvintele de umplutură în germană: Sună natural și încrezător în conversație",
+        "description": "Vrei să suni ca un vorbitor nativ de germană? Stăpânește cuvintele de umplutură esențiale în germană — de la 'ähm' la 'halt' și 'einfach'. Nu mai suna ca un manual și începe să vorbești o germană naturală."
+      },
+      "fa": {
+        "title": "واژه‌های پرکننده آلمانی: طبیعی و با اعتمادبه‌نفس صحبت کنید",
+        "description": "می‌خواهید مثل یک گویشور بومی آلمانی حرف بزنید؟ واژه‌های پرکننده ضروری آلمانی را بیاموزید — از 'ähm' تا 'halt' و 'einfach'. صحبت کتابی را رها کنید و آلمانی طبیعی صحبت کنید."
+      },
+      "ar": {
+        "title": "كلمات الحشو الألمانية: تحدث بطبيعية وثقة في المحادثة",
+        "description": "هل تريد أن تبدو كمتحدث ألماني أصلي؟ أتقن كلمات الحشو الألمانية الأساسية — من 'ähm' إلى 'halt' و 'einfach'. توقف عن التحدث ككتاب مدرسي وابدأ بالتحدث بالألمانية بطريقة طبيعية."
+      },
+      "es": {
+        "title": "Muletillas en alemán: Suena natural y con confianza en conversación",
+        "description": "¿Quieres sonar como un hablante nativo de alemán? Domina las muletillas esenciales del alemán — desde 'ähm' hasta 'halt' y 'einfach'. Deja de sonar como un libro de texto y comienza a hablar alemán de forma natural."
+      },
+      "uz": {
+        "title": "Nemischa to'ldiruvchi so'zlar: Suhbatda tabiiy va ishonchli ko'rining",
+        "description": "Nemis tili ona tilidek gapirishni xohlaysizmi? 'Ähm' dan 'halt' va 'einfach' gacha bo'lgan muhim nemischa to'ldiruvchi so'zlarni o'rganing. Darslikdek gapirishni to'xtatib, tabiiy nemis tilida gapirishni boshlang."
       }
     }
   },
@@ -1144,6 +1796,30 @@
       "sk": {
         "title": "Nemecké počasové frázy: Ovládni počasovú small talk ako rodák",
         "description": "Počas je #1 téma small talku v Nemecku. Ovládni dôležité nemecké počasové frázy a slovnú zásobu — od 'Es regnet' po 'Es ist schwül'. Hovor o počasí po nemecky ako rodák, nie ako z učebnice."
+      },
+      "tr": {
+        "title": "Almanca Hava Durumu İfadeleri: Yerel Bir Alman Gibi Hava Sohbeti Yapın",
+        "description": "Hava durumu, Almanya'da bir numaralı sohbet konusudur. Temel Almanca hava durumu ifadelerini ve kelime dağarcığını öğrenin — 'Es regnet'ten 'Es ist schwül'e kadar. Almancada bir yerli gibi hava hakkında konuşun, bir ders kitabı gibi değil."
+      },
+      "ro": {
+        "title": "Expresii despre vremea în germană: Stăpânește conversațiile despre vreme ca un local",
+        "description": "Vremea este subiectul nr. 1 de small talk în Germania. Învață expresiile esențiale despre vreme în germană și vocabularul aferent — de la „Es regnet\" până la „Es ist schwül\". Vorbește despre vreme în germană ca un local, nu ca un manual."
+      },
+      "fa": {
+        "title": "عبارات آب‌وهوایی آلمانی: مثل یک بومی درباره آب‌وهوا حرف بزنید",
+        "description": "آب‌وهوا محبوب‌ترین موضوع گفتگوی روزمره در آلمان است. عبارات و واژگان ضروری آب‌وهوایی آلمانی را بیاموزید — از 'Es regnet' تا 'Es ist schwül'. درباره آب‌وهوا به آلمانی مثل یک بومی حرف بزنید، نه مثل یک کتاب درسی."
+      },
+      "ar": {
+        "title": "عبارات الطقس بالألمانية: أتقن حديث الطقس كأنك محلي",
+        "description": "الطقس هو الموضوع الأول للدردشة في ألمانيا. أتقن عبارات ومفردات الطقس الأساسية بالألمانية — من 'Es regnet' إلى 'Es ist schwül'. تحدث عن الطقس بالألمانية كأنك محلي، وليس ككتاب مدرسي."
+      },
+      "es": {
+        "title": "Frases sobre el clima en alemán: Domina la charla sobre el tiempo como un local",
+        "description": "El clima es el tema número uno de conversación en Alemania. Domina las frases y el vocabulario esencial sobre el clima en alemán — desde 'Es regnet' hasta 'Es ist schwül'. Habla del tiempo en alemán como un local, no como un libro de texto."
+      },
+      "uz": {
+        "title": "Nemischa ob-havo iboralari: Mahalliy kabi ob-havo haqida suhbatlashish",
+        "description": "Ob-havo — Germaniyada eng mashhur suhbat mavzusi. 'Es regnet' dan 'Es ist schwül' gacha bo'lgan muhim nemischa ob-havo iboralari va lug'atni o'rganing. Darslik emas, haqiqiy nemislar kabi ob-havo haqida gapiring."
       }
     }
   },
@@ -1174,6 +1850,30 @@
       "sk": {
         "title": "Nemecké časové výrazy: Ako hovoriť o čase ako rodák",
         "description": "Bojuješ s hovorením o čase po nemecky? Ovládni dôležité nemecké časové výrazy, slovnú zásobu hodín a frázy na pýtanie a hovorenie o čase. Od 'Wie spät ist es?' po pochopenie 24-hodinového systému. Hovor o čase po nemecky isto."
+      },
+      "tr": {
+        "title": "Almanca Zaman İfadeleri: Bir Ana Dil Konuşucusu Gibi Saat Nasıl Söylenir",
+        "description": "Almanca saat söylemekte zorlanıyor musunuz? Temel Almanca zaman ifadelerini, saat dilimini ve saat sorma/söyleme kalıplarını öğrenin. 'Wie spät ist es?'dan 24 saatlik sistemi anlamaya kadar. Almanca saate güvenle söyleyin."
+      },
+      "ro": {
+        "title": "Expresii de timp în germană: Cum să spui ora ca un vorbitor nativ",
+        "description": "Îți este greu să spui ora în germană? Stăpânește expresiile esențiale de timp în germană, vocabularul ceasului și frazele pentru a întreba și a spune ora. De la „Wie spät ist es?\" până la înțelegerea sistemului de 24 de ore. Spune ora în germană cu încredere."
+      },
+      "fa": {
+        "title": "اصطلاحات زمان در آلمانی: چطور مثل یک فرد بومی ساعت را بگویید",
+        "description": "در گفتن ساعت به آلمانی مشکل دارید؟ اصطلاحات ضروری زمان آلمانی، واژگان ساعت و عبارات پرسیدن و گفتن ساعت را بیاموزید. از 'Wie spät ist es?' تا درک سیستم ۲۴ ساعته. با اعتماد به نفس ساعت را به آلمانی بگویید."
+      },
+      "ar": {
+        "title": "تعبيرات الوقت بالألمانية: كيف تحكي الوقت مثل الناطقين الأصليين",
+        "description": "تواجه صعوبة في معرفة الوقت بالألمانية؟ أتقن تعبيرات الوقت الأساسية بالألمانية، ومفردات الساعة، والعبارات المستخدمة للسؤال عن الوقت ومعرفته. من 'Wie spät ist es?' إلى فهم نظام الساعة ذات الـ 24 ساعة. احكي الوقت بالألمانية بثقة."
+      },
+      "es": {
+        "title": "Expresiones de tiempo en alemán: Cómo decir la hora como un hablante nativo",
+        "description": "¿Te cuesta decir la hora en alemán? Domina las expresiones temporales esenciales del alemán, el vocabulario del reloj y frases para preguntar y decir la hora. Desde 'Wie spät ist es?' hasta entender el sistema de 24 horas. Di la hora en alemán con confianza."
+      },
+      "uz": {
+        "title": "Nemis tilida vaqt ifodalari: Mahalliy gapiruvchi kabi vaqtni qanday aytish",
+        "description": "Nemis tilida vaqtni aytishda qişalayapsizmi? Asosiy nemis vaqt ifodalari, soat lug'ati va vaqtni so'rash hamda aytish iboralarini o'rganing. 'Wie spät ist es?' dan 24 soatlik tizimni tushunishgacha. Nemis tilida ishonch bilan vaqtni ayting."
       }
     }
   },
@@ -1204,6 +1904,30 @@
       "sk": {
         "title": "Nemecké farby: Kompletný sprievodca opisu vecí ako rodák",
         "description": "Chceš popisovať veci po nemecky? Ovládni všetky nemecké farby (rot, blau, grün, gelb) a slovnú zásobu farieb. Od základných farieb po popis objektov, ľudí a miest. Nauč sa nemecké farebné výrazy a znie ako rodák."
+      },
+      "tr": {
+        "title": "Almanca Renkler: Bir Ana Dil Konuşucusu Gibi Şeyleri Tanımlama Rehberi",
+        "description": "Almanca'da şeyleri tanımlamak mı istiyorsunuz? Tüm Almanca renkleri (rot, blau, grün, gelb) ve renk kelime dağarcığını öğrenin. Temel renklerden nesneleri, insanları ve yerleri tanımlamaya kadar. Almanca renk ifadelerini öğrenin ve ana dil konuşucusu gibi konuşun."
+      },
+      "ro": {
+        "title": "Culorile în germană: Ghid complet pentru a descrie lucrurile ca un vorbitor nativ",
+        "description": "Vrei să descrii lucruri în germană? Învață toate culorile în germană (rot, blau, grün, gelb) și vocabularul despre culori. De la culorile de bază la descrierea obiectelor, persoanelor și locurilor. Învață expresii cu culori în germană și sună ca un vorbitor nativ."
+      },
+      "fa": {
+        "title": "رنگ‌ها در آلمانی: راهنمای کامل توصیف چیزها مانند یک بومی‌زبان",
+        "description": "می‌خواهید چیزها را به آلمانی توصیف کنید؟ تمام رنگ‌های آلمانی (rot, blau, grün, gelb) و واژگان مربوط به رنگ را بیاموزید. از رنگ‌های پایه تا توصیف اشیاء، افراد و مکان‌ها. عبارات رنگی آلمانی را یاد بگیرید و مانند یک بومی‌زبان صحبت کنید."
+      },
+      "ar": {
+        "title": "الألوان بالألمانية: دليل شامل لوصف الأشياء مثل المتحدث الأصلي",
+        "description": "هل تريد وصف الأشياء بالألمانية؟ أتقن جميع الألوان بالألمانية (rot، blau، grün، gelb) ومفردات الألوان. من الألوان الأساسية إلى وصف الأشياء والأشخاص والأماكن. تعلم تعبيرات الألوان بالألمانية وتحدث مثل متحدث أصلي."
+      },
+      "es": {
+        "title": "Colores en Alemán: Guía Completa para Describir Cosas como un Nativo",
+        "description": "¿Quieres describir cosas en alemán? Domina todos los colores en alemán (rot, blau, grün, gelb) y el vocabulario de colores. Desde los colores básicos hasta cómo describir objetos, personas y lugares. Aprende expresiones con colores en alemán y suena como un hablante nativo."
+      },
+      "uz": {
+        "title": "Nemis ranglari: Narsalarni ona tilida so'zlashuvchidek tasvirlash bo'yicha to'liq qo'llanma",
+        "description": "Nemis tilida narsalarni tasvirlashni xohlaysizmi? Barcha nemis ranglari (rot, blau, grün, gelb) va rang bo'yicha lug'atni o'zlashtiring. Asosiy ranglardan boshlab, ob'ektlar, odamlar va joylarni tasvirlashgacha. Nemis rang ifodalari va ona tilida so'zlashuvchidek gapirishni o'rganing."
       }
     }
   },
@@ -1234,6 +1958,30 @@
       "sk": {
         "title": "Nemecké dni a mesiace: Ovládni nemecký kalendár",
         "description": "Bojuješ s nemeckými dňami a mesiacmi? Nauč sa všetky nemecké dni v týždni (Montag, Dienstag, Mittwoch), nemecké mesiace a kalendárnu slovnú zásobu. Od 'Wie heißt heute?' po pochopenie nemeckých dátumov. Ovládni nemecký kalendár ako rodák."
+      },
+      "tr": {
+        "title": "Almanca Haftanın Günleri ve Aylar: Almanca Takvimi Öğrenin",
+        "description": "Almanca günler ve aylar konusunda zorlanıyor musunuz? Haftanın tüm günlerini (Montag, Dienstag, Mittwoch), Almanca ayları ve takvim kelime dağarcığını öğrenin. 'Welcher Tag ist heute?' sorusundan Almanca tarihleri anlamaya kadar. Almanca takvimi bir yerli gibi öğrenin."
+      },
+      "ro": {
+        "title": "Zilele săptămânii și lunile în germană: Stăpânește calendarul german",
+        "description": "Ai dificultăți cu zilele și lunile în germană? Învață toate zilele săptămânii în germană (Montag, Dienstag, Mittwoch), lunile în germană și vocabularul legat de calendar. De la „Wie heißt heute?\" până la înțelegerea datelor în germană. Stăpânește calendarul german ca un localnic."
+      },
+      "fa": {
+        "title": "روزهای هفته و ماه‌های آلمانی: تقویم آلمانی را مسلط شوید",
+        "description": "با روزها و ماه‌های آلمانی مشکل دارید؟ تمام روزهای هفته (Montag, Dienstag, Mittwoch)، ماه‌های آلمانی و واژگان تقویم را یاد بگیرید. از 'Wie heißt heute?' تا درک تاریخ‌های آلمانی. تقویم آلمانی را مثل یک بومی مسلط شوید."
+      },
+      "ar": {
+        "title": "أيام الأسبوع والشهور بالألمانية: أتقن التقويم الألماني",
+        "description": "تواجه صعوبة في أيام الأسبوع والشهور بالألمانية؟ تعلّم جميع أيام الأسبوع بالألمانية (Montag, Dienstag, Mittwoch) والشهور الألمانية ومفردات التقويم. من 'Wie heißt heute?' إلى فهم التواريخ الألمانية. أتقن التقويم الألماني كأنك محلي."
+      },
+      "es": {
+        "title": "Días de la semana y meses en alemán: Domina el calendario alemán",
+        "description": "¿Tienes dificultades con los días y meses en alemán? Aprende todos los días de la semana en alemán (Montag, Dienstag, Mittwoch), los meses en alemán y vocabulario del calendario. Desde 'Wie heißt heute?' hasta comprender las fechas en alemán. Domina el calendario alemán como un nativo."
+      },
+      "uz": {
+        "title": "Nemischa hafta kunlari va oylar: Nemis taqvimini o'rganing",
+        "description": "Nemischa kun va oylarni o'rganishda qiynalyapsizmi? Barcha nemischa hafta kunlari (Montag, Dienstag, Mittwoch), nemis oylari va taqvim lug'atini o'rganing. 'Welcher Tag ist heute?' dan boshlab nemischa sanalarni tushunguningacha. Nemis taqvimini mahalliy kishidek o'zlashtiring."
       }
     }
   },
@@ -1430,6 +2178,30 @@
       "sk": {
         "title": "Nemecké emócie a pocity: Kompletný slovník Gefühle",
         "description": "Chcete vyjadrovať pocity po nemecky? Ovládnite základnú nemčinu slovnú zásobu emócií od glücklich a traurig po verliebt a wütend. Naučte sa slovnú zásobu Gefühle so správnymi členmi, výrazmi a kultúrnymi poznámkami o emóciách v nemecky hovoriacich krajinách."
+      },
+      "tr": {
+        "title": "Almanca Duygular ve Hisler: Gefühle Kelime Hazinesi Kapsamlı Rehberi",
+        "description": "Almanca duygularınızı ifade etmek mi istiyorsunuz? Glücklich ve traurig'den verliebt ve wütend'e kadar temel Almanca duygu kelimelerini öğrenin. Gefühle kelime hazinesini doğru artikeller, ifadeler ve Almanca konuşulan ülkelerdeki duygular hakkında kültürel notlarla birlikte öğrenin."
+      },
+      "ro": {
+        "title": "Emoții și Sentimente în Germană: Ghid Complet pentru Vocabularul Gefühle",
+        "description": "Vrei să îți exprimi sentimentele în germană? Stăpânește vocabularul esențial al emoțiilor în germană, de la glücklich și traurig până la verliebt și wütend. Învăța vocabularul Gefühle cu articole corecte, expresii și note culturale despre emoțiile în țările vorbitoare de limba germană."
+      },
+      "fa": {
+        "title": "احساسات و عواطف در آلمانی: راهنمای کامل واژگان Gefühle",
+        "description": "می‌خواهید احساسات خود را به آلمانی بیان کنید؟ واژگان ضروری احساسات در آلمانی را از glücklich و traurig تا verliebt و wütend بیاموزید. واژگان Gefühle را با آرتیکل‌های صحیح، اصطلاحات و نکات فرهنگی درباره احساسات در کشورهای آلمانی‌زبان یاد بگیرید."
+      },
+      "ar": {
+        "title": "العواطف والمشاعر بالألمانية: دليل شامل لمفردات Gefühle",
+        "description": "هل تريد التعبير عن مشاعرك بالألمانية؟ أتقن مفردات العواطف الأساسية بالألمانية من glücklich و traurig إلى verliebt و wütend. تعلم مفردات Gefühle مع الأدوات الصحيحة والتعبيرات والملاحظات الثقافية حول المشاعر في الدول الناطقة بالألمانية."
+      },
+      "es": {
+        "title": "Emociones y sentimientos en alemán: Guía completa del vocabulario de Gefühle",
+        "description": "¿Quieres expresar tus sentimientos en alemán? Domina el vocabulario esencial de emociones en alemán, desde glücklich y traurig hasta verliebt y wütend. Aprende el vocabulario de Gefühle con artículos correctos, expresiones y notas culturales sobre las emociones en los países de habla alemana."
+      },
+      "uz": {
+        "title": "Nemis hissiyotlari va tuyg'ulari: Gefühle lug'atiga to'liq qo'llanma",
+        "description": "Nemis tilida hissiyotlaringizni ifodalashni xohlaysizmi? Glücklich va traurig dan boshlab verliebt va wütend gacha bo'lgan muhim nemis hissiyot lug'atini o'rganing. Gefühle lug'atini to'g'ri maqollar, iboralar va nemis tilida so'zlashuvchi mamlakatlardagi hissiyotlar haqidagi madaniy qaydlar bilan o'rganing."
       }
     }
   },
@@ -1458,6 +2230,30 @@
       "sk": {
         "title": "Nemecké jedlo: Kompletný slovník Essen und Trinken pre gurmánov",
         "description": "Chcete hovoriť o jedle po nemecky? Ovládnite základnú nemčinu slovnú zásobu jedla od Brot a Wurst po Frühstück a Abendbrot. Naučte sa slovnú zásobu Essen und Trinken so správnymi členmi, kultúrnymi poznámkami o nemeckej kuchyni a bežnými frázami pre reštaurácie."
+      },
+      "tr": {
+        "title": "Almanca Yemek Kelime Hazinesi: Yemek Tutkunları için Essen und Trinken Rehberi",
+        "description": "Almanca'da yemek hakkında konuşmak mı istiyorsunuz? Brot ve Wurst'tan Frühstück ve Abendbrot'a kadar temel Almanca yemek kelimelerini öğrenin. Essen und Trinken kelime dağarcığını doğru artikeller, Alman yemek kültürü hakkında kültürel notlar ve restoranlar için yaygın ifadelerle öğrenin."
+      },
+      "ro": {
+        "title": "Vocabular alimentar german: Ghid complet pentru Essen und Trinken",
+        "description": "Vrei să vorbești despre mâncare în germană? Stăpânește vocabularul alimentar german esențial, de la Brot și Wurst până la Frühstück și Abendbrot. Învață vocabularul Essen und Trinken cu articole corecte, note culturale despre cultura culinară germană și expresii utile pentru restaurante."
+      },
+      "fa": {
+        "title": "واژگان غذا در آلمانی: راهنمای کامل Essen und Trinken برای عاشقان غذا",
+        "description": "می‌خواهید درباره غذا به آلمانی صحبت کنید؟ واژگان ضروری غذا در آلمانی را از Brot و Wurst تا Frühstück و Abendbrot بیاموزید. واژگان Essen und Trinken را با آرتیکل‌های صحیح، نکات فرهنگی درباره فرهنگ غذاخوری آلمانی و عبارات رایج برای رستوران‌ها یاد بگیرید."
+      },
+      "ar": {
+        "title": "مفردات الطعام الألمانية: دليل شامل لـ Essen und Trinken لمحبي الطعام",
+        "description": "تريد التحدث عن الطعام بالألمانية؟ أتقن مفردات الطعام الألمانية الأساسية من Brot و Wurst إلى Frühstück و Abendbrot. تعلم مفردات Essen und Trinken مع الأدوات الصحيحة وملاحظات ثقافية عن ثقافة الطعام الألمانية وعبارات شائعة للمطاعم."
+      },
+      "es": {
+        "title": "Vocabulario de comida en alemán: Guía completa de Essen und Trinken para foodies",
+        "description": "¿Quieres hablar de comida en alemán? Domina el vocabulario esencial de comida en alemán, desde Brot y Wurst hasta Frühstück y Abendbrot. Aprende el vocabulario de Essen und Trinken con los artículos correctos, notas culturales sobre la cultura gastronómica alemana y frases comunes para restaurantes."
+      },
+      "uz": {
+        "title": "Nemis taom lug'ati: Oziq-ovqat sevuvchilar uchun Essen und Trinken bo'yicha to'liq qo'llanma",
+        "description": "Nemis tilida taomlar haqida gaplashmoqchimisiz? Brot va Wurst dan Frühstück va Abendbrot gacha bo'lgan muhim nemis taom lug'atini o'rganing. Tegishli maqollar, nemis ovqatlanish madaniyati haqida madaniy qaydlar va restoranlar uchun keng tarqalgan iboralar bilan Essen und Trinken lug'atini o'zlashtiring."
       }
     }
   },
@@ -1486,6 +2282,30 @@
       "sk": {
         "title": "Nemecké farby: Kompletný sprievodca Farben pre začiatočníkov",
         "description": "Chcete popisovať farby po nemecky? Ovládnite základnú nemčinu slovnú zásobu farieb od rot a blau po goldbraun a hellgrau. Naučte sa slovnú zásobu Farben so správnymi členmi, farebnými kombináciami a kultúrnymi poznámkami o farbách v nemeckom jazyku."
+      },
+      "tr": {
+        "title": "Almanca Renkler: Başlangıç Seviyesi İçin Farben Rehberi",
+        "description": "Almanca'da renkleri tanımlamak mı istiyorsunuz? Rot ve blau'dan goldbraun ve hellgrau'ya kadar temel Almanca renk kelime dağarcığını öğrenin. Farben kelime dağarcığını doğru artikeller, renk kombinasyonları ve Almanca'daki renklerle ilgili kültürel notlarla birlikte öğrenin."
+      },
+      "ro": {
+        "title": "Culorile în germană: Ghid complet pentru Farben, pentru începători",
+        "description": "Vrei să descrii culorile în germană? Stăpânește vocabularul esențial al culorilor în germană, de la rot și blau până la goldbraun și hellgrau. Învață vocabularul Farben cu articole corecte, combinații de culori și note culturale despre culorile în limba germană."
+      },
+      "fa": {
+        "title": "رنگ‌ها در آلمانی: راهنمای کامل Farben برای مبتدیان",
+        "description": "می‌خواهید رنگ‌ها را به آلمانی توصیف کنید؟ واژگان رنگ‌های ضروری آلمانی را از rot و blau تا goldbraun و hellgrau بیاموزید. واژگان Farben را با آرتیکل‌های صحیح، ترکیب رنگ‌ها و نکات فرهنگی درباره رنگ‌ها در زبان آلمانی یاد بگیرید."
+      },
+      "ar": {
+        "title": "الألوان بالألمانية: دليل شامل للألوان Farben للمبتدئين",
+        "description": "هل تريد وصف الألوان بالألمانية؟ أتقن مفردات الألوان الأساسية من rot و blau إلى goldbraun و hellgrau. تعلم مفردات Farben مع الأدوات المناسبة، وتركيبات الألوان، وملاحظات ثقافية حول الألوان في اللغة الألمانية."
+      },
+      "es": {
+        "title": "Colores en alemán: guía completa de Farben para principiantes",
+        "description": "¿Quieres describir colores en alemán? Domina el vocabulario esencial de colores en alemán, desde rot y blau hasta goldbraun y hellgrau. Aprende el vocabulario de Farben con los artículos correctos, combinaciones de colores y notas culturales sobre los colores en el idioma alemán."
+      },
+      "uz": {
+        "title": "Nemis ranglari: Boshlovchilar uchun Farben bo'yicha to'liq qo'llanma",
+        "description": "Nemis tilida ranglarni tasvirlashni xohlaysizmi? Rot va blau dan boshlab goldbraun va hellgrau gacha bo'lgan muhim nemis rang lug'atini o'rganing. Farben lug'atini to'g'ri maqolalar, rang kombinatsiyalari va nemis tilidagi ranglar haqida madaniy ma'lumotlar bilan o'rganing."
       }
     }
   },
@@ -1514,6 +2334,30 @@
       "sk": {
         "title": "Nemecké čísla: Kompletný sprievodca Zahlen pre začiatočníkov",
         "description": "Chcete počítať po nemecky? Ovládnite základnú nemčinu slovnú zásobu čísel od null po eine Million. Naučte sa slovnú zásobu Zahlen s tipmi na výslovnosť, číselnymi vzormi a kultúrnymi poznámkami o používaní čísel v nemecky hovoriacich krajinách."
+      },
+      "tr": {
+        "title": "Almanca Sayılar: Başlangıç Seviyesi İçin Zahlen Rehberi",
+        "description": "Almanca saymak mı istiyorsunuz? Null'dan eine Million'a kadar temel Almanca sayı kelime dağarcığını öğrenin. Zahlen kelime dağarcığını doğru telaffuz ipuçları, sayı kalıpları ve Almanca konuşulan ülkelerde sayıları kullanma hakkında kültürel notlarla öğrenin."
+      },
+      "ro": {
+        "title": "Numerele în limba germană: Ghid complet pentru Zahlen pentru începători",
+        "description": "Vrei să numeri în germană? Stăpânește vocabularul esențial al numerelor în germană de la null la eine Million. Învață vocabularul Zahlen cu sfaturi de pronunție corectă, tipare numerice și note culturale despre utilizarea numerelor în țările vorbitoare de limba germană."
+      },
+      "fa": {
+        "title": "اعداد آلمانی: راهنمای کامل Zahlen برای مبتدیان",
+        "description": "می‌خواهید به آلمانی بشمارید؟ واژگان ضروری اعداد آلمانی از null تا eine Million را یاد بگیرید. Zahlen را با نکات تلفظ صحیح، الگوهای اعدادی و نکات فرهنگی درباره استفاده از اعداد در کشورهای آلمانی‌زبان بیاموزید."
+      },
+      "ar": {
+        "title": "الأرقام الألمانية: دليل شامل لتعلم Zahlen للمبتدئين",
+        "description": "هل تريد العد بالألمانية؟ أتقن مفردات الأرقام الألمانية الأساسية من null إلى eine Million. تعلم مفردات Zahlen مع نصائح النطق الصحيح وأنماط الأرقام وملاحظات ثقافية حول استخدام الأرقام في البلدان الناطقة بالألمانية."
+      },
+      "es": {
+        "title": "Números en alemán: Guía completa de Zahlen para principiantes",
+        "description": "¿Quieres contar en alemán? Domina el vocabulario esencial de números en alemán desde null hasta eine Million. Aprende el vocabulario de Zahlen con consejos de pronunciación, patrones numéricos y notas culturales sobre el uso de números en los países de habla alemana."
+      },
+      "uz": {
+        "title": "Nemis sonlari: Boshlang'ichchilar uchun Zahlen bo'yicha to'liq qo'llanma",
+        "description": "Nemis tilida sanashni xohlaysizmi? Noldan eine Million gacha bo'lgan muhim nemis sonlar lug'atini o'rganing. Zahlen lug'atini to'g'ri talaffuz maslahatlari, son naqshlari va nemis tilida so'zlashuvchi mamlakatlarda sonlardan foydalanish haqidagi madaniy ma'lumotlar bilan o'rganing."
       }
     }
   },
@@ -1542,6 +2386,30 @@
       "sk": {
         "title": "Nemecké počasie: Kompletný slovník Wetter pre každodenné rozhovory",
         "description": "Chcete hovoriť o počasí po nemecky? Ovládnite základnú nemčinu slovnú zásobu počasia od Sonne a Regen po Schnee a Sturm. Naučte sa slovnú zásobu Wetter so správnymi členmi, počtovými výrazmi a kultúrnymi poznámkami o nemeckých počasových rozhovoroch."
+      },
+      "tr": {
+        "title": "Almanca Hava Durumu Kelimeleri: Günlük Konuşmalarda Wetter Rehberi",
+        "description": "Almanca'da havadan bahsetmek mi istiyorsunuz? Sonne ve Regen'den Schnee ve Sturm'a kadar temel Almanca hava durumu kelimerini öğrenin. Wetter kelimesini doğru artikellerle, hava durumu ifadeleriyle ve Almanca hava konuşmaları hakkındaki kültürel notlarla birlikte öğrenin."
+      },
+      "ro": {
+        "title": "Vocabularul meteo în germană: Ghid complet pentru Wetter în conversațiile zilnice",
+        "description": "Vrei să vorbești despre vreme în germană? Stăpânește vocabularul esențial de vreme în germană, de la Sonne și Regen până la Schnee și Sturm. Învață vocabularul Wetter cu articole corecte, expresii despre vreme și note culturale despre conversațiile meteorologice în limba germană."
+      },
+      "fa": {
+        "title": "واژگان آب و هوا در آلمانی: راهنمای کامل Wetter برای مکالمات روزمره",
+        "description": "می‌خواهید درباره آب و هوا به آلمانی صحبت کنید؟ واژگان ضروری آب و هوا در آلمانی را از Sonne و Regen تا Schnee و Sturm یاد بگیرید. واژگان Wetter را با آرتیکل‌های صحیح، اصطلاحات آب و هوا و نکات فرهنگی درباره گفتگوهای آب و هوایی آلمانی بیاموزید."
+      },
+      "ar": {
+        "title": "مفردات الطقس في الألمانية: دليل شامل لتعبيرات Wetter للمحادثات اليومية",
+        "description": "هل تريد التحدث عن الطقس بالألمانية؟ أتقن مفردات الطقس الأساسية من Sonne وRegen إلى Schnee وSturm. تعلم مفردات Wetter مع أدوات التعريف الصحيحة وتعبيرات الطقس وملاحظات ثقافية حول محادثات الطقس بالألمانية."
+      },
+      "es": {
+        "title": "Vocabulario del clima en alemán: Guía completa de Wetter para conversaciones diarias",
+        "description": "¿Quieres hablar del clima en alemán? Domina el vocabulario esencial del clima en alemán, desde Sonne y Regen hasta Schnee y Sturm. Aprende el vocabulario de Wetter con los artículos correctos, expresiones sobre el clima y notas culturales sobre las conversaciones del tiempo en alemán."
+      },
+      "uz": {
+        "title": "Nemischa ob-havo lug'ati: Wetter bo'yicha to'liq qo'llanma",
+        "description": "Nemis tilida ob-havo haqida gaplashni xohlaysizmi? Sonne va Regendan Schnee va Sturmgacha bo'lgan muhim nemischa ob-havo lug'atini o'rganing. Wetter lug'ati, to'g'ri artikellar, ob-havo ifodalari va nemischa ob-havo suhbatlari haqida madaniy ma'lumotlar bilan o'rganing."
       }
     }
   },
@@ -1570,6 +2438,30 @@
       "sk": {
         "title": "Nemecké otázky: Kompletný sprievodca W-Fragen pre začiatočníkov",
         "description": "Chcete klásť otázky po nemecky? Ovládnite základnú nemčinu slovnú zásobu otázok od wer a was po wo a wann. Naučte sa slovnú zásobu W-Fragen so správnym použitím, príkladmi a kultúrnymi poznámkami o klásaní otázok v nemecky hovoriacich krajinách."
+      },
+      "tr": {
+        "title": "Almanca Soru Kelimeleri: Başlangıç Seviyesi için W-Fragen Rehberi",
+        "description": "Almanca'da soru sormak mı istiyorsunuz? Wer ve was'tan wo ve wann'a kadar temel Almanca soru kelimelerini öğrenin. W-Fragen kelimesini doğru kullanım, örnekler ve Almanca konuşulan ülkelerde soru sorma hakkında kültürel notlarla birlikte öğrenin."
+      },
+      "ro": {
+        "title": "Pronumele interogative în germană: Ghid complet pentru W-Fragen (întrebări cu W)",
+        "description": "Vrei să pui întrebări în germană? Stăpânește pronumele interogative esențiale din limba germană, de la wer și was până la wo și wann. Învață vocabularul W-Fragen cu utilizare corectă, exemple și note culturale despre adresarea întrebărilor în țările vorbitoare de limba germană."
+      },
+      "fa": {
+        "title": "کلمات پرسشی آلمانی: راهنمای کامل W-Fragen برای مبتدیان",
+        "description": "می‌خواهید به آلمانی سوال بپرسید? کلمات پرسشی اساسی آلمانی از wer و was تا wo و wann را یاد بگیرید. واژگان W-Fragen را با کاربرد صحیح، مثال‌ها و نکات فرهنگی درباره پرسیدن سوال در کشورهای آلمانی‌زبان بیاموزید."
+      },
+      "ar": {
+        "title": "كلمات الاستفهام الألمانية: الدليل الشامل لـ W-Fragen للمبتدئين",
+        "description": "هل تريد طرح الأسئلة بالألمانية؟ أتقن كلمات الاستفهام الألمانية الأساسية من wer و was إلى wo و wann. تعلم مفردات W-Fragen مع الاستخدام الصحيح والأمثلة والملاحظات الثقافية حول طرح الأسئلة في البلدان الناطقة بالألمانية."
+      },
+      "es": {
+        "title": "Palabras interrogativas en alemán: guía completa de las W-Fragen para principiantes",
+        "description": "¿Quieres hacer preguntas en alemán? Domina las palabras interrogativas esenciales del alemán, desde wer y was hasta wo y wann. Aprende el vocabulario de las W-Fragen con su uso correcto, ejemplos y notas culturales sobre cómo hacer preguntas en los países de habla alemana."
+      },
+      "uz": {
+        "title": "Nemis savol so'zlari: Boshlanuvchilar uchun W-Fragen bo'yicha to'liq qo'llanma",
+        "description": "Nemis tilida savollar berishni xohlaysizmi? Wer va was dan boshlab, wo va wann gacha bo'lgan asosiy nemis savol so'zlarini o'rganing. W-Fragen lug'atini to'g'ri qo'llash, misollar va nemis tilida so'zlashuvchi mamlakatlarda savol berish haqida madaniy ma'lumotlar bilan o'rganing."
       }
     }
   },
@@ -1598,6 +2490,30 @@
       "sk": {
         "title": "Nemecké zámená: Úplný sprievodca Personalpronomen pre začiatočníkov",
         "description": "Chcete používať nemecké zámená správne? Ovládnite základné nemecké osobné zámená od ich a du po sie a Sie. Naučte sa používať Personalpronomen so správnymi pádmi, formálnym a neformálnym oslovovaním a kultúrne poznámky o zámenách v nemecky hovoriacich krajinách."
+      },
+      "tr": {
+        "title": "Almanca Şahıs Zamirleri: Başlangıç Seviyesi İçin Personalpronomen Rehberi",
+        "description": "Almanca zamirleri doğru kullanmak mı istiyorsunuz? Ich ve du'dan sie ve Sie'ye kadar temel Almanca şahıs zamirlerini öğrenin. Personalpronomen kullanımını, doğru hâl eklerini, resmi ve samimi hitap biçimlerini ve Almanca konuşulan ülkelerdeki zamir kültürü hakkında bilgileri keşfedin."
+      },
+      "ro": {
+        "title": "Pronumele personale în germană: Ghid complet pentru Personalpronomen – pentru începători",
+        "description": "Vrei să folosești corect pronumele în germană? Stăpânește pronumele personale esențiale din germană, de la ich și du până la sie și Sie. Învață utilizarea Personalpronomen cu cazurile corecte, adresarea formală versus informală și note culturale despre pronume în țările vorbitoare de limba germană."
+      },
+      "fa": {
+        "title": "ضمایر شخصی آلمانی: راهنمای کامل Personalpronomen برای مبتدیان",
+        "description": "می‌خواهید ضمایر آلمانی را درست استفاده کنید؟ ضمایر شخصی ضروری آلمانی را از ich و du تا sie و Sie بیاموزید. کاربرد Personalpronomen با حالت‌های صحیح، خطاب رسمی و غیررسمی، و نکات فرهنگی درباره ضمایر در کشورهای آلمانی‌زبان را یاد بگیرید."
+      },
+      "ar": {
+        "title": "الضمائر الشخصية الألمانية: دليل شامل لـ Personalpronomen للمبتدئين",
+        "description": "هل تريد استخدام الضمائر الألمانية بشكل صحيح؟ أتقن الضمائر الشخصية الألمانية الأساسية من ich و du إلى sie و Sie. تعلم استخدام Personalpronomen مع الحالات النحوية المناسبة، والمخاطبة الرسمية مقابل غير الرسمية، وملاحظات ثقافية حول الضمائر في الدول الناطقة بالألمانية."
+      },
+      "es": {
+        "title": "Pronombres personales en alemán: guía completa de Personalpronomen para principiantes",
+        "description": "¿Quieres usar los pronombres alemanes correctamente? Domina los pronombres personales esenciales del alemán, desde ich y du hasta sie y Sie. Aprende el uso de Personalpronomen con los casos adecuados, el trato formal e informal, y notas culturales sobre los pronombres en los países de habla alemana."
+      },
+      "uz": {
+        "title": "Nemis shaxsiy olmoshlari: Boshlang'ichchilar uchun Personalpronomen bo'yicha to'liq qo'llanma",
+        "description": "Nemis olmoshlarini to'g'ri ishlatishni xohlaysizmi? Ich va du dan boshlab sie va Sie gacha bo'lgan muhim nemis shaxsiy olmoshlarini o'rganing. Kelishiklar, rasmiy va norasmiy murojaat, hamda nemis tilida so'zlashuvchi mamlakatlarda olmoshlardan foydalanish madaniyati haqida bilib oling."
       }
     }
   },
@@ -1627,6 +2543,30 @@
       "sk": {
         "title": "Nemecké pozdravy a predstavovanie: Úplný sprievodca pre začiatočníkov",
         "description": "Chcete pozdraviť ľudí po nemecky ako miestny? Ovládnite základné nemecké pozdravy od Guten Tag a Hallo po Wie geht's a Tschüss. Naučte sa formálne a neformálne pozdravy, predstavovanie, kultúrne tipy a čo Nemci skutočne hovoria v každodennom živote."
+      },
+      "tr": {
+        "title": "Almanca Selamlar ve Tanışma İfadeleri: Yeni Başlayanlar İçin Kapsamlı Rehber",
+        "description": "Almanca bir yerli gibi selamlamak mı istiyorsunuz? Guten Tag ve Hallo'dan Wie geht's ve Tschüss'e kadar temel Almanca selamları öğrenin. Resmi ve informal selamlar, tanışma ifadeleri, kültürel ipuçları ve Almanların günlük hayatta gerçekte ne söylediğini keşfedin."
+      },
+      "ro": {
+        "title": "Formule de Salut și Prezentări în Germană: Ghid Complet pentru Începători",
+        "description": "Vrei să saluți oamenii în germană ca un localnic? Stăpânește saluturile esențiale din germană, de la Guten Tag și Hallo până la Wie geht's și Tschüss. Învață saluturi formale și informale, prezentări, sfaturi culturale și ce spun germanii cu adevărat în viața de zi cu zi."
+      },
+      "fa": {
+        "title": "احوال‌پرسی و معرفی به آلمانی: راهنمای کامل برای مبتدیان",
+        "description": "می‌خواهید مثل یک بومی آلمانی به مردم سلام کنید؟ احوال‌پرسی‌های ضروری آلمانی را از Guten Tag و Hallo تا Wie geht's و Tschüss بیاموزید. احوال‌پرسی‌های رسمی و غیررسمی، معرفی‌ها، نکات فرهنگی و آنچه آلمانی‌ها واقعاً در زندگی روزمره می‌گویند را یاد بگیرید."
+      },
+      "ar": {
+        "title": "التحيات والتعارف بالألمانية: دليل شامل للمبتدئين",
+        "description": "هل تريد إلقاء التحية بالألمانية مثل أهل البلد؟ أتقن التحيات الأساسية من Guten Tag و Hallo إلى Wie geht's و Tschüss. تعرّف على التحيات الرسمية وغير الرسمية، التعارف، النصائح الثقافية، وما يقوله الألمان فعلاً في حياتهم اليومية."
+      },
+      "es": {
+        "title": "Saludos y presentaciones en alemán: guía completa para principiantes",
+        "description": "¿Quieres saludar en alemán como un nativo? Domina los saludos esenciales desde Guten Tag y Hallo hasta Wie geht's y Tschüss. Aprende saludos formales e informales, presentaciones, consejos culturales y lo que los alemanes realmente dicen en su vida cotidiana."
+      },
+      "uz": {
+        "title": "Nemis salomlashish va tanishish: Boshlang'ichchilar uchun to'liq qo'llanma",
+        "description": "Nemis tilida mahalliydek odamlarni salomlashni xohlaysizmi? Guten Tag va Halbodan Wie geht's va Tschüssgacha bo'lgan muhim nemis salomlarini o'rganing. Rasmiy va norasmiy salomlashish, tanishish, madaniy maslahatlar va nemislar haqiqatda kundalik hayotda nima deyishlarini o'rganing."
       }
     }
   },
@@ -1656,6 +2596,30 @@
       "sk": {
         "title": "Nemecký čas a dátumy: Kompletný sprievodca Uhrzeit a Datum pre začiatočníkov",
         "description": "Chcete hovoriť o čase a dátumoch po nemecky? Ovládnite základnú nemčinu slovnú zásobu času a dátumov od Uhr a Minuten po Wochentage a Monate. Naučte sa ako opýtať sa na čas, povedať dátum, použiť 24-hodinový formát a porozumieť nemeckým časovým výrazom."
+      },
+      "tr": {
+        "title": "Almanca Saat ve Tarih: Başlangıç Seviyesi için Uhrzeit ve Datum Konusunda Kapsamlı Rehber",
+        "description": "Almanca saat ve tarih söylemek mi istiyorsunuz? Uhr ve Minuten'den Wochentage ve Monate'a kadar temel Almanca saat ve tarih kelime dağarcığını öğrenin. Saat sormayı, tarih söylemeyi, 24 saatlik sistemi kullanmayı ve Almanca zaman ifadelerini anlamayı öğrenin."
+      },
+      "ro": {
+        "title": "Ora și data în germană: Ghid complet pentru Uhrzeit și Datum pentru începători",
+        "description": "Vrei să spui ora și datele în germană? Stăpânește vocabularul esențial al orei și datei în germană, de la Uhr și Minuten la Wochentage și Monate. Învață cum să întrebi cât e ceasul, să spui data, să folosești ceasul de 24 de ore și să înțelegi expresiile de timp în germană."
+      },
+      "fa": {
+        "title": "زمان و تاریخ آلمانی: راهنمای کامل Uhrzeit و Datum برای مبتدیان",
+        "description": "می‌خواهید زمان و تاریخ را به آلمانی بگویید؟ واژگان ضروری زمان و تاریخ آلمانی از Uhr و Minuten تا Wochentage و Monate را یاد بگیرید. بیاموزید چگونه ساعت را بپرسید، تاریخ را بگویید، از ساعت ۲۴ ساعته استفاده کنید و عبارات زمانی آلمانی را درک کنید."
+      },
+      "ar": {
+        "title": "الوقت والتاريخ في الألمانية: دليل شامل لـ Uhrzeit و Datum للمبتدئين",
+        "description": "هل تريد معرفة الوقت والتاريخ في الألمانية؟ أتقن المفردات الأساسية للوقت والتاريخ من Uhr و Minuten إلى Wochentage و Monate. تعلم كيف تسأل عن الوقت، وتقول التاريخ، وتستخدم الساعة ذات الـ 24 ساعة، وتفهم تعبيرات الوقت بالألمانية."
+      },
+      "es": {
+        "title": "Hora y fecha en alemán: Guía completa de Uhrzeit y Datum para principiantes",
+        "description": "¿Quieres saber la hora y las fechas en alemán? Domina el vocabulario esencial de hora y fecha en alemán, desde Uhr y Minuten hasta Wochentage y Monate. Aprende a preguntar la hora, decir la fecha, usar el reloj de 24 horas y comprender las expresiones de tiempo en alemán."
+      },
+      "uz": {
+        "title": "Nemis tilida vaqt va sana: Uhrzeit va Datum bo'yicha boshlang'ichlar uchun to'liq qo'llanma",
+        "description": "Nemis tilida vaqt va sanalarni aytishni xohlaysizmi? Uhr va Minutendan boshlab Wochentage va Montegacha bo'lgan muhim nemis vaqt va sana lug'atini o'rganing. Vaqtni so'rash, sanani aytish, 24 soatlik tizimdan foydalanish va nemis vaqt ifodalarini tushunishni o'rganing."
       }
     }
   },
@@ -1685,6 +2649,30 @@
       "sk": {
         "title": "Nemecké členy Der Die Das: Kompletný sprievodca členmi pre začiatočníkov",
         "description": "Bojuješ s nemeckými členmi der, die, das? Ovládni nemecké určité a neurčité členy s jednoduchými pravidlami, vzormi a pamäťovými trikmi. Nauč sa kedy použiť der, die, das, ein, eine a ako si zapamätať nemecký rod raz a navždy."
+      },
+      "tr": {
+        "title": "Alman Artikel Der Die Das: Başlangıç Seviyesi İçin Kapsamlı Rehber",
+        "description": "Alman artikeller der, die, das konusunda zorlanıyor musunuz? Basit kurallar, kalıplar ve hafıza teknikleriyle Alman belirli ve belirsiz artikelleri öğrenin. Der, die, das, ein, eine ne zaman kullanılır ve Alman cinsiyetleri bir kez ve tamamen nasıl hatırlanır?"
+      },
+      "ro": {
+        "title": "Articolul în germană Der Die Das: Ghid complet al articolelor pentru începători",
+        "description": "Vă luptați cu articolele germane der, die, das? Stăpâniți articolele hotărâte și nehotărâte din limba germană cu reguli simple, tipare și trucuri de memorare. Învățați când să folosiți der, die, das, ein, eine și cum să rețineți genul substantivelor germane o dată pentru totdeauna."
+      },
+      "fa": {
+        "title": "آرتیکل‌های آلمانی Der Die Das: راهنمای کامل آرتیکل‌ها برای مبتدیان",
+        "description": "با آرتیکل‌های آلمانی der، die و das مشکل دارید؟ آرتیکل‌های معرفه و نکره آلمانی را با قوانین ساده، الگوها و ترفندهای حافظه بیاموزید. یاد بگیرید چه زمان از der، die، das، ein، eine استفاده کنید و چگونه جنسیت آلمانی را برای همیشه به خاطر بسپارید."
+      },
+      "ar": {
+        "title": "أدوات التعريف الألمانية Der Die Das: دليل شامل للمبتدئين",
+        "description": "تواجه صعوبة مع أدوات التعريف الألمانية der, die, das؟ أتقن أدوات التعريف والنكرة الألمانية بقواعد بسيطة وأنماط وحيل ذهنية. تعلم متى تستخدم der, die, das, ein, eine، وكيف تتذكر جنس الكلمات الألمانية مرة واحدة وإلى الأبد."
+      },
+      "es": {
+        "title": "Artículos en alemán Der Die Das: Guía completa de artículos para principiantes",
+        "description": "¿Luchas con los artículos alemanes der, die, das? Domina los artículos definidos e indefinidos del alemán con reglas sencillas, patrones y trucos de memoria. Aprende cuándo usar der, die, das, ein, eine, y cómo recordar el género alemán de una vez por todas."
+      },
+      "uz": {
+        "title": "Nemis artikllari Der Die Das: Boshlang'ichchilar uchun to'liq qo'llanma",
+        "description": "Nemis artikllari der, die, das bilan qišinayapsizmi? Nemis aniq va noaniq artikllarini sodda qoidalar, naqshlar va yodlash usullari bilan o'rganing. Der, die, das, ein, eine qachon ishlatishni va nemis jinsini bir marta uchun qanday eslab qolishni o'rganing."
       }
     }
   },
@@ -1714,6 +2702,10 @@
       "sk": {
         "title": "Nemecké predložky: Kompletný sprievodca Präpositionen s pádmi pre začiatočníkov",
         "description": "Bojuješ s nemeckými predložkami a ich pádmi? Ovládni základné nemecké predložky od akuzatívu (für, durch, ohne) a datívu (mit, von, bei) po obojsmerné predložky (in, auf, an). Nauč sa s jasnými príkladmi, pamäťovými trikmi a stratégiami cvičenia."
+      },
+      "es": {
+        "title": "Preposiciones en alemán: guía completa de Präpositionen con casos para principiantes",
+        "description": "¿Luchas con las preposiciones en alemán y sus casos? Domina las preposiciones esenciales del alemán, desde las de acusativo (für, durch, ohne) y dativo (mit, von, bei) hasta las preposiciones bidireccionales (in, auf, an). Aprende con ejemplos claros, trucos de memorización y estrategias de práctica."
       }
     }
   },
@@ -1772,6 +2764,30 @@
       "sk": {
         "title": "Nemecké slovosled: Kompletný sprievodca Satzbau pre začiatočníkov",
         "description": "Bojuješ s nemeckou štruktúrou viet? Ovládni nemecké slovosledie (Satzbau) s jednoduchými pravidlami. Nauč sa pozíciu slovesa (V2 pravidlo), vedľajúce vety, pravidlo čas-sposob-miesto a ako stavať správne nemecké vety s jasnými príkladmi a vzormi."
+      },
+      "tr": {
+        "title": "Almanca Sözcük Dizimi: Kapsamlı Rehber (Cümle Yapısı, TeKaMo Kuralı, Fiil Konumu)",
+        "description": "Almanca sözcük diziminde ustalaşın! TeKaMo kuralını (Zaman-Neden-Tarz), yükleme ve sorularda fiil konumunu, yan cümlelerde sözcük dizimini ve yaygın hataları öğrenin. Örnekler, tablolar ve hafıza teknikleriyle kapsamlı rehber."
+      },
+      "ro": {
+        "title": "Ordinea cuvintelor în germană: Ghid complet (Structura propoziției, Regula TeKaMo, Poziția verbului)",
+        "description": "Stăpânește ordinea cuvintelor în germană! Învață regula TeKaMo (Timp-Cauză-Mod), poziția verbului în propoziții vs întrebări, ordinea cuvintelor în propozițiile subordonate și greșelile frecvente. Ghid complet cu exemple, tabele și trucuri de memorare pentru a vorbi germana corect."
+      },
+      "fa": {
+        "title": "ترتیب کلمات آلمانی: راهنمای کامل (ساختار جمله، قانون TeKaMo، جایگاه فعل)",
+        "description": "ترتیب کلمات آلمانی را یاد بگیرید! قانون TeKaMo (زمان-علت-نحو)، جایگاه فعل در جملات خبری و پرسشی، ترتیب کلمات در جملات فرعی و اشتباهات رایج را بیاموزید. راهنمای کامل با مثال‌ها، نمودارها و ترفندهای حافظه."
+      },
+      "ar": {
+        "title": "ترتيب الكلمات في الألمانية: دليل شامل (بنية الجملة، قاعدة تيكامو، موقع الفعل)",
+        "description": "أتقن ترتيب الكلمات في الألمانية! تعلم قاعدة تيكامو (الزمن-السبب-الطريقة)، موقع الفعل في الجمل الخبرية والاستفهامية، ترتيب الكلمات في الجمل التابعة، والأخطاء الشائعة. دليل شامل مع أمثلة ورسوم بيانية وحيل ذهنية للتحدث بالألمانية بشكل صحيح."
+      },
+      "es": {
+        "title": "El orden de las palabras en alemán: Guía completa (Estructura de la oración, Regla TeKaMo, Posición del verbo)",
+        "description": "Domina el orden de las palabras en alemán. Aprende la regla TeKaMo (Tiempo-Causa-Modo), la posición del verbo en afirmaciones y preguntas, el orden en oraciones subordinadas y los errores más comunes. Guía completa con ejemplos, tablas y trucos mnemotécnicos para hablar alemán correctamente."
+      },
+      "uz": {
+        "title": "Nemischa so'z tartibi: To'liq qo'llanma (Gap tuzilishi, TeKaMo qoidasi, Fe'l o'rni)",
+        "description": "Nemischa so'z tartibini o'rganing! TeKaMo qoidasi (Vaqt-Sabab-Usul), bayon va savol gaplarida fe'l o'rni, ergash gaplarda so'z tartibi va keng tarqalgan xatolarni o'rganing. Misollar, jadvallar va o'zlashtirish usullari bilan to'liq qo'llanma."
       }
     }
   },
@@ -2801,7 +3817,11 @@
     "slug": "how-to-think-in-german",
     "date": "2026-05-05",
     "image": "",
-    "tags": ["tips", "method", "fluency"],
+    "tags": [
+      "tips",
+      "method",
+      "fluency"
+    ],
     "langs": {
       "en": {
         "title": "How to Think in German: 7 Mental Shifts That Actually Work",
@@ -2825,7 +3845,11 @@
     "slug": "german-public-transport-phrases",
     "date": "2026-05-05",
     "image": "",
-    "tags": ["phrases", "travel", "transport"],
+    "tags": [
+      "phrases",
+      "travel",
+      "transport"
+    ],
     "langs": {
       "en": {
         "title": "Surviving Deutsche Bahn: German Phrases for Public Transport",
@@ -2849,7 +3873,11 @@
     "slug": "german-phrases-textbooks-dont-teach",
     "date": "2026-05-06",
     "image": "",
-    "tags": ["phrases", "speaking", "real-life"],
+    "tags": [
+      "phrases",
+      "speaking",
+      "real-life"
+    ],
     "langs": {
       "en": {
         "title": "German Phrases Your Textbook Never Taught You (But Germans Say Daily)",
@@ -2873,7 +3901,11 @@
     "slug": "german-supermarket-survival",
     "date": "2026-05-06",
     "image": "",
-    "tags": ["phrases", "shopping", "culture"],
+    "tags": [
+      "phrases",
+      "shopping",
+      "culture"
+    ],
     "langs": {
       "en": {
         "title": "German Supermarket Survival Guide: What Nobody Tells You About Einkaufen",
@@ -2897,7 +3929,11 @@
     "slug": "german-bureaucracy-survival",
     "date": "2026-05-06",
     "image": "",
-    "tags": ["phrases", "bureaucracy", "living"],
+    "tags": [
+      "phrases",
+      "bureaucracy",
+      "living"
+    ],
     "langs": {
       "en": {
         "title": "German Bureaucracy Survival Guide: Phrases for Behörde, Anmeldung and Beyond",
@@ -2921,7 +3957,11 @@
     "slug": "german-doctor-phrases",
     "date": "2026-05-06",
     "image": "",
-    "tags": ["phrases", "health", "doctor"],
+    "tags": [
+      "phrases",
+      "health",
+      "doctor"
+    ],
     "langs": {
       "en": {
         "title": "German at the Doctor: Survival Phrases for Arzt and Apotheke",
@@ -2945,7 +3985,11 @@
     "slug": "german-netflix-shows-learn-language",
     "date": "2026-05-07",
     "image": "",
-    "tags": ["tips", "Netflix", "immersion"],
+    "tags": [
+      "tips",
+      "Netflix",
+      "immersion"
+    ],
     "langs": {
       "en": {
         "title": "7 Netflix Shows That Will Teach You German Better Than Any Textbook",
@@ -2969,7 +4013,11 @@
     "slug": "german-driving-autobahn",
     "date": "2026-05-07",
     "image": "",
-    "tags": ["phrases", "driving", "Autobahn"],
+    "tags": [
+      "phrases",
+      "driving",
+      "Autobahn"
+    ],
     "langs": {
       "en": {
         "title": "Autobahn Survival Guide: German Driving Phrases, Road Signs and Unwritten Rules",
@@ -2993,7 +4041,11 @@
     "slug": "german-formal-email-templates",
     "date": "2026-05-07",
     "image": "",
-    "tags": ["email", "business", "templates"],
+    "tags": [
+      "email",
+      "business",
+      "templates"
+    ],
     "langs": {
       "en": {
         "title": "How to Write a Formal Email in German: Copy-Paste Templates That Work",
@@ -3017,7 +4069,11 @@
     "slug": "german-apartment-hunting",
     "date": "2026-05-07",
     "image": "",
-    "tags": ["phrases", "apartment", "renting"],
+    "tags": [
+      "phrases",
+      "apartment",
+      "renting"
+    ],
     "langs": {
       "en": {
         "title": "German Apartment Hunting: How to Find a Wohnung Without Losing Your Mind",
@@ -3041,7 +4097,11 @@
     "slug": "german-party-nightlife-phrases",
     "date": "2026-05-08",
     "image": "",
-    "tags": ["phrases", "party", "nightlife"],
+    "tags": [
+      "phrases",
+      "party",
+      "nightlife"
+    ],
     "langs": {
       "en": {
         "title": "German Party and Nightlife Phrases: Surviving Berlin Clubs and Beyond",
@@ -3065,7 +4125,12 @@
     "slug": "german-job-interview-phrases",
     "date": "2026-05-08",
     "image": "",
-    "tags": ["phrases", "job", "interview", "career"],
+    "tags": [
+      "phrases",
+      "job",
+      "interview",
+      "career"
+    ],
     "langs": {
       "en": {
         "title": "German Job Interview Phrases: How to Survive a Vorstellungsgespräch",
@@ -3089,7 +4154,12 @@
     "slug": "german-phone-call-phrases",
     "date": "2026-05-08",
     "image": "",
-    "tags": ["phrases", "phone", "calls", "communication"],
+    "tags": [
+      "phrases",
+      "phone",
+      "calls",
+      "communication"
+    ],
     "langs": {
       "en": {
         "title": "German Phone Call Phrases: How to Survive Calling Anyone in Germany",
@@ -3113,7 +4183,12 @@
     "slug": "german-words-sound-wrong",
     "date": "2026-05-08",
     "image": "",
-    "tags": ["vocabulary", "funny", "culture", "words"],
+    "tags": [
+      "vocabulary",
+      "funny",
+      "culture",
+      "words"
+    ],
     "langs": {
       "en": {
         "title": "German Words That Sound Wrong in English (But Are Totally Innocent)",
@@ -3137,7 +4212,12 @@
     "slug": "german-grammar-rules-germans-break",
     "date": "2026-05-08",
     "image": "",
-    "tags": ["grammar", "mistakes", "culture", "native"],
+    "tags": [
+      "grammar",
+      "mistakes",
+      "culture",
+      "native"
+    ],
     "langs": {
       "en": {
         "title": "German Grammar Rules That Even Germans Break",
@@ -3161,7 +4241,12 @@
     "slug": "german-complain-like-native",
     "date": "2026-05-09",
     "image": "",
-    "tags": ["phrases", "culture", "funny", "conversation"],
+    "tags": [
+      "phrases",
+      "culture",
+      "funny",
+      "conversation"
+    ],
     "langs": {
       "en": {
         "title": "How to Complain in German Like a Native: The Art of Meckern",
@@ -3185,7 +4270,12 @@
     "slug": "german-sound-friendly",
     "date": "2026-05-09",
     "image": "",
-    "tags": ["pronunciation", "culture", "tips", "speaking"],
+    "tags": [
+      "pronunciation",
+      "culture",
+      "tips",
+      "speaking"
+    ],
     "langs": {
       "en": {
         "title": "How to Sound Friendly in German (Even When It Sounds Angry)",
@@ -3209,7 +4299,12 @@
     "slug": "german-make-friends",
     "date": "2026-05-09",
     "image": "",
-    "tags": ["culture", "friends", "social", "expat"],
+    "tags": [
+      "culture",
+      "friends",
+      "social",
+      "expat"
+    ],
     "langs": {
       "en": {
         "title": "How to Make Friends in Germany: The Rules Nobody Tells You",
@@ -3233,7 +4328,12 @@
     "slug": "german-tipping-guide",
     "date": "2026-05-09",
     "image": "",
-    "tags": ["money", "culture", "guide", "tipping"],
+    "tags": [
+      "money",
+      "culture",
+      "guide",
+      "tipping"
+    ],
     "langs": {
       "en": {
         "title": "How to Tip in Germany: The Trinkgeld Rules Nobody Explains",
@@ -3250,6 +4350,30 @@
       "sk": {
         "title": "Ako dávať prepitné v Nemecku: Pravidlá Trinkgeld, ktoré ti nikto nevysvetlí",
         "description": "Prepitné v Nemecku nie je ako v Amerike. Žiadnych 20%, žiadne počítanie percent. Koľko dať v reštaurácii, bare, taxi, holičstve a doručovaní — s presnými číslami."
+      },
+      "tr": {
+        "title": "Almanya'da Nasıl Bahşiş Bırakılır: Kimsenin Açıklamadığı Trinkgeld Kuralları",
+        "description": "Almanya'da bahşiş bırakmak Amerika'ya hiç benzemez. %20 yok, yüzde hesaplama yok, garip anlar yok. Restoranlarda, barlarda, taksilerde, kuaförlerde ve teslimatlarda tam olarak ne kadar bahşiş bırakmanız gerektiğini gerçek rakamlarla burada bulacaksınız."
+      },
+      "ro": {
+        "title": "Cum să lași bacșiș în Germania: Regulile Trinkgeld pe care nimeni nu ți le explică",
+        "description": "Bacșișul în Germania nu e deloc ca în America. Fără 20%, fără calculat procente, fără momente stânjenitoare. Iată exact cât să lași la restaurante, baruri, taxiuri, frizerii și livrări — cu numere reale."
+      },
+      "fa": {
+        "title": "چگونه در آلمان انعام بدهیم: قوانین Trinkgeld که هیچ‌کس توضیح نمی‌دهد",
+        "description": "انعام دادن در آلمان اصلاً شبیه آمریکا نیست. بدون ۲۰٪، بدون محاسبه درصد، بدون لحظات ناراحت‌کننده. در اینجا دقیقاً چقدر باید به رستوران‌ها، بارها، تاکسی‌ها، آرایشگاه‌ها و پیک‌ها انعام بدهید — با اعداد واقعی."
+      },
+      "ar": {
+        "title": "كيف تعطي بقشيش في ألمانيا: قواعد Trinkgeld التي لا يشرحها أحد",
+        "description": "البقشيش في ألمانيا لا يشبه أمريكا على الإطلاق. بدون 20%، بدون حساب نسب مئوية، بدون لحظات محرجة. إليك بالضبط كم تعطي في المطاعم والحانات والتاكسيات وصالونات الحلاقة والتوصيل — بأرقام حقيقية."
+      },
+      "es": {
+        "title": "Cómo dar propina en Alemania: Las reglas del Trinkgeld que nadie explica",
+        "description": "Dar propina en Alemania no es nada como en América. No 20%, no calcular porcentajes, sin momentos incómodos. Aquí tienes exactamente cuánto dar en restaurantes, bares, taxis, peluqueros y entregas — con números reales."
+      },
+      "uz": {
+        "title": "Germaniyada qanday chayqa beriladi: Hech kim tushuntirmaydigan Trinkgeld qoidalari",
+        "description": "Germaniyada chayqa berish Amerikaga o'xshamaydi. 20% yo'q, foiz hisoblash yo'q, noqulay lahalar yo'q. Restoranlar, barlar, taksilar, sartaroshlar va yetkazib berishda aniq qancha chayqa berish kerakligi — haqiqiy sonlar bilan."
       }
     }
   },
@@ -3257,7 +4381,12 @@
     "slug": "german-hairdresser-phrases",
     "date": "2026-05-10",
     "image": "",
-    "tags": ["phrases", "hairdresser", "everyday", "expat"],
+    "tags": [
+      "phrases",
+      "hairdresser",
+      "everyday",
+      "expat"
+    ],
     "langs": {
       "en": {
         "title": "How to Survive a German Haircut: Phrases for Beim Friseur",
@@ -3274,6 +4403,30 @@
       "sk": {
         "title": "Ako prežiť u nemeckého holiča: Frázy pre beim Friseur",
         "description": "Všetko, čo potrebuješ u holiča v Nemecku — ako požiadať o strih, vysvetliť čo chceš, pochopiť ich otázky a odísť s účesom, aký si chcel."
+      },
+      "tr": {
+        "title": "Alman Berberini Atlatmak: Beim Friseur İçin Gerekli İfadeler",
+        "description": "Almanya'da kuaförde bilmeniz gereken her şey — saç kesimi nasıl istenir, ne istediğiniz nasıl açıklanır, sordukları sorular nasıl anlaşılır ve tam istediğiniz gibi görünerek ayrılın."
+      },
+      "ro": {
+        "title": "Cum să supraviețuiești unui tuns german: Fraze pentru Beim Friseur",
+        "description": "Tot ce trebuie să știi la frizerul din Germania — cum să ceri un tuns, să explici ce vrei, să înțelegi întrebările pe care ți le pun și să pleci arătând exact cum ai sperat."
+      },
+      "fa": {
+        "title": "چگونه از یک کوتاهی موی آلمانی جان سالم به در ببریم: عبارات Beim Friseur",
+        "description": "همه چیزهایی که در آرایشگاه آلمان نیاز دارید — چگونه کوتاهی مو بخواهید، آنچه می‌خواهید توضیح دهید، سوالاتی که می‌پرسند را درک کنید و دقیقاً همان‌طور که امیدوار بودید خارج شوید."
+      },
+      "ar": {
+        "title": "كيف تنجو من قصة شعر ألمانية: عبارات لـ Beim Friseur",
+        "description": "كل ما تحتاجه عند الحلاق في ألمانيا — كيف تطلب قصة شعر، وتشرح ما تريد، وتفهم الأسئلة التي يطرحونها، وتخرج وتبدو بالضبط كما كنت تأمل."
+      },
+      "es": {
+        "title": "Cómo sobrevivir a un corte de pelo en Alemania: Frases para Beim Friseur",
+        "description": "Todo lo que necesitas en la peluquería en Alemania — cómo pedir un corte de pelo, explicar lo que quieres, entender las preguntas que te hacen y salir luciendo exactamente como esperabas."
+      },
+      "uz": {
+        "title": "Nemis sartaroshxonasida omon qolish: Beim Friseur uchun iboralar",
+        "description": "Germaniyada sartaroshda bilishingiz kerak bo'lgan hamma narsa — soch kesishni qanday so'rash, nima xohlayotganingizni tushuntirish, ularning savollarini tushunish va xohlaganingizdek ko'rinish bilan chiqish."
       }
     }
   },
@@ -3281,7 +4434,12 @@
     "slug": "german-things-considered-rude",
     "date": "2026-05-10",
     "image": "",
-    "tags": ["culture", "etiquette", "expat", "mistakes"],
+    "tags": [
+      "culture",
+      "etiquette",
+      "expat",
+      "mistakes"
+    ],
     "langs": {
       "en": {
         "title": "15 Things That Are Rude in Germany (And You Had No Idea)",
@@ -3298,6 +4456,30 @@
       "sk": {
         "title": "15 vecí, ktoré sú v Nemecku nevyberané (a ty to ani nevieš)",
         "description": "Nepovedať Mahlzeit na obed, ísť po cyklozóne, zle deliť účet — kultúrne chyby cudzincov, ktoré Nemci považujú za hrubé."
+      },
+      "tr": {
+        "title": "Almanya'da Kaba Sayılan 15 Şey (Ve Hiç Farkında Değildiniz)",
+        "description": "Öğle yemeğinde Mahlzeit dememek, bisiklet şeridinde yürümek, hesabı yanlış bölmek — yabancıların her gün farkında olmadan yaptığı ve Almanların kaba saydığı kültürel hatalar."
+      },
+      "ro": {
+        "title": "15 lucruri considerate nepoliticoase în Germania (și nu aveți nici o idee)",
+        "description": "A nu spune Mahlzeit la prânz, a merge pe banda de biciclete, a împărți nota greșit — greșeli culturale pe care străinii le fac zilnic fără să-și dea seama că germanii le consideră nepoliticoase."
+      },
+      "fa": {
+        "title": "۱۵ کار بی‌ادبانه در آلمان (که هیچ‌وقت نمی‌دانستید)",
+        "description": "نگفتن Mahlzeit در ناهار، راه رفتن در مسیر دوچرخه، اشتباه در تقسیم صورتحساب — اشتباهات فرهنگی که خارجی‌ها هر روز بدون اینکه بدانند آلمانی‌ها آن‌ها را بی‌ادبانه می‌دانند انجام می‌دهند."
+      },
+      "ar": {
+        "title": "15 تصرفات يُعتبر وقاحة في ألمانيا (ولم تكن لديك أدنى فكرة)",
+        "description": "عدم قول Mahlzeit في الغداء، المشي في مسار الدراجات، تقسيم الفاتورة بشكل خاطئ — أخطاء ثقافية يرتكبها الأجانب يوميًا دون أن يدركوا أن الألمان يعتبرونها وقاحة."
+      },
+      "es": {
+        "title": "15 cosas que se consideran de mala educación en Alemania (y no tenías ni idea)",
+        "description": "No decir Mahlzeit a la hora del almuerzo, caminar por el carril bici, dividir mal la cuenta — errores culturales que los extranjeros cometen cada día sin darse cuenta de que los alemanes los consideran de mala educación."
+      },
+      "uz": {
+        "title": "Germaniyada odobsiz hisoblangan 15 narsa (va siz buning haqida bilmas edingiz)",
+        "description": "Tushlikda Mahlzeit demaslik, velosiped yo'lakchasida yurish, hisobni noto'g'ri bo'lishish — chet elliklar har kuni nemislarning odobsiz deb hisoblaydigan madaniy xatolarni sodir qiladi."
       }
     }
   },
@@ -3305,7 +4487,12 @@
     "slug": "german-write-cv-lebenslauf",
     "date": "2026-05-10",
     "image": "",
-    "tags": ["career", "cv", "guide", "expat"],
+    "tags": [
+      "career",
+      "cv",
+      "guide",
+      "expat"
+    ],
     "langs": {
       "en": {
         "title": "How to Write a German Lebenslauf (CV): Complete Guide for Expats",
@@ -3322,6 +4509,30 @@
       "sk": {
         "title": "Ako napísať nemecký Lebenslauf (CV): Kompletný sprievodca pre expatov",
         "description": "Nemecké CV má prísne pravidlá — foto povinné, bez medzier, tabuľkový formát. Tu je ako napísať Lebenslauf, ktorý ti dá interview."
+      },
+      "tr": {
+        "title": "Alman Lebenslauf (CV) Nasıl Yazılır: Gurbetçiler İçin Kapsamlı Rehber",
+        "description": "Alman CV'lerinin katı kuralları vardır — fotoğraf zorunlu, boşluk yok, tablo formatı ve yanlış biçimlendirme nedeniyle başvurunuz reddedilebilir. Mülakatlar kazandıran Lebenslauf yazmanın tam yolu burada."
+      },
+      "ro": {
+        "title": "Cum să scrii un Lebenslauf (CV) german: Ghid complet pentru expați",
+        "description": "CV-urile germane au reguli stricte — foto obligatoriu, fără goluri, format tabular și cererea ta poate fi respinsă pentru formatare greșită. Iată exact cum să scrii un Lebenslauf care îți obține interviuri."
+      },
+      "fa": {
+        "title": "چگونه یک Lebenslauf (رزومه) آلمانی بنویسیم: راهنمای کامل برای مهاجران",
+        "description": "رزومه‌های آلمانی قوانین سختگیرانه‌ای دارند — عکس الزامی، بدون فاصله، فرمت جدولی و درخواست شما ممکن است به دلیل فرمت اشتباه رد شود. در اینجا دقیقاً نحوه نوشتن Lebenslauf که مصاحبه می‌آورد را بیاموزید."
+      },
+      "ar": {
+        "title": "كيفية كتابة Lebenslauf (سيرة ذاتية) ألماني: دليل شامل للمغتربين",
+        "description": "السير الذاتية الألمانية لديها قواعد صارمة — صورة إلزامية، بدون فجوات، تنسيق جدولي، ويمكن رفض طلبك بسبب التنسيق الخاطئ. إليك بالضبط كيف تكتب Lebenslauf يحصل لك على مقابلات."
+      },
+      "es": {
+        "title": "Cómo escribir un Lebenslauf (CV) alemán: Guía completa para expatriados",
+        "description": "Los CVs alemanes tienen reglas estrictas — foto obligatoria, sin huecos, formato tabular y tu solicitud puede ser rechazada por un formato incorrecto. Aquí tienes exactamente cómo escribir un Lebenslauf que te consiga entrevistas."
+      },
+      "uz": {
+        "title": "Nemis Lebenslauf (CV) qanday yoziladi: Muhojirlar uchun to'liq qo'llanma",
+        "description": "Nemis CVlarida qattiq qoidalar bor — rasm majburiy, bo'shliqlar yo'q, jadval formati va noto'g'ri formatlash tufayli arizangiz rad etilishi mumkin. Suhbatlar olib keladigan Lebenslauf yozishning aniq yo'li bu yerda."
       }
     }
   },
@@ -3329,7 +4540,12 @@
     "slug": "german-recycling-trash-sorting",
     "date": "2026-05-10",
     "image": "",
-    "tags": ["culture", "recycling", "guide", "expat"],
+    "tags": [
+      "culture",
+      "recycling",
+      "guide",
+      "expat"
+    ],
     "langs": {
       "en": {
         "title": "German Recycling Rules: How to Sort Your Trash Without Losing Your Mind",
@@ -3346,6 +4562,30 @@
       "sk": {
         "title": "Nemecké triedenie odpadu: Ako neprísť o rozum a nesťažiť susedov",
         "description": "Nemecko má najprísnejší recyklačný systém. Žlté kontajnery, modré kontajnery, zelené kontajnery, Pfand fľaše — čo kam patrí a za čo ťa susedia nahlásia."
+      },
+      "tr": {
+        "title": "Almanya'da Geri Dönüşüm Kuralları: Çöp Ayırmayı Öğrenip Aklınızı Kaybetmeyin",
+        "description": "Almanya dünyanın en katı geri dönüşüm sistemine sahip. Sarı kutu, mavi kutu, yeşil kutu, Pfand şişeleri — neyin nereye gideceğini, neyin para mal ettiğini ve komşularınızı neyin şikayete sevk edeceğini burada bulacaksınız."
+      },
+      "ro": {
+        "title": "Regulile de reciclare din Germania: Cum să sortezi gunoiul fără să-ți pierzi mințile",
+        "description": "Germania are cel mai strict sistem de reciclare din lume. Pubele galbene, albastre, verzi, sticle cu Pfand — iată exact ce merge unde, ce te costă bani și ce îi va face pe vecinii tăi să te denunțe."
+      },
+      "fa": {
+        "title": "قوانین بازیافت در آلمان: چگونه زباله‌ها را جدا کنید بدون اینکه دیوانه شوید",
+        "description": "آلمان سخت‌گیرانه‌ترین سیستم بازیافت جهان را دارد. سطل‌های زرد، آبی، سبز، بطری‌های پفاند — در اینجا دقیقاً می‌فهمید چه چیزی کجا می‌رود، چه چیزی پولتان را می‌گیرد و چه چیزی باعث می‌شود همسایه‌ها شما را گزارش دهند."
+      },
+      "ar": {
+        "title": "قواعد إعادة التدوير في ألمانيا: كيف تفرز القمامة دون أن تفقد عقلك",
+        "description": "ألمانيا لديها أصرم نظام لإعادة التدوير في العالم. الحاويات الصفراء والزرقاء والخضراء، زجاجات بفاند — هنا ستجد بالضبط ما يذهب إلى أين، وما يكلفك المال، وما سيجعل جيرانك يبلغون عنك."
+      },
+      "es": {
+        "title": "Reglas de reciclaje en Alemania: Cómo separar la basura sin perder la cabeza",
+        "description": "Alemania tiene el sistema de reciclaje más estricto del mundo. Contenedores amarillos, azules, verdes, botellas con Pfand — aquí te explicamos exactamente qué va dónde, qué te cuesta dinero y qué hará que tus vecinos te denuncien."
+      },
+      "uz": {
+        "title": "Germaniyada qayta ishlash qoidalari: Chiqindilarni ajratish bo'yicha to'liq qo'llanma",
+        "description": "Germaniya dunyodagi eng qattiq qayta ishlash tizimiga ega. Sariq, ko'k, yashil konteynerlar, Pfand shishalari — nima qayerga borishi, nima pulingizni olishi va qanday qilib qo'shnilaringizni shikoyatga olib kelishi haqida barcha ma'lumotlar bu yerda."
       }
     }
   }
