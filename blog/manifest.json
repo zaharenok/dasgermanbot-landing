@@ -7038,5 +7038,57 @@
         "description": "Kindergarten, doppelgänger, wanderlust — o'nlab inglizcha so'zlar aslida nemis tilidan olingan. Qiziqarlilari va ular ortidagi hikoyalar."
       }
     }
+  },
+  {
+    "slug": "mistakes-foreigners-make-in-germany",
+    "date": "2026-05-11",
+    "tags": [
+      "culture",
+      "expat",
+      "tips",
+      "survival guide"
+    ],
+    "langs": {
+      "en": {
+        "title": "15 Mistakes Foreigners Make in Germany (And How to Fix Them)",
+        "description": "Crossing at red lights, wrong Sie/du, no cash on Sunday — the 15 most common mistakes foreigners make in Germany and exactly how to avoid them."
+      },
+      "uk": {
+        "title": "15 помилок іноземців у Німеччині (і як їх виправити)",
+        "description": "Перехід на червоне, неправильне Sie/du, без готівки у неділю — 15 найпоширеніших помилок іноземців у Німеччині і як їх уникнути."
+      },
+      "ru": {
+        "title": "15 ошибок иностранцев в Германии (и как их исправить)",
+        "description": "Переход на красный, неправильное Sie/du, без наличных в воскресенье — 15 самых частых ошибок иностранцев и как их избежать."
+      },
+      "sk": {
+        "title": "15 chýb, ktoré cudzinci robia v Nemecku (a ako ich opraviť)",
+        "description": "Prechod na červenú, zlé Sie/du, žiadna hotovosť v nedeľu — 15 najčastejších chýb cudzincov v Nemecku a ako sa im vyhnúť."
+      },
+      "tr": {
+        "title": "Almanya'da yabancıların yaptığı 15 hata (ve nasıl düzeltilir)",
+        "description": "Kırmızı ışıkta geçmek, yanlış Sie/du, pazar günü nakitsiz olmak — Almanya'da yabancıların en sık yaptığı 15 hata ve nasıl kaçınılır."
+      },
+      "ro": {
+        "title": "15 greșeli pe care le fac străinii în Germania (și cum să le repari)",
+        "description": "Traversat pe roșu, Sie/du greșit, fără cash duminica — cele 15 greșeli cele mai frecvente ale străinilor în Germania și cum să le eviți."
+      },
+      "fa": {
+        "title": "۱۵ اشتباه رایج خارجی‌ها در آلمان (و نحوه اصلاح آنها)",
+        "description": "عبور از چراغ قرمز، Sie/du اشتباه، بدون پول نقد یکشنبه‌ها — ۱۵ اشتباه رایج خارجی‌ها در آلمان و راه‌های جلوگیری از آنها."
+      },
+      "ar": {
+        "title": "15 خطأ يرتكبها الأجانب في ألمانيا (وكيفية إصلاحها)",
+        "description": "عبور الإشارة الحمراء، Sie/du خاطئ، بدون نقود يوم الأحد — 15 خطأ شائع يرتكبها الأجانب في ألمانيا وكيفية تجنبها."
+      },
+      "es": {
+        "title": "15 errores que cometen los extranjeros en Alemania (y cómo corregirlos)",
+        "description": "Cruzar en rojo, Sie/du incorrecto, sin efectivo en domingo — los 15 errores más comunes de extranjeros en Alemania y cómo evitarlos."
+      },
+      "uz": {
+        "title": "Olmoniyada chet elliklar qiladigan 15 xato (va ularni qanday tuzatish mumkin)",
+        "description": "Qizil chiroqdan o'tish, noto'g'ri Sie/du, yakshanba kuni naqd pulsiz — Olmoniyada chet elliklarning eng ko'p qiladigan 15 xatosi va ulardan qanday qochish mumkin."
+      }
+    }
   }
 ]
