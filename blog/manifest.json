@@ -7298,5 +7298,57 @@
         "description": "Schadenfreude, Fernweh, Torschlusspanik — tilingiz tushuntira olmaydigan hissiyotlar uchun nemis so'zlari. Ularni o'rganganda, ularsiz qanday yashaganingizga hayron qolasiz."
       }
     }
+  },
+  {
+    "slug": "how-germans-say-no",
+    "date": "2026-05-12",
+    "tags": [
+      "culture",
+      "communication",
+      "phrases",
+      "intermediate"
+    ],
+    "langs": {
+      "en": {
+        "title": "How Germans Actually Say 'No': 20 Polite Rejections You'll Hear",
+        "description": "Germans almost never say 'nein' directly. Instead they have 20 ways to reject you politely and you won't even realize you've been rejected."
+      },
+      "ru": {
+        "title": "Как немцы на самом деле говорят «нет»: 20 вежливых отказов",
+        "description": "Немцы почти никогда не говорят «nein» прямо. Вместо этого у них есть 20 способов вежливо отказать и вы даже не поймёте что вам отказали."
+      },
+      "uk": {
+        "title": "Як німці насправді кажуть «ні»: 20 ввічливих відмов",
+        "description": "Німці майже ніколи не кажуть «nein» прямо. Натомість у них є 20 способів ввічливо відмовити і ви навіть не зрозумієте що вам відмовили."
+      },
+      "sk": {
+        "title": "Ako Nemci naozaj hovoria nie: 20 slusnych odmietnuti",
+        "description": "Nemci takmer nikdy nepovedia nein priamo. Namiesto toho maju 20 sposobov ako ta slusne odmietnut a ani si neuvedomis ze si bol odmietnuty."
+      },
+      "tr": {
+        "title": "Almanlar Gercekte Nasil Hayir Der: 20 Nazik Ret",
+        "description": "Almanlar neredeyse hicbir zaman dogrudan nein demez. Bunun yerine seni nazikce reddetmenin 20 yoluna sahiptir ve reddedildigini farkina bile varmazsin."
+      },
+      "ro": {
+        "title": "Cum spun germanii nu de fapt: 20 de refuzuri politicoase",
+        "description": "Germanii aproape niciodata nu spun nein direct. In schimb au 20 de moduri de a te refuza politicos si nici nu-ti dai seama ca ai fost refuzat."
+      },
+      "fa": {
+        "title": "آلمانی‌ها چطور واقعاً نه میگن: ۲۰ رد مؤدبانه",
+        "description": "آلمانی‌ها تقریباً هرگز مستقیم nein نمیگن. به جاش ۲۰ تا روش مؤدبانه برای رد کردن دارن و حتی متوجه نمیشی که رد شدی."
+      },
+      "ar": {
+        "title": "كيف يقول الألمان لا فعلياً: 20 رفضاً مهذباً",
+        "description": "الألمان لا يقولون nein أبداً بشكل مباشر. لديهم 20 طريقة لرفضك بأدب ولن تدرك حتى أنك رفضت."
+      },
+      "es": {
+        "title": "Como dicen no los alemanes realmente: 20 rechazos educados",
+        "description": "Los alemanes casi nunca dicen nein directamente. Tienen 20 formas de rechazarte educadamente y ni te daras cuenta de que te han rechazado."
+      },
+      "uz": {
+        "title": "Nemislar haqiqatan yoq deyishadi: 20 ta oqilona rad",
+        "description": "Nemislar deyarli hech qachon togridan-togri nein demaydi. Ularda seni oqilona rad qilishning 20 ta usuli bor va rad etilganingni ham sezmay qolasiz."
+      }
+    }
   }
 ]
