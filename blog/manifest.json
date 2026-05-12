@@ -7246,5 +7246,57 @@
         "description": "Vizalar, Anmeldung, kvartiralar, bank hisoblari, tibbiy sug'urta — Germaniyaga ko'chishdan oldin bilishingiz kerak bo'lgan hamma narsa, qiyin yo'ldan o'rgangan odamdan."
       }
     }
+  },
+  {
+    "slug": "german-words-no-translation",
+    "date": "2026-05-12",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "unique words",
+      "intermediate"
+    ],
+    "langs": {
+      "en": {
+        "title": "15 German Words That Don't Exist in Any Other Language",
+        "description": "Schadenfreude, Fernweh, Torschlusspanik — the German words that capture feelings your language can't explain. Once you learn them, you'll wonder how you lived without them."
+      },
+      "ru": {
+        "title": "15 немецких слов, которых нет ни в одном другом языке",
+        "description": "Schadenfreude, Fernweh, Torschlusspanik — немецкие слова для чувств, которые ваш язык объяснить не может. Когда вы их выучите, вы удивитесь, как жили без них."
+      },
+      "uk": {
+        "title": "15 німецьких слів, яких немає в жодній іншій мові",
+        "description": "Schadenfreude, Fernweh, Torschlusspanik — німецькі слова для почуттів, які ваша мова пояснити не може. Коли ви їх вивчите, ви здивуєтесь, як жили без них."
+      },
+      "sk": {
+        "title": "15 nemeckých slov, ktoré neexistujú v žiadnom inom jazyku",
+        "description": "Schadenfreude, Fernweh, Torschlusspanik — nemecké slová pre pocity, ktoré tvoj jazyk nedokáže vysvetliť. Keď sa ich naučíš, budeš sa čudovať, ako si bez nich žil."
+      },
+      "tr": {
+        "title": "Başka hiçbir dilde olmayan 15 Almanca kelime",
+        "description": "Schadenfreude, Fernweh, Torschlusspanik — dilinizin açıklayamadığı duygular için Almanca kelimeler. Öğrendiğinizde onsuz nasıl yaşadığınıza şaşıracaksınız."
+      },
+      "ro": {
+        "title": "15 cuvinte germane care nu există în nicio altă limbă",
+        "description": "Schadenfreude, Fernweh, Torschlusspanik — cuvinte germane pentru sentimentele pe care limba ta nu le poate explica. După ce le înveți, te vei întreba cum ai trăit fără ele."
+      },
+      "fa": {
+        "title": "۱۵ کلمه آلمانی که در هیچ زبان دیگری وجود ندارند",
+        "description": "Schadenfreude, Fernweh, Torschlusspanik — کلمات آلمانی برای احساساتی که زبان شما نمی‌تواند توضیح دهد. وقتی یادشان بگیرید، تعجب می‌کنید چطور بدونشان زندگی می‌کردید."
+      },
+      "ar": {
+        "title": "15 كلمة ألمانية غير موجودة في أي لغة أخرى",
+        "description": "Schadenfreude, Fernweh, Torschlusspanik — كلمات ألمانية لمشاعر لا تستطيع لغتك تفسيرها. بمجرد تعلمها، ستعجب كيف عشت بدونها."
+      },
+      "es": {
+        "title": "15 palabras alemanas que no existen en ningún otro idioma",
+        "description": "Schadenfreude, Fernweh, Torschlusspanik — palabras alemanas para sentimientos que tu idioma no puede explicar. Cuando las aprendas, te preguntarás cómo viviste sin ellas."
+      },
+      "uz": {
+        "title": "Boshqa hech qanday tilda mavjud bo'lmagan 15 nemis so'zi",
+        "description": "Schadenfreude, Fernweh, Torschlusspanik — tilingiz tushuntira olmaydigan hissiyotlar uchun nemis so'zlari. Ularni o'rganganda, ularsiz qanday yashaganingizga hayron qolasiz."
+      }
+    }
   }
 ]
