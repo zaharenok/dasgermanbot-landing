@@ -7402,5 +7402,57 @@
         "description": "Fahrt, Puff, Hose, Schmuck - ingliz tilida sozlashuvchilarni qizarib yuboradigan lekin butunlay oddiy narsalarni anglatuvchi nemis sozlari."
       }
     }
+  },
+  {
+    "slug": "german-grammar-makes-no-sense",
+    "date": "2026-05-12",
+    "tags": [
+      "grammar",
+      "tips",
+      "beginners",
+      "frustration"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Grammar Rules That Make Zero Sense (But You Must Learn Them)",
+        "description": "Girls are it, verbs go to the end, and the has 16 forms. German grammar rules that will break your brain - explained so they finally click."
+      },
+      "ru": {
+        "title": "Pravila nemetskoy grammatiki ne imeyushchie smysla (no vychit nado)",
+        "description": "Devochka - eto ono, glagod uletaet v konets, a the imeet 16 form. Pravila kotorye vzorvut vash mozg s ob'yasneniyami."
+      },
+      "uk": {
+        "title": "Pravila nimetskoyi gramatyky shcho ne mayut sensu",
+        "description": "Divchynka - tse vono, dieslovo vtikaye v kinets a the maye 16 form. Pravyla shcho znesut mozok z poyasnennyamy."
+      },
+      "sk": {
+        "title": "Pravidla nemeckej gramatiky ktore nedavaju zmysel",
+        "description": "Dievca je ono sloveso ujde na koniec a the ma 16 foriem. Pravidla ktore ti rozbiju mozog s vysvetleniami."
+      },
+      "tr": {
+        "title": "Hic mantikli olmayan Almanca dilbilgisi kurallari",
+        "description": "Kiz o olur fiil sona kacar ve thenin 16 hali vardir. Beynini patlatacak kurallar aciklanmis."
+      },
+      "ro": {
+        "title": "Reguli de gramatica germana care nu au niciun sens",
+        "description": "Fata e ea verbul fuge la final si the are 16 forme. Reguli care iti vor exploda creierul explicate."
+      },
+      "fa": {
+        "title": "Ghavaede grammar Almani ke hich maani nemidan",
+        "description": "Dokhtar u mishavad fe'l akhar miravad va the shanzdah ta shakl darad. Ghavaede ke maghzeto manfar mikonand tozih shode."
+      },
+      "ar": {
+        "title": "Qawaed nahwiyya almaniyya la maana laha",
+        "description": "Al-fatata hiya al-fial yahrub lil-nihaya wa the laha 16 shaklan. Qawaed sanfar dimaghak mashruha."
+      },
+      "es": {
+        "title": "Reglas de gramatica alemana sin sentido",
+        "description": "Una chica es ello el verbo huye al final y the tiene 16 formas. Reglas que te volaran la cabeza explicadas."
+      },
+      "uz": {
+        "title": "Manosiz nemis tili grammatikasi qoidalari",
+        "description": "Qiz u boladi fe'l oxirga qochadi va the ning 16 shakli bor. Miyangizni portlatadigan qoidalar tushuntirilgan."
+      }
+    }
   }
 ]
