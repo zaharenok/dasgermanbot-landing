@@ -401,22 +401,21 @@
       });
     }
 
-    // Language dropdown
+    // Language dropdown (navbar.js may provide these elements)
     var dropdownToggle = document.getElementById('lang-dropdown-toggle');
     var dropdownMenu = document.getElementById('lang-dropdown-menu');
     var dropdownLabel = document.getElementById('lang-dropdown-label');
     var langLabels = { en: 'EN', uk: 'UA', ru: 'RU', sk: 'SK' };
-    if (dropdownToggle) {
+    if (dropdownToggle && dropdownMenu) {
       dropdownToggle.addEventListener('click', function(e) {
         e.stopPropagation();
         dropdownMenu.classList.toggle('open');
       });
       document.addEventListener('click', function() { dropdownMenu.classList.remove('open'); });
+      document.querySelectorAll('.lang-dropdown__menu button').forEach(function(btn) {
+        btn.addEventListener('click', function() { setLanguage(btn.dataset.lang); });
+      });
     }
-    document.querySelectorAll('.lang-dropdown__menu button').forEach(function(btn) {
-      btn.addEventListener('click', function() { setLanguage(btn.dataset.lang); });
-    });
-    });
 
     setLanguage(currentLang);
 
