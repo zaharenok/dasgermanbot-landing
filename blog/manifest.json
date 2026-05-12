@@ -7350,5 +7350,57 @@
         "description": "Nemislar deyarli hech qachon togridan-togri nein demaydi. Ularda seni oqilona rad qilishning 20 ta usuli bor va rad etilganingni ham sezmay qolasiz."
       }
     }
+  },
+  {
+    "slug": "german-words-sound-dirty",
+    "date": "2026-05-12",
+    "tags": [
+      "funny",
+      "vocabulary",
+      "false friends",
+      "beginners"
+    ],
+    "langs": {
+      "en": {
+        "title": "12 German Words That Sound Dirty But Are Completely Innocent",
+        "description": "Fahrt, Puff, Hose, Schmuck - German words that make English speakers blush but mean absolutely nothing wrong."
+      },
+      "ru": {
+        "title": "12 немецких слов, которые звучат неприлично, но абсолютно невинны",
+        "description": "Fahrt, Puff, Hose, Schmuck - немецкие слова, от которых англоговорящие краснеют, но которые означают совершенно обычные вещи."
+      },
+      "uk": {
+        "title": "12 німецьких слів, які звучать непристойно, але абсолютно невинні",
+        "description": "Fahrt, Puff, Hose, Schmuck - німецькі слова, від яких англомовні червоніють, але які означають зовсім звичайні речі."
+      },
+      "sk": {
+        "title": "12 nemeckych slov, ktore znejusu neslusne, ale su uplne nevienne",
+        "description": "Fahrt, Puff, Hose, Schmuck - nemecke slova, od ktorych anglictina cerveneje, ale znamena uplne obycajne veci."
+      },
+      "tr": {
+        "title": "Iglic durmus ama tamamen masum olan 12 Almanca kelime",
+        "description": "Fahrt, Puff, Hose, Schmuck - Ingilizce konusanlari kizartan ama tamamen normal anlamlari olan Almanca kelimeler."
+      },
+      "ro": {
+        "title": "12 cuvinte germane ce suna indecent, dar sunt complet inocente",
+        "description": "Fahrt, Puff, Hose, Schmuck - cuvinte germane ce fac vorbitorii de engleza sa roseasca, dar inseamna lucruri complet normale."
+      },
+      "fa": {
+        "title": "12 kalameh Almani ke dirty be nazar miresan vali kamelan bi-gonahan",
+        "description": "Fahrt, Puff, Hose, Schmuck - kalameh-haye Almani ke English-zabana surkh mikonan vali maani kamelan aadi daran."
+      },
+      "ar": {
+        "title": "12 kalima almaniyya tabdu wahiha lakinnaha bariya tamitan",
+        "description": "Fahrt, Puff, Hose, Schmuck - kalimat almaniyya tuharriz al-mutahaddithin bil-injiliziyya lakinnaha taani ashyaan aadiyya tamitan."
+      },
+      "es": {
+        "title": "12 palabras alemanas que suenan sucias pero son completamente inocentes",
+        "description": "Fahrt, Puff, Hose, Schmuck - palabras alemanas que hacen sonrojar a los hispanohablantes pero significan cosas totalmente normales."
+      },
+      "uz": {
+        "title": "Korinishicha nopok lekin butunlay begunoh 12 ta nemis sozi",
+        "description": "Fahrt, Puff, Hose, Schmuck - ingliz tilida sozlashuvchilarni qizarib yuboradigan lekin butunlay oddiy narsalarni anglatuvchi nemis sozlari."
+      }
+    }
   }
 ]
