@@ -7454,5 +7454,57 @@
         "description": "Qiz u boladi fe'l oxirga qochadi va the ning 16 shakli bor. Miyangizni portlatadigan qoidalar tushuntirilgan."
       }
     }
+  },
+  {
+    "slug": "things-germans-do",
+    "date": "2026-05-13",
+    "tags": [
+      "culture",
+      "habits",
+      "funny",
+      "expat"
+    ],
+    "langs": {
+      "en": {
+        "title": "15 Things Germans Do That Confuse the Rest of the World",
+        "description": "Clapping when the plane lands, never wishing happy birthday early, and fighting over bottle deposits - German habits that leave foreigners baffled."
+      },
+      "ru": {
+        "title": "15 privychek nemtsev kotorye stavyat v tupik ves mir",
+        "description": "Hlopanie pri posadke samoleta zapret pozdravlyat s dnem rozhdeniya zarnee i bitva za zal za butylki - nemetskie privychki ot kotoryh inostrantsy v shoke."
+      },
+      "uk": {
+        "title": "15 zvychok nimtsiv yaki zbyvayut z pantelyku ves svit",
+        "description": "Oplesky pr posadtsi litaka zaborona vitaty z dnem narodzhennya zazdalegid i borotba za zstavu za plyashki - nimetski zvychky vid yakyh inozemtsi v shoci."
+      },
+      "sk": {
+        "title": "15 zvykov Nemcov ktore confuse zvysok sveta",
+        "description": "Tleskanie pri pristati lietadla zakaz blaznit narodeniny skor a boj o zalohu za flase - nemecke zvyky ktore cudzincov uplne prevalcuju."
+      },
+      "tr": {
+        "title": "Almanlarin dunyayi sasirtan 15 aliskanligi",
+        "description": "Ucak inince alkislama dogum gununu erken kutlama yasagi ve sise deposu icin savas - yabancilari serseme ceviren Alman aliskanliklari."
+      },
+      "ro": {
+        "title": "15 obiceiuri germane care uimesc restul lumii",
+        "description": "Aplauze la aterizare interzicerea felicitarilor premature de ziua si lupta pentru depozitul de sticle - obiceiuri germane care lasa strainii perplexi."
+      },
+      "fa": {
+        "title": "15 aadat Almani ke baghie donya ro gig mikone",
+        "description": "Tashviiq hengam forud havapeyma mamnooiyat tabrik zoodras tavalod va jang baraye seporde botri - aadati ke kharejiha ro shekke mikone."
+      },
+      "ar": {
+        "title": "15 aada almaniyya tuhayyir baqiyat al-aalam",
+        "description": "Al-tasfiq ind hubut al-ta'ira mannuq tahniiat iid al-milad mubakkiran wa al-qital ala wadiat al-zujajat - aada almaniyya tatriku al-ajanib fi hayra."
+      },
+      "es": {
+        "title": "15 cosas que hacen los alemanes que desconciertan al mundo",
+        "description": "Aplaudir al aterrizar nunca felicitar el cumpleanos antes y pelear por el deposito de botella - costumbres alemanas que dejan perplejos a los extranjeros."
+      },
+      "uz": {
+        "title": "Nemislarning dunyoni hayratda qoldiradigan 15 odati",
+        "description": "Samolyot qongandan keyin qoqish tugilgan kunni oldindan tabriklash taqiqi va shisha depoziti uchun kurash - chet elliklarni lol qoldiruvchi nemis odatlari."
+      }
+    }
   }
 ]
