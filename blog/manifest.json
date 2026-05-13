@@ -7506,5 +7506,57 @@
         "description": "Samolyot qongandan keyin qoqish tugilgan kunni oldindan tabriklash taqiqi va shisha depoziti uchun kurash - chet elliklarni lol qoldiruvchi nemis odatlari."
       }
     }
+  },
+  {
+    "slug": "german-words-you-use-daily",
+    "date": "2026-05-13",
+    "tags": [
+      "vocabulary",
+      "etymology",
+      "fun",
+      "beginners"
+    ],
+    "langs": {
+      "en": {
+        "title": "20 German Words You Use Every Day Without Realizing It",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel - words so common you forgot they are German. The German language has been hiding in your vocabulary all along."
+      },
+      "ru": {
+        "title": "20 немецких слов, которые вы используете каждый день, не осознавая этого",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel - слова настолько привычные, что вы забыли об их немецком происхождении. Немецкий язык всё это время прятался в вашем словаре."
+      },
+      "uk": {
+        "title": "20 німецьких слів, які ви використовуєте щодня, не підозрюючи про це",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel - слова настільки звичні, що ви забули про їхнє німецьке походження. Німецька мова весь цей час ховалася у вашому словнику."
+      },
+      "sk": {
+        "title": "20 nemeckych slov, ktore pouzivate kazdy den bez toho, aby ste to vedeli",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel - slova tak bezne, ze ste zabudli, ze su nemecke. Nemcina sa celkovy cas skrivala vo vasom slovniku."
+      },
+      "tr": {
+        "title": "Her Gun Farkinda Olmadan Kullandiginiz 20 Almanca Kelime",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel - o kadar yaygin kelimeler ki Almanca olduklarini unuttunuz. Almanca bu zamana kadar sozlugunuzde saklaniyordu."
+      },
+      "ro": {
+        "title": "20 de cuvinte germane pe care le folosesti zilnic fara sa stii",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel - cuvinte asa de comune incat ai uitat ca sunt germane. Limba germana s-a ascuns in vocabularul tau tot timpul."
+      },
+      "fa": {
+        "title": "۲۰ کلمه آلمانی که هر روز بدون اینکه بدانی استفاده میکنی",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel - کلماتی که آنقدر رایجن که آلمانی بودنشونو یادت رفته."
+      },
+      "ar": {
+        "title": "20 كلمة ألمانية تستخدمها يومياً دون أن تدرك",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel - كلمات شائعة لدرجة أنك نسيت أنها ألمانية."
+      },
+      "es": {
+        "title": "20 palabras alemanas que usas todos los dias sin darte cuenta",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel - palabras tan comunes que olvidaste que son alemanas."
+      },
+      "uz": {
+        "title": "Har kuni bilmagan holda ishlatadigan 20 ta nemis sozi",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel - shunchalik keng tarqalgan sozlar ki, nemis ekanligingiz unutdingiz."
+      }
+    }
   }
 ]
