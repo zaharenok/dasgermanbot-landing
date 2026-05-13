@@ -7610,5 +7610,57 @@
         "description": "Hamma nemis tilini tajovuzkor va gazablangandek deydi. Bu mutlaqo notogri ekanligining sababi — va gazablangan til afsonasining haqiqiy sababi."
       }
     }
+  },
+  {
+    "slug": "german-etiquette-rules",
+    "date": "2026-05-13",
+    "tags": [
+      "culture",
+      "etiquette",
+      "tips",
+      "living-in-germany"
+    ],
+    "langs": {
+      "en": {
+        "title": "12 German Etiquette Rules That Will Surprise You",
+        "description": "Germans have unwritten rules for everything. Birthday wishes before the day? Bad luck. Crossing on red? Social crime. Learn the etiquette rules that catch foreigners off guard."
+      },
+      "ru": {
+        "title": "12 pravil nemeckogo etiketa, kotorye vas udivyat",
+        "description": "U nemtsev nepisanye pravit dlya vsego. Pozdravit s dryom rozhdeniya zarane? Plohaya primetay. Pereyti na krasniy? Sotcialniy prestupleniye."
+      },
+      "uk": {
+        "title": "12 pravil nimeckogo etiketu, yaki vas zdvyvuyut",
+        "description": "U nimtsev nepysani pravitlya dlya vsoho. Pozdrowyty z dnem narodzhennya zavchas? Pogana prykmeta."
+      },
+      "sk": {
+        "title": "12 pravidi nemeckeho etikety, ktore vas prekvapia",
+        "description": "Nemci maju nepisane pravidla na vseho. Blahozelat k narodeninam predcasne? Smola. Prestupit na cervenu? Spolocensky zlocin."
+      },
+      "tr": {
+        "title": "Sizi Sasirtacak 12 Alman Kurali",
+        "description": "Almanlarin her sey icin yazilmamis kurallari var. Dogum gununu erken kutlamak mi? Ugunsuzluk. Kirmizi isikta gecmek mi? Sosyal suc."
+      },
+      "ro": {
+        "title": "12 reguli de eticheta germana care te vor surprinde",
+        "description": "Germanii au reguli nescrise pentru orice. Sa urezi la multi ani inainte de zi? Ghinion. Sa treci pe rosu? Crima sociala."
+      },
+      "fa": {
+        "title": "12 qanun adab-e masharat Almani ke shomara ghaflatgir mikona",
+        "description": "Almaniyha baraye hame chiz qanun-e nanveshte daran. Tabrik-e zudhangan-e tavallod? Bad-shansi."
+      },
+      "ar": {
+        "title": "12 qaidat ityqit almaniyat safajik",
+        "description": "Al-alamaniyun ladayhim qawaid ghayr maktuba likuli shay. Tahniyat bi-yawm milad mubakkir? Su hadh."
+      },
+      "es": {
+        "title": "12 reglas de etiqueta alemana que te sorprenderan",
+        "description": "Los alemanes tienen reglas no escritas para todo. Felicitar el cumpleanos antes? Mala suerte. Cruzar en rojo? Crimen social."
+      },
+      "uz": {
+        "title": "Sizni hayratda qoldiradigan 12 ta nemis odob-axloq qoidalari",
+        "description": "Nemislarning hamma narsa uchun yozilmagan qoidalari bor. Tugilgan kunni oldindan tabriklash? Baxtsizlik."
+      }
+    }
   }
 ]
