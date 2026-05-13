@@ -24,7 +24,6 @@
   'https://connect.facebook.net/en_US/fbevents.js');
   fbq('init', '1445746883270633');
   fbq('track', 'PageView');
-  fbq('track', 'StartTrial', {value: '0.00', currency: 'EUR', predicted_ltv: '0.00'});
   </script>
   <noscript><img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=1445746883270633&ev=PageView&noscript=1"
@@ -419,6 +418,64 @@
 
     setLanguage(currentLang);
 
+    // ── Dynamic Meta Pixel + CAPI enrichment ──
+    (function() {
+      var params = new URLSearchParams(window.location.search);
+      var sessionId = params.get('session_id');
+      var WEBHOOK_BASE = 'https://sw-prod-a7cc5k6gqz.up.railway.app';
+
+      // Read Meta cookies
+      function getCookie(name) {
+        var match = document.cookie.match('(^|;)\\s*' + name + '\\s*=\\s*([^;]+)');
+        return match ? match.pop() : '';
+      }
+
+      if (sessionId) {
+        // Fetch payment details from webhook server to fire correct event
+        fetch(WEBHOOK_BASE + '/api/payment-details?session_id=' + encodeURIComponent(sessionId))
+          .then(function(r) { return r.json(); })
+          .then(function(data) {
+            var eventName = data.event_name || 'StartTrial';
+            var value = data.value || 0;
+            var currency = data.currency || 'EUR';
+            var plan = data.plan || 'monthly';
+
+            // Fire client-side pixel with correct event
+            if (typeof fbq !== 'undefined') {
+              fbq('track', eventName, {
+                value: value,
+                currency: currency,
+                content_name: plan
+              });
+            }
+
+            // Send enriched CAPI data (fbc, fbp, IP, UA) to webhook server
+            var fbc = getCookie('_fbc');
+            var fbp = getCookie('_fbp');
+            fetch(WEBHOOK_BASE + '/api/meta-event', {
+              method: 'POST',
+              headers: {'Content-Type': 'application/json'},
+              body: JSON.stringify({
+                session_id: sessionId,
+                fbc: fbc || undefined,
+                fbp: fbp || undefined
+              })
+            }).catch(function() {});
+          })
+          .catch(function() {
+            // Fallback: fire StartTrial if fetch fails
+            if (typeof fbq !== 'undefined') {
+              fbq('track', 'StartTrial', {value: '0.00', currency: 'EUR', predicted_ltv: '0.00'});
+            }
+          });
+      } else {
+        // No session_id — fire default StartTrial
+        if (typeof fbq !== 'undefined') {
+          fbq('track', 'StartTrial', {value: '0.00', currency: 'EUR', predicted_ltv: '0.00'});
+        }
+      }
+    })();
+
     // ── Auto-redirect to Telegram after 6s (ensure pixel fires) ──
     (function() {
       var seconds = 6;
@@ -429,10 +486,6 @@
         if (counter) counter.textContent = seconds;
         if (seconds <= 0) {
           clearInterval(timer);
-          // Fire pixel event one more time before redirect to ensure tracking
-          if (typeof fbq !== 'undefined') {
-            fbq('track', 'StartTrial', {value: '0.00', currency: 'EUR', predicted_ltv: '0.00'});
-          }
           setTimeout(function() {
             window.location.href = 'https://t.me/DasGermanbot?start=payment_success';
           }, 200);
