@@ -7558,5 +7558,57 @@
         "description": "Kindergarten, doppelganger, wanderlust, pretzel - shunchalik keng tarqalgan sozlar ki, nemis ekanligingiz unutdingiz."
       }
     }
+  },
+  {
+    "slug": "why-german-sounds-angry",
+    "date": "2026-05-13",
+    "tags": [
+      "pronunciation",
+      "culture",
+      "myths",
+      "fun"
+    ],
+    "langs": {
+      "en": {
+        "title": "Why German Sounds Angry (But Actually Isn't)",
+        "description": "Everyone says German sounds aggressive and angry. Here's why it's completely wrong — and what's really behind the angry language myth."
+      },
+      "ru": {
+        "title": "Почему немецкий звучит злым (но на самом деле нет)",
+        "description": "Все говорят, что немецкий звучит агрессивно и зло. Вот почему это совершенно неправильно — и что на самом деле стоит за мифом о злом языке."
+      },
+      "uk": {
+        "title": "Чому німецька звучить злою (але насправді ні)",
+        "description": "Усі кажуть, що німецька звучить агресивно. Ось чому це зовсім не так — і що насправді стоїть за міфом про злу мову."
+      },
+      "sk": {
+        "title": "Preco nemcina znie nahnevana (ale nie je)",
+        "description": "Kazdy hovori, ze nemcina znie agresivne. Tu je dovod, preco to nie je pravda — a co je naozaj za mythom o nahnevanej reci."
+      },
+      "tr": {
+        "title": "Almanca Neden Kizgin Duruyor (Ama Aslinda Degil)",
+        "description": "Herkes Almanca agresif ve kizgin duruyor der. Iste bunun neden tamamen yanlis oldugu — ve kizgin dil efsanesinin gercek nedeni."
+      },
+      "ro": {
+        "title": "De ce germana suna suparata (dar nu este)",
+        "description": "Toata lumea spune ca germana suna agresiv. Iata de ce este complet gresit — si ce se ascunde in spatele mitului limbii suparate."
+      },
+      "fa": {
+        "title": "چرا آلمانی عصبی به نظر میرسه (ولی واقعاً نیست)",
+        "description": "همه میگن آلمانی تهاجمی و عصبی به نظر میرسه. اینجا میگیم چرا این کاملاً اشتباهه — و پشت افسانه زبان عصبی واقعاً چیه."
+      },
+      "ar": {
+        "title": "لماذا تبدو الألمانية غاضبة (ولكنها ليست كذلك)",
+        "description": "الجميع يقول أن الألمانية تبدو عدوانية وغاضبة. إليك لماذا هذا خطأ تماماً — وما هو السبب الحقيقي وراء أسطورة اللغة الغاضبة."
+      },
+      "es": {
+        "title": "Por que el aleman suena enojado (pero no lo es)",
+        "description": "Todos dicen que el aleman suena agresivo. Aqui te explico por que estan equivocados — y que hay detras del mito del idioma enojado."
+      },
+      "uz": {
+        "title": "Nemis tili nega gazablangandek tuyuladi (aslida esa yoq)",
+        "description": "Hamma nemis tilini tajovuzkor va gazablangandek deydi. Bu mutlaqo notogri ekanligining sababi — va gazablangan til afsonasining haqiqiy sababi."
+      }
+    }
   }
 ]
