@@ -7714,5 +7714,57 @@
         "description": "Nemislar faqat sozlar bilan emas, balki imolar bilan ham muloqot qiladi. Boshni biroz egish, otkir nafas, peshanaga urish — har bir ishara mano kasb etadi."
       }
     }
+  },
+  {
+    "slug": "german-mistakes-foreigners-make",
+    "date": "2026-05-14",
+    "tags": [
+      "mistakes",
+      "grammar",
+      "tips",
+      "intermediate"
+    ],
+    "langs": {
+      "en": {
+        "title": "15 German Mistakes That Instantly Give You Away as a Foreigner",
+        "description": "Germans have unwritten rules for everything. Birthday wishes before the day? Bad luck. Crossing on red? Social crime. Learn the etiquette rules that catch foreigners off guard."
+      },
+      "ru": {
+        "title": "15 nemeckih oshibok, kotorye srazu vydayut vas kak inostranca",
+        "description": "Nemtsy zametayut eti oshibki mgnovenno. Ich bin kalt, Kennen vs Wissen, zabytyi glagol v kontse — 15 oshibok i ih ispravleniya."
+      },
+      "uk": {
+        "title": "15 nimeckyh pomilok, yaki odrazu vydayut vas yak inozemcya",
+        "description": "Nimeci pomichayut ci pomilki mittievo. Ich bin kalt, Kennen vs Wissen, zabute dieslovo v kinci — 15 pomilok ta ih vypravlennya."
+      },
+      "sk": {
+        "title": "15 nemeckych chyb, ktore hned odhalia ze ste cudzinec",
+        "description": "Nemci si tychto chyb vsimnu okamzite. Ich bin kalt, Kennen vs Wissen, zabudnute sloveso na konci — 15 chyb a ich opravy."
+      },
+      "tr": {
+        "title": "Sizi Aninda Yabanci Olarak Ele Veren 15 Almanca Hata",
+        "description": "Almanlar bu hatalari aninda fark eder. Ich bin kalt, Kennen vs Wissen, sondaki unutulmus fiil — 15 hata ve cozumleri."
+      },
+      "ro": {
+        "title": "15 greseli de germana care te dau de gol ca strain",
+        "description": "Germanii observa aceste greseli instantaneu. Ich bin kalt, Kennen vs Wissen, verbul uitat la sfarsit — 15 greseli si corecturile lor."
+      },
+      "fa": {
+        "title": "15 eshtebah Almani ke foran shomaro be onvane khareji lo midahad",
+        "description": "Almaniyha in eshtebaharo foran motevajeh mishan. Ich bin kalt, Kennen vs Wissen — 15 eshtebah va islahashun."
+      },
+      "ar": {
+        "title": "15 khata almaniyat takshifuk kaajnabi fawran",
+        "description": "Al-alam yalahizun hatihai alkhataa fawran. Ich bin kalt, Kennen vs Wissen — 15 khata wakayfa tushlihha."
+      },
+      "es": {
+        "title": "15 errores de aleman que te delatan como extranjero al instante",
+        "description": "Los alemanes notan estos errores inmediatamente. Ich bin kalt, Kennen vs Wissen, el verbo olvidado — 15 errores y sus correcciones."
+      },
+      "uz": {
+        "title": "Sizni darhol chet ellik sifatida tanituvchi 15 ta nemis xatosi",
+        "description": "Nemislar bu xatolarni zatto payqaydi. Ich bin kalt, Kennen vs Wissen, oxrida fe/l unutish — 15 xato va ularni tuzatish."
+      }
+    }
   }
 ]
