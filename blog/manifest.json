@@ -7662,5 +7662,57 @@
         "description": "Nemislarning hamma narsa uchun yozilmagan qoidalari bor. Tugilgan kunni oldindan tabriklash? Baxtsizlik."
       }
     }
+  },
+  {
+    "slug": "german-gestures-body-language",
+    "date": "2026-05-14",
+    "tags": [
+      "culture",
+      "gestures",
+      "communication",
+      "intermediate"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Gestures and Body Language: What They Really Mean",
+        "description": "Germans communicate with more than words. A slight nod, a sharp inhale, tapping your forehead — every gesture has a meaning. Learn what German body language is actually saying."
+      },
+      "ru": {
+        "title": "Nemeckie zhesty i yazyk tela: chto oni na samom dele znachat",
+        "description": "Nemtsy obschayutsya ne tolko slovami. Lyogkiy kivok, rezkiy vdoh, postukivanie po lbu — kajdyi zhest imeet znachenie."
+      },
+      "uk": {
+        "title": "Nimecki zhesti i mova tila: scho vono na spravdi znachat",
+        "description": "Nimeci spilkuyutsya ne lishe slovami. Legkiy kivok, rizkiy vdih, postukuvannya po lobi — kozhen zhest maye znachennya."
+      },
+      "sk": {
+        "title": "Nemecke gesta a rec tela: co skutocne znamenaju",
+        "description": "Nemci nekomunikuju len slovami. Maly prikivenie, ostry nadych, poklepanie na celu — kazde gesto ma vyznam."
+      },
+      "tr": {
+        "title": "Alman Jester ve Beden Dili: Gercekte Ne Anlama Geliyor",
+        "description": "Almanlar sadece kelimelerle iletisim kurmaz. Hafif bir bas sallama, keskin bir nefes, alna dokunma — her jestin bir anlami var."
+      },
+      "ro": {
+        "title": "Gesturi si limbajul corpului in Germania: ce inseamna de fapt",
+        "description": "Germanii comunica cu mai mult decat cuvinte. Un usor dat din cap, o respiratie ascutita, o atingere a fruntii — fiecare gest are un sens."
+      },
+      "fa": {
+        "title": "Zhest-ha va zaban-e badan Almani: vaghean che mani midan",
+        "description": "Almaniyha faqat ba kalame harf nemizanan. Yek tik koochak sar, yek nafas tond, zarbe be pishooni — har zhest mani darad."
+      },
+      "ar": {
+        "title": "Al-iimaat wa lughat al-jasad al-almaniyat: ma taanihi haqiqan",
+        "description": "Al-alman yatawasaluna biakthar min al-kalimat. Hazzat ras khafifat, nafas hadd, tarq ala al-jabha — kull iimaat laha manan."
+      },
+      "es": {
+        "title": "Gestos y lenguaje corporal aleman: lo que realmente significan",
+        "description": "Los alemanes se comunican con mas que palabras. Un leve asentimiento, una inhalacion brusca, un golpe en la frente — cada gesto tiene un significado."
+      },
+      "uz": {
+        "title": "Nemis jismoniy tili va imolar: ular haqiqatan nimani bildiradi",
+        "description": "Nemislar faqat sozlar bilan emas, balki imolar bilan ham muloqot qiladi. Boshni biroz egish, otkir nafas, peshanaga urish — har bir ishara mano kasb etadi."
+      }
+    }
   }
 ]
