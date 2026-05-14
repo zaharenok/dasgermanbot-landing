@@ -813,12 +813,13 @@
       loader.style.display = 'none';
 
       try {
-        const res = await fetch('manifest.json');
+        const res = await fetch('manifest.json?' + Date.now());
         allArticles = await res.json();
         allArticles = allArticles.map(a => { a.langs = a.langs || a.languages || {}; return a; });
+        // Filter: only show articles that have content in the selected language
+        allArticles = allArticles.filter(a => a.langs && a.langs[lang]);
         // Reverse so newest article (last in manifest.json) appears first
-        allArticles = allArticles.filter(a => a.langs && (a.langs[lang] || Object.keys(a.langs).length > 0)).reverse();
-        allArticles = allArticles.filter(a => a.langs && (a.langs[lang] || Object.keys(a.langs).length > 0));
+        allArticles = allArticles.reverse();
         displayedCount = 0;
 
         if (allArticles.length === 0) { empty.style.display = 'block'; return; }
