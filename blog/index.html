@@ -797,7 +797,6 @@
         <div class="article-card__desc">${t.description}</div>
         <div class="article-card__bottom">
           ${article.tags && article.tags.length ? `<div class="article-card__tags">${article.tags.map(t => `<span class="article-card__tag">${t}</span>`).join('')}</div>` : '<div></div>'}
-          ${renderLangDots(article.langs, lang)}
         </div>
       </a>`;
     }
