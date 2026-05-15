@@ -8026,5 +8026,57 @@
         "description": "Xuddi shu nemis tili chegarani kesib o'tganda ma'nosini o'zgartiradi."
       }
     }
+  },
+  {
+    "slug": "german-insults-sound-cute",
+    "date": "2026-05-15",
+    "tags": [
+      "vocabulary",
+      "humor",
+      "intermediate",
+      "culture"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Insults That Sound Adorable (But Are Actually Brutal)",
+        "description": "Dummkopf, Warmduscher, Weichei - German insults sound like pet names or dessert recipes. Learn the cute words Germans use to destroy your confidence."
+      },
+      "ru": {
+        "title": "Немецкие оскорбления, которые звучат мило (но на самом деле жёсткие)",
+        "description": "Dummkopf, Warmduscher, Weichei - немецкие оскорбления звучат как ласковые прозвища или рецепты десертов."
+      },
+      "uk": {
+        "title": "Нiмецькi образи, якi звучать мило (але насправдi жорстокi)",
+        "description": "Dummkopf, Warmduscher, Weichei - нiмецькi образи звучать як ласкавi прiзвиська або рецепти десертiв."
+      },
+      "sk": {
+        "title": "Nemecke urazky, ktore zneju mile (ale su vlastne brutalne)",
+        "description": "Dummkopf, Warmduscher, Weichei - nemecke urazky zneju ako laskave prezivka alebo recepty na dezerty."
+      },
+      "tr": {
+        "title": "Tatli gelen ama aslinda acimasiz olan 10 Almanca hakaret",
+        "description": "Dummkopf, Warmduscher, Weichei - Almanca hakaretler sevimli lakaplar veya tatli tarifleri gibi duyuluyor."
+      },
+      "ro": {
+        "title": "Insulte germane care suna adorabil (dar sunt de fapt brutale)",
+        "description": "Dummkopf, Warmduscher, Weichei - insultele germane suna ca porecle afectoase sau retete de desert."
+      },
+      "fa": {
+        "title": "توهین‌های آلمانی که بامزه شنیده میشن (ولی وحشتناکن)",
+        "description": "Dummkopf, Warmduscher, Weichei - توهین‌های آلمانی مثل اسم‌های عزیز یا دستور پخت دسر شنیده میشن."
+      },
+      "ar": {
+        "title": "شتائم المانية تبدو لطيفة (لكنها وحشية فعليا)",
+        "description": "Dummkopf, Warmduscher, Weichei - الشتائم الالمانية تبدو كاسماء دلع او وصفات حلويات."
+      },
+      "es": {
+        "title": "Insultos alemanes que suenan adorables (pero son brutales)",
+        "description": "Dummkopf, Warmduscher, Weichei - los insultos alemanes suenan como apodos carinosos o recetas de postre."
+      },
+      "uz": {
+        "title": "Mulo eshitiladigan lekin haqiqatda qo'rqinchli bo'lgan nemis haqoratlari",
+        "description": "Dummkopf, Warmduscher, Weichei - nemis haqoratlari mehrdur laqablar yoki desert retseptlaridek eshitiladi."
+      }
+    }
   }
 ]
