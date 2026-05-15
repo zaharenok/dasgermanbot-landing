@@ -1790,5 +1790,30 @@
       <button class="cookie-banner__btn cookie-banner__btn--accept" id="cookie-accept" data-i18n="cookie_accept">Accept</button>
     </div>
   </div>
+
+  <!-- Capture fbclid from Meta ads and pass to bot -->
+  <script>
+  (function() {
+    function getFbclid() {
+      var urlParams = new URLSearchParams(window.location.search);
+      var fbclid = urlParams.get('fbclid');
+      if (fbclid) return fbclid;
+      var match = document.cookie.match(/_fbc=([^;]+)/);
+      if (match) {
+        var parts = decodeURIComponent(match[1]).split('.');
+        return parts[parts.length - 1];
+      }
+      return null;
+    }
+    var fbclid = getFbclid();
+    if (fbclid) {
+      document.querySelectorAll('a[href*="t.me/dasgermanbot"]').forEach(function(link) {
+        var url = new URL(link.href);
+        url.searchParams.set('start', 'fbclid_' + fbclid);
+        link.href = url.toString();
+      });
+    }
+  })();
+  </script>
 </body>
 </html>
