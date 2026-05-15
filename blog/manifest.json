@@ -7922,5 +7922,57 @@
         "description": "Schadenfreude, Fernweh, Verschlimmbessern — nemis tilida boshqa tillarda butun paragraflarni talab qiladigan hissiyotlar va holatlar uchun so'zlar bor."
       }
     }
+  },
+  {
+    "slug": "german-phrases-sound-native",
+    "date": "2026-05-15",
+    "tags": [
+      "speaking",
+      "fluency",
+      "intermediate",
+      "tips"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Phrases That Instantly Make You Sound Like a Native",
+        "description": "Na ja, eben, halt, doch — these tiny words separate textbook German from real German. Learn the phrases that make natives think you grew up in Berlin."
+      },
+      "ru": {
+        "title": "Немецкие фразы, которые сразу делают вас похожим на носителя",
+        "description": "Na ja, eben, halt, doch — эти мелкие слова отделяют учебный немецкий от настоящего. Выучи фразы, после которых немцы думают, что ты вырос в Берлине."
+      },
+      "uk": {
+        "title": "Німецькі фрази, які одразу роблять вас схожим на носія",
+        "description": "Na ja, eben, halt, doch — ці дрібні слова відокремлюють підручникову німецьку від справжньої. Вивчи фрази, після яких німці думають, що ти виріс у Берліні."
+      },
+      "sk": {
+        "title": "Nemecke frazy, po ktorych nemecky na teba hned pozna ze si rodak",
+        "description": "Na ja, eben, halt, doch — tieto male slova odovzdzuju skolsku nemcinu od skutocnej. Naucci sa frazy, po ktorych si nemecky mysli ze si vyrastol v Berline."
+      },
+      "tr": {
+        "title": "Almanyayi ana dilinmis gibi konustugunu gosteren 10 Almanca ifade",
+        "description": "Na ja, eben, halt, doch — bu kucuk kelimeler ders kitabi Almancasini gercek Almancadan ayirir. Almanlarin seni Berlinde buyumus sanacagi ifadeleri ogren."
+      },
+      "ro": {
+        "title": "Expresii germane care te fac sa sune ca un vorbitor nativ",
+        "description": "Na ja, eben, halt, doch — aceste cuvinte mici separa germana din manual de germana reala. Invata frazele care il fac pe un german sa creada ca ai crescut la Berlin."
+      },
+      "fa": {
+        "title": "۱۰ عبارت آلمانی که بلافاصله صداتو شبیه یه نیتیو میکنه",
+        "description": "Na ja, eben, halt, doch — این کلمات کوچیک آلمانی کتابی رو از آلمانی واقعی جدا میکنن. عباراتی که آلمانا فکر میکنن تو برلین بزرگ شدی."
+      },
+      "ar": {
+        "title": "عبارات المانية تجعلك تبوي فورا كانك متحدث اصلي",
+        "description": "Na ja, eben, halt, doch — هذه الكلمات الصغيرة تفصل الالمانية المدرسية عن الالمانية الحقيقية. تعلم العبارات التي تجعل الالمان يظنون انك نشات في برلين."
+      },
+      "es": {
+        "title": "Frases alemanas que te hacen sonar como un nativo al instante",
+        "description": "Na ja, eben, halt, doch — estas pequenas palabras separan el aleman de libro del aleman real. Aprende las frases que hacen que los alemanes crean que creciste en Berlin."
+      },
+      "uz": {
+        "title": "Sizni darhol ona tili so'zlovchisiga o'xshatadigan nemischa iboralar",
+        "description": "Na ja, eben, halt, doch — bu kichik so'zar darslik nemis tilini haqiqiy nemis tilidan ajratib turadi. Nemislarni Berlin'da o'sgandek o'ylashga majbur qiladigan iboralarni o'rganing."
+      }
+    }
   }
 ]
