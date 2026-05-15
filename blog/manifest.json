@@ -7870,5 +7870,57 @@
         "description": "Toi toi toi, qizilni tegish, erta tabriklash yoq. Nemislar xurofiy etiqodlarni oylagandan ham jiddiyroq qabul qiladi."
       }
     }
+  },
+  {
+    "slug": "german-words-one-word-concepts",
+    "date": "2026-05-15",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "intermediate",
+      "fun"
+    ],
+    "langs": {
+      "en": {
+        "title": "12 German Words That Need Entire Sentences in Other Languages",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — German has words for emotions and situations that in other languages require whole paragraphs."
+      },
+      "ru": {
+        "title": "12 немецких слов, для которых в других языках нужны целые предложения",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — в немецком есть слова для эмоций и ситуаций, которым в других языках посвящают целые абзацы."
+      },
+      "uk": {
+        "title": "12 німецьких слів, для яких в інших мовах потрібні цілі речення",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — у німецькій мові є слова для емоцій та ситуацій, які в інших мовах вимагають цілих абзаців."
+      },
+      "sk": {
+        "title": "12 nemeckych slov, ktore v inych jazykoch potrebuju cele vety",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — nemcina ma slova pre emocio a situacie, ktore v inych jazykoch vyzaduju cele odstavce."
+      },
+      "tr": {
+        "title": "Diger dillerde tam cumlelere ihtiyac duyan 12 Almanca kelime",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — Almancada diger dillerde tam paragraflar gerektiren duygular ve durumlar icin kelimeler var."
+      },
+      "ro": {
+        "title": "12 cuvinte germane care au nevoie de propozitii intregi in alte limbi",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — germana are cuvinte pentru sentimente si situatii care in alte limbi necesita paragrafe intregi."
+      },
+      "fa": {
+        "title": "۱۲ کلمه آلمانی که تو زبانای دیگه براش جمله کامل لازمه",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — آلمانی کلماتی داره برای احساسات و موقعیتایی که تو زبانای دیگه پاراگراف‌ها طول میکشه."
+      },
+      "ar": {
+        "title": "12 كلمة المانية تحتاج جمل كاملة في لغات اخرى",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — الالمانية لها كلمات لمشاعر ومواقف تحتاج فقرات كاملة في لغات اخرى."
+      },
+      "es": {
+        "title": "12 palabras alemanas que necesitan oraciones enteras en otros idiomas",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — el aleman tiene palabras para sentimientos y situaciones que en otros idiomas requieren parrafos enteros."
+      },
+      "uz": {
+        "title": "Boshqa tillarda butun gaplarni talab qiladigan 12 ta nemis so'zi",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — nemis tilida boshqa tillarda butun paragraflarni talab qiladigan hissiyotlar va holatlar uchun so'zlar bor."
+      }
+    }
   }
 ]
