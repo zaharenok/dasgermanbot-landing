@@ -8078,5 +8078,57 @@
         "description": "Dummkopf, Warmduscher, Weichei - nemis haqoratlari mehrdur laqablar yoki desert retseptlaridek eshitiladi."
       }
     }
+  },
+  {
+    "slug": "german-words-germans-cant-agree-on",
+    "date": "2026-05-16",
+    "tags": [
+      "pronunciation",
+      "culture",
+      "intermediate",
+      "funny"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words Germans Cant Agree On (And the Battles Are Vicious)",
+        "description": "Der, die or das Nutella? Germans fight wars over these words. Learn the pronunciation debates that divide the entire country."
+      },
+      "ru": {
+        "title": "Немецкие слова, по которым немцы не могут договориться",
+        "description": "Der, die или das Nutella? Немцы ведут войны из-за этих слов. Узнай о произносительных спорах, которые делят страну."
+      },
+      "uk": {
+        "title": "Нiмецькi слова, за якими нiмцi не можуть домовитися",
+        "description": "Der, die чи das Nutella? Нiмцi ведуть вiйни через цi слова. Дiзнайся про вимовнi суперечки, якi подiляють краïну."
+      },
+      "sk": {
+        "title": "Nemecke slova, na ktorych sa nemecci nevedia dohodnut",
+        "description": "Der, die alebo das Nutella? Nemecci vedu vojny kvoli tymto slovam. Objav vyslovnostne spory, ktore rozdeluju krajinu."
+      },
+      "tr": {
+        "title": "Almanlarin anlasamadigi Almanca kelimeler",
+        "description": "Der, die veya das Nutella? Almanlar bu kelimeler icin savasiyor. Ulkeyi bolen telaffuz tartismalarini kesfet."
+      },
+      "ro": {
+        "title": "Cuvinte germane pe care germanii nu se pot pune de acord",
+        "description": "Der, die sau das Nutella? Germanii duc razboaie pentru aceste cuvinte. Descopera dezbaterile de pronuntie care divid tara."
+      },
+      "fa": {
+        "title": "كلمات آلمانی که آلمانا روشون توافق ندارن",
+        "description": "Der، die یا das Nutella؟ آلمانا به خاطر این کلمات جنگ میکنن."
+      },
+      "ar": {
+        "title": "كلمات المانية لا يستطيع الالمان الاتفاق عليها",
+        "description": "Der او die او das Nutella؟ الالمان يخوضون حروبا بسبب هذه الكلمات."
+      },
+      "es": {
+        "title": "Palabras alemanas en las que los alemanes no pueden ponerse de acuerdo",
+        "description": "Der, die o das Nutella? Los alemanes libran guerras por estas palabras."
+      },
+      "uz": {
+        "title": "Nemislar o'rtasida kelishuv bo'lmaydigan nemis so'zlari",
+        "description": "Der, die yoki das Nutella? Nemislar bu so'zlar uchun urush olib borishmoqda."
+      }
+    }
   }
 ]
