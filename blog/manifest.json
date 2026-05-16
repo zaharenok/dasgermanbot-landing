@@ -8234,5 +8234,57 @@
         "description": "Das ist doch Unsinn, Mir egal, Punkt — nemislar munozaralarni tugatish uchun ishlatadigan iboralar."
       }
     }
+  },
+  {
+    "slug": "german-animal-sounds",
+    "date": "2026-05-16",
+    "tags": [
+      "vocabulary",
+      "funny",
+      "beginners",
+      "pronunciation"
+    ],
+    "langs": {
+      "en": {
+        "title": "What German Dogs Say (And Other Animal Sounds Youve Been Getting Wrong)",
+        "description": "Wau wau, miau, muh — German animals make completely different sounds. Learn the onomatopoeia that confuses every foreigner."
+      },
+      "ru": {
+        "title": "Что говорят немецкие собаки и другие звуки животных",
+        "description": "Wau wau, miau, muh — немецкие животные издают совершенно другие звуки."
+      },
+      "uk": {
+        "title": "Що кажуть німецькі собаки та інші звуки тварин",
+        "description": "Wau wau, miau, muh — німецькі тварини видають зовсім інші звуки."
+      },
+      "sk": {
+        "title": "Co hovoria nemecki psi a dalsie zvuky zvierat",
+        "description": "Wau wau, miau, muh — nemecke zvierata vydavaju uplne ine zvuky."
+      },
+      "tr": {
+        "title": "Alman kopekleri ne soyler ve diger hayvan sesleri",
+        "description": "Wau wau, miau, muh — Alman hayvanlar tamamen farkli sesler cikarir."
+      },
+      "ro": {
+        "title": "Ce spun cainii germani si alte sunete de animale",
+        "description": "Wau wau, miau, muh — animalele germane fac sunete complet diferite."
+      },
+      "fa": {
+        "title": "سگ‌های آلمانی چی میگن و بقیه صداهای حیوانات",
+        "description": "Wau wau, miau, muh — حیوانات آلمانی صداهای کاملاً متفاوتی تولید میکنن."
+      },
+      "ar": {
+        "title": "ماذا تقول الكلاب الالمانية واصوات حيوانات اخرى",
+        "description": "Wau wau, miau, muh — الحيوانات الالمانية تصدر اصواتا مختلفة تماما."
+      },
+      "es": {
+        "title": "Lo que dicen los perros alemanes y otros sonidos animales",
+        "description": "Wau wau, miau, muh — los animales alemanes hacen sonidos completamente diferentes."
+      },
+      "uz": {
+        "title": "Nemis itlari nima deydi va boshqa hayvon ovozlari",
+        "description": "Wau wau, miau, muh — nemis hayvonlari butunlay boshqa ovozlar chiqaradi."
+      }
+    }
   }
 ]
