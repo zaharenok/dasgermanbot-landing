@@ -8182,5 +8182,57 @@
         "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Germaniyada hech qaerda uchramaydigan tushunchalar va tizimlar bor."
       }
     }
+  },
+  {
+    "slug": "german-how-to-win-argument",
+    "date": "2026-05-16",
+    "tags": [
+      "speaking",
+      "phrases",
+      "intermediate",
+      "culture"
+    ],
+    "langs": {
+      "en": {
+        "title": "How to Win Any Argument in German (Phrases That End Debates)",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — learn the phrases Germans use to shut down arguments and end discussions with surgical precision."
+      },
+      "ru": {
+        "title": "Как выиграть любой спор по-немецки",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — фразы, которыми немцы закрывают споры и заканчивают дискуссии."
+      },
+      "uk": {
+        "title": "Як виграти будь-яку суперечку німецькою",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — фрази, якими німці завершують суперечки."
+      },
+      "sk": {
+        "title": "Ako vyhrat hocijaku hadku po nemecky",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — frazy ktore nemecci pouzivaju na ukoncenie diskusii."
+      },
+      "tr": {
+        "title": "Almancada herhangi bir tartismayi nasil kazanilir",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — Almanlarin tartismalari bitirmek icin kullandigi ifadeler."
+      },
+      "ro": {
+        "title": "Cum sa castici orice cearta in germana",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — frazele pe care germanii le folosesc pentru a termina discutiile."
+      },
+      "fa": {
+        "title": "چطور هر بحثی رو تو آلمانی ببری",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — جمله‌هایی که آلمانا بحثو تموم میکنن."
+      },
+      "ar": {
+        "title": "كيف تفوز باي جدال بالالمانية",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — عبارات ينهي بها الالمان الجدالات."
+      },
+      "es": {
+        "title": "Como ganar cualquier discusion en aleman",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — frases que los alemanes usan para terminar debates."
+      },
+      "uz": {
+        "title": "Nemis tilida istalgan bahsni qanday yutish mumkin",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — nemislar munozaralarni tugatish uchun ishlatadigan iboralar."
+      }
+    }
   }
 ]
