@@ -8130,5 +8130,57 @@
         "description": "Der, die yoki das Nutella? Nemislar bu so'zlar uchun urush olib borishmoqda."
       }
     }
+  },
+  {
+    "slug": "german-things-only-germany-has",
+    "date": "2026-05-16",
+    "tags": [
+      "culture",
+      "moving",
+      "intermediate",
+      "essential"
+    ],
+    "langs": {
+      "en": {
+        "title": "Things That Only Exist in Germany (And Have No Name in English)",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Germany has concepts and systems that dont exist anywhere else. Learn what they are before you move."
+      },
+      "ru": {
+        "title": "Вещи, которые существуют только в Германии",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — в Германии есть системы и концепции, которых больше нигде нет."
+      },
+      "uk": {
+        "title": "Речі, які існують тільки у Німеччині",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — у Німеччині є концепції та системи, яких більше немає."
+      },
+      "sk": {
+        "title": "Veci ktore existuju len v Nemecku",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Nemecko ma koncepcie a systemy ktore nikde inde neexistuju."
+      },
+      "tr": {
+        "title": "Sadece Almanyada var olan seyler",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Almanyanin sistemleri ve kavramlari dunyada benzersiz."
+      },
+      "ro": {
+        "title": "Lucruri care exista doar in Germania",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Germania are conceptii si sisteme care nu exista nicaieri."
+      },
+      "fa": {
+        "title": "چیزایی که فقط تو آلمان وجود دارن",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — آلمان مفاهیم و سیستم‌هایی داره که هیچ جای دیگه نیست."
+      },
+      "ar": {
+        "title": "اشياء لا توجد الا في المانيا",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — المانيا لديها مفاهيم وانظمة لا توجد في اي مكان اخر."
+      },
+      "es": {
+        "title": "Cosas que solo existen en Alemania",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Alemania tiene conceptos y sistemas que no existen en ningun otro lugar."
+      },
+      "uz": {
+        "title": "Faqat Germaniyada mavjud bo'lgan narsalar",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Germaniyada hech qaerda uchramaydigan tushunchalar va tizimlar bor."
+      }
+    }
   }
 ]
