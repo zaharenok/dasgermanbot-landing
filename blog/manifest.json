@@ -8286,5 +8286,57 @@
         "description": "Wau wau, miau, muh — nemis hayvonlari butunlay boshqa ovozlar chiqaradi."
       }
     }
+  },
+  {
+    "slug": "german-boss-texts-decoded",
+    "date": "2026-05-17",
+    "tags": [
+      "work",
+      "phrases",
+      "intermediate",
+      "culture"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Texts From Your Boss: What They Say vs What They Mean",
+        "description": "Wir mussen reden, Das haben wir schon immer so gemacht — decode the passive-aggressive corporate German your boss actually sends."
+      },
+      "ru": {
+        "title": "Сообщения от немецкого босса: что он говорит и что на самом деле значит",
+        "description": "Wir mussen reden, Das haben wir schon immer so gemacht — расшифруй пассивно-агрессивный корпоративный немецкий, который реально отправляет босс."
+      },
+      "uk": {
+        "title": "Повідомлення від німецького боса: що він каже і що насправді означає",
+        "description": "Wir mussen reden, Das haben wir schon immer so gemacht — розшифруй пасивно-агресивну корпоративну німецьку, яку реально відправляє бос."
+      },
+      "sk": {
+        "title": "Správy od nemeckého šéfa: čo hovorí a čo to skutočne znamená",
+        "description": "Wir mussen reden, Das haben wir schon immer so gemacht — rozlúštite pasívne-agresívnu korporátnu nemčinu, ktorú vám skutočne posiela šéf."
+      },
+      "tr": {
+        "title": "Alman patronunuzun mesajları: ne diyor ve gerçekte ne anlama geliyor",
+        "description": "Wir mussen reden, Das haben wir schon immer so gemacht — patronunuzun gerçekten gönderdiği pasif-agresif kurumsal Almancayı çözün."
+      },
+      "ro": {
+        "title": "Mesajele de la șeful german: ce spune și ce înseamnă de fapt",
+        "description": "Wir mussen reden, Das haben wir schon immer so gemacht — descifrează germana corporativă pasiv-agresivă pe care șeful tău ți-o trimite cu adevărat."
+      },
+      "fa": {
+        "title": "پیام‌های رئیس آلمانی: چه می‌گوید و واقعاً چه معنایی دارد",
+        "description": "Wir mussen reden, Das haben wir schon immer so gemacht — آلمانی شرکتی منفعل-تهاجمی‌ای که رئیس واقعاً برایتان می‌فرستد را رمزگشایی کنید."
+      },
+      "ar": {
+        "title": "رسائل من رئيسك الألماني: ما يقوله وما يعنيه فعلاً",
+        "description": "Wir mussen reden, Das haben wir schon immer so gemacht — فك شفرة الألمانية المؤسسية السلبية العدوانية التي يرسلها رئيسك بالفعل."
+      },
+      "es": {
+        "title": "Mensajes de tu jefe alemán: lo que dice y lo que realmente significa",
+        "description": "Wir mussen reden, Das haben wir schon immer so gemacht — descifra el alemán corporativo pasivo-agresivo que tu jefe realmente envía."
+      },
+      "uz": {
+        "title": "Nemis bosingizdan xabarlar: nima deydi va haqiqatda nima degani",
+        "description": "Wir mussen reden, Das haben wir schon immer so gemacht — bosingiz haqiqatan yuboradigan passiv-agressiv korporativ nemis tilini shifrlang."
+      }
+    }
   }
 ]
