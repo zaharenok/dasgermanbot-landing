@@ -8442,5 +8442,57 @@
         "description": "Birovning ismini unutdingizmi? Zerikarli suhbatda qoldingizmi? Sie o'rniga Du dedingizmi? Har bir noqulay lahizada sizni qutqaradigan nemischa iboralarni o'rganing."
       }
     }
+  },
+  {
+    "slug": "german-phrases-join-complaints",
+    "date": "2026-05-17",
+    "tags": [
+      "phrases",
+      "culture",
+      "intermediate",
+      "humor"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Phrases You Need When Germans Start Complaining",
+        "description": "Das Wetter ist scheiße, Die Bahn ist wieder zu spät — learn the phrases to join German complaint culture and connect with locals instantly."
+      },
+      "ru": {
+        "title": "Немецкие фразы, которые нужны, когда немцы начинают жаловаться",
+        "description": "Das Wetter ist scheiße, Die Bahn ist wieder zu spät — выучи фразы, чтобы присоединиться к немецкой культуре жалоб."
+      },
+      "uk": {
+        "title": "Німецькі фрази, які потрібні, коли німці починають скаржитись",
+        "description": "Das Wetter ist scheiße, Die Bahn ist wieder zu spät — вивчи фрази, щоб приєднатись до німецької культури скарг."
+      },
+      "sk": {
+        "title": "Nemecké frázy, ktoré potrebujete, keď Nemci začnú sťažovať",
+        "description": "Das Wetter ist scheiße, Die Bahn ist wieder zu spät — naučte sa frázy nemeckej kultúry sťažovania a spojte sa s miestnymi."
+      },
+      "tr": {
+        "title": "Almanlar şikayet etmeye başladığında ihtiyacınız olan Almanca ifadeler",
+        "description": "Das Wetter ist scheiße, Die Bahn ist wieder zu spät — Alman şikayet kültürüne katılmak için ifadeleri öğrenin."
+      },
+      "ro": {
+        "title": "Fraze germane de care ai nevoie când germanii încep să se plângă",
+        "description": "Das Wetter ist scheiße, Die Bahn ist wieder zu spät — învață frazele culturii germane de plâns și conectează-te cu localnicii."
+      },
+      "fa": {
+        "title": "عبارات آلمانی که وقتی آلمانی‌ها شروع به شکایت می‌کنند به آن‌ها نیاز دارید",
+        "description": "Das Wetter ist scheiße, Die Bahn ist wieder zu spät — عبارات فرهنگ شکایت آلمانی را یاد بگیرید."
+      },
+      "ar": {
+        "title": "عبارات ألمانية تحتاجها عندما يبدأ الألمان بالشكوى",
+        "description": "Das Wetter ist scheiße, Die Bahn ist wieder zu spät — تعلم عبارات ثقافة الشكوى الألمانية."
+      },
+      "es": {
+        "title": "Frases alemanas que necesitas cuando los alemanes empiezan a quejarse",
+        "description": "Das Wetter ist scheiße, Die Bahn ist wieder zu spät — aprende las frases de la cultura de quejas alemana."
+      },
+      "uz": {
+        "title": "Nemislar shikoyat qila boshlaganda kerak bo'ladigan nemischa iboralar",
+        "description": "Das Wetter ist scheiße, Die Bahn ist wieder zu spät — nemis shikoyat madaniyatiga qo'shhilish uchun iboralarni o'rganing."
+      }
+    }
   }
 ]
