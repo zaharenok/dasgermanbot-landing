@@ -8390,5 +8390,57 @@
         "description": "Na toll, Ach wirklich, Schon gut — aytganlarining aynan teskarisini anglatuvchi passiv-agressiv nemischa iboralarni o'rganing."
       }
     }
+  },
+  {
+    "slug": "german-escape-awkward-situations",
+    "date": "2026-05-17",
+    "tags": [
+      "phrases",
+      "culture",
+      "intermediate",
+      "humor"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Phrases for Escaping Every Awkward Situation",
+        "description": "Forgot someone's name? Stuck in a boring conversation? Accidentally said Du instead of Sie? Learn the German phrases that will save you from every uncomfortable moment."
+      },
+      "ru": {
+        "title": "Немецкие фразы для выхода из любой неловкой ситуации",
+        "description": "Забыл имя? Застрял в скучном разговоре? Случайно сказал Du вместо Sie? Выучи немецкие фразы, которые спасут тебя в любой неприятный момент."
+      },
+      "uk": {
+        "title": "Німецькі фрази для виходу з будь-якої незручної ситуації",
+        "description": "Забув ім'я? Застряг у нудній розмові? Випадково сказав Du замість Sie? Вивчи німецькі фрази, які врятують тебе в будь-який незручний момент."
+      },
+      "sk": {
+        "title": "Nemecké frázy na únik z akejkoľvek trápnej situácie",
+        "description": "Zabudli ste meno? Uviazli ste v nudnom rozhovore? Povedali ste Du namiesto Sie? Naučte sa nemecké frázy, ktoré vás zachránia v každom nepríjemnom momente."
+      },
+      "tr": {
+        "title": "Her tuhaf durumdan kurtulmanız için Almanca ifadeler",
+        "description": "Birinin adını mı unuttunuz? Sıkıcı bir sohbette mi kaldınız? Yanlışlıkla Sie yerine mi dediniz? Her rahatsız edici anda sizi kurtaracak Almanca ifadeleri öğrenin."
+      },
+      "ro": {
+        "title": "Fraze germane pentru a scăpa din orice situație penibilă",
+        "description": "Ai uitat un nume? Ești prins într-o conversație plictisitoare? Ai spus Du în loc de Sie? Învață frazele germane care te vor salva în orice moment neplăcut."
+      },
+      "fa": {
+        "title": "عبارات آلمانی برای فرار از هر موقعیت ناخوشایند",
+        "description": "نام کسی را فراموش کرده‌اید؟ در مکالمه‌ای خسته‌کننده گیر افتاده‌اید؟ به جای Sie گفته‌اید Du؟ عبارات آلمانی را بیاموزید که در هر لحظه ناخوشایند نجاتتان خواهند داد."
+      },
+      "ar": {
+        "title": "عبارات ألمانية للهروب من كل موقف محرج",
+        "description": "نسيت اسم شخص؟ عالق في محادثة مملة؟ قلت Du بدلاً من Sie بالخطأ؟ تعلم العبارات الألمانية التي ستنقذك في كل لحظة غير مريحة."
+      },
+      "es": {
+        "title": "Frases alemanas para escapar de cualquier situación incómoda",
+        "description": "Olvidaste el nombre de alguien? Atrapado en una conversación aburrida? Dijiste Du en vez de Sie? Aprende las frases alemanas que te salvarán en cada momento incómodo."
+      },
+      "uz": {
+        "title": "Har qanday noqulay vaziyatdan qochish uchun nemischa iboralar",
+        "description": "Birovning ismini unutdingizmi? Zerikarli suhbatda qoldingizmi? Sie o'rniga Du dedingizmi? Har bir noqulay lahizada sizni qutqaradigan nemischa iboralarni o'rganing."
+      }
+    }
   }
 ]
