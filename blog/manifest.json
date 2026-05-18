@@ -8598,5 +8598,57 @@
         "description": "Uni, Kita, Schiri, Promi — har bir mahalliy foydalanadigan lekin hech bir darslik o'rgatmaydigan dangasa nemischa lug'at."
       }
     }
+  },
+  {
+    "slug": "german-things-illegal-feel-normal",
+    "date": "2026-05-18",
+    "tags": [
+      "culture",
+      "laws",
+      "intermediate",
+      "shocking"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Things That Are Illegal But Feel Completely Normal",
+        "description": "Washing your car on Sunday, running out of gas on the Autobahn, flipping someone off — discover the surprisingly illegal things in Germany that catch every foreigner off guard."
+      },
+      "ru": {
+        "title": "Вещи в Германии, которые незаконны, но кажутся абсолютно нормальными",
+        "description": "Мыть машину в воскресенье, кончиться бензин на автобане, показать средний палец — узнай удивительно незаконные вещи в Германии, которые застают каждого иностранца врасплох."
+      },
+      "uk": {
+        "title": "Речі в Німеччині, які незаконні, але здаються абсолютно нормальними",
+        "description": "Мити машину в неділю, закінчитись пальне на автобані, показати середній палець — дізнайся про дивно незаконні речі в Німеччині, які кожного іноземця захоплюють зненацька."
+      },
+      "sk": {
+        "title": "Veci v Nemecku, ktoré sú nezákonné, ale zdajú sa úplne normálne",
+        "description": "Umyť auto v nedeľu, minúť benzín na Autobahne, ukázať prostredník — objavte prekvapivo nezákonné veci v Nemecku, ktoré prekvapia každého cudzinca."
+      },
+      "tr": {
+        "title": "Almanya'da yasadışı ama tamamen normal görünen şeyler",
+        "description": "Pazar gunu araba yikamak, otobanda benzin bitirmek, orta parmak gostermek — her yabanci saskina donduren sasirtici derecede yasadisi Almanya gerceklerini kesfedin."
+      },
+      "ro": {
+        "title": "Lucruri din Germania care sunt ilegale dar par complet normale",
+        "description": "Spalatul masinii duminica, ramasul fara benzina pe Autostrada, aratatul degetului mediu — descopera lucrurile surprinzator ilegale din Germania care ii iau pe straini prin surprindere."
+      },
+      "fa": {
+        "title": "چیزهای آلمانی که غیرقانونی‌اند اما کاملاً عادی به نظر می‌رسند",
+        "description": "شستن ماشین یکشنبه، تمام کردن بنزین در اتوبان، نشان دادن انگشت وسط — کشف چیزهای عجیب غیرقانونی در آلمان که هر خارجی‌ را غافلگیر می‌کند."
+      },
+      "ar": {
+        "title": "أشياء ألمانية غير قانونية لكنها تبدو طبيعية تماماً",
+        "description": "غسل سيارتك يوم الأحد، نفاد البنزين على الأوتوبان، إظهار إصبعك الأوسط — اكتشف الأشياء المفاجئة غير القانونية في ألمانيا."
+      },
+      "es": {
+        "title": "Cosas alemanas que son ilegales pero parecen completamente normales",
+        "description": "Lavar tu coche en domingo, quedarte sin gasolina en la Autopista, mostrar el dedo medio — descubre las cosas sorprendentemente ilegales en Alemania."
+      },
+      "uz": {
+        "title": "Germaniyada noqonuniy lekin butunlay oddiy ko'rinadigan narsalar",
+        "description": "Yakshanba kuni mashinani yuvish, Avtobanda benzin tugab qolishi, o'rta barmoqni ko'rsatish — har bir chet elni hayratda qoldiradigan ajablanarli noqonuniy Germaniya haqiqatlarini kashf eting."
+      }
+    }
   }
 ]
