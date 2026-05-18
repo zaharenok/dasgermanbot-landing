@@ -66,13 +66,18 @@ Blog article pages also track CTA clicks via `trackCTAClick()` — fires `Initia
 
 ## Key URLs
 
-- Telegram bot: `https://t.me/dasgermanbot` — all CTA buttons link here
+- Telegram bot: `https://t.me/dasgermanbot?start=website` — all CTA buttons (fbclid script overwrites to `?start=fbclid_XXX` for ad traffic)
 
 
 ## Development Timeline
 
 ### Recent Commits (Last 10)
 
+- **2cfed82** (2026-05-18): fix: add ?start=website to all bot links + stop fake StartTrial events on thank-you page - index.html, navbar.js, thank-you.html
+- **480754f** (2026-05-17): fix: close missing quote in blog href — was generating blog/%20class=
+- **b4548e1** (2026-05-17): Add blog article: German Things That Are Illegal But Feel Completely Normal (EN/RU/UK/SK/TR/RO/FA/AR/ES/UZ)
+- **8bcc0a8** (2026-05-17): Add blog article: German Lazy Shortened Words (EN/RU/UK/SK/TR/RO/FA/AR/ES/UZ)
+- **a21d90c** (2026-05-16): Add blog article: German Bakery Survival (EN/RU/UK/SK/TR/RO/FA/AR/ES/UZ)
 - **46da3f9** (2026-04-26): Extract navbar into shared navbar.js component - 5-tips-german-beginners.html, article.html, german-animals.html (+39 more)
 - **66aa384** (2026-04-26): Replace language buttons with dropdown on all pages - 5-tips-german-beginners.html, article.html, german-animals.html (+37 more)
 - **f4496f7** (2026-04-26): Unify langs/languages: normalize both property names everywhere - index.html, index.html
