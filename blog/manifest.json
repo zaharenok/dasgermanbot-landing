@@ -8546,5 +8546,57 @@
         "description": "Einmal Schrippe bitte — nemis nonvoyxonalarining yozilmagan qoidalarini ograning, vahimsiz buyurtma berishdan 47 xil Brötchen gacha."
       }
     }
+  },
+  {
+    "slug": "german-lazy-shortened-words",
+    "date": "2026-05-18",
+    "tags": [
+      "vocabulary",
+      "slang",
+      "beginner",
+      "culture"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words That Exist Because Germans Got Too Lazy",
+        "description": "Uni, Kita, Schiri, Promi — learn the lazy German vocabulary that every native uses but no textbook teaches."
+      },
+      "ru": {
+        "title": "Немецкие слова, которые существуют потому что немцам было лень",
+        "description": "Uni, Kita, Schiri, Promi — выучи ленивый немецкий словарь, который используют все, но не учат в учебниках."
+      },
+      "uk": {
+        "title": "Німецькі слова, які існують бо німцям було лінь",
+        "description": "Uni, Kita, Schiri, Promi — вивучи лінивий німецький словник, який використовують усі, але не вчать у підручниках."
+      },
+      "sk": {
+        "title": "Nemecké slová, ktoré existujú, lebo Nemcom bolo lino",
+        "description": "Uni, Kita, Schiri, Promi — naučte sa lenivú nemeckú slovnú zásobu, ktorú každý používa, ale žiadna učebnica neučí."
+      },
+      "tr": {
+        "title": "Almanlar üşendigi icin var olan Almanca kelimeler",
+        "description": "Uni, Kita, Schiri, Promi — her yerlinin kullandigi ama hicbir ders kitabinin ögretmedigi tembel Almanca kelime dagarcigi."
+      },
+      "ro": {
+        "title": "Cuvinte germane care exista pentru ca germanilor le-a fost lene",
+        "description": "Uni, Kita, Schiri, Promi — învață vocabularul leneș german pe care fiecare nativ îl folosește dar niciun manual nu-l predă."
+      },
+      "fa": {
+        "title": "Kalamat Almani ke vojoodashan madion tanbali Almaniha ast",
+        "description": "Uni, Kita, Schiri, Promi — dayereh-alkalbat tanbal Almani ra yad begirid ke har bomi estefade mikonad vali hich ketab darsi amoozesh nadahad."
+      },
+      "ar": {
+        "title": "Kalemat almaniya mojooda li-ann al-alm kanoo kasalan",
+        "description": "Uni, Kita, Schiri, Promi — taallam al-mufaradat al-almaniyyah al-kasoolah allatee yastakhdimoha kol natiq lakin la yoallemoha ay ketab madrasi."
+      },
+      "es": {
+        "title": "Palabras alemanas que existen porque los alemanes eran demasiado vagos",
+        "description": "Uni, Kita, Schiri, Promi — aprende el vocabulario aleman vago que todos usan pero ningun libro de texto ensena."
+      },
+      "uz": {
+        "title": "Nemislar dangasa bolgani uchun mavjud bolgan nemischa sozlar",
+        "description": "Uni, Kita, Schiri, Promi — har bir mahalliy foydalanadigan lekin hech bir darslik o'rgatmaydigan dangasa nemischa lug'at."
+      }
+    }
   }
 ]
