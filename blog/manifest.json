@@ -8494,5 +8494,57 @@
         "description": "Das Wetter ist scheiße, Die Bahn ist wieder zu spät — nemis shikoyat madaniyatiga qo'shhilish uchun iboralarni o'rganing."
       }
     }
+  },
+  {
+    "slug": "german-bakery-survival",
+    "date": "2026-05-18",
+    "tags": [
+      "food",
+      "culture",
+      "beginner",
+      "phrases"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Bakery Survival: What You're Doing Wrong and How to Fix It",
+        "description": "Einmal Schrippe bitte — learn the unwritten rules of German bakeries, from ordering without panicking to understanding 47 types of Brötchen."
+      },
+      "ru": {
+        "title": "Немецкая пекарня: что ты делаешь не так и как это исправить",
+        "description": "Einmal Schrippe bitte — выучи негласные правила немецких пекарен, от заказа без паники до понимания 47 видов Brötchen."
+      },
+      "uk": {
+        "title": "Німецька пекарня: що ти робиш не так і як це виправити",
+        "description": "Einmal Schrippe bitte — вивучи негласні правила німецьких пекарень, від замовлення без паніки до розуміння 47 видів Brötchen."
+      },
+      "sk": {
+        "title": "Nemecká pekáreň: čo robíte zle a ako to opraviť",
+        "description": "Einmal Schrippe bitte — naučte sa nepísané pravidlá nemeckých pekární, od objednávania bez paniky po 47 druhov Brötchen."
+      },
+      "tr": {
+        "title": "Alman fırınında hayatta kalma: Yanlış yaptığınız her şey",
+        "description": "Einmal Schrippe bitte — Alman fırınlarının yazısız kurallarını öğrenin, paniklemeden sipariş vermeden 47 çeşit Brötchen anlamaya kadar."
+      },
+      "ro": {
+        "title": "Brutărie germană: ce faci greșit și cum repari",
+        "description": "Einmal Schrippe bitte — învață regulile nescrise ale brutăriilor germane, de la comandat fără panică la 47 tipuri de Brötchen."
+      },
+      "fa": {
+        "title": "نانوایی آلمانی: اشتباهات شما و نحوه اصلاح آن‌ها",
+        "description": "Einmal Schrippe bitte — قوانین نانوشده نانوایی‌های آلمانی را یاد بگیرید، از سفارش بدون وحشت تا ۴۷ نوع Brötchen."
+      },
+      "ar": {
+        "title": "المخابز الألمانية: ما تفعله خطأ وكيف تصلحه",
+        "description": "Einmal Schrippe bitte — تعلم القواعد غير المكتوبة للمخابز الألمانية، من الطلب بدون هلع إلى 47 نوع Brötchen."
+      },
+      "es": {
+        "title": "Panadería alemana: lo que haces mal y cómo arreglarlo",
+        "description": "Einmal Schrippe bitte — aprende las reglas no escritas de las panaderías alemanas, desde pedir sin pánico hasta entender 47 tipos de Brötchen."
+      },
+      "uz": {
+        "title": "Nemis nonvoyxonasi: nimani notogri qilayapsiz va qanday tuzatish",
+        "description": "Einmal Schrippe bitte — nemis nonvoyxonalarining yozilmagan qoidalarini ograning, vahimsiz buyurtma berishdan 47 xil Brötchen gacha."
+      }
+    }
   }
 ]
