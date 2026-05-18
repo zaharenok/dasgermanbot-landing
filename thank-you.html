@@ -469,10 +469,8 @@
             }
           });
       } else {
-        // No session_id — fire default StartTrial
-        if (typeof fbq !== 'undefined') {
-          fbq('track', 'StartTrial', {value: '0.00', currency: 'EUR', predicted_ltv: '0.00'});
-        }
+        // No session_id — do NOT fire any conversion event
+        // (prevents fake StartTrial from bots/crawlers hitting this page directly)
       }
     })();
 
