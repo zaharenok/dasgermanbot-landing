@@ -38,10 +38,10 @@
   if (isBlog) {
     navLinks = '<div class="navbar__nav">' +
       '<a href="' + rootPath + 'index.html" data-nav="nav_home">' + navTexts[currentLang].nav_home + '</a>' +
-      '<a href="' + blogPath + ' class="active" data-nav="nav_blog">' + navTexts[currentLang].nav_blog + '</a>' +
+      '<a href="' + blogPath + '" class="active" data-nav="nav_blog">' + navTexts[currentLang].nav_blog + '</a>' +
     '</div>';
   } else {
-    navLinks = '<a href="' + blogPath + ' class="navbar__blog-badge">' +
+    navLinks = '<a href="' + blogPath + '" class="navbar__blog-badge">' +
       '<span class="navbar__blog-dot"></span>' +
       '<span data-nav="nav_blog">' + navTexts[currentLang].nav_blog + '</span>' +
     '</a>';
