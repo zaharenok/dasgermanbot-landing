@@ -8754,5 +8754,57 @@
         "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — qo'rqinchli eshitiladigan lekin haqiqatda yaxshilik bildiruvchi nemis iboralari."
       }
     }
+  },
+  {
+    "slug": "german-one-word-responses",
+    "date": "2026-05-20",
+    "tags": [
+      "phrases",
+      "conversation",
+      "intermediate",
+      "practical"
+    ],
+    "langs": {
+      "en": {
+        "title": "German One-Word Responses That Mean Three Paragraphs",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — single German words that carry entire conversations. Learn what they really mean."
+      },
+      "ru": {
+        "title": "Немецкие ответы из одного слова, которые значат три абзаца",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — немецкие слова, заменяющие целые разговоры."
+      },
+      "uk": {
+        "title": "Німецькі відповіді з одного слова, які значать три абзаци",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — німецькі слова, що замінюють цілі розмови."
+      },
+      "sk": {
+        "title": "Nemecké jednoslovné odpovede, ktoré znamenajú tri odstavce",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — nemecké slová, ktoré nahrádzajú celé rozhovory."
+      },
+      "tr": {
+        "title": "Uc paragraf anlamina gelen tek kelimelik Almanca cevaplar",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — tüm konusmalari degistiren tek kelimelik Almanca yanitlar."
+      },
+      "ro": {
+        "title": "Raspunsuri germane dintr-un cuvant care inseamna trei paragrafe",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — cuvinte germane care inlocuiesc conversatii intregi."
+      },
+      "fa": {
+        "title": "پاسخ‌های یک‌کلمه‌ای آلمانی که سه پاراگراف معنا می‌دهند",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — کلمات آلمانی که کل مکالمات را جایگزین می‌کنند."
+      },
+      "ar": {
+        "title": "ردود ألمانية من كلمة واحدة تعني ثلاث فقرات",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — كلمات ألمانية واحدة تحل محل محادثات كاملة."
+      },
+      "es": {
+        "title": "Respuestas alemanas de una palabra que significan tres parrafos",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — palabras alemanas que reemplazan conversaciones enteras."
+      },
+      "uz": {
+        "title": "Uch xatboshi ma'nosini bildiradigan bitta so'zli nemis javoblari",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — butun suhbatlarni almashtiradigan bitta so'zli nemis javoblari."
+      }
+    }
   }
 ]
