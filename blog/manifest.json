@@ -8702,5 +8702,57 @@
         "description": "Gift — zahar, Brief — xat, Mist — axlat — ingliz tilida so'zlashuvchilarni aks ma'noni aytishga majbur qiluvchi nemis so'zlari."
       }
     }
+  },
+  {
+    "slug": "german-phrases-sound-like-threats",
+    "date": "2026-05-20",
+    "tags": [
+      "phrases",
+      "culture",
+      "intermediate",
+      "funny"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Phrases That Sound Like Threats But Are Actually Friendly",
+        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — phrases that sound terrifying in German but actually mean someone is being nice to you."
+      },
+      "ru": {
+        "title": "Немецкие фразы, которые звучат как угрозы, но на самом деле дружелюбные",
+        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — фразы, которые звучат пугающе, но означают заботу."
+      },
+      "uk": {
+        "title": "Німецькі фрази, які звучать як загрози, але насправді дружелюбні",
+        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — фрази, які звучать страшенно, але означають турботу."
+      },
+      "sk": {
+        "title": "Nemecké frázy, ktoré znejú ako hrozby, ale sú vlastne priateľské",
+        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — frázy, ktoré znejú hrozivo, ale znamenajú pomoc."
+      },
+      "tr": {
+        "title": "Almanca tehdit gibi gorunen ama aslinda dostane olan ifadeler",
+        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — korkutucu gorunen ama gercekte dostca olan Almanca ifadeler."
+      },
+      "ro": {
+        "title": "Fraze germane care suna ca niste amenintari dar sunt prietenoase",
+        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — fraze care suna infricosator dar inseamna ca cineva e dragut cu tine."
+      },
+      "fa": {
+        "title": "عبارات آلمانی که مثل تهدید به نظر می‌رسند اما واقعاً دوستانه هستند",
+        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — عباراتی که وحشتناک به نظر می‌رسند اما در واقع کسی با شما مهربانی می‌کند."
+      },
+      "ar": {
+        "title": "عبارات ألمانية تبدو كتهديدات لكنها في الواقع ودية",
+        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — عبارات تبدو مرعبة لكنها في الواقع تعني أن شخصاً يطيب لك."
+      },
+      "es": {
+        "title": "Frases alemanas que suenan como amenazas pero son amistosas",
+        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — frases que suenan aterradoras pero significan que alguien es amable contigo."
+      },
+      "uz": {
+        "title": "Tahdiddek eshitiladigan lekin haqiqatda dostona bo'lgan nemis iboralari",
+        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — qo'rqinchli eshitiladigan lekin haqiqatda yaxshilik bildiruvchi nemis iboralari."
+      }
+    }
   }
 ]
