@@ -8650,5 +8650,57 @@
         "description": "Yakshanba kuni mashinani yuvish, Avtobanda benzin tugab qolishi, o'rta barmoqni ko'rsatish — har bir chet elni hayratda qoldiradigan ajablanarli noqonuniy Germaniya haqiqatlarini kashf eting."
       }
     }
+  },
+  {
+    "slug": "german-words-opposite-meaning",
+    "date": "2026-05-20",
+    "tags": [
+      "vocabulary",
+      "false friends",
+      "beginner",
+      "funny"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words That Mean the Opposite of What They Sound",
+        "description": "Gift is poison, Brief is a letter, Mist is crap — German words that trick English speakers into saying the exact opposite of what they mean."
+      },
+      "ru": {
+        "title": "Немецкие слова, которые значат противоположное тому, что звучат",
+        "description": "Gift — это яд, Brief — письмо, Mist — дрянь — немецкие слова, которые заставляют англоговорящих говорить прямо противоположное."
+      },
+      "uk": {
+        "title": "Німецькі слова, які означають протилежне тому, що звучать",
+        "description": "Gift — це отрута, Brief — лист, Mist — нісенітниця — німецькі слова, які змушують англомовних казати прямо протилежне."
+      },
+      "sk": {
+        "title": "Nemecké slová, ktoré znamenajú opak toho, ako znejú",
+        "description": "Gift je jed, Brief je list, Mist je hovno — nemecké slová, ktoré oklamu každého anglicky hovoriaceho človeka."
+      },
+      "tr": {
+        "title": "Almanca kelimeler ki tam zıttı anlama geliyor",
+        "description": "Gift zehir, Brief mektup, Mist saçmalık — İngilizce konuşanları tam tersini söylemeye iten Almanca kelimeler."
+      },
+      "ro": {
+        "title": "Cuvinte germane care înseamnă exact opusul a ceea ce sună",
+        "description": "Gift e otravă, Brief e scrisoare, Mist e rahat — cuvinte germane care păcălesc vorbitorii de engleză să spună exact opusul."
+      },
+      "fa": {
+        "title": "کلمات آلمانی که دقیقاً عکس آنچه به نظر می‌رسند معنا می‌دهند",
+        "description": "Gift یعنی سم، Brief یعنی نامه، Mist یعنی مزخرف — کلمات آلمانی که انگلیسی‌زبانان را به گفتن دقیقاً مخالف وامی‌دارند."
+      },
+      "ar": {
+        "title": "كلمات ألمانية تعني عكس ما تبدو عليه",
+        "description": "Gift تعني سم، Brief تعني رسالة، Mist تعني هراء — كلمات ألمانية تخدع الناطقين بالإنجليزية ليقولوا عكس ما يقصدون."
+      },
+      "es": {
+        "title": "Palabras alemanas que significan lo opuesto de lo que suenan",
+        "description": "Gift es veneno, Brief es carta, Mist es basura — palabras alemanas que engañan a los hispanohablantes e ingleses."
+      },
+      "uz": {
+        "title": "Nemis so'zlari ki ovozidan aks ma'noni bildiradi",
+        "description": "Gift — zahar, Brief — xat, Mist — axlat — ingliz tilida so'zlashuvchilarni aks ma'noni aytishga majbur qiluvchi nemis so'zlari."
+      }
+    }
   }
 ]
