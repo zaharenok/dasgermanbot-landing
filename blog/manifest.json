@@ -8806,5 +8806,57 @@
         "description": "Genau, Eben, Stimmt, Ach so, Na ja — butun suhbatlarni almashtiradigan bitta so'zli nemis javoblari."
       }
     }
+  },
+  {
+    "slug": "german-sounds-no-other-language",
+    "date": "2026-05-20",
+    "tags": [
+      "pronunciation",
+      "sounds",
+      "intermediate",
+      "practical"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Sounds That Exist in No Other Language",
+        "description": "The ch, the ü, the ö, the rolling R, the Pf — sounds that make German impossible to pronounce for everyone else."
+      },
+      "ru": {
+        "title": "Звуки немецкого, которых нет ни в одном другом языке",
+        "description": "ch, ü, ö, раскатистый R, Pf — звуки, которые делают немецкий невозможным для произношения."
+      },
+      "uk": {
+        "title": "Звуки німецької, яких немає в жодній іншій мові",
+        "description": "ch, ü, ö, rolled R, Pf — звуки, які роблять німецьку неможливою для вимови."
+      },
+      "sk": {
+        "title": "Nemecké zvuky, ktoré neexistujú v žiadnom inom jazyku",
+        "description": "ch, ü, ö, rapotavé R, Pf — zvuky, ktoré robia nemčinu nevysloviteľnou."
+      },
+      "tr": {
+        "title": "Başka hiçbir dilde var olmayan Almanca sesler",
+        "description": "ch, ü, ö, yuvarlanan R, Pf — Almancayı herkes için telaffuz edilemez kılan sesler."
+      },
+      "ro": {
+        "title": "Sunete germane care nu există în nicio altă limbă",
+        "description": "ch, ü, ö, R-ul răsucit, Pf — sunete care fac germana imposibil de pronunțat."
+      },
+      "fa": {
+        "title": "صداهای آلمانی که در هیچ زبان دیگری وجود ندارند",
+        "description": "ch، ü، ö، R غلتیده، Pf — صداهایی که آلمانی را برای همه غیرقابل تلفظ می‌کنند."
+      },
+      "ar": {
+        "title": "أصوات ألمانية غير موجودة في أي لغة أخرى",
+        "description": "ch، ü، ö، الراء المتدحرجة، Pf — أصوات تجعل الألمانية مستحيلة النطق."
+      },
+      "es": {
+        "title": "Sonidos alemanes que no existen en ningún otro idioma",
+        "description": "ch, ü, ö, la R rodada, Pf — sonidos que hacen el alemán imposible de pronunciar."
+      },
+      "uz": {
+        "title": "Boshqa hech qanday tilde mavjud bo'lmagan nemis tovushlari",
+        "description": "ch, ü, ö, rullanuvchi R, Pf — nemis tilini hamma uchun talaffuz qilib bo'lmas qiluvchi tovushlar."
+      }
+    }
   }
 ]
