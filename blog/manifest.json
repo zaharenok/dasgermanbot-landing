@@ -8858,5 +8858,57 @@
         "description": "ch, ü, ö, rullanuvchi R, Pf — nemis tilini hamma uchun talaffuz qilib bo'lmas qiluvchi tovushlar."
       }
     }
+  },
+  {
+    "slug": "german-phrases-reveal-foreigner",
+    "date": "2026-05-20",
+    "tags": [
+      "phrases",
+      "mistakes",
+      "beginner",
+      "practical"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Phrases That Instantly Reveal You're a Foreigner",
+        "description": "Ich bin heiß, Ich bin gut — innocent phrases that expose you as a non-German instantly."
+      },
+      "ru": {
+        "title": "Немецкие фразы, которые моментально выдают в вас иностранца",
+        "description": "Ich bin heiß, Ich bin good — невинные фразы, которые мгновенно раскрывают вас как иностранца."
+      },
+      "uk": {
+        "title": "Німецькі фрази, які миттєво видають у вас іноземця",
+        "description": "Ich bin heiß, Ich bin gut — невинні фрази, які миттєво викривають вас як іноземця."
+      },
+      "sk": {
+        "title": "Nemecké frázy, ktoré okamžite prezradia, že si cudzinec",
+        "description": "Ich bin heiß, Ich bin gut — neviné frázy, ktoré ťa okamžite odhalia."
+      },
+      "tr": {
+        "title": "Seni anında yabancı olarak ele veren Almanca ifadeler",
+        "description": "Ich bin heiß, Ich bin gut — seni anında yabancı olarak ortaya çıkaran ifadeler."
+      },
+      "ro": {
+        "title": "Fraze germane care te trădează instantaneu ca străin",
+        "description": "Ich bin heiß, Ich bin gut — fraze inofensive care te expun ca non-german."
+      },
+      "fa": {
+        "title": "عبارات آلمانی که فوراً شما را به عنوان خارجی لو می‌دهند",
+        "description": "Ich bin heiß, Ich bin gut — عباراتی که شما را فوراً به عنوان غیرآلمانی فاش می‌کنند."
+      },
+      "ar": {
+        "title": "عبارات ألمانية تكشف فوراً أنك أجنبي",
+        "description": "Ich bin heiß, Ich bin gut — عبارات تفضحك كغير ألماني فوراً."
+      },
+      "es": {
+        "title": "Frases alemanas que delatan instantáneamente que eres extranjero",
+        "description": "Ich bin heiß, Ich bin gut — frases inocentes que te exponen como no-alemán."
+      },
+      "uz": {
+        "title": "Sizni darhol chet el fuqarosi sifatida fosh qiluvchi nemis iboralari",
+        "description": "Ich bin heiß, Ich bin gut — sizni darhol fosh qiluvchi oddiy iboralar."
+      }
+    }
   }
 ]
