@@ -8910,5 +8910,57 @@
         "description": "Ich bin heiß, Ich bin gut — sizni darhol fosh qiluvchi oddiy iboralar."
       }
     }
+  },
+  {
+    "slug": "german-words-germans-mispronounce",
+    "date": "2026-05-20",
+    "tags": [
+      "pronunciation",
+      "culture",
+      "intermediate",
+      "funny"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words Germans Mispronounce on Purpose",
+        "description": "Ebbes, Gar nix, Jein — words even native speakers say wrong on purpose."
+      },
+      "ru": {
+        "title": "Немецкие слова, которые немцы намеренно произносят неправильно",
+        "description": "Ebbes, Gar nix, Jein — слова, которые даже носители говорят неправильно специально."
+      },
+      "uk": {
+        "title": "Німецькі слова, які німці навмисно вимовляють неправильно",
+        "description": "Ebbes, Gar nix, Jein — слова, які навіть носії кажуть неправильно навмисно."
+      },
+      "sk": {
+        "title": "Nemecké slová, ktoré Nemci schválne vyslovujú zle",
+        "description": "Ebbes, Gar nix, Jein — slová, ktoré rodenci vyslovujú zle naschvál."
+      },
+      "tr": {
+        "title": "Almanların bilerek yanlış telaffuz ettiği Almanca kelimeler",
+        "description": "Ebbes, Gar nix, Jein — anadili konuşanların bile bilerek yanlış söylediği kelimeler."
+      },
+      "ro": {
+        "title": "Cuvinte germane pe care germanii le pronunță greșit intenționat",
+        "description": "Ebbes, Gar nix, Jein — cuvinte pe care nativii le spun greșit intenționat."
+      },
+      "fa": {
+        "title": "کلمات آلمانی که آلمانی‌ها عمداً اشتباه تلفظ می‌کنند",
+        "description": "Ebbes, Gar nix, Jein — کلماتی که حتی بومیان عمداً اشتباه می‌گویند."
+      },
+      "ar": {
+        "title": "كلمات ألمانية ينطقها الألمان بشكل خاطئ عمداً",
+        "description": "Ebbes, Gar nix, Jein — كلمات ينطقها الألمان خطأً عمداً."
+      },
+      "es": {
+        "title": "Palabras alemanas que los alemanes pronuncian mal a propósito",
+        "description": "Ebbes, Gar nix, Jein — palabras que hasta los nativos dicen mal a propósito."
+      },
+      "uz": {
+        "title": "Nemislar ataylab noto'g'ri talaffuz qiladigan nemis so'zlari",
+        "description": "Ebbes, Gar nix, Jein — hatto ona tilida so'zlashuvchilar ataylab noto'g'ri aytadigan so'zlar."
+      }
+    }
   }
 ]
