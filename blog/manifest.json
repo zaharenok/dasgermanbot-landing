@@ -8962,5 +8962,57 @@
         "description": "Ebbes, Gar nix, Jein — hatto ona tilida so'zlashuvchilar ataylab noto'g'ri aytadigan so'zlar."
       }
     }
+  },
+  {
+    "slug": "german-sentence-endings-change-everything",
+    "date": "2026-05-20",
+    "tags": [
+      "grammar",
+      "particles",
+      "intermediate",
+      "essential"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Sentence Endings That Change Everything",
+        "description": "One word at the end changes the entire meaning. Learn German modal particles that textbooks ignore."
+      },
+      "ru": {
+        "title": "Немецкие окончания предложений, которые меняют всё",
+        "description": "Одно слово в конце меняет весь смысл. Выучите немецкие модальные частицы."
+      },
+      "uk": {
+        "title": "Німецькі закінчення речень, які змінюють все",
+        "description": "Одне слово в кінці змінює весь зміст. Вивчіть німецькі модальні частки."
+      },
+      "sk": {
+        "title": "Nemecké koncuvety, ktoré menia všetko",
+        "description": "Jedno slovo na konci menia celý význam. Nauč sa nemecké modálne častice."
+      },
+      "tr": {
+        "title": "Her şeyi değiştiren Almanca cümle sonları",
+        "description": "Sondaki bir kelime tüm anlamı değiştiriyor. Almanca modal parçacıkları öğrenin."
+      },
+      "ro": {
+        "title": "Finaluri de propoziții germane care schimbă totul",
+        "description": "Un cuvânt la sfârșit schimbă tot sensul. Învață particulele modale germane."
+      },
+      "fa": {
+        "title": "پایان‌بندهای جمله آلمانی که همه چیز را تغییر می‌دهند",
+        "description": "یک کلمه در پایان کل معنا را عوض می‌کند."
+      },
+      "ar": {
+        "title": "نهايات الجمل الألمانية التي تغير كل شيء",
+        "description": "كلمة واحدة في النهاية تغير المعنى بالكامل."
+      },
+      "es": {
+        "title": "Finales de frase alemanes que lo cambian todo",
+        "description": "Una palabra al final cambia todo el significado. Aprende las partículas modales alemanas."
+      },
+      "uz": {
+        "title": "Hammani o'zgartiradigan nemis gap oxirlari",
+        "description": "Oxirdagi bitta so'z butun ma'noni o'zgartiradi."
+      }
+    }
   }
 ]
