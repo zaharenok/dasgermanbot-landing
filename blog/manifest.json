@@ -9014,5 +9014,57 @@
         "description": "Oxirdagi bitta so'z butun ma'noni o'zgartiradi."
       }
     }
+  },
+  {
+    "slug": "german-words-germans-wish-english-had",
+    "date": "2026-05-20",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "intermediate",
+      "interesting"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words Germans Wish Existed in English",
+        "description": "Verschlimmbessern, Fremdschämen, Torschlusspanik — Germans are frustrated that English has no equivalent."
+      },
+      "ru": {
+        "title": "Немецкие слова, которые немцы хотели бы иметь в английском",
+        "description": "Verschlimmbessern, Fremdschämen — немцы расстроены, что в английском нет эквивалентов."
+      },
+      "uk": {
+        "title": "Німецькі слова, які німці хотіли б мати в англійській",
+        "description": "Verschlimmbessern, Fremdschämen — німці розчаровані, що в англійській немає еквівалентів."
+      },
+      "sk": {
+        "title": "Nemecké slová, ktoré by Nemci chceli mať v angličtine",
+        "description": "Verschlimmbessern, Fremdschämen — Nemci sú frustrovaní, že angličtina nemá ekvivalenty."
+      },
+      "tr": {
+        "title": "Almanların İngilizcede olmasını dilediği Almanca kelimeler",
+        "description": "Verschlimmbessern, Fremdschämen — Almanlar İngilizcede karşılığı olmayan kelimelerden mutsuz."
+      },
+      "ro": {
+        "title": "Cuvinte germane pe care germanii și-ar dori să existe în engleză",
+        "description": "Verschlimmbessern, Fremdschämen — germanii sunt frustrați că engleza nu are echivalente."
+      },
+      "fa": {
+        "title": "کلمات آلمانی که آلمانی‌ها آرزو دارند در انگلیسی وجود داشت",
+        "description": "Verschlimmbessern, Fremdschämen — آلمانی‌ها ناراحتند که انگلیسی معادلی ندارد."
+      },
+      "ar": {
+        "title": "كلمات ألمانية يتمنى الألمان وجودها في الإنجليزية",
+        "description": "Verschlimmbessern, Fremdschämen — الألمان محبطون لأن الإنجليزية لا تملك مكافئات."
+      },
+      "es": {
+        "title": "Palabras alemanas que los alemanes desearían que existieran en inglés",
+        "description": "Verschlimmbessern, Fremdschämen — los alemanes están frustrados por la falta de equivalentes."
+      },
+      "uz": {
+        "title": "Nemislar ingliz tilida bo'lishini xohlagan nemis so'zlari",
+        "description": "Verschlimmbessern, Fremdschämen — nemislar ingliz tilida ekvivalent yo'qligidan xafa."
+      }
+    }
   }
 ]
