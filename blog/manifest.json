@@ -9170,5 +9170,57 @@
         "description": "Wir müssen uns treffen, Das können wir machen — so'zlari odobli lekin ma'nosi aksi bo'lgan xabarlar."
       }
     }
+  },
+  {
+    "slug": "german-reactions-not-what-you-think",
+    "date": "2026-05-26",
+    "tags": [
+      "phrases",
+      "conversation",
+      "beginner",
+      "essential"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Reactions That Are Not What You Think",
+        "description": "Na?, Genau, Ach so, Bitteschön — German reactions that foreigners misinterpret completely."
+      },
+      "ru": {
+        "title": "Немецкие реакции, которые не то, что вы думаете",
+        "description": "Na?, Genau, Ach so — немецкие реакции, которые иностранцы понимают неправильно."
+      },
+      "uk": {
+        "title": "Німецькі реакції, які не те, що ви думаєте",
+        "description": "Na?, Genau, Ach so — німецькі реакції, які іноземці розуміють неправильно."
+      },
+      "sk": {
+        "title": "Nemecké reakcie, ktoré nie sú tým, čo si myslíš",
+        "description": "Na?, Genau, Ach so — nemecké reakcie, ktoré cudzinci úplne chápu zle."
+      },
+      "tr": {
+        "title": "Düşündüğünüzün tersi olan Almanca tepkiler",
+        "description": "Na?, Genau, Ach so — yabancıların tamamen yanlış anladığı Almanca tepkiler."
+      },
+      "ro": {
+        "title": "Reacții germane care nu sunt ce crezi",
+        "description": "Na?, Genau, Ach so — reacții germane pe care străinii le interpretează greșit."
+      },
+      "fa": {
+        "title": "واکنش‌های آلمانی که آنچه فکر می‌کنید نیستند",
+        "description": "Na?, Genau, Ach so — واکنش‌های آلمانی که خارجی‌ها کاملاً اشتباه متوجه می‌شوند."
+      },
+      "ar": {
+        "title": "ردود فعل ألمانية ليست ما تعتقده",
+        "description": "Na?, Genau, Ach so — ردود فعل ألمانية يفهمها الأجانب بشكل خاطئ."
+      },
+      "es": {
+        "title": "Reacciones alemanas que no son lo que crees",
+        "description": "Na?, Genau, Ach so — reacciones alemanas que los extranjeros malinterpretan."
+      },
+      "uz": {
+        "title": "O'ylagandan boshqacha bo'lgan nemis reaktsiyalari",
+        "description": "Na?, Genau, Ach so — chet elliklar noto'g'ri tushinadigan nemis reaktsiyalari."
+      }
+    }
   }
 ]
