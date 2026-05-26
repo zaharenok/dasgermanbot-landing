@@ -9118,5 +9118,57 @@
         "description": "Noto'g'ri artikellar, du o'rniga Sie — nemislarning ko'zini qisdiruvchi xatolar."
       }
     }
+  },
+  {
+    "slug": "german-texts-mean-opposite-words",
+    "date": "2026-05-26",
+    "tags": [
+      "communication",
+      "culture",
+      "intermediate",
+      "essential"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Texts That Mean the Exact Opposite of the Words",
+        "description": "Wir müssen uns treffen, Das können wir machen — messages where every word is polite but the meaning is opposite."
+      },
+      "ru": {
+        "title": "Немецкие сообщения, которые значат прямо противоположное словам",
+        "description": "Wir müssen uns treffen, Das können wir machen — сообщения, где слова вежливые, но смысл противоположный."
+      },
+      "uk": {
+        "title": "Німецькі повідомлення, що означають протилежне словам",
+        "description": "Wir müssen uns treffen, Das können wir machen — повідомлення, де слова ввічливі, але зміст протилежний."
+      },
+      "sk": {
+        "title": "Nemecké správy, ktoré znamenajú opak toho, čo hovoria",
+        "description": "Wir müssen uns treffen, Das können wir machen — správy, kde každé slovo je zdvorilé, ale význam je opačný."
+      },
+      "tr": {
+        "title": "Kelimelerin tam tersini anlamına gelen Almanca mesajlar",
+        "description": "Wir müssen uns treffen, Das können wir machen — her kelime kibar ama anlam ters."
+      },
+      "ro": {
+        "title": "Mesaje germane care înseamnă exact opusul cuvintelor",
+        "description": "Wir müssen uns treffen, Das können wir machen — mesaje unde fiecare cuvânt e politicos dar sensul e opus."
+      },
+      "fa": {
+        "title": "پیام‌های آلمانی که دقیقاً نقطه مقابل کلماتشان را می‌رسانند",
+        "description": "Wir müssen uns treffen, Das können wir machen — پیام‌هایی که هر کلمه مهربان است اما معنای مخالف دارد."
+      },
+      "ar": {
+        "title": "رسائل ألمانية تعني عكس ما تقوله تمامًا",
+        "description": "Wir müssen uns treffen, Das können wir machen — رسائل مهذبة لكن معناها العكس."
+      },
+      "es": {
+        "title": "Mensajes alemanes que significan exactamente lo opuesto de las palabras",
+        "description": "Wir müssen uns treffen, Das können wir machen — mensajes donde cada palabra es cortés pero el significado es opuesto."
+      },
+      "uz": {
+        "title": "So'zlari bilan ma'nosi aynan qarama-qarshi bo'lgan nemis xabarlar",
+        "description": "Wir müssen uns treffen, Das können wir machen — so'zlari odobli lekin ma'nosi aksi bo'lgan xabarlar."
+      }
+    }
   }
 ]
