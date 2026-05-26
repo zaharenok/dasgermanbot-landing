@@ -9066,5 +9066,57 @@
         "description": "Verschlimmbessern, Fremdschämen — nemislar ingliz tilida ekvivalent yo'qligidan xafa."
       }
     }
+  },
+  {
+    "slug": "german-mistakes-make-germans-cringe",
+    "date": "2026-05-26",
+    "tags": [
+      "mistakes",
+      "grammar",
+      "beginner",
+      "essential"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Mistakes That Make Germans Physically Cringe",
+        "description": "Wrong articles, du instead of Sie, mixing up bin and mir — errors that make Germans twitch."
+      },
+      "ru": {
+        "title": "Ошибки в немецком, от которых у немцев сводит челюсти",
+        "description": "Неправильные артикли, du вместо Sie — ошибки, вызывающие рефлекс поморщиться."
+      },
+      "uk": {
+        "title": "Помилки в німецькій, від яких у німців зводить щелепи",
+        "description": "Неправильні артиклі, du замість Sie — помилки, що викликають рефлекс."
+      },
+      "sk": {
+        "title": "Chyby v nemčine, pri ktorých Nemcom fyzicky stiahne čeľusť",
+        "description": "Zlé členy, du namiesto Sie — chyby, pri ktorých Nemci automaticky krivia."
+      },
+      "tr": {
+        "title": "Almanları fiziksel olarak ürperten Almanca hataları",
+        "description": "Yanlış artikeller, du yerine Sie — Almanların gözünü sektiren hatalar."
+      },
+      "ro": {
+        "title": "Greșeli germane care îi fac pe germani să se cutremure fizic",
+        "description": "Articole greșite, du în loc de Sie — greșeli care provoacă reflexul de cringe."
+      },
+      "fa": {
+        "title": "اشتباهات آلمانی که آلمانی‌ها را فیزیکاً میخکوب می‌کند",
+        "description": "آرتیکل‌های اشتباه، du به جای Sie — اشتباهاتی که آلمانی‌ها را میخکوب می‌کند."
+      },
+      "ar": {
+        "title": "أخطاء ألمانية تجعل الألمان يتقلصون جسدياً",
+        "description": "أدوات تعريف خاطئة، du بدل Sie — أخطاء تثير انعكاس التشنج."
+      },
+      "es": {
+        "title": "Errores alemanes que hacen que los alemanes se estremezcan físicamente",
+        "description": "Artículos incorrectos, du en vez de Sie — errores que provocan el reflejo de cringe."
+      },
+      "uz": {
+        "title": "Nemislarni jismonan bezovta qiluvchi nemis xatolari",
+        "description": "Noto'g'ri artikellar, du o'rniga Sie — nemislarning ko'zini qisdiruvchi xatolar."
+      }
+    }
   }
 ]
