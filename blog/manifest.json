@@ -9326,5 +9326,57 @@
         "description": "Brötchenmi, Schrippemi? Samstagmi, Sonnabendmi? Turli hudutda turlicha ma'no bildiradigan nemis so'zlari — va nemislar ular haqida doim bahslashadi."
       }
     }
+  },
+  {
+    "slug": "german-mistakes-embarrassing",
+    "date": "2026-05-27",
+    "tags": [
+      "mistakes",
+      "vocabulary",
+      "beginner",
+      "essential"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Mistakes That Turn Innocent Sentences Into Embarrassing Disasters",
+        "description": "Ich bin heiß, Ich bin warm, Schwul vs schwül — the German mistakes that make you say something you definitely did not mean."
+      },
+      "uk": {
+        "title": "Помилки в німецькій, які перетворюють невинні фрази на конфуз",
+        "description": "Ich bin heiß, Ich bin warm, Schwul vs schwül — німецькі помилки, через які ви кажете зовсім не те, що хотіли."
+      },
+      "ru": {
+        "title": "Ошибки в немецком, которые превращают невинные фразы в конфуз",
+        "description": "Ich bin heiß, Ich bin warm, Schwul vs schwül — немецкие ошибки, из-за которых вы говорите совсем не то, что хотели."
+      },
+      "sk": {
+        "title": "Nemecké chyby, ktoré zmenia nevinné vety do trapných katastrof",
+        "description": "Ich bin heiß, Ich bin warm, Schwul vs schwül — nemecké chyby, kvôli ktorým poviete niečo úplne iné, než ste chceli."
+      },
+      "tr": {
+        "title": "Masum Cümleleri Utanç Verici Felaketlere Çeviren Almanca Hatalar",
+        "description": "Ich bin heiß, Ich bin warm, Schwul vs schwül — Kendinizi hiç istemediğiniz bir şey söylerken bulduran Almanca hataları."
+      },
+      "ro": {
+        "title": "Greșeli în Germană care Transformă Propoziții Inofensive în Dezastru",
+        "description": "Ich bin heiß, Ich bin warm, Schwul vs schwül — greșelile de germană care te fac să spui exact ce nu voiai."
+      },
+      "fa": {
+        "title": "اشتباهات آلمانی که جملات بی‌گناه را تبدیل به فاجعه خجالت‌آور می‌کنند",
+        "description": "Ich bin heiß، Schwul در مقابل schwül — اشتباهات آلمانی که باعث می‌شوید چیزهایی بگویید که هرگز منظورتان نبوده."
+      },
+      "ar": {
+        "title": "أخطاء ألمانية تحوّل الجمل البريئة إلى كوارث محرجة",
+        "description": "Ich bin heiß، Schwul مقابل schwül — أخطاء ألمانية تجعلك تقول ما لم تقصده أبداً."
+      },
+      "es": {
+        "title": "Errores en Alemán que Convierten Frases Inocentes en Desastres Vergonzosos",
+        "description": "Ich bin heiß, Ich bin warm, Schwul vs schwül — los errores de alemán que te hacen decir lo que definitivamente no querías."
+      },
+      "uz": {
+        "title": "Oddiy Gaplarni Uyalchliq Fojasiga Aylantiradigan Nemischa Xatolar",
+        "description": "Ich bin heiß, Ich bin warm, Schwul vs schwül — o'zingiz aytmoqchi bo'lmagan narsani aytib qo'yadigan nemischa xatolar."
+      }
+    }
   }
 ]
