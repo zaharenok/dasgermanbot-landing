@@ -9378,5 +9378,57 @@
         "description": "Ich bin heiß, Ich bin warm, Schwul vs schwül — o'zingiz aytmoqchi bo'lmagan narsani aytib qo'yadigan nemischa xatolar."
       }
     }
+  },
+  {
+    "slug": "german-phrases-sound-like-grandma",
+    "date": "2026-05-27",
+    "tags": [
+      "phrases",
+      "culture",
+      "intermediate",
+      "fun"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Phrases That Will Make You Sound Like A German Grandma",
+        "description": "Ach du liebe Zeit, Himmelherrgott, Donnerwetter — the old-fashioned German phrases only Omas use. Learn them and make every German smile."
+      },
+      "uk": {
+        "title": "Німецькі фрази, через які ви звучатимете як німецька бабуся",
+        "description": "Ach du liebe Zeit, Himmelherrgott, Donnerwetter — старомодні німецькі фрази, які кажуть лише Omi. Вивчіть їх — і кожен німець посміхнеться."
+      },
+      "ru": {
+        "title": "Немецкие фразы, из-за которых вы будете звучать как немецкая бабушка",
+        "description": "Ach du liebe Zeit, Himmelherrgott, Donnerwetter — старомодные немецкие фразы, которые говорят только Oмы."
+      },
+      "sk": {
+        "title": "Nemecké frázy, po ktorých budete znieť ako nemecká babka",
+        "description": "Ach du liebe Zeit, Himmelherrgott, Donnerwetter — staromódne nemecké frázy, ktoré používajú len babky."
+      },
+      "tr": {
+        "title": "Alman Nine Gibi Konuşturan Almanca Ifadeler",
+        "description": "Ach du liebe Zeit, Himmelherrgott, Donnerwetter — sadece Alman ninelerin kullandigi eski tarz Almanca ifadeler."
+      },
+      "ro": {
+        "title": "Expresii Germane Care Te Fac Să Suni Ca O Bunică Germană",
+        "description": "Ach du liebe Zeit, Himmelherrgott, Donnerwetter — expresiile germane demodate pe care doar bunicele le folosesc."
+      },
+      "fa": {
+        "title": "جملات آلمانی که شبیه مادربزرگ آلمانی حرف می‌زنید",
+        "description": "Ach du liebe Zeit, Himmelherrgott, Donnerwetter — عبارات قدیمی آلمانی که فقط مادربزرگ‌ها استفاده می‌کنند."
+      },
+      "ar": {
+        "title": "عبارات ألمانية تجعلك تتحدث مثل الجدة الألمانية",
+        "description": "Ach du liebe Zeit, Himmelherrgott, Donnerwetter — العبارات الألمانية القديمة التي تستخدمها الجدات فقط."
+      },
+      "es": {
+        "title": "Frases Alemanas Que Te Harán Sonar Como Una Abuela Alemana",
+        "description": "Ach du liebe Zeit, Himmelherrgott, Donnerwetter — las frases alemanas anticuadas que solo las abuelas usan."
+      },
+      "uz": {
+        "title": "Nemis Buvidek Gapirishga Majbur Qiladigan Nemischa Iboralar",
+        "description": "Ach du liebe Zeit, Himmelherrgott, Donnerwetter — faqat nemis buvilari ishlatadigan eski nemischa iboralar."
+      }
+    }
   }
 ]
