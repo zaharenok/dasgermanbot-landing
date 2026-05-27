@@ -9274,5 +9274,57 @@
         "description": "Es tut mir leid, Entschuldigung, Sorry — barcha nemis uzrlari teng emas."
       }
     }
+  },
+  {
+    "slug": "german-words-regional-differences",
+    "date": "2026-05-27",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "intermediate",
+      "essential"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words That Change Meaning Depending On Where You Are",
+        "description": "Brötchen or Schrippe? Samstag or Sonnabend? German words that mean different things in different regions — and Germans fight about them constantly."
+      },
+      "uk": {
+        "title": "Німецькі слова, які змінюють зміст залежно від регіону",
+        "description": "Brötchen чи Schrippe? Samstag чи Sonnabend? Німецькі слова, що значать різне в різних регіонах — і через які німці постійно сперечаються."
+      },
+      "ru": {
+        "title": "Немецкие слова, которые меняют смысл в зависимости от региона",
+        "description": "Brötchen или Schrippe? Samstag или Sonnabend? Немецкие слова, которые значат разное в разных регионах — и из-за которых немцы постоянно спорят."
+      },
+      "sk": {
+        "title": "Nemecké slová, ktoré menia význam podľa regiónu",
+        "description": "Brötchen alebo Schrippe? Samstag alebo Sonnabend? Nemecké slová, ktoré znamenajú niečo iné v každom regióne — a Nemci sa kvôli nim neustále hádajú."
+      },
+      "tr": {
+        "title": "Bölgeye Göre Anlam Değiştiren Almanca Kelimeler",
+        "description": "Brötchen mi Schrippe mi? Samstag mı Sonnabend mi? Bölgeden bölgeye farklı anlamlara gelen Almanca kelimeler — ve Almanlar bu konuda sürekli tartışıyor."
+      },
+      "ro": {
+        "title": "Cuvinte germane care își schimba sensul in functie de regiune",
+        "description": "Brötchen sau Schrippe? Samstag sau Sonnabend? Cuvinte germane care inseamna lucruri diferite in regiuni diferite — si germanii se cearta constant pe seama lor."
+      },
+      "fa": {
+        "title": "کلمات آلمانی که بسته به منطقه معنایشان عوض می‌شود",
+        "description": "Brötchen یا Schrippe؟ Samstag یا Sonnabend؟ کلمات آلمانی که در منطقه‌های مختلف معنای متفاوتی دارند — و آلمانی‌ها دائماً سرشان بحث است."
+      },
+      "ar": {
+        "title": "كلمات ألمانية تتغير حسب المنطقة",
+        "description": "Brötchen أم Schrippe؟ Samstag أم Sonnabend؟ كلمات ألمانية تعني أشياء مختلفة في مناطق مختلفة — والألمان يتجادلون حولها باستمرار."
+      },
+      "es": {
+        "title": "Palabras alemanas que cambian de significado segun la region",
+        "description": "Brötchen o Schrippe? Samstag o Sonnabend? Palabras alemanas que significan cosas distintas en distintas regiones — y los alemanes no paran de discutir sobre ellas."
+      },
+      "uz": {
+        "title": "Hududga qarab ma'nosi o'zgaradigan nemis so'zlari",
+        "description": "Brötchenmi, Schrippemi? Samstagmi, Sonnabendmi? Turli hudutda turlicha ma'no bildiradigan nemis so'zlari — va nemislar ular haqida doim bahslashadi."
+      }
+    }
   }
 ]
