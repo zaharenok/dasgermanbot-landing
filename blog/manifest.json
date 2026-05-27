@@ -9222,5 +9222,57 @@
         "description": "Na?, Genau, Ach so — chet elliklar noto'g'ri tushinadigan nemis reaktsiyalari."
       }
     }
+  },
+  {
+    "slug": "german-apologies-ranked-genuine-to-sarcasm",
+    "date": "2026-05-27",
+    "tags": [
+      "phrases",
+      "culture",
+      "beginner",
+      "essential"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Apologies Ranked From Genuine to Pure Sarcasm",
+        "description": "Es tut mir leid, Entschuldigung, Sorry — not all German apologies are equal. Learn which are real and which are sarcastic."
+      },
+      "ru": {
+        "title": "Немецкие извинения — рейтинг от настоящих до чистого сарказма",
+        "description": "Es tut mir leid, Entschuldigung, Sorry — какие немецкие извинения настоящие, а какие саркастичные."
+      },
+      "uk": {
+        "title": "Німецькі вибачення — рейтинг від справжніх до чистого сарказму",
+        "description": "Es tut mir leid, Entschuldigung, Sorry — які німецькі вибачення справжні, а які саркастичні."
+      },
+      "sk": {
+        "title": "Nemecké ospravedlnenia — rebríček od úprimných po čistý sarkazmus",
+        "description": "Es tut mir leid, Entschuldigung, Sorry — nie všetky nemecké ospravedlnenia sú rovnaké."
+      },
+      "tr": {
+        "title": "Almanca özürler — samimiden saf iğnelemeye sıralama",
+        "description": "Es tut mir leid, Entschuldigung, Sorry — tüm Almanca özürler eşit değil."
+      },
+      "ro": {
+        "title": "Scuze germane clasate de la sincere la sarcasm pur",
+        "description": "Es tut mir leid, Entschuldigung, Sorry — nu toate scuze germane sunt egale."
+      },
+      "fa": {
+        "title": "عذرخواهی‌های آلمانی — رتبه‌بندی از صمیمی تا تمام طنز",
+        "description": "Es tut mir leid, Entschuldigung, Sorry — همه عذرخواهی‌های آلمانی برابر نیستند."
+      },
+      "ar": {
+        "title": "اعتذارات ألمانية مرتبة من الصادقة إلى الساخرة تماماً",
+        "description": "Es tut mir leid, Entschuldigung, Sorry — ليست كل الاعتذارات الألمانية متساوية."
+      },
+      "es": {
+        "title": "Disculpas alemanas clasificadas de genuinas a puro sarcasmo",
+        "description": "Es tut mir leid, Entschuldigung, Sorry — no todas las disculpas alemanas son iguales."
+      },
+      "uz": {
+        "title": "Nemis uzr so'zlash — rostdan toza kinoyagacha reyting",
+        "description": "Es tut mir leid, Entschuldigung, Sorry — barcha nemis uzrlari teng emas."
+      }
+    }
   }
 ]
