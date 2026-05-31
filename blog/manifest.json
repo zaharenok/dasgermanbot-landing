@@ -9430,5 +9430,56 @@
         "description": "Ach du liebe Zeit, Himmelherrgott, Donnerwetter — faqat nemis buvilari ishlatadigan eski nemischa iboralar."
       }
     }
+  },
+  {
+    "slug": "german-words-exist-because-germans-love-rules",
+    "date": "2026-05-31",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "rules"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words That Only Exist Because Germans Love Rules",
+        "description": "Ordnungsamt, Mülltrennung, Ruhezeiten, Sitzplatzreservierung — German words born from the national obsession with order."
+      },
+      "ru": {
+        "title": "Немецкие слова, которые существуют только потому, что немцы любят правила",
+        "description": "Ordnungsamt, Mülltrennung, Ruhezeiten, Sitzplatzreservierung — немецкие слова, рождённые национальной одержимостью порядком."
+      },
+      "uk": {
+        "title": "Німецькі слова, які існують лише тому, що німці люблять правила",
+        "description": "Ordnungsamt, Mülltrennung, Ruhezeiten, Sitzplatzreservierung — німецькі слова, народжені національною одержимістю порядком."
+      },
+      "sk": {
+        "title": "Nemecké slová, ktoré existujú len preto, lebo Nemci milujú pravidlá",
+        "description": "Ordnungsamt, Mülltrennung, Ruhezeiten, Sitzplatzreservierung — nemecké slová zrodené národnou posadnutosťou poriadkom."
+      },
+      "tr": {
+        "title": "Sadece Almanlar Kuralları Sevdiği İçin Var Olan Almanca Kelimeler",
+        "description": "Ordnungsamt, Mülltrennung, Ruhezeiten — Almanların düzene olan ulusal tutkusundan doğan kelimeler."
+      },
+      "ro": {
+        "title": "Cuvinte germane care există doar pentru că germanii iubesc regulile",
+        "description": "Ordnungsamt, Mülltrennung, Ruhezeiten — cuvinte germane născute din obsesia națională pentru ordine."
+      },
+      "fa": {
+        "title": "كلمات آلمانی كه فقط به خاطر عشق آلمانی‌ها به قوانین وجود دارند",
+        "description": "Ordnungsamt، Mülltrennung، Ruhezeiten — كلمات آلمانی متولد شده از وسواس ملی برای نظم."
+      },
+      "ar": {
+        "title": "كلمات ألمانية لا وجود لها إلا لأن الألمان يحبون القواعد",
+        "description": "Ordnungsamt، Mülltrennung، Ruhezeiten — كلمات ألمانية وُلدت من الهوس الوطني بالنظام."
+      },
+      "es": {
+        "title": "Palabras alemanas que solo existen porque a los alemanes les encantan las reglas",
+        "description": "Ordnungsamt, Mülltrennung, Ruhezeiten — palabras alemanas nacidas de la obsesión nacional por el orden."
+      },
+      "uz": {
+        "title": "Faqat nemislar qoidalarni sevishi tufayli mavjud bo'lgan nemischa so'zlar",
+        "description": "Ordnungsamt, Mülltrennung, Ruhezeiten — nemislarning tartibga bo'lgan milliy ovsessi tufayli tug'ilgan so'zlar."
+      }
+    }
   }
 ]
