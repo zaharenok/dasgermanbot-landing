@@ -9481,5 +9481,57 @@
         "description": "Ordnungsamt, Mülltrennung, Ruhezeiten — nemislarning tartibga bo'lgan milliy ovsessi tufayli tug'ilgan so'zlar."
       }
     }
+  },
+  {
+    "slug": "german-phrases-google-translate-wrong",
+    "date": "2026-06-01",
+    "tags": [
+      "phrases",
+      "translation",
+      "beginner",
+      "essential"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Phrases That Google Translate Gets Completely Wrong",
+        "description": "Google Translate lies to you. These German phrases translate into nonsense, embarrassment, or the exact opposite of what they mean."
+      },
+      "ru": {
+        "title": "Немецкие фразы, которые Google Translate переводит совершенно неправильно",
+        "description": "Google Translate вам врёт. Эти немецкие фразы он переводит в чушь, позор или полную противоположность того, что они значат."
+      },
+      "uk": {
+        "title": "Німецькі фрази, які Google Translate перекладає абсолютно неправильно",
+        "description": "Google Translate вам бреше. Ці німецькі фрази він перекладає в нісенітницю, ганьбу або повну протилежність того, що вони значать."
+      },
+      "sk": {
+        "title": "Nemecké frázy, ktoré Google Translate prekladá úplne zle",
+        "description": "Google Translate vám klame. Tieto nemecké frázy prekladá ako nezmysly, hanbu alebo presný opak toho, čo znamenajú."
+      },
+      "tr": {
+        "title": "Google Translate'in Tamamen Yanlış Çevirdiği Almanca İfadeler",
+        "description": "Google Translate size yalan söylüyor. Bu Almanca ifadeler saçmalık, utanç veya tam tersi anlamlara çevriliyor."
+      },
+      "ro": {
+        "title": "Fraze în germană pe care Google Translate le traduce complet greșit",
+        "description": "Google Translate te minte. Aceste fraze în germană se traduc în prostii, rușine sau exact opusul a ceea ce înseamnă."
+      },
+      "fa": {
+        "title": "عبارات آلمانی که گوگل ترنسلیت کاملاً اشتباه ترجمه می‌کند",
+        "description": "گوگل ترنسلیت به شما دروغ می‌گوید. این عبارات آلمانی به چیزهای بی‌معنی یا برعکس ترجمه می‌شوند."
+      },
+      "ar": {
+        "title": "عبارات ألمانية يترجمها غوغل ترانسليت بشكل خاطئ تمامًا",
+        "description": "غوغل ترانسليت يكذب عليك. هذه العبارات الألمانية تُترجم إلى هراء أو إحراج أو العكس مما تعنيه."
+      },
+      "es": {
+        "title": "Frases en alemán que Google Translate traduce completamente mal",
+        "description": "Google Translate te miente. Estas frases en alemán se traducen en tonterías o exactamente lo contrario de lo que significan."
+      },
+      "uz": {
+        "title": "Google Translate butunlay noto'g'ri tarjima qiladigan nemischa iboralar",
+        "description": "Google Translate sizga yolg'on gapiradi. Bu nemischa iboralar be'mani yoki aynan teskari ma'noga tarjima qilinadi."
+      }
+    }
   }
 ]
