@@ -9533,5 +9533,57 @@
         "description": "Google Translate sizga yolg'on gapiradi. Bu nemischa iboralar be'mani yoki aynan teskari ma'noga tarjima qilinadi."
       }
     }
+  },
+  {
+    "slug": "german-food-names-sound-disgusting",
+    "date": "2026-06-01",
+    "tags": [
+      "food",
+      "culture",
+      "beginner",
+      "funny"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Food Names That Sound Disgusting But Are Actually Delicious",
+        "description": "Tote Oma, Leberkäse, Blutwurst, Maultaschen — German food names that sound like a horror movie but taste incredible."
+      },
+      "ru": {
+        "title": "Названия немецких блюд, которые звучат как кошмар, но на вкус — шедевр",
+        "description": "Tote Oma, Leberkäse, Blutwurst, Maultaschen — немецкие блюда, названия которых пугают, а вкус восхищает."
+      },
+      "uk": {
+        "title": "Назви німецьких страв, які звучать як жах, але на смак — шедевр",
+        "description": "Tote Oma, Leberkäse, Blutwurst, Maultaschen — німецькі страви, назви яких лякають, а смак вражає."
+      },
+      "sk": {
+        "title": "Nemecké jedlá, ktoré znejú ako hrôza, ale chutia ako majstrovské dielo",
+        "description": "Tote Oma, Leberkäse, Blutwurst, Maultaschen — nemecké jedlá, ktorých mená desia, ale chuť očarí."
+      },
+      "tr": {
+        "title": "İsmi Berbat Ama Gerçekte Harika Olan Alman Yemekleri",
+        "description": "Tote Oma, Leberkäse, Blutwurst, Maultaschen — korku filmi gibi gelen ama muhteşem tatlar."
+      },
+      "ro": {
+        "title": "Mâncăruri Germane cu Nume Groaznice Dar Incredibil de Gustoase",
+        "description": "Tote Oma, Leberkäse, Blutwurst, Maultaschen — nume care sună ca un film de groază, dar au gust extraordinar."
+      },
+      "fa": {
+        "title": "نام‌های غذایی آلمانی که وحشتناک به نظر می‌رسند اما بی‌نظیر خوشمزه هستند",
+        "description": "Tote Oma, Leberkäse, Blutwurst, Maultaschen — نام‌های غذایی آلمانی که مثل فیلم ترسناک اما طعم فوق‌العاده."
+      },
+      "ar": {
+        "title": "أطباق ألمانية بأسماء مقززة لكنها في الواقع لذيذة بشكل لا يُصدق",
+        "description": "Tote Oma, Leberkäse, Blutwurst, Maultaschen — أسماء تبدو كفيلم رعب لكن طعمها رائع."
+      },
+      "es": {
+        "title": "Nombres de Comida Alemana Que Suenan Asquerosos Pero En Realidad Son Deliciosos",
+        "description": "Tote Oma, Leberkäse, Blutwurst, Maultaschen — nombres que suenan a terror pero tienen sabor increíble."
+      },
+      "uz": {
+        "title": "Nomi Qo'rqinchli Ammo Haqiqatda Mazali Bo'lgan Nemis Taomlari",
+        "description": "Tote Oma, Leberkäse, Blutwurst, Maultaschen — qo'rqinchli eshitiladigan ammo ajoyib ta'mga ega nemis taomlari."
+      }
+    }
   }
 ]
