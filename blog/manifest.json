@@ -9585,5 +9585,57 @@
         "description": "Tote Oma, Leberkäse, Blutwurst, Maultaschen — qo'rqinchli eshitiladigan ammo ajoyib ta'mga ega nemis taomlari."
       }
     }
+  },
+  {
+    "slug": "german-phrases-every-football-fan",
+    "date": "2026-06-01",
+    "tags": [
+      "phrases",
+      "sports",
+      "culture",
+      "essential"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Phrases Every Football Fan Needs To Know",
+        "description": "Tor, Abseits, Elfmeter, Schwalbe — German football vocabulary that every Bundesliga fan needs."
+      },
+      "ru": {
+        "title": "Немецкие фразы, которые нужно знать каждому футбольному фанату",
+        "description": "Tor, Abseits, Elfmeter, Schwalbe — немецкий футбольный словарь для каждого фаната Бундеслиги."
+      },
+      "uk": {
+        "title": "Німецькі фрази, які потрібно знати кожному футбольному фанату",
+        "description": "Tor, Abseits, Elfmeter, Schwalbe — німецький футбольний словник для кожного фаната Бундесліги."
+      },
+      "sk": {
+        "title": "Nemecké frázy, ktoré musí poznať každý futbalový fanúšik",
+        "description": "Tor, Abseits, Elfmeter, Schwalbe — nemecký futbalový slovník pre každého fanúšika Bundesligy."
+      },
+      "tr": {
+        "title": "Her Futbol Taraftarının Bilmesi Gereken Almanca Kelimeler",
+        "description": "Tor, Abseits, Elfmeter, Schwalbe — her Bundesliga hayranının bilmesi gereken Almanca futbol terimleri."
+      },
+      "ro": {
+        "title": "Expresii Germane pe Care Trebuie Să Le Știe Orice Fan de Fotbal",
+        "description": "Tor, Abseits, Elfmeter, Schwalbe — vocabularul de fotbal german pentru fiecare fan Bundesliga."
+      },
+      "fa": {
+        "title": "هر طرفدار فوتبالی که باید بداند: اصطلاحات آلمانی",
+        "description": "Tor، Abseits، Elfmeter، Schwalbe — واژگان فوتبال آلمانی که هر طرفدار بوندسلیگا باید بداند."
+      },
+      "ar": {
+        "title": "عبارات ألمانية يجب أن يعرفها كل مشجع كرة قدم",
+        "description": "Tor، Abseits، Elfmeter، Schwalbe — مفردات كرة القدم الألمانية التي يحتاجها كل مشجع بوندسليغا."
+      },
+      "es": {
+        "title": "Frases Alemanas que Todo Fan del Fútbol Debe Conocer",
+        "description": "Tor, Abseits, Elfmeter, Schwalbe — vocabulario futbolístico alemán que todo fan de la Bundesliga necesita."
+      },
+      "uz": {
+        "title": "Har Bir Futbol Muxlisining Bilishi Kerak Bo'lgan Nemischa Iboralari",
+        "description": "Tor, Abseits, Elfmeter, Schwalbe — har bir Bundesliga muxlisining bilishi kerak bo'lgan nemischa futbol lug'ati."
+      }
+    }
   }
 ]
