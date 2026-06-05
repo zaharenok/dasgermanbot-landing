@@ -9637,5 +9637,57 @@
         "description": "Tor, Abseits, Elfmeter, Schwalbe — har bir Bundesliga muxlisining bilishi kerak bo'lgan nemischa futbol lug'ati."
       }
     }
+  },
+  {
+    "slug": "german-words-annoying-people",
+    "date": "2026-06-05",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "intermediate",
+      "funny"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words For Annoying People That Are Hilariously Specific",
+        "description": "Besserwisser, Pantoffelheld, Erbsenzähler, Schattenparker — German has a word for every type of annoying person."
+      },
+      "ru": {
+        "title": "Немецкие слова для раздражающих людей, которые до смешного точны",
+        "description": "Besserwisser, Pantoffelheld, Erbsenzähler, Schattenparker — в немецком есть слово для каждого типа раздражающего человека."
+      },
+      "uk": {
+        "title": "Німецькі слова для дратівливих людей, які кумедно точні",
+        "description": "Besserwisser, Pantoffelheld, Erbsenzähler, Schattenparker — у німецькій є слово для кожного типу дратівливої людини."
+      },
+      "sk": {
+        "title": "Nemecké slová pre otravných ľudí, ktoré sú do smiechu presné",
+        "description": "Besserwisser, Pantoffelheld, Erbsenzähler, Schattenparker — nemčina má slovo pre každý typ otravného človeka."
+      },
+      "tr": {
+        "title": "Rahatsız Edici İnsanları Tarif Eden O Kadar Komik Alman Kelimeleri",
+        "description": "Besserwisser, Pantoffelheld, Erbsenzähler, Schattenparker — Almanca her rahatsız edici insan tipi için bir kelimeye sahip."
+      },
+      "ro": {
+        "title": "Cuvinte Germane Pentru Oameni Enervanți Care Sunt Incredibil de Precise",
+        "description": "Besserwisser, Pantoffelheld, Erbsenzähler, Schattenparker — germana are un cuvânt pentru fiecare tip de persoană enervantă."
+      },
+      "fa": {
+        "title": "کلمات آلمانی برای آدم‌های آزاردهنده که به طرز خنده‌داری دقیق هستند",
+        "description": "Besserwisser، Pantoffelheld، Erbsenzähler، Schattenparker — آلمانی برای هر نوع آدم آزاردهنده‌ای یک کلمه دارد."
+      },
+      "ar": {
+        "title": "كلمات ألمانية لأنواع مزعجة من البشر مضحكة في دقتها",
+        "description": "Besserwisser، Pantoffelheld، Erbsenzähler، Schattenparker — الألمانية لديها كلمة لكل نوع من الأشخاص المزعجين."
+      },
+      "es": {
+        "title": "Palabras Alemanas Para Gente Molesta Que Son Increíblemente Específicas",
+        "description": "Besserwisser, Pantoffelheld, Erbsenzähler, Schattenparker — el alemán tiene una palabra para cada tipo de persona molesta."
+      },
+      "uz": {
+        "title": "Bezorilar Odamlarni Tasvirlovchi Nemis So'zlari — Shu Qadar Aniqki, Kulgili",
+        "description": "Besserwisser, Pantoffelheld, Erbsenzähler, Schattenparker — nemis tilida har qanday bezori odam turi uchun so'z bor."
+      }
+    }
   }
 ]
