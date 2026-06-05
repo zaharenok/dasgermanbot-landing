@@ -9689,5 +9689,57 @@
         "description": "Besserwisser, Pantoffelheld, Erbsenzähler, Schattenparker — nemis tilida har qanday bezori odam turi uchun so'z bor."
       }
     }
+  },
+  {
+    "slug": "german-words-laziness-procrastination",
+    "date": "2026-06-05",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "beginner",
+      "funny"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words For Laziness And Procrastination That Are Too Relatable",
+        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — German words for being lazy that prove Germans understand the art of doing nothing."
+      },
+      "ru": {
+        "title": "Немецкие слова для лени и прокрастинации, которые слишком знакомы",
+        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — немецкие слова о лени, доказывающие, что немцы понимают ничегонеделание."
+      },
+      "uk": {
+        "title": "Німецькі слова для ліні та прокрастінації, які занадто знайомі",
+        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — німецькі слова про лінь, що доводять: німці розуміють нічогонероблення."
+      },
+      "sk": {
+        "title": "Nemecké slová pre lenivosť a prokrastináciu, ktoré sú až príliš známe",
+        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — nemecké slová o lenivosti, ktoré dokazujú, že Nemci chápu ničnerobenie."
+      },
+      "tr": {
+        "title": "Tembellik ve Erteleme İçin Almanca Kelimeler — Çok Tanıdık Gelen",
+        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — Almanların hiçbir şey yapma sanatını anlatan kelimeler."
+      },
+      "ro": {
+        "title": "Cuvinte Germane pentru Lene și Amânare — Prea Recognoscibile",
+        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — cuvinte germane pentru lene și arta de a nu face nimic."
+      },
+      "fa": {
+        "title": "کلمات آلمانی برای تنبلی و تعلل که بیش از حد آشنا هستند",
+        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — کلمات آلمانی برای تنبلی و هنر هیچ‌کار نکردن."
+      },
+      "ar": {
+        "title": "كلمات ألمانية للكسل والتسويف — مألوفة أكثر من اللازم",
+        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — كلمات ألمانية للكسل وفن عدم فعل أي شيء."
+      },
+      "es": {
+        "title": "Palabras Alemanas Para La Pereza Y La Procrastinación — Demasiado Identificables",
+        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — palabras alemanas para la pereza y el arte de no hacer nada."
+      },
+      "uz": {
+        "title": "Dangasa va kechiktirish uchun nemischa so'zlar — juda tanish",
+        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — dangasalik uchun nemischa so'zlar va hech narsa qilmaslik san'ati."
+      }
+    }
   }
 ]
