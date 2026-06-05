@@ -9741,5 +9741,57 @@
         "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — dangasalik uchun nemischa so'zlar va hech narsa qilmaslik san'ati."
       }
     }
+  },
+  {
+    "slug": "german-words-baumarkt-hardware-store",
+    "date": "2026-06-05",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "beginner",
+      "practical"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words You Need At The Baumarkt (Hardware Store)",
+        "description": "Baumarkt, Werkzeug, Bohrer, Schrauben — the German hardware store vocabulary every expat needs."
+      },
+      "ru": {
+        "title": "Немецкие слова, которые нужны вам в Baumarkt (строительном магазине)",
+        "description": "Baumarkt, Werkzeug, Bohrer, Schrauben — немецкий словарь строительного магазина для каждого экспата."
+      },
+      "uk": {
+        "title": "Німецькі слова, які потрібні вам у Baumarkt (будівельному магазині)",
+        "description": "Baumarkt, Werkzeug, Bohrer, Schrauben — німецький словник будівельного магазину."
+      },
+      "sk": {
+        "title": "Nemecké slová, ktoré potrebujete v Baumarkt (stavebnine)",
+        "description": "Baumarkt, Werkzeug, Bohrer, Schrauben — nemecký slovník stavebniny pre každého expata."
+      },
+      "tr": {
+        "title": "Baumarkt'ta (Hırdavatçıda) İhtiyacınız Olan Almanca Kelimeler",
+        "description": "Baumarkt, Werkzeug, Bohrer, Schrauben — her göçmenin bilmesi gereken Alman hırdavatçı kelime hazinesi."
+      },
+      "ro": {
+        "title": "Cuvintele germane de care ai nevoie la Baumarkt (Magazinul de bricolaj)",
+        "description": "Baumarkt, Werkzeug, Bohrer, Schrauben — vocabularul esențial pentru magazinul de bricolaj din Germania."
+      },
+      "fa": {
+        "title": "کلماتی که در Baumarkt (فروشگاه ابزارآلات) آلمان به آنها نیاز دارید",
+        "description": "Baumarkt، Werkzeug، Bohrer، Schrauben — واژگان ضروری فروشگاه ابزارآلات آلمانی برای هر مهاجر."
+      },
+      "ar": {
+        "title": "الكلمات الألمانية التي تحتاجها في Baumarkt (متجر الأدوات)",
+        "description": "Baumarkt، Werkzeug، Bohrer، Schrauben — المفردات الألمانية الأساسية لمتجر الأدوات."
+      },
+      "es": {
+        "title": "Las palabras alemanas que necesitas en el Baumarkt (Ferretería)",
+        "description": "Baumarkt, Werkzeug, Bohrer, Schrauben — el vocabulario esencial de la ferretería alemana."
+      },
+      "uz": {
+        "title": "Baumarktda (Qurilish do'konida) kerak bo'ladigan nemischa so'zlar",
+        "description": "Baumarkt, Werkzeug, Bohrer, Schrauben — har bir muhojir bilishi kerak bo'lgan nemis qurilish do'koni lug'ati."
+      }
+    }
   }
 ]
