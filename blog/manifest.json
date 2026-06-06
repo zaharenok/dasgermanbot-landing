@@ -9793,5 +9793,57 @@
         "description": "Baumarkt, Werkzeug, Bohrer, Schrauben — har bir muhojir bilishi kerak bo'lgan nemis qurilish do'koni lug'ati."
       }
     }
+  },
+  {
+    "slug": "german-pet-culture-vocabulary",
+    "date": "2026-06-06",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "beginner",
+      "funny"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Pet Culture Vocabulary — Why Germans Treat Dogs Better Than Humans",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — German words proving dogs in Germany live better than most humans."
+      },
+      "ru": {
+        "title": "Немецкая зоокультура — почему немцы относятся к собакам лучше, чем к людям",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — немецкие слова, доказывающие, что собаки живут лучше людей."
+      },
+      "uk": {
+        "title": "Німецька зоокультура — чому німці ставляться до собак краще, ніж до людей",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — німецькі слова, що доводять: собаки живуть краще за людей."
+      },
+      "sk": {
+        "title": "Nemecká zookultúra — prečo Nemci zaobchádzajú so psami lepšie ako s ľuďmi",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — nemecké slová dokazujúce, že psi žijú lepšie ako ľudia."
+      },
+      "tr": {
+        "title": "Alman Evcil Hayvan Kültürü — Almanlar Neden Köpeklere İnsanlardan Daha İyi Davranıyor",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — Almanya'da köpeklerin çoğu insandan daha iyi yaşadığını kanıtlayan kelimeler."
+      },
+      "ro": {
+        "title": "Vocabularul culturii animalelor de companie în Germania — De ce îi tratează pe câini mai bine decât pe oameni",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — cuvinte care demonstrează că câinii au o viață mai bună decât oamenii."
+      },
+      "fa": {
+        "title": "واژگان فرهنگ حیوانات خانگی آلمان — چرا آلمانی‌ها با سگ‌ها بهتر رفتار می‌کنند",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — کلماتی که ثابت می‌کنند سگ‌ها بهتر از انسان‌ها زندگی می‌کنند."
+      },
+      "ar": {
+        "title": "مفردات ثقافة الحيوانات الأليفة في ألمانيا — لماذا يعاملون الكلاب أفضل من البشر",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — كلمات تثبت أن الكلاب تعيش أفضل من البشر."
+      },
+      "es": {
+        "title": "Vocabulario de la cultura de mascotas en Alemania — Por qué tratan mejor a los perros que a los humanos",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — palabras que demuestran que los perros viven mejor que los humanos."
+      },
+      "uz": {
+        "title": "Nemis uy hayvonlari madaniyati — Nemislar itlarni odamlardan yaxshiroq ko'radi",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — itlarning odamlardan yaxshi yashashini isbotlovchi so'zlar."
+      }
+    }
   }
 ]
