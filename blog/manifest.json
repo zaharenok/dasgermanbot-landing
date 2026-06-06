@@ -9845,5 +9845,57 @@
         "description": "Hundesteuer, Gassi gehen, Hundeführerschein — itlarning odamlardan yaxshi yashashini isbotlovchi so'zlar."
       }
     }
+  },
+  {
+    "slug": "german-phrases-apotheke-pharmacy",
+    "date": "2026-06-06",
+    "tags": [
+      "phrases",
+      "health",
+      "beginner",
+      "essential"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words You Need At The Apotheke To Survive In Germany",
+        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel — German pharmacy vocabulary that will save your life."
+      },
+      "ru": {
+        "title": "Немецкие слова, которые нужны вам в Apotheke, чтобы выжить",
+        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel — немецкий аптечный словарь, который спасёт жизнь."
+      },
+      "uk": {
+        "title": "Німецькі слова, які потрібні вам у Apotheke, щоб вижити",
+        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel — німецький аптечний словник, який врятує життя."
+      },
+      "sk": {
+        "title": "Nemecké slová, ktoré potrebujete v Apotheke na prežitie",
+        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel — nemecký lekárnický slovník, ktorý vám zachráni život."
+      },
+      "tr": {
+        "title": "Almanya'da Hayatta Kalmanız İçin Apotheke'de Bilmeniz Gereken Kelimeler",
+        "description": "Apotheke vs Drogerie, Schmerzmittel — hayatınızı kurtaracak Alman eczane kelime dağarcığı."
+      },
+      "ro": {
+        "title": "Cuvintele Germane De Care Ai Nevoie La Apotheke Pentru A Supraviețui",
+        "description": "Apotheke vs Drogerie, Schmerzmittel — vocabularul de farmacie care îți va salva viața."
+      },
+      "fa": {
+        "title": "کلمات آلمانی که در Apotheke برای زنده ماندن نیاز دارید",
+        "description": "Apotheke در برابر Drogerie، Schmerzmittel — واژگان داروخانه که جان شما را نجات می‌دهد."
+      },
+      "ar": {
+        "title": "الكلمات الألمانية التي تحتاجها في Apotheke للبقاء على قيد الحياة",
+        "description": "Apotheke مقابل Drogerie، Schmerzmittel — مفردات الصيدلية التي ستنقذ حياتك."
+      },
+      "es": {
+        "title": "Las Palabras Alemanas Que Necesitas En La Apotheke Para Sobrevivir",
+        "description": "Apotheke vs Drogerie, Schmerzmittel — vocabulario de farmacia que te salvará la vida."
+      },
+      "uz": {
+        "title": "Germaniyada Tirik Qolish Uchun Apotheke'da Bilishingiz Kerak",
+        "description": "Apotheke vs Drogerie, Schmerzmittel — hayotingizni saqlab qoladigan dorixona lug'ati."
+      }
+    }
   }
 ]
