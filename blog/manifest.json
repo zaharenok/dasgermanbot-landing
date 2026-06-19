@@ -9910,43 +9910,95 @@
     "langs": {
       "en": {
         "title": "German 'English' Words That Mean Something Completely Different",
-        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - Germans think these are English. They are not."
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking — Germans think these are English. They are not. Or rather, they are English words with completely different meanings."
       },
       "ru": {
-        "title": "Nemeckie anglijskie slova, kotorye znachat nechto sovershenno inoe",
-        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - nemcy dumaut, eto anglijskie. Eto ne tak."
+        "title": "Немецкие «английские» слова, которые значат нечто совершенно иное",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking — немцы думают, что это английский. Это не так. Или скорее, это английские слова с совершенно другим смыслом."
       },
       "uk": {
-        "title": "Nimecki anglijski slova, jaki znachat descho sovim inse",
-        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - nimci dumaut, sho ce anglijska. Ce ne tak."
+        "title": "Німецькі «англійські» слова, які значать дещо зовсім інше",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking — німці думають, що це англійська. Це не так. Або скоріше, це англійські слова з зовсім іншим значенням."
       },
       "sk": {
-        "title": "Nemecke anglicke slova, ktore znamenaju nieco uplne ine",
-        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - Nemci si myslia, ze to je anglictina. Nie je."
+        "title": "Nemecké „anglické\" slová, ktoré znamenajú niečo úplne iné",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking — Nemci si myslia, že to je angličtina. Nie je. Alebo presnejšie, sú to anglické slová s úplne iným významom."
       },
       "tr": {
-        "title": "Almanca 'Ingilizce' Kelimeler Ki Tamamen Farkli Anlama Geliyor",
-        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - Almanlar bunlarin Ingilizce oldugunu saniyor."
+        "title": "Almanca 'İngilizce' Kelimeler Ki Tamamen Farklı Anlama Geliyor",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking — Almanlar bunların İngilizce olduğunu sanıyor. Değil. Daha doğrusu, bunlar tamamen farklı anlamlara gelen İngilizce kelimeler."
       },
       "ro": {
-        "title": "Cuvintele 'englezesti' germane care inseamna cu totul altceva",
-        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - Germanii cred ca acestea sunt englezesti."
+        "title": "Cuvintele 'englezești' germane care înseamnă cu totul altceva",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking — Germanii cred că acestea sunt englezești. Nu sunt. Mai exact, sunt cuvinte englezești cu sensuri complet diferite."
       },
       "fa": {
-        "title": "Nemischa 'inglizcha' so'zlar",
-        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - nemislar bul inglizcha deb o'ylashadi."
+        "title": "واژه‌های 'انگلیسی' آلمانی که معنایی کاملاً متفاوت دارند",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking — آلمانی‌ها فکر می‌کنند اینها انگلیسی هستند. نیستند. یا بهتر بگویم، اینها واژه‌های انگلیسی با معانی کاملاً متفاوت هستند."
       },
       "ar": {
-        "title": "Kalimat 'injiliziyya' almaniyya ta'ni shay'an mukhtalifan",
-        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - al-alman yazonn haqqi kalimat injiliziyya."
+        "title": "كلمات 'إنجليزية' ألمانية تعني شيئًا مختلفًا تمامًا",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking — الألمان يظنون أن هذه كلمات إنجليزية. ليست كذلك. أو بالأحرى، هي كلمات إنجليزية ذات معانٍ مختلفة تمامًا."
       },
       "es": {
         "title": "Palabras 'inglesas' alemanas que significan algo completamente diferente",
-        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - los alemanes creen que son inglesas."
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking — Los alemanes creen que estas palabras son inglesas. No lo son. O más bien, son palabras inglesas con significados completamente diferentes."
       },
       "uz": {
         "title": "Ma'nosi butunlay boshqacha bo'lgan nemis 'inglizcha' so'zlar",
-        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - nemislar bul inglizcha deb o'ylashadi."
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking — nemislar bular inglizcha deb o'ylashadi. Aslida unday emas. Yoki boshqacha qilib aytganda, bular ma'nosi butunlay boshqacha bo'lgan inglizcha so'zlar."
+      }
+    }
+  },
+  {
+    "slug": "german-garden-culture-words",
+    "date": "2026-06-07",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "beginner",
+      "funny"
+    ],
+    "langs": {
+      "en": {
+        "title": "German Words That Prove Germans Are Obsessed With Their Gardens",
+        "description": "Schrebergarten, Gartenzwerg, Rasenmähen, Unkraut — German garden culture words that reveal a national obsession with lawns, gnomes, and perfectly straight flower beds."
+      },
+      "ru": {
+        "title": "Немецкие слова, доказывающие одержимость немцев садом",
+        "description": "Schrebergarten, Gartenzwerg, Rasenmähen, Unkraut — слова немецкой садовой культуры, раскрывающие национальную одержимость газонами, гномами и идеально ровными клумбами."
+      },
+      "uk": {
+        "title": "Німецькі слова, що доводять: німці одержимі садом",
+        "description": "Schrebergarten, Gartenzwerg, Rasenmähen, Unkraut — слова німецької садової культури, які розкривають національну одержимість газонами, гномами та ідеально рівними клумбами."
+      },
+      "sk": {
+        "title": "Nemecké slová, ktoré dokazujú, že Nemci sú posadnutí záhradou",
+        "description": "Schrebergarten, Gartenzwerg, Rasenmähen, Unkraut — slová nemeckej záhradnej kultúry, ktoré odhaľujú národnú posadnutosť trávnikmi, škriatkami a dokonale rovnými záhonmi."
+      },
+      "tr": {
+        "title": "Almanların Bahçelerine Tıkınıp Tıkınmadığını Kanıtlayan Almanca Kelimeler",
+        "description": "Schrebergarten, Gartenzwerg, Rasenmähen, Unkraut — Almanların çimler, bahçe cüceleri ve kusursuz düz çiçek tarhlarına olan ulusal takıntısını ortaya çıkaran Alman bahçe kültürü kelimeleri."
+      },
+      "ro": {
+        "title": "Cuvinte Germane Care Demonstrează Că Germanii Sunt Obsedați de Grădinile Lor",
+        "description": "Schrebergarten, Gartenzwerg, Rasenmähen, Unkraut — cuvinte ale culturii grădinăritului german care dezvăluie o obsesie națională pentru gazon, gnomi și straturi de flori perfect drepte."
+      },
+      "fa": {
+        "title": "کلماتی آلمانی که ثابت می‌کنند آلمانی‌ها به باغ‌هایشان وسواس دارند",
+        "description": "Schrebergarten، Gartenzwerg، Rasenmähen، Unkraut — کلمات فرهنگ باغبانی آلمانی که آشکار می‌سازند یک وسواس ملی برای چمن‌ها، کوتوله‌های باغ و رگه‌های گل کاملاً صاف."
+      },
+      "ar": {
+        "title": "كلمات ألمانية تثبت أن الألمان مهووسون بحدائقهم",
+        "description": "Schrebergarten، Gartenzwerg، Rasenmähen، Unkraut — كلمات من ثقافة البستنة الألمانية تكشف هوساً قومياً بالأعشاب وأقزام الحدائق وأحواض الزهور المستقيمة تماماً."
+      },
+      "es": {
+        "title": "Palabras Alemanas Que Demuestran Que Los Alemanes Están Obsesionados Con Sus Jardines",
+        "description": "Schrebergarten, Gartenzwerg, Rasenmähen, Unkraut — palabras de la cultura de jardinería alemana que revelan una obsesión nacional por el césped, los gnomos y los macizos de flores perfectamente rectos."
+      },
+      "uz": {
+        "title": "Nemislar Bog'lariga Oshiq Ekanligini Isbotlovchi Nemischa So'zlar",
+        "description": "Schrebergarten, Gartenzwerg, Rasenmähen, Unkraut — nemislar maysazorlar, bog' gnomlari va mukammal tekis gulli yo'laklarga bo'lgan milliy oshiqni fosh qiluvchi nemis bog' madaniyati so'zlari."
       }
     }
   }
