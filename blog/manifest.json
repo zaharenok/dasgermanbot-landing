@@ -334,20 +334,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German Tongue Twisters: 20 Phrases That Will Tie Your Tongue in Knots",
-        "description": "Struggling with German pronunciation? Master these 20 German tongue twisters (Zungenbrecher) that will challenge even advanced learners — from 'Fischers Fritz' to 'Blitz blinkt' and improve your German speaking skills while having fun."
+        "title": "German Tongue Twisters (Zungenbrecher): Fun Way to Improve Pronunciation",
+        "description": "Master German pronunciation with 20+ classic tongue twisters! Learn fun Zungenbrecher from easy to expert level, improve your accent, practice difficult sounds like ch, eu, ü, and r. Complete guide with translations, pronunciation tips, and cultural insights."
       },
       "ru": {
-        "title": "Немецкие скороговорки: 20 фраз, которые запутают твой язык",
-        "description": "Борешься с немецким произношением? Овладей этими 20 немецкими скороговорками (Zungenbrecher), которые вызовут затруднения даже у продвинутых учащихся — от 'Fischers Fritz' до 'Blitz blinkt' и улучь свои немецкие разговорные навыки, получая удовольствие."
+        "title": "Немецкие скороговорки (Zungenbrecher): Весёлый способ улучшить произношение",
+        "description": "Овладей немецким произношением с 20+ классическими скороговорками! Учите забавные Zungenbrecher от лёгкого до экспертного уровня, улучшай акцент, тренируй сложные звуки ch, eu, ü, r. Полный гид с переводами, советами по произношению и культурными инсайтами."
       },
       "uk": {
-        "title": "Німецькі скоромовки: 20 фраз, які заплутають твій язик",
-        "description": "Борешся з німецькою вимовою? Оволодій цими 20 німецькими скоромовками (Zungenbrecher), які викликають труднощі навіть у просунутих учнів — від 'Fischers Fritz' до 'Blitz blinkt' та покращ свої німецькі розмовні навички, отримуючи задоволення."
+        "title": "Німецькі скоромовки (Zungenbrecher): Веселий спосіб покращити вимову",
+        "description": "Оволодій німецькою вимовою з 20+ класичними скоромовками! Вивчай забавні Zungenbrecher від легкого до експертного рівня, покращуй акцент, тренуй складні звуки ch, eu, ü, r. Повний гід з перекладами, порадами з вимови та культурними інсайтами."
       },
       "sk": {
-        "title": "Nemecké jazykolamy: 20 fráz, ktoré ti zaviažu jazyk",
-        "description": "Bojuješ s nemeckou výslovnosťou? Ovládni týchto 20 nemeckých jazykolám (Zungenbrecher), ktoré skúšia aj pokročilých študentov — od 'Fischers Fritz' po 'Blitz blinkt' a zdokonaľ svoje nemecké rečové zručnosti, pričom sa zabavíš."
+        "title": "Nemecké spovedlivoslovia (Zungenbrecher): Zábavný spôsob, ako zlepšiť výslovnosť",
+        "description": "Ovládni nemeckú výslovnosť s 20+ klasickými spovedlivosloviami! Nauč sa zábavné Zungenbrecher od ľahkého po expertú úroveň, zlepši akcent, trénuj ťažké zvuky ch, eu, ü, r. Kompletný sprievodca s prekladmi, tipmi na výslovnosť a kultúrnymi insightmi."
       },
       "tr": {
         "title": "Alman Dili Düğümleme Sözleri (Zungenbrecher): Telaffuzu Geliştirmenin Eğlencili Yolu",
@@ -504,7 +504,7 @@
         "description": "Немецкие слова, которые заставят тебя краснеть, смеяться или ёжиться, когда ты их слышишь. От 'Fahrt' до 'Dick' — открой немецкую лексику, которая звучит совершенно иначе (и часто смешно) для англоговорящих. Идеально для новичков, которые хотят посмеяться во время учёбы."
       },
       "uk": {
-        "title": "50 німецьких слів, які звучать смішно (або неприлично) англійською",
+        "title": "50 німецьких слів, які звучать смішно (або непристойно) англійською",
         "description": "Німецькі слова, які змусять тебе червоніти, сміятися або ёжитися, коли ти їх чуєш. Від 'Fahrt' до 'Dick' — відкрий німецьку лексику, яка звучить зовсім інакше (і часто смішно) для англомовних. Ідеально для новачків, які хочуть посміятися під час навчання."
       },
       "sk": {
@@ -603,20 +603,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German Prepositions Made Simple: The Ultimate Guide to Accusative, Dative & Two-Way Prepositions",
-        "description": "Struggling with German prepositions? Learn the ultimate guide to German prepositions with clear rules: accusative-only, dative-only, two-way prepositions, and memory tricks that actually stick. Includes Weil, Für, Mit, Zu, Bei and more."
+        "title": "German Prepositions: Complete Guide to Präpositionen with Cases for Beginners",
+        "description": "Struggling with German prepositions and their cases? Master essential German prepositions from accusative (für, durch, ohne) and dative (mit, von, bei) to two-way prepositions (in, auf, an). Learn with clear examples, memory tricks, and practice strategies."
       },
       "ru": {
-        "title": "Немецкие предлоги просто: Окончательный_guide к Accusative, Dative & Two-Way",
-        "description": "Борешься с немецкими предлогами? Изучи окончательный_guide к немецким предлогам с чёткими правилами: только accusative, только dative, двусторонние предлоги и мнемоника, которая реально работает. Включает Weil, Für, Mit, Zu, Bei и другие."
+        "title": "Немецкие предлоги: Полный справочник Präpositionen с падежами для начинающих",
+        "description": "Борешься с немецкими предлогами и их падежами? Овладей основными немецкими предлогами от винительного (für, durch, ohne) и дательного (mit, von, bei) до двунаправленных предлогов (in, auf, an). Изучи с ясными примерами, мнемоническими приёмами и стратегиями практики."
       },
       "uk": {
-        "title": "Німецькі прийменники просто: Остаточний_guide до Accusative, Dative & Two-Way",
-        "description": "Борешся з німецькими прийменниками? Вивчи остаточний_guide до німецьких прийменників з чіткими правилами: тільки accusative, тільки dative, двосторонні прийменники та мнемоніка, яка реально працює. Включає Weil, Für, Mit, Zu, Bei та інші."
+        "title": "Німецькі прийменники: Повний довідник Präpositionen з відмінками для початківців",
+        "description": "Борешся з німецькими прийменниками та їх відмінками? Оволодійте основними німецькими прийменниками від знахідного (für, durch, ohne) і давального (mit, von, bei) до двонаправлених прийменників (in, auf, an). Вивчіть із ясними прикладами, мнемонічними прийомами та стратегіями практики."
       },
       "sk": {
-        "title": "Nemecké predložky jednoducho: Ultimate sprievodca pre Accusative, Dative & Two-Way",
-        "description": "Bojuješ s nemeckými predložkami? Nauč sa ultimate sprievodcu k nemeckým predložkám s jasnými pravidlami: len accusative, len dative, obojsmerné predložky a mnemotechniky, ktoré naozaj fungujú. Zahŕňa Weil, Für, Mit, Zu, Bei a ďalšie."
+        "title": "Nemecké predložky: Kompletný sprievodca Präpositionen s pádmi pre začiatočníkov",
+        "description": "Bojuješ s nemeckými predložkami a ich pádmi? Ovládni základné nemecké predložky od akuzatívu (für, durch, ohne) a datívu (mit, von, bei) po obojsmerné predložky (in, auf, an). Nauč sa s jasnými príkladmi, pamäťovými trikmi a stratégiami cvičenia."
       },
       "es": {
         "title": "Preposiciones en alemán: guía completa de Präpositionen con casos para principiantes",
@@ -709,20 +709,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German Cases Made Simple: The Pain-Free Guide to Nominative, Accusative, Dative & Genitive",
-        "description": "Struggling with German cases? Here's the simple guide to the four German cases (nominative, accusative, dative, genitive) with clear rules, real examples, and memory hacks that actually work."
+        "title": "German Cases: Complete Guide to Die Fälle for Beginners",
+        "description": "Struggling with German cases? Master German cases (Nominative, Accusative, Dative, Genitive) with clear explanations. Learn when to use each case, how articles change, case endings for articles and pronouns, and practical examples for every case."
       },
       "ru": {
-        "title": "Немецкие падежи просто: Безболезненный_guide к Nominative, Accusative, Dative & Genitive",
-        "description": "Борешься с немецкими падежами? Вот простой_guide к четырём немецким падежам (nominative, accusative, dative, genitive) с чёткими правилами, реальными примерами и мнемоникой, которая реально работает."
+        "title": "Немецкие падежи Der Die Das: Полный справочник падежей для начинающих",
+        "description": "Борешься с немецкими падежами (Kasus)? Овладей четырьмя немецкими падежами — Nominativ, Akkusativ, Dativ, Genitiv — с простыми правилами, таблицами и примерами. Изучи когда и как использовать каждый падеж с демо-словами der/die/das."
       },
       "uk": {
-        "title": "Німецькі відмінки просто: Безболісний_guide до Nominative, Accusative, Dative & Genitive",
-        "description": "Борешся з німецькими відмінками? Ось простий_guide до чотирьох німецьких відмінків (nominative, accusative, dative, genitive) з чіткими правилами, реальними прикладами та мнемонікою, яка реально працює."
+        "title": "Німецькі відмінки Der Die Das: Повний довідник відмінків для початківців",
+        "description": "Борешся з німецькими відмінками (Kasus)? Оволодійте чотирма німецькими відмінками — Nominativ, Akkusativ, Dativ, Genitiv — з простими правилами, таблицями та прикладами. Вивчи коли і як використовувати кожен відмінок з демо-словами der/die/das."
       },
       "sk": {
-        "title": "Nemecké pády jednoducho: Bezbolestný sprievodca pre Nominative, Accusative, Dative & Genitive",
-        "description": "Bojuješ s nemeckými pádmi? Tu je jednoduchý sprievodca štyrmi nemeckými pádmi (nominative, accusative, dative, genitive) s jasnými pravidlami, skutočnými príkladmi a mnemotechnikmi, ktoré naozaj fungujú."
+        "title": "Nemecké pády Der Die Das: Kompletný sprievodca pádmi pre začiatočníkov",
+        "description": "Bojuješ s nemeckými pádmi (Kasus)? Ovládnite štyri nemecké pády — Nominativ, Akkusativ, Dativ, Genitiv — s jednoduchými pravidlami, tabuľkami a príkladmi. Naučte sa kedy a ako použiť každý pád s demo-slovami der/die/das."
       },
       "tr": {
         "title": "German Cases: Complete Guide to Die Fälle for Beginners",
@@ -762,20 +762,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German Numbers Made Simple: Count from 0 to 100 Without Pain",
-        "description": "Struggling with German numbers? Learn to count from 0 to 100+ with simple patterns, pronunciation hacks, and memory tricks. German numbers follow rules — once you see them, counting becomes automatic."
+        "title": "German Numbers: Complete Guide to Zahlen for Beginners",
+        "description": "Want to count in German? Master essential German number vocabulary from null to eine Million. Learn Zahlen vocabulary with proper pronunciation tips, number patterns, and cultural notes about using numbers in German-speaking countries."
       },
       "ru": {
-        "title": "Немецкие цифры просто: Считай от 0 до 100 без боли",
-        "description": "Борешься с немецкими цифрами? Научись считать от 0 до 100+ с простыми паттернами, хитростями произношения и мнемоникой. Немецкие цифры следуют правилам — как только их видишь, счёт становится автоматическим."
+        "title": "Немецкие цифры: Полный справочник Zahlen для начинающих",
+        "description": "Хотите считать по-немецки? Освойте основную словарную лексику немецких цифр от null до eine Million. Выучите лексику Zahlen с советами по произношению, числовыми паттернами и культурными заметками об использовании цифр в немецкоговорящих странах."
       },
       "uk": {
-        "title": "Німецькі цифри просто: Рахуй від 0 до 100 без болю",
-        "description": "Борешся з німецькими цифрами? Навчися рахувати від 0 до 100+ з простими паттернами, хитрощами вимови та мнемонікою. Німецькі цифри слідують правилам — як тільки їх бачиш, рахунок стає автоматичним."
+        "title": "Німецькі цифри: Повний довідник Zahlen для початківців",
+        "description": "Хочете рахувати німецькою? Оволодійте основною лексикою німецьких цифр від null до eine Million. Вивчіть лексику Zahlen з порадами щодо вимови, числовими патернами та культурними нотатками про використання цифр у німецькомовних країнах."
       },
       "sk": {
-        "title": "Nemecké čísla jednoducho: Počítaj od 0 do 100 bez bolesti",
-        "description": "Bojuješ s nemeckými číslami? Nauč sa počítať od 0 do 100+ s jednoduchými vzormi, výslovnostnými trikmi a mnemotechnikmi. Nemecké čísla nasledujú pravidlá — keď ich uvidíš, počítanie sa stane automatickým."
+        "title": "Nemecké čísla: Kompletný sprievodca Zahlen pre začiatočníkov",
+        "description": "Chcete počítať po nemecky? Ovládnite základnú nemčinu slovnú zásobu čísel od null po eine Million. Naučte sa slovnú zásobu Zahlen s tipmi na výslovnosť, číselnymi vzormi a kultúrnymi poznámkami o používaní čísel v nemecky hovoriacich krajinách."
       },
       "tr": {
         "title": "Almanca Sayılar: Başlangıç Seviyesi İçin Zahlen Rehberi",
@@ -815,20 +815,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German Modal Verbs: The Simple Guide to Müssen, Können, Wollen & More",
-        "description": "Struggling with German modal verbs? Learn the 6 German modal verbs (müssen, können, wollen, dürfen, sollen, mögen) with simple rules, real examples, and memory tricks that actually stick."
+        "title": "German Modal Verbs: Complete Guide (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Master German modal verbs! Learn the 6 modal verbs können, müssen, wollen, dürfen, sollen, mögen with meanings, conjugation, usage rules, and difference from English. Complete guide with examples, charts, and common mistakes to avoid."
       },
       "ru": {
-        "title": "Немецкие модальные глаголы: Простой_guide к Müssen, Können, Wollen и другим",
-        "description": "Борешься с немецкими модальными глаголами? Изучи 6 немецких модальных глаголов (müssen, können, wollen, dürfen, sollen, mögen) с простыми правилами, реальными примерами и мнемоникой, которая реально работает."
+        "title": "Немецкие модальные глаголы: Полный гид (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Овладей немецкими модальными глаголами! Изучи 6 модальных глаголов können, müssen, wollen, dürfen, sollen, mögen с их значениями, спряжением, правилами использования и отличиями от английского. Полный гид с примерами, таблицами и распространёнными ошибками."
       },
       "uk": {
-        "title": "Німецькі модальні дієслова: Простий_guide до Müssen, Können, Wollen та інших",
-        "description": "Борешся з німецькими модальними дієсловами? Вивчи 6 німецьких модальних дієслів (müssen, können, wollen, dürfen, sollen, mögen) з простими правилами, реальними прикладами та мнемонікою, яка реально працює."
+        "title": "Німецькі модальні дієслова: Повний гід (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Оволодійте німецькими модальними дієсловами! Вивчіть 6 модальних дієслів können, müssen, wollen, dürfen, sollen, mögen з їх значеннями, відмінюванням, правилами використання та відмінностями від англійської. Повний гід з прикладами, таблицями та поширеними помилками."
       },
       "sk": {
-        "title": "Nemecké modálne slovesá: Jednoduchý sprievodca pre Müssen, Können, Wollen a ďalšie",
-        "description": "Bojuješ s nemeckými modálnymi slovesami? Nauč sa 6 nemeckých modálnych slovies (müssen, können, wollen, dürfen, sollen, mögen) s jednoduchými pravidlami, skutočnými príkladmi a mnemotechnikmi, ktoré naozaj fungujú."
+        "title": "Nemecké modálne slovesá: Kompletný sprievodca (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
+        "description": "Ovládni nemecké modálne slovesá! Nauč sa 6 modálnych slovies können, müssen, wollen, dürfen, sollen, mögen s ich významami, skloňovaním, pravidlami používania a rozdielmi od angličtiny. Kompletný sprievodca s príkladmi, tabuľkami a bežnými chybami, ktorým sa treba vyhnúť."
       },
       "tr": {
         "title": "German Modal Verbs: Complete Guide (Können, Müssen, Wollen, Dürfen, Sollen, Mögen)",
@@ -868,20 +868,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German Separable Verbs: The Simple Rule That Unlocks Hundreds of Words",
-        "description": "Confused by German separable verbs? Here's the simple rule: prefix comes off at the end. Learn how German separable verbs work, with common examples, memory tricks, and a complete list of must-know prefixes."
+        "title": "German Separable Verbs: Complete Guide (How to Use Prefix Verbs like a Native)",
+        "description": "Master German separable verbs (trennbare Verben)! Learn how prefixes like ab-, an-, auf-, ein-, mit-, weg- work, when to separate them, and the rules for different tenses. Complete guide with examples, lists, and memory tricks."
       },
       "ru": {
-        "title": "Немецкие разделяемые глаголы: Простое правило, которое открывает сотни слов",
-        "description": "Запутался в немецких разделяемых глаголах? Вот простое правило: приставка уходит в конец. Узнай, как работают немецкие разделяемые глаголы, с распространёнными примерами, мнемоникой и полным списком обязательных приставок."
+        "title": "Немецкие разделяемые глаголы: Полный гид (Как использовать глаголы с приставками как носитель)",
+        "description": "Овладей немецкими разделяемыми глаголами (trennbare Verben)! Изучи как работают приставки ab-, an-, auf-, ein-, mit-, weg-, когда их разделять и правила для разных времён. Полный гид с примерами, списками и мнемоническими правилами."
       },
       "uk": {
-        "title": "Німецькі відокремлювані дієслова: Просте правило, яке відкриває сотні слів",
-        "description": "Заплутався в німецьких відокремлюваних дієсловах? Ось просте правило: приставка йде в кінець. Дізнайся, як працюють німецькі відокремлювані дієслова, з поширеними прикладами, мнемонікою та повним списком обов'язкових приставок."
+        "title": "Німецькі відокремлювані дієслова: Повний гід (Як використовувати дієслова з префіксами як носій)",
+        "description": "Оволодійте німецькими відокремлюваними дієсловами (trennbare Verben)! Вивчіть як працюють префікси ab-, an-, auf-, ein-, mit-, weg-, коли їх відокремлювати і правила для різних часів. Повний гід з прикладами, списками та мнемонічними правилами."
       },
       "sk": {
-        "title": "Nemecké deliteľné slovesá: Jednoduché pravidlo, ktoré odomká stovky slov",
-        "description": "Zobral si sa v nemeckých deliteľných slovesách? Tu je jednoduché pravidlo: predpona ide na koniec. Dozvi sa, ako fungujú nemecké deliteľné slovesá, s bežnými príkladmi, mnemotechnikmi a úplným zoznamom povinných predpôn."
+        "title": "Nemecké deliteľné slovesá: Kompletný sprievodca (Ako používať slovesá s predponami ako rodák)",
+        "description": "Ovládni nemecké deliteľné slovesá (trennbare Verben)! Nauč sa ako fungujú predpony ab-, an-, auf-, ein-, mit-, weg-, kedy sa oddeľujú a pravidlá pre rôzne časy. Kompletný sprievodca s príkladmi, zoznamami a mnemotechnickými pravidlami."
       },
       "tr": {
         "title": "German Separable Verbs: Complete Guide (How to Use Prefix Verbs like a Native)",
@@ -1532,20 +1532,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German False Friends: Words That Look English But Aren't",
-        "description": "Think 'gift' means a present in German? Think again. Here are the most dangerous German-English false friends that trip up beginners — and how to avoid embarrassing mistakes."
+        "title": "German False Friends and Common Mistakes: Don't Get Fooled! Complete Guide",
+        "description": "Don't embarrass yourself! Learn German false friends and common mistakes that trick English speakers. Master words that look similar but mean different things. From 'gift' (poison) to 'bekommen' (to receive), avoid embarrassing German-English mix-ups."
       },
       "ru": {
-        "title": "Немецкие ложные друзья: слова, которые выглядят по-английски, но не являются ими",
-        "description": "Думаешь, 'gift' означает подарок в немецком? Подумай еще раз. Вот самые опасные немецко-английские ложные друзья, которые подводят новичков — и как избежать неловких ошибок."
+        "title": "Немецкие ложные друзья языка и распространенные ошибки: Не дай себя обмануть!",
+        "description": "Не смущай себя! Изучай немецкие ложные друзья языка и распространенные ошибки, которые подводят англоговорящих. Овладей словами, которые выглядят похоже, но означают совершенно разные вещи. От 'gift' (яд) до 'bekommen' (получить)."
       },
       "uk": {
-        "title": "Німецькі хибні друзі: слова, які виглядають англійськими, але не є ними",
-        "description": "Думаєш, 'gift' означає подарунок у німецькій? Подумай ще раз. Ось найнебезпечніші німецько-англійські хибні друзі, які підводять новачків — і як уникнути незручних помилок."
+        "title": "Німецькі хибні друзі мови та поширені помилки: Не дай себе обдурити!",
+        "description": "Не сором себе! Вивчай німецькі хибні друзі мови та поширені помилки, які підводять англомовних. Оволодій словами, які виглядають схоже, але означають зовсім різні речі. Від 'gift' (отрута) до 'bekommen' (отримати)."
       },
       "sk": {
-        "title": "Nemeckí falošní priatelia: slová, ktoré vyzerajú anglicky, ale nie sú nimi",
-        "description": "Myslíš si, že 'gift' znamená darček v nemčine? Zamysli sa znova. Tu sú najnebezpečnejšie nemecko-anglické falošní priatelia, ktorí pripravia začiatočníkov — a ako sa vyhnúť trapným chybám."
+        "title": "Nemecké falošní priatelia jazyka a bežné chyby: Nedaj sa oblieť! Kompletný sprievodca",
+        "description": "Nezahanbi sa! Nauč sa nemecké falošné priatelia jazyka a bežné chyby, ktoré klamú anglicky hovoriacich. Ovládni slová, ktoré vyzerajú podobne, ale znamenajú rozdielne veci. Od 'gift' (jed) po 'bekommen' (dostať)."
       },
       "tr": {
         "title": "Almanca Yalancı Dostlar ve Yaygın Hatalar: Aldanmayın! Kapsamlı Rehber",
@@ -1583,20 +1583,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German Compound Words: The Longest Words You'll Ever Love",
-        "description": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz. Yes, that's one word. Here's how German compound words work, why they're amazing, and how to build your own 50-letter masterpiece."
+        "title": "German Compound Words: How to Build and Understand Long German Words (With Examples)",
+        "description": "Master German compound words! Learn how Germans combine words to create epic terms like 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.' Complete guide with rules, examples, pronunciation tips, and the 5 longest German words explained."
       },
       "ru": {
-        "title": "Немецкие составные слова: самые длинные слова, которые ты полюбишь",
-        "description": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz. Да, это одно слово. Вот как работают немецкие составные слова, почему они потрясающие, и как создать свой шедевр из 50 букв."
+        "title": "Немецкие составные слова: Как строить и понимать длинные немецкие слова (С примерами)",
+        "description": "Овладей немецкими составными словами! Узнай, как немцы объединяют слова для создания эпических терминов вроде 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Полный гид с правилами, примерами, советами по произношению и 5 самыми длинными немецкими словами."
       },
       "uk": {
-        "title": "Німецькі складені слова: найдовші слова, які ти полюбиш",
-        "description": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz. Так, це одне слово. Ось як працюють німецькі складені слова, чому вони вражаючі, і як створити власний шедевр із 50 літер."
+        "title": "Німецькі складені слова: Як будувати і розуміти довгі німецькі слова (З прикладами)",
+        "description": "Оволодій німецькими складеними словами! Дізнайся, як німці об'єднують слова для створення епічних термінів на кшталт 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Повний гід з правилами, прикладами, порадами з вимови та 5 найдовшими німецькими словами."
       },
       "sk": {
-        "title": "Nemecké zložené slová: najdlhšie slová, ktoré miluješ",
-        "description": "Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz. Áno, to je jedno slovo. Tu je ako fungujú nemecké zložené slová, prečo sú úžasné, a ako vytvoriť vlastné dielo s 50 písmenami."
+        "title": "Nemecké zložené slová: Ako stavať a rozumieť dlhé nemecké slová (S príkladmi)",
+        "description": "Ovládni nemecké zložené slová! Nauč sa, ako Nemci spájajú slová na vytvorenie epických termínov ako 'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'. Kompletný sprievodca s pravidlami, príkladmi, tipmi na výslovnosť a 5 najdlhšími nemeckými slovami."
       },
       "tr": {
         "title": "Almanca Birleşik Kelimeler: Uzun Almanca Kelimeler Nasıl Oluşturulur ve Anlaşılır (Örneklerle)",
@@ -1700,8 +1700,8 @@
         "description": "Їси в Німеччині? Оволодій важливими німецькими ресторанними фразами для замовлення їжі, запиту рахунку та розуміння німецької культури харчування. Від 'Die Speisekarte bitte' до 'Zahlen, bitte' — виживи в будь-якому німецькому ресторані, кафе чи пивному саду як профі."
       },
       "sk": {
-        "title": "Nemecké reštauračné frázy: Objednaj si jedlo ako miestny (aj s nulovou nemčinou)",
-        "description": "Jesť v Nemecku? Ovládnuty dôležité nemecké reštauračné frázy na objednávanie jedla, žiadanie účtu a pochopenie nemeckej kultúry stravovania. Od 'Die Speisekarte bitte' po 'Zahlen, bitte' — preži v akejkoľvek nemeckej reštaurácii, kaviarni alebo pivnej záhrade ako profík."
+        "title": "Nemecké reštauračné frázy: Objednaj ako lokál (aj s nulovou nemčinou)",
+        "description": "Jesť v Nemecku? Ovládni základné nemecké reštauračné frázy na objednávanie jedál, žiadosť o účet a porozumenie nemeckej kultúry stravovania. Od 'Die Speisekarte bitte' po 'Zahlen, bitte' — preži v akej nemeckej reštauráci, kaviarni alebo pivnej záhrade ako profík."
       },
       "tr": {
         "title": "Almanca Restoran İfadeleri: Yerel Birisi Gibi Yemek Sipariş Verin (Sıfır Almanca Bilseniz Bile)",
@@ -1742,20 +1742,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German Word Order: The Simple Rules That Make Sense of German Syntax",
-        "description": "Struggling with German word order? Learn the simple rules that make sense of German sentence structure — from verb-second rule to TEKaMoLo, subordinates, and clauses. Master German syntax without losing your mind."
+        "title": "German Word Order: Complete Guide (Sentence Structure, TeKaMo Rule, Verb Position)",
+        "description": "Master German word order! Learn the TeKaMo rule (Time-Cause-Manner), verb position in statements vs questions, subordinate clause word order, and common mistakes. Complete guide with examples, charts, and memory tricks for speaking German correctly."
       },
       "ru": {
-        "title": "Немецкий порядок слов: Простые правила, которые делают немецкий синтаксис понятным",
-        "description": "Борешься с немецким порядком слов? Изучи простые правила, которые делают немецкий синтаксис понятным — от правила verb-second до TEKaMoLo, придаточных и clauses. Овладей немецким синтаксисом без потери рассудка."
+        "title": "Порядок слов в немецком: Полное руководство (Структура предложения, правило TeKaMo, позиция глагола)",
+        "description": "Освойте порядок слов в немецком! Узнайте правило TeKaMo (Время-Причина-Модальность), позицию глагола в утверждениях и вопросах, порядок слов в придаточных предложениях и распространённые ошибки. Полное руководство с примерами, таблицами и мнемоническими приёмами для правильной речи по-немецки."
       },
       "uk": {
-        "title": "Німецький порядок слів: Прості правила, які роблять німецький синтаксис зрозумілим",
-        "description": "Борешся з німецьким порядком слів? Вивчи прості правила, які роблять німецький синтаксис зрозумілим — від правила verb-second до TEKaMoLo, підрядних та clauses. Оволодій німецьким синтаксисом без втрати розуму."
+        "title": "Порядок слів у німецькій: Повний посібник (Структура речення, правило TeKaMo, позиція дієслова)",
+        "description": "Опануйте порядок слів у німецькій! Дізнайтеся правило TeKaMo (Час-Причина-Модальність), позицію дієслова в твердженнях та запитаннях, порядок слів у підрядних реченнях та поширені помилки. Повний посібник з прикладами, таблицями та мнемонічними прийомами для правильного мовлення німецькою."
       },
       "sk": {
-        "title": "Nemecké poradie slov: Jednoduché pravidlá, ktoré dávajú zmysel nemeckej syntaxe",
-        "description": "Bojuješ s nemeckým poradím slov? Nauč sa jednoduché pravidlá, ktoré dávajú zmysel nemeckej štruktúre viet — od pravidla verb-second po TEKaMoLo, vedľajšie vety a klauzuly. Ovládni nemeckú syntax bez straty rozumu."
+        "title": "Nemecké slovné poradie: Kompletný sprievodca (Štruktúra vety, pravidlo TeKaMo, pozícia slovesa)",
+        "description": "Ovládni nemecké slovné poradie! Nauč sa pravidlo TeKaMo (Čas-Príčina-Modalita), pozíciu slovesa v tvrdeniach a otázkach, slovné poradie v vedľajších vetách a bežné chyby. Kompletný sprievodca s príkladmi, tabuľkami a mnemotechnickými pomôckami pre správnu nemčinu."
       },
       "tr": {
         "title": "Almanca Sözcük Dizimi: Kapsamlı Rehber (Cümle Yapısı, TeKaMo Kuralı, Fiil Konumu)",
@@ -1904,20 +1904,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German Small Talk: Essential Phrases for Social Situations & Conversations",
-        "description": "Struggling with small talk in German? Learn 50+ essential German phrases for social situations, conversation starters, fillers, topics, and cultural etiquette. Master German small talk and connect with native speakers naturally."
+        "title": "German Small Talk: 50+ Essential Phrases to Survive Any Social Situation",
+        "description": "Struggling with German small talk? Learn the essential German conversation starters, fillers, and topics — from weather to weekends, from office to parties. Break the stereotype that Germans don't small talk."
       },
       "ru": {
-        "title": "Немецкая светская беседа: Важнейшие фразы для социальных ситуаций и разговоров",
-        "description": "Борешься со светской беседой по-немецки? Изучи 50+ важных немецких фраз для социальных ситуаций, фраз-разговоров, fillers, тем и культурного этикета. Овладей немецкой светской беседой и общайся с носителями естественно."
+        "title": "Немецкая светская беседа: 50+ важных фраз для любых социальных ситуаций",
+        "description": "Борешься с немецким small talk? Изучи важнейшие немецкие фразы для начала разговора, заполнения пауз и тем — от погоды до выходных, от офиса до вечеринок. Разбей стереотип, что немцы не любят светские беседы."
       },
       "uk": {
-        "title": "Німецька світська бесіда: Важливі фрази для соціальних ситуацій та розмов",
-        "description": "Борешся з німецькою світською бесідою? Вивчи 50+ важливих німецьких фраз для соціальних ситуацій, фраз-розмовів, fillers, тем та культурного етикету. Оволодій німецькою світською бесідою та спілкуйся з носіями природно."
+        "title": "Німецька світська бесіда: 50+ важливих фраз для будь-яких соціальних ситуацій",
+        "description": "Борешся з німецьким small talk? Вивчи важливі німецькі фрази для початку розмови, заповнення пауз та тем — від погоди до вихідних, від офісу до вечірок. Розбий стереотип, що німці не люблять світські бесіди."
       },
       "sk": {
-        "title": "Nemecký small talk: Dôležité frázy pre sociálne situácie a konverzácie",
-        "description": "Bojuješ s nemeckým small talkom? Nauč sa 50+ dôležitých nemeckých fráz pre sociálne situácie, konverzačné štarty, výplne, témy a kultúrne etiketa. Ovládaj nemecký small talk a spoj sa s rodákmi prirodzene."
+        "title": "Nemecké svetové reči: 50+ dôležitých fráz pre akúko situáciu",
+        "description": "Bojuješ s nemeckým small talk? Nauč sa dôležité nemecké konverzačné startéry, výplne a témy — od počasia po víkendy, z kancelárie po párty. Rozbij stereotyp, že Nemci nemajú radi svetové reči."
       },
       "tr": {
         "title": "Almanca Sohbet: Her Sosyal Durumda Hayatta Kalmanızı Sağlayacak 50+ Temel İfade",
@@ -1958,20 +1958,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German Question Words: Master W-Words & Ask Questions Like a Native",
-        "description": "Struggling to ask questions in German? Learn all German question words (W-words), question formulas, and how to form questions correctly. From 'Was' to 'Warum' — master German questions and sound like a native speaker."
+        "title": "German Question Words: Complete Guide to W-Fragen for Beginners",
+        "description": "Want to ask questions in German? Master essential German question words from wer and was to wo and wann. Learn W-Fragen vocabulary with proper usage, examples, and cultural notes about asking questions in German-speaking countries."
       },
       "ru": {
-        "title": "Немецкие вопросительные слова: Освой W-слова и задавай вопросы как носитель",
-        "description": "Борешься задавать вопросы по-немецки? Изучи все немецкие вопросительные слова (W-слова), формулы вопросов и как правильно формировать вопросы. От 'Was' до 'Warum' — овладей немецкими вопросами и звучи как носитель языка."
+        "title": "Немецкие вопросительные слова: Полный справочник W-Fragen для начинающих",
+        "description": "Хотите задавать вопросы по-немецки? Освойте основные немецкие вопросительные слова от wer и was до wo и wann. Выучите лексику W-Fragen с правильным использованием, примерами и культурными заметками о задавании вопросов в немецкоговорящих странах."
       },
       "uk": {
-        "title": "Німецькі запитальні слова: Оволодій W-словами та ставай запитання як носій мови",
-        "description": "Борешся ставити запитання німецькою? Вивчи всі німецькі запитальні слова (W-слова), формули запитань та як правильно формулювати запитання. Від 'Was' до 'Warum' — оволодій німецькими запитаннями та звучи як носій мови."
+        "title": "Німецькі запитальні слова: Повний довідник W-Fragen для початківців",
+        "description": "Хочете ставити запитання німецькою? Оволодійте основною лексикою німецьких запитальних слів від wer та was до wo та wann. Вивчіть лексику W-Fragen з правильним використанням, прикладами та культурними нотатками про постанову запитань у німецькомовних країнах."
       },
       "sk": {
-        "title": "Nemecké otázky: Ovládni W-slová a pýtaj sa ako rodený Nemec",
-        "description": "Bojuješ s pýtaním sa po nemecky? Nauč sa všetky nemecké otázky (W-slová), vzorce otázok a ako správne formovať otázky. Od 'Was' po 'Warum' — ovládni nemecké otázky a znie ako rodený Nemec."
+        "title": "Nemecké otázky: Kompletný sprievodca W-Fragen pre začiatočníkov",
+        "description": "Chcete klásť otázky po nemecky? Ovládnite základnú nemčinu slovnú zásobu otázok od wer a was po wo a wann. Naučte sa slovnú zásobu W-Fragen so správnym použitím, príkladmi a kultúrnymi poznámkami o klásaní otázok v nemecky hovoriacich krajinách."
       },
       "tr": {
         "title": "Almanca Soru Kelimeleri: Başlangıç Seviyesi için W-Fragen Rehberi",
@@ -3020,8 +3020,8 @@
         "description": "Хотите правильно использовать немецкие местоимения? Овладейте основными немецкими личными местоимениями от ich и du до sie и Sie. Изучите использование Personalpronomen с правильными падежами, формальным и неформальным обращением и культурными заметками о местоимениях в немецкоговорящих странах."
       },
       "uk": {
-        "title": "Німецькі особові займенники: Повний довідник Personalpronomen для початківців",
-        "description": "Хочете правильно використовувати німецькі займенники? Оволодійте основними німецькими особовими займенниками від ich та du до sie та Sie. Вивчіть використання Personalpronomen з правильними відмінками, формальним та неформальним звертанням та культурними нотатками про займенники в німецькомовних країнах."
+        "title": "Німецькі особисті займенники: Повний довідник Personalpronomen для початківців",
+        "description": "Хочете використовувати німецькі займенники правильно? Оволодійте основною лексикою німецьких особистих займенників від ich та du до sie та Sie. Вивчіть лексику Personalpronomen з правильними відмінками, офіційним та неофіційним звертанням та культурними нотатками про займенники в німецькомовних країнах."
       },
       "sk": {
         "title": "Nemecké zámená: Úplný sprievodca Personalpronomen pre začiatočníkov",
@@ -3191,12 +3191,12 @@
         "description": "Alman artikeller der, die, das konusunda zorlanıyor musunuz? Basit kurallar, kalıplar ve hafıza teknikleriyle Alman belirli ve belirsiz artikelleri öğrenin. Der, die, das, ein, eine ne zaman kullanılır ve Alman cinsiyetleri bir kez ve tamamen nasıl hatırlanır?"
       },
       "ro": {
-        "title": "Articolul în germană Der Die Das: Ghid complet al articolelor pentru începători",
-        "description": "Vă luptați cu articolele germane der, die, das? Stăpâniți articolele hotărâte și nehotărâte din limba germană cu reguli simple, tipare și trucuri de memorare. Învățați când să folosiți der, die, das, ein, eine și cum să rețineți genul substantivelor germane o dată pentru totdeauna."
+        "title": "Articolele Germane Der Die Das: Ghid Complet al Articolelor pentru Începători",
+        "description": "Te chinui cu articolele germane der, die, das? Stăpânește articolele hotărâte și nehotărâte din limba germană cu reguli simple, modele și trucuri de memorare. Învață când să folosești der, die, das, ein, eine și cum să reții genul german o dată pentru totdeauna."
       },
       "fa": {
-        "title": "آرتیکل‌های آلمانی Der Die Das: راهنمای کامل آرتیکل‌ها برای مبتدیان",
-        "description": "با آرتیکل‌های آلمانی der، die و das مشکل دارید؟ آرتیکل‌های معرفه و نکره آلمانی را با قوانین ساده، الگوها و ترفندهای حافظه بیاموزید. یاد بگیرید چه زمان از der، die، das، ein، eine استفاده کنید و چگونه جنسیت آلمانی را برای همیشه به خاطر بسپارید."
+        "title": "حروف تعریف آلمانی Der Die Das: راهنمای کامل حروف تعریف برای مبتدیان",
+        "description": "با حروف تعریف آلمانی der، die، das مشکل دارید؟ حروف تعریف معرفه و نکره آلمانی را با قوانین ساده، الگوها و ترفندهای حفظ کردن بیاموزید. یاد بگیرید چه زمان از der، die، das، ein، eine استفاده کنید و چگونه جنسیت آلمانی را برای همیشه به خاطر بسپارید."
       },
       "ar": {
         "title": "أدوات التعريف الألمانية Der Die Das: دليل شامل للمبتدئين",
@@ -3330,20 +3330,20 @@
     ],
     "langs": {
       "en": {
-        "title": "German Word Order: Complete Guide to Satzbau for Beginners",
-        "description": "Struggling with German sentence structure? Master German word order (Satzbau) with simple rules. Learn verb position (V2 rule), subordinate clauses, time-manner-place rule, and how to build correct German sentences with clear examples and patterns."
+        "title": "German Word Order: Complete Guide (Sentence Structure, TeKaMo Rule, Verb Position)",
+        "description": "Master German word order! Learn the TeKaMo rule (Time-Cause-Manner), verb position in statements vs questions, subordinate clause word order, and common mistakes. Complete guide with examples, charts, and memory tricks for speaking German correctly."
       },
       "ru": {
-        "title": "Немецкий порядок слов: Полный справочник Satzbau для начинающих",
-        "description": "Борешься с немецкой структурой предложений? Овладей немецким порядком слов (Satzbau) с простыми правилами. Изучи позицию глагола (правило V2), придаточные предложения, правило время-способ-место и как строить правильные немецкие предложения с ясными примерами и паттернами."
+        "title": "Порядок слов в немецком: Полное руководство (Структура предложения, правило TeKaMo, позиция глагола)",
+        "description": "Освойте порядок слов в немецком! Узнайте правило TeKaMo (Время-Причина-Модальность), позицию глагола в утверждениях и вопросах, порядок слов в придаточных предложениях и распространённые ошибки. Полное руководство с примерами, таблицами и мнемоническими приёмами для правильной речи по-немецки."
       },
       "uk": {
-        "title": "Німецький порядок слів: Повний довідник Satzbau для початківців",
-        "description": "Борешся з німецькою структурою речень? Оволодійте німецьким порядком слів (Satzbau) з простими правилами. Вивчіть позицію дієслова (правило V2), прикрідні речення, правило час-спосіб-місце і як будувати правильні німецькі речення з ясними прикладами і паттернами."
+        "title": "Порядок слів у німецькій: Повний посібник (Структура речення, правило TeKaMo, позиція дієслова)",
+        "description": "Опануйте порядок слів у німецькій! Дізнайтеся правило TeKaMo (Час-Причина-Модальність), позицію дієслова в твердженнях та запитаннях, порядок слів у підрядних реченнях та поширені помилки. Повний посібник з прикладами, таблицями та мнемонічними прийомами для правильного мовлення німецькою."
       },
       "sk": {
-        "title": "Nemecké slovosled: Kompletný sprievodca Satzbau pre začiatočníkov",
-        "description": "Bojuješ s nemeckou štruktúrou viet? Ovládni nemecké slovosledie (Satzbau) s jednoduchými pravidlami. Nauč sa pozíciu slovesa (V2 pravidlo), vedľajúce vety, pravidlo čas-sposob-miesto a ako stavať správne nemecké vety s jasnými príkladmi a vzormi."
+        "title": "Nemecké slovné poradie: Kompletný sprievodca (Štruktúra vety, pravidlo TeKaMo, pozícia slovesa)",
+        "description": "Ovládni nemecké slovné poradie! Nauč sa pravidlo TeKaMo (Čas-Príčina-Modalita), pozíciu slovesa v tvrdeniach a otázkach, slovné poradie v vedľajších vetách a bežné chyby. Kompletný sprievodca s príkladmi, tabuľkami a mnemotechnickými pomôckami pre správnu nemčinu."
       },
       "tr": {
         "title": "Almanca Sözcük Dizimi: Kapsamlı Rehber (Cümle Yapısı, TeKaMo Kuralı, Fiil Konumu)",
@@ -5042,12 +5042,12 @@
         "description": "Nemischa yozishni mahalliy kabi o'rganing! WhatsApp, Telegram, Instagram va boshqa platformalarda nemislar tomonidan kundalik foydalaniladigan 100+ nemischa qisqartmalar, chat slangi va internet tilini o'rganing. Talaffuz, madaniy kontekst, har bir qisqartmani qachon ishlatish va nemis chat madaniyatidan haqiqiy misollar bilan to'liq qo'llanma. Haqiqiy nemischa muloqot uchun juda muhim!"
       },
       "ro": {
-        "title": "German Texting Abbreviations and Chat Slang: Complete Guide (WhatsApp, Telegram, Instagram)",
-        "description": "Master German texting like a local! Learn 100+ German abbreviations, chat slang, and internet language used in WhatsApp, Telegram, Instagram, and more. Complete guide with pronunciation, cultural context, when to use each abbreviation, and real examples from German chat culture. Essential for authentic German communication!"
+        "title": "Abrevierile și Slang-ul din Mesajele în Germană: Ghid Complet (WhatsApp, Telegram, Instagram)",
+        "description": "Stăpânește mesajele în germană ca un local! Învață 100+ abrevieri germane, slang de chat și limbaj de internet folosite în WhatsApp, Telegram, Instagram și multe altele. Ghid complet cu pronunție, context cultural, când să folosești fiecare abreviere și exemple reale din cultura de chat germană. Esențial pentru o comunicare autentică în limba germană!"
       },
       "fa": {
-        "title": "German Texting Abbreviations and Chat Slang: Complete Guide (WhatsApp, Telegram, Instagram)",
-        "description": "Master German texting like a local! Learn 100+ German abbreviations, chat slang, and internet language used in WhatsApp, Telegram, Instagram, and more. Complete guide with pronunciation, cultural context, when to use each abbreviation, and real examples from German chat culture. Essential for authentic German communication!"
+        "title": "اختصارات پیام‌رسانی و اصطلاحات چت آلمانی: راهنمای کامل (واتساپ، تلگرام، اینستاگرام)",
+        "description": "پیام‌رسانی به آلمانی را مثل یک بومی یاد بگیرید! بیش از ۱۰۰ اختصار، اصطلاحات چت و زبان اینترنتی آلمانی که در واتساپ، تلگرام، اینستاگرام و غیره استفاده می‌شود را بیاموزید. راهنمای کامل با تلفظ، بافت فرهنگی، زمان استفاده از هر اختصار و مثال‌های واقعی از فرهنگ چت آلمانی. ضروری برای ارتباط اصیل آلمانی!"
       }
     }
   },
@@ -5092,16 +5092,16 @@
         "description": "Master German pronunciation! Complete guide to German sounds including difficult letters ü, ö, ch, sch, r. Learn pronunciation rules with examples, audio descriptions, common mistakes, practice exercises, and tips to sound like a native speaker. Essential for speaking German confidently!"
       },
       "ro": {
-        "title": "German Pronunciation Guide: Master German Sounds (ü, ö, ch, sch, r) with Examples",
-        "description": "Master German pronunciation! Complete guide to German sounds including difficult letters ü, ö, ch, sch, r. Learn pronunciation rules with examples, audio descriptions, common mistakes, practice exercises, and tips to sound like a native speaker. Essential for speaking German confidently!"
+        "title": "Ghid de pronunție germană: Stăpânește sunetele germane (ü, ö, ch, sch, r) cu exemple",
+        "description": "Stăpânește pronunția germană! Ghid complet pentru sunetele germane, inclusiv literele dificile ü, ö, ch, sch, r. Învață regulile de pronunție cu exemple, descrieri audio, greșeli frecvente, exerciții de practică și sfaturi pentru a suna ca un vorbitor nativ. Esențial pentru a vorbi germana cu încredere!"
       },
       "fa": {
-        "title": "German Pronunciation Guide: Master German Sounds (ü, ö, ch, sch, r) with Examples",
-        "description": "Master German pronunciation! Complete guide to German sounds including difficult letters ü, ö, ch, sch, r. Learn pronunciation rules with examples, audio descriptions, common mistakes, practice exercises, and tips to sound like a native speaker. Essential for speaking German confidently!"
+        "title": "راهنمای تلفظ آلمانی: یادگیری صداها (ü، ö، ch، sch، r) با مثال",
+        "description": "تلفظ آلمانی را بیاموزید! راهنمای کامل صداهای آلمانی شامل حروف دشوار ü، ö، ch، sch، r. قوانین تلفظ با مثال، توصیف صوتی، اشتباهات رایج، تمرین‌ها و نکاتی برای تلفظ شبیه بومی‌زبان‌ها. برای صحبت با اعتماد به نفس در آلمانی ضروری است!"
       },
       "uz": {
-        "title": "German Pronunciation Guide: Master German Sounds (ü, ö, ch, sch, r) with Examples",
-        "description": "Master German pronunciation! Complete guide to German sounds including difficult letters ü, ö, ch, sch, r. Learn pronunciation rules with examples, audio descriptions, common mistakes, practice exercises, and tips to sound like a native speaker. Essential for speaking German confidently!"
+        "title": "Nemis talaffuzi qo'llanmasi: Nemis tovushlarini (ü, ö, ch, sch, r) misollar bilan o'rganing",
+        "description": "Nemis talaffuzini o'zlashtiring! ü, ö, ch, sch, r kabi qiyin harflarni o'z ichiga olgan nemis tovushlari bo'yicha to'liq qo'llanma. Talaffuz qoidalari, misollar, audio tavsiflar, keng tarqalgan xatolar, mashg'ulotlar va ona tilida so'zlashuvchidek gapirish uchun maslahatlar. Nemis tilida ishonchli gapirish uchun juda muhim!"
       }
     }
   },
@@ -5147,16 +5147,16 @@
         "description": "Master German kitchen vocabulary! Learn all German measurements, cooking terms, weights, recipe vocabulary, and kitchen essentials. From Gramm to Liter, from backen to kochen — complete guide with examples, conversions, and cultural tips for cooking in German."
       },
       "fa": {
-        "title": "German Measurements and Cooking Vocabulary: Complete Guide to Kitchen, Weights, and Recipe Terms",
-        "description": "Master German kitchen vocabulary! Learn all German measurements, cooking terms, weights, recipe vocabulary, and kitchen essentials. From Gramm to Liter, from backen to kochen — complete guide with examples, conversions, and cultural tips for cooking in German."
+        "title": "واژگان اندازه‌گیری و آشپزی آلمانی: راهنمای کامل اصطلاحات آشپزخانه، وزن‌ها و دستور پخت",
+        "description": "واژگان آشپزخانه آلمانی را یاد بگیرید! تمام واحدهای اندازه‌گیری آلمانی، اصطلاحات آشپزی، وزن‌ها، واژگان دستور پخت و ملزومات آشپزخانه را بیاموزید. از Gramm تا Liter، از backen تا kochen — راهنمای کامل با مثال‌ها، تبدیل واحدها و نکات فرهنگی برای آشپزی به آلمانی."
       },
       "ar": {
-        "title": "German Measurements and Cooking Vocabulary: Complete Guide to Kitchen, Weights, and Recipe Terms",
-        "description": "Master German kitchen vocabulary! Learn all German measurements, cooking terms, weights, recipe vocabulary, and kitchen essentials. From Gramm to Liter, from backen to kochen — complete guide with examples, conversions, and cultural tips for cooking in German."
+        "title": "مفردات القياس والطبخ الألمانية: دليل شامل للمطبخ والأوزان ومصطلحات الوصفات",
+        "description": "أتقن مفردات المطبخ الألماني! تعلّم جميع القياسات الألمانية ومصطلحات الطبخ والأوزان ومفردات الوصفات وأساسيات المطبخ. من Gramm إلى Liter، ومن backen إلى kochen — دليل شامل مع أمثلة وتحويلات ونصائح ثقافية للطبخ بالألمانية."
       },
       "es": {
-        "title": "German Measurements and Cooking Vocabulary: Complete Guide to Kitchen, Weights, and Recipe Terms",
-        "description": "Master German kitchen vocabulary! Learn all German measurements, cooking terms, weights, recipe vocabulary, and kitchen essentials. From Gramm to Liter, from backen to kochen — complete guide with examples, conversions, and cultural tips for cooking in German."
+        "title": "Vocabulario alemán de medidas y cocina: guía completa de términos de cocina, pesos y recetas",
+        "description": "Domina el vocabulario de cocina en alemán. Aprende todas las medidas alemanas, términos de cocina, pesos, vocabulario de recetas y elementos esenciales de la cocina. Desde Gramm hasta Liter, desde backen hasta kochen — guía completa con ejemplos, conversiones y consejos culturales para cocinar en alemán."
       }
     }
   },
@@ -5191,12 +5191,12 @@
         "description": "Ovládi nemeckú bankovú slovnú zásobu! Nauč sa všetky nemecké peniažne termíny, bankové frázy, slovnú zásobu bankomatov, finančné výrazy a dôležité bankové slová. Od Geld po Konto, od Überweisung po Geldautomat — kompletný sprievodca s príkladmi, dialógmi a tipmi na správu financií v nemecky hovoriacich krajinách."
       },
       "ro": {
-        "title": "German Banking and Finance Vocabulary: Complete Guide to Money, Banks, and Financial Terms",
-        "description": "Master German banking vocabulary! Learn all German money terms, bank phrases, ATM vocabulary, financial expressions, and essential banking words. From Geld to Konto, from Überweisung to Geldautomat — complete guide with examples, dialogues, and tips for managing finances in German-speaking countries."
+        "title": "Vocabularul bancar și financiar în germană: Ghid complet pentru bani, bănci și termeni financiari",
+        "description": "Stăpânește vocabularul bancar în germană! Învață toți termenii pentru bani, expresiile bancare, vocabularul pentru ATM, expresiile financiare și cuvintele esențiale din domeniul bancar. De la Geld la Konto, de la Überweisung la Geldautomat — ghid complet cu exemple, dialoguri și sfaturi pentru gestionarea finanțelor în țările vorbitoare de limba germană."
       },
       "fa": {
-        "title": "German Banking and Finance Vocabulary: Complete Guide to Money, Banks, and Financial Terms",
-        "description": "Master German banking vocabulary! Learn all German money terms, bank phrases, ATM vocabulary, financial expressions, and essential banking words. From Geld to Konto, from Überweisung to Geldautomat — complete guide with examples, dialogues, and tips for managing finances in German-speaking countries."
+        "title": "واژگان بانکداری و مالی آلمانی: راهنمای کامل پول، بانک‌ها و اصطلاحات مالی",
+        "description": "واژگان بانکداری آلمانی را یاد بگیرید! تمام اصطلاحات پولی آلمانی، عبارات بانکی، واژگان دستگاه خودپرداز، اصطلاحات مالی و کلمات ضروری بانکداری را بیاموزید. از Geld تا Konto، از Überweisung تا Geldautomat — راهنمای کامل با مثال‌ها، گفتگوها و نکاتی برای مدیریت امور مالی در کشورهای آلمانی‌زبان."
       },
       "ar": {
         "title": "German Banking and Finance Vocabulary: Complete Guide to Money, Banks, and Financial Terms",
@@ -5207,12 +5207,12 @@
         "description": "Master German banking vocabulary! Learn all German money terms, bank phrases, ATM vocabulary, financial expressions, and essential banking words. From Geld to Konto, from Überweisung to Geldautomat — complete guide with examples, dialogues, and tips for managing finances in German-speaking countries."
       },
       "tr": {
-        "title": "German Banking and Finance Vocabulary: Complete Guide to Money, Banks, and Financial Terms",
-        "description": "Master German banking vocabulary! Learn all German money terms, bank phrases, ATM vocabulary, financial expressions, and essential banking words. From Geld to Konto, from Überweisung to Geldautomat — complete guide with examples, dialogues, and tips for managing finances in German-speaking countries."
+        "title": "Almanca Bankacılık ve Finans Kelime Hazinesi: Para, Bankalar ve Finansal Terimler İçin Kapsamlı Rehber",
+        "description": "Almanca bankacılık kelime hazinesini öğrenin! Tüm Almanca para terimlerini, banka ifadelerini, ATM kelime dağarcığını, finansal deyimleri ve temel bankacılık kelimelerini öğrenin. Geld'den Konto'ya, Überweisung'dan Geldautomat'a — örnekler, diyaloglar ve Almanca konuşulan ülkelerde finans yönetimi için ipuçları içeren kapsamlı rehber."
       },
       "es": {
-        "title": "German Banking and Finance Vocabulary: Complete Guide to Money, Banks, and Financial Terms",
-        "description": "Master German banking vocabulary! Learn all German money terms, bank phrases, ATM vocabulary, financial expressions, and essential banking words. From Geld to Konto, from Überweisung to Geldautomat — complete guide with examples, dialogues, and tips for managing finances in German-speaking countries."
+        "title": "Vocabulario bancario y financiero en alemán: Guía completa sobre dinero, bancos y términos financieros",
+        "description": "¡Domina el vocabulario bancario en alemán! Aprende todos los términos sobre dinero en alemán, frases bancarias, vocabulario de cajeros automáticos, expresiones financieras y palabras esenciales de banca. Desde Geld hasta Konto, desde Überweisung hasta Geldautomat — guía completa con ejemplos, diálogos y consejos para gestionar tus finanzas en países de habla alemana."
       }
     }
   },
@@ -5259,16 +5259,16 @@
         "description": "Prost! Master German beer and drinking vocabulary! Learn all German beer types, bar phrases, alcohol vocabulary, drinking expressions, and cultural tips. From Helles to Weizen, from 'Prost!' to 'Ich hab Durst' — complete guide with examples, dialogues, and insights into German beer culture."
       },
       "uz": {
-        "title": "German Beer and Drinking Vocabulary: Complete Guide to Beer Culture, Bar Phrases, and Alcohol Terms",
-        "description": "Prost! Master German beer and drinking vocabulary! Learn all German beer types, bar phrases, alcohol vocabulary, drinking expressions, and cultural tips. From Helles to Weizen, from 'Prost!' to 'Ich hab Durst' — complete guide with examples, dialogues, and insights into German beer culture."
+        "title": "Nemis pivo va ichimlik lug'ati: Pivo madaniyati, bar iboralari va alkogol atamalari bo'yicha to'liq qo'llanma",
+        "description": "Prost! Nemis pivo va ichimlik lug'atini o'rganing! Barcha nemis pivo turlari, bar iboralari, alkogol lug'ati, ichimlik ifodalari va madaniy maslahatlarni o'rganing. Helles dan Weizen gacha, 'Prost!' dan 'Ich hab Durst' gacha — misollar, dialoglar va nemis pivo madaniyati haqida tushunchalar bilan to'liq qo'llanma."
       },
       "tr": {
-        "title": "German Beer and Drinking Vocabulary: Complete Guide to Beer Culture, Bar Phrases, and Alcohol Terms",
-        "description": "Prost! Master German beer and drinking vocabulary! Learn all German beer types, bar phrases, alcohol vocabulary, drinking expressions, and cultural tips. From Helles to Weizen, from 'Prost!' to 'Ich hab Durst' — complete guide with examples, dialogues, and insights into German beer culture."
+        "title": "Alman Bira ve İçki Kelime Hazinesi: Bira Kültürü, Bar İfadeleri ve Alkol Terimleri Kılavuzu",
+        "description": "Prost! Alman bira ve içki kelime hazinesini öğrenin! Tüm Alman bira türlerini, bar ifadelerini, alkol kelime hazinesini, içki deyimlerini ve kültürel ipuçlarını keşfedin. Helles'ten Weizen'e, 'Prost!'tan 'Ich hab Durst'a — örnekler, diyaloglar ve Alman bira kültürüne dair bilgiler içeren kapsamlı kılavuz."
       },
       "es": {
-        "title": "German Beer and Drinking Vocabulary: Complete Guide to Beer Culture, Bar Phrases, and Alcohol Terms",
-        "description": "Prost! Master German beer and drinking vocabulary! Learn all German beer types, bar phrases, alcohol vocabulary, drinking expressions, and cultural tips. From Helles to Weizen, from 'Prost!' to 'Ich hab Durst' — complete guide with examples, dialogues, and insights into German beer culture."
+        "title": "Vocabulario alemán de cerveza y bebidas: Guía completa sobre la cultura cervecera, frases para bares y términos sobre alcohol",
+        "description": "Prost! Domina el vocabulario alemán de cerveza y bebidas. Aprende todos los tipos de cerveza alemana, frases para bares, vocabulario sobre alcohol, expresiones para brindar y consejos culturales. Desde Helles hasta Weizen, desde 'Prost!' hasta 'Ich hab Durst' — guía completa con ejemplos, diálogos y aspectos de la cultura cervecera alemana."
       }
     }
   },
@@ -5806,8 +5806,8 @@
         "description": "Prestaň prekladať v hlave. 7 praktických techník na myslenie po nemecky — od pomenovania predmetov po vnútorný monológ v nemčine."
       },
       "tr": {
-        "title": "How to Think in German: 7 Mental Shifts That Actually Work",
-        "description": "Stop translating in your head. Learn 7 practical techniques to start thinking in German — from naming objects around you to inner monologues in German."
+        "title": "Almanca Nasıl Düşünülür: Gerçekten İşe Yarayan 7 Zihinsel Değişim",
+        "description": "Kafanızda çeviri yapmayı bırakın. Etrafınızdaki nesneleri adlandırmaktan Almanca iç monologlara kadar Almanca düşünmeye başlamanın 7 pratik tekniğini öğrenin."
       },
       "ro": {
         "title": "How to Think in German: 7 Mental Shifts That Actually Work",
@@ -5822,8 +5822,8 @@
         "description": "Stop translating in your head. Learn 7 practical techniques to start thinking in German — from naming objects around you to inner monologues in German."
       },
       "es": {
-        "title": "How to Think in German: 7 Mental Shifts That Actually Work",
-        "description": "Stop translating in your head. Learn 7 practical techniques to start thinking in German — from naming objects around you to inner monologues in German."
+        "title": "Cómo pensar en alemán: 7 cambios mentales que realmente funcionan",
+        "description": "Deja de traducir en tu cabeza. Aprende 7 técnicas prácticas para empezar a pensar en alemán — desde nombrar objetos a tu alrededor hasta monólogos internos en alemán."
       },
       "uz": {
         "title": "How to Think in German: 7 Mental Shifts That Actually Work",
@@ -6114,8 +6114,8 @@
         "description": "Дивись серіали й вивчай мову. Сім німецьких серіалів на Netflix за рівнем складності з поясненням, що вивчиш."
       },
       "sk": {
-        "title": "7 Netflix seriálov, ktoré ťa naučia nemčinu lepšie než učebnica",
-        "description": "Pozeraj seriály a uč sa jazyk. Sedem nemeckých seriálov na Netflix podľa náročnosti s vysvetlením, čo sa naučíš."
+        "title": "7 Netflix seriálov, ťa ťa naučia nemčinu lepšie než akákoľvek učebnica",
+        "description": "Pozeraj seriály a uč sa jazyk. Sedem nemeckých seriálov na Netflix podľa náročnosti — od začiatočníka po pokročilého — s vysvetlením, čo sa naučíš."
       },
       "tr": {
         "title": "7 Netflix Shows That Will Teach You German Better Than Any Textbook",
@@ -6314,12 +6314,12 @@
         "description": "Everything for a night out in Germany — ordering drinks, talking to people, understanding club bouncers, and phrases that get you past the door."
       },
       "ru": {
-        "title": "Немецкие фразы для вечеринок: выживание в клубах Берлина",
-        "description": "Всё для ночи в Германии — как заказать напитки, общаться с людьми, пройти фейс-контроль и фразы для вечеринок."
+        "title": "Немецкие фразы для вечеринок и ночной жизни: выживание в клубах Берлина",
+        "description": "Всё для ночи в Германии — как заказать напитки, общаться с людьми, пройти фейс-контроль в клубе и фразы, которые реально помогут."
       },
       "uk": {
-        "title": "Німецькі фрази для вечірок: виживання в клубах Берліна",
-        "description": "Усе для ночі в Німеччині — як замовити напої, спілкуватися з людьми, пройти фейс-контроль і фрази для вечірок."
+        "title": "Німецькі фрази для вечірок і нічного життя: виживання в клубах Берліна",
+        "description": "Усе для ночі в Німеччині — як замовити напої, спілкуватися з людьми, пройти фейс-контроль у клубі та фрази, які реально допоможуть."
       },
       "sk": {
         "title": "Nemecké frázy pre párty a nočný život: Prežitie v berlínskych kluboch",
@@ -6481,7 +6481,7 @@
         "description": "Fahrt, Schmuck, Gift, Dick — невинні німецькі слова, від яких англомовні давляться сміхом. Повний список зі справжніми значеннями та прикладами."
       },
       "sk": {
-        "title": "Nemecké slová, ktoré znejú \"divne\" po anglicky (ale sú úplne neviné)",
+        "title": "Nemecké slová, ktoré znejú „divne\" po anglicky (ale sú úplne neviné)",
         "description": "Fahrt, Schmuck, Gift, Dick — neviné nemecké slová, pri ktorých anglofóni dusia smiech. Kompletný zoznam so skutočnými významami a príkladmi."
       },
       "tr": {
@@ -7210,8 +7210,8 @@
         "description": "Visas, Anmeldung, apartments, bank accounts, health insurance — everything you need to know before moving to Germany, explained by someone who learned the hard way."
       },
       "ru": {
-        "title": "Переезд в Германию в 2026: Полное руководство по выживанию",
-        "description": "Визы, Anmeldung, квартиры, банковские счета, медицинская страховка — всё, что нужно знать перед переездом в Германию, от того, кто учился на своих ошибках."
+        "title": "Переезд в Германию в 2026: Полный гайд по выживанию",
+        "description": "Визы, Anmeldung, квартиры, банковские счета, медстраховка — всё, что нужно знать до переезда в Германию, от человека, который познал всё на собственной шкуре."
       },
       "uk": {
         "title": "Переїзд до Німеччини у 2026: Повний посібник з виживання",
@@ -7322,32 +7322,32 @@
         "description": "Німці майже ніколи не кажуть «nein» прямо. Натомість у них є 20 способів ввічливо відмовити і ви навіть не зрозумієте що вам відмовили."
       },
       "sk": {
-        "title": "Ako Nemci naozaj hovoria nie: 20 slusnych odmietnuti",
-        "description": "Nemci takmer nikdy nepovedia nein priamo. Namiesto toho maju 20 sposobov ako ta slusne odmietnut a ani si neuvedomis ze si bol odmietnuty."
+        "title": "Ako Nemci naozaj hovoria „nie\": 20 slušných odmietnutí",
+        "description": "Nemci takmer nikdy nepovedia „nein\" priamo. Namiesto toho majú 20 spôsobov, ako ťa slušne odmietnuť — a ani si neuvedomíš, že si bol odmietnutý. Nauč sa čítať medzi riadkami."
       },
       "tr": {
-        "title": "Almanlar Gercekte Nasil Hayir Der: 20 Nazik Ret",
-        "description": "Almanlar neredeyse hicbir zaman dogrudan nein demez. Bunun yerine seni nazikce reddetmenin 20 yoluna sahiptir ve reddedildigini farkina bile varmazsin."
+        "title": "Almanlar Gerçekte Nasıl 'Hayır' Der: 20 Nazik Ret",
+        "description": "Almanlar neredeyse hiçbir zaman doğrudan 'nein' demez. Bunun yerine seni nazikçe reddetmenin 20 yoluna sahiptir — ve reddedildiğini farkına bile varmazsın. Satır aralarını okumayı öğren."
       },
       "ro": {
-        "title": "Cum spun germanii nu de fapt: 20 de refuzuri politicoase",
-        "description": "Germanii aproape niciodata nu spun nein direct. In schimb au 20 de moduri de a te refuza politicos si nici nu-ti dai seama ca ai fost refuzat."
+        "title": "Cum spun germanii 'nu' de fapt: 20 de refuzuri politicoase",
+        "description": "Germanii aproape niciodată nu spun 'nein' direct. În schimb au 20 de moduri de a te refuza politicos — și nici nu-ți dai seama că ai fost refuzat. Învață să citești între rânduri."
       },
       "fa": {
-        "title": "آلمانی‌ها چطور واقعاً نه میگن: ۲۰ رد مؤدبانه",
-        "description": "آلمانی‌ها تقریباً هرگز مستقیم nein نمیگن. به جاش ۲۰ تا روش مؤدبانه برای رد کردن دارن و حتی متوجه نمیشی که رد شدی."
+        "title": "آلمانی‌ها چطور واقعاً 'نه' می‌گن: ۲۰ رد مؤدبانه",
+        "description": "آلمانی‌ها تقریباً هرگز مستقیم 'nein' نمی‌گن. به جاش ۲۰ تا روش مؤدبانه برای رد کردن دارن — و حتی متوجه نمیشی که رد شدی. یاد بگیر بین خطوط رو بخونی."
       },
       "ar": {
-        "title": "كيف يقول الألمان لا فعلياً: 20 رفضاً مهذباً",
-        "description": "الألمان لا يقولون nein أبداً بشكل مباشر. لديهم 20 طريقة لرفضك بأدب ولن تدرك حتى أنك رفضت."
+        "title": "كيف يقول الألمان 'لا' فعلياً: 20 رفضاً مهذباً",
+        "description": "الألمان لا يقولون 'nein' أبداً بشكل مباشر. لديهم 20 طريقة لرفضك بأدب — ولن تدرك حتى أنك رُفضت. تعلم القراءة بين السطور."
       },
       "es": {
-        "title": "Como dicen no los alemanes realmente: 20 rechazos educados",
-        "description": "Los alemanes casi nunca dicen nein directamente. Tienen 20 formas de rechazarte educadamente y ni te daras cuenta de que te han rechazado."
+        "title": "Cómo dicen 'no' los alemanes realmente: 20 rechazos educados",
+        "description": "Los alemanes casi nunca dicen 'nein' directamente. Tienen 20 formas de rechazarte educadamente — y ni te darás cuenta de que te han rechazado. Aprende a leer entre líneas."
       },
       "uz": {
-        "title": "Nemislar haqiqatan yoq deyishadi: 20 ta oqilona rad",
-        "description": "Nemislar deyarli hech qachon togridan-togri nein demaydi. Ularda seni oqilona rad qilishning 20 ta usuli bor va rad etilganingni ham sezmay qolasiz."
+        "title": "Nemislar haqiqatan 'yo'q' deyishadi: 20 ta oqilona rad",
+        "description": "Nemislar deyarli hech qachon to'g'ridan-to'g'ri 'nein' demaydi. Ularda seni oqilona rad qilishning 20 ta usuli bor — va rad etilganingni ham sezmay qolasiz. Qator orasini o'qishni o'rgan."
       }
     }
   },
@@ -7374,32 +7374,32 @@
         "description": "Fahrt, Puff, Hose, Schmuck - німецькі слова, від яких англомовні червоніють, але які означають зовсім звичайні речі."
       },
       "sk": {
-        "title": "12 nemeckych slov, ktore znejusu neslusne, ale su uplne nevienne",
-        "description": "Fahrt, Puff, Hose, Schmuck - nemecke slova, od ktorych anglictina cerveneje, ale znamena uplne obycajne veci."
+        "title": "12 nemeckých slov, ktoré znejú neslušne, ale sú úplne nevinné",
+        "description": "Fahrt, Puff, Hose, Schmuck — nemecké slová, od ktorých angličtinačerveneje, ale znamenajú úplne obyčajné veci. Najsmiešnejšie jazykové zámeny."
       },
       "tr": {
-        "title": "Iglic durmus ama tamamen masum olan 12 Almanca kelime",
-        "description": "Fahrt, Puff, Hose, Schmuck - Ingilizce konusanlari kizartan ama tamamen normal anlamlari olan Almanca kelimeler."
+        "title": "Iglic durmuş ama tamamen masum olan 12 Almanca kelime",
+        "description": "Fahrt, Puff, Hose, Schmuck — İngilizce konuşanları kızartan ama tamamen normal anlamları olan Almanca kelimeler. Hayatınızın en komik dil karışıklıkları."
       },
       "ro": {
-        "title": "12 cuvinte germane ce suna indecent, dar sunt complet inocente",
-        "description": "Fahrt, Puff, Hose, Schmuck - cuvinte germane ce fac vorbitorii de engleza sa roseasca, dar inseamna lucruri complet normale."
+        "title": "12 cuvinte germane ce sună indecent, dar sunt complet inocente",
+        "description": "Fahrt, Puff, Hose, Schmuck — cuvinte germane ce fac vorbitorii de engleză să roșească, dar înseamnă lucruri complet normale. Cele mai amuzante confuzii lingvistice."
       },
       "fa": {
-        "title": "12 kalameh Almani ke dirty be nazar miresan vali kamelan bi-gonahan",
-        "description": "Fahrt, Puff, Hose, Schmuck - kalameh-haye Almani ke English-zabana surkh mikonan vali maani kamelan aadi daran."
+        "title": "۱۲ کلمه آلمانی که.dirty به نظر میرسن ولی کاملاً بی‌گناهان",
+        "description": "Fahrt, Puff, Hose, Schmuck — کلمات آلمانی که انگلیسی‌زبانا سرخ میکنن ولی معنی کاملاً عادی دارن. خنده‌دارترین اشتباهات زبانی."
       },
       "ar": {
-        "title": "12 kalima almaniyya tabdu wahiha lakinnaha bariya tamitan",
-        "description": "Fahrt, Puff, Hose, Schmuck - kalimat almaniyya tuharriz al-mutahaddithin bil-injiliziyya lakinnaha taani ashyaan aadiyya tamitan."
+        "title": "12 كلمة ألمانية تبدو وقحة لكنها بريئة تماماً",
+        "description": "Fahrt, Puff, Hose, Schmuck — كلمات ألمانية تُحرج المتحدثين بالإنجليزية لكنها تعني أشياء عادية تماماً. أطرف الخلطات اللغوية."
       },
       "es": {
         "title": "12 palabras alemanas que suenan sucias pero son completamente inocentes",
         "description": "Fahrt, Puff, Hose, Schmuck - palabras alemanas que hacen sonrojar a los hispanohablantes pero significan cosas totalmente normales."
       },
       "uz": {
-        "title": "Korinishicha nopok lekin butunlay begunoh 12 ta nemis sozi",
-        "description": "Fahrt, Puff, Hose, Schmuck - ingliz tilida sozlashuvchilarni qizarib yuboradigan lekin butunlay oddiy narsalarni anglatuvchi nemis sozlari."
+        "title": "Ko'rinishicha nopok, lekin butunlay begunoh 12 ta nemis so'zi",
+        "description": "Fahrt, Puff, Hose, Schmuck — ingliz tilida so'zlashuvchilarni qizarib yuboradigan, lekin butunlay oddiy narsalarni anglatuvchi nemis so'zlari. Eng kulgili til chalkashliklari."
       }
     }
   },
@@ -7418,40 +7418,40 @@
         "description": "Girls are it, verbs go to the end, and the has 16 forms. German grammar rules that will break your brain - explained so they finally click."
       },
       "ru": {
-        "title": "Pravila nemetskoy grammatiki ne imeyushchie smysla (no vychit nado)",
-        "description": "Devochka - eto ono, glagod uletaet v konets, a the imeet 16 form. Pravila kotorye vzorvut vash mozg s ob'yasneniyami."
+        "title": "Правила немецкой грамматики, не имеющие смысла (но выучить надо)",
+        "description": "Девочка — это «оно», глагол улетает в конец, а «the» имеет 16 форм. Правила немецкой грамматики, которые взорвут ваш мозг — с объяснениями, чтобы наконец дошло."
       },
       "uk": {
-        "title": "Pravila nimetskoyi gramatyky shcho ne mayut sensu",
-        "description": "Divchynka - tse vono, dieslovo vtikaye v kinets a the maye 16 form. Pravyla shcho znesut mozok z poyasnennyamy."
+        "title": "Правила німецької граматики, що не мають сенсу (але вчити треба)",
+        "description": "Дівчинка — це «воно», дієслово втікає в кінець, а «the» має 16 форм. Правила німецької граматики, які знесуть мозок — з поясненнями, щоб нарешті дійшло."
       },
       "sk": {
-        "title": "Pravidla nemeckej gramatiky ktore nedavaju zmysel",
-        "description": "Dievca je ono sloveso ujde na koniec a the ma 16 foriem. Pravidla ktore ti rozbiju mozog s vysvetleniami."
+        "title": "Pravidlá nemeckej gramatiky, ktoré nedávajú zmysel (ale musíš sa ich naučiť)",
+        "description": "Dievča je „ono\", sloveso ujde na koniec a „the\" má 16 foriem. Pravidlá, ktoré ti rozbijú mozog — vysvetlené tak, že konečne dajú zmysel."
       },
       "tr": {
-        "title": "Hic mantikli olmayan Almanca dilbilgisi kurallari",
-        "description": "Kiz o olur fiil sona kacar ve thenin 16 hali vardir. Beynini patlatacak kurallar aciklanmis."
+        "title": "Hiç mantıklı olmayan Almanca dilbilgisi kuralları (ama öğrenmek zorundasın)",
+        "description": "Kız 'o' olur, fiil sona kaçar ve 'the'nin 16 hali vardır. Beynini patlatacak Almanca dilbilgisi kuralları — sonunda anlaman için açıklanmış."
       },
       "ro": {
-        "title": "Reguli de gramatica germana care nu au niciun sens",
-        "description": "Fata e ea verbul fuge la final si the are 16 forme. Reguli care iti vor exploda creierul explicate."
+        "title": "Reguli de gramatică germană care nu au niciun sens (dar trebuie să le înveți)",
+        "description": "Fata e „ea\", verbul fuge la final și „the\" are 16 forme. Reguli de gramatică germană care îți vor exploda creierul — explicate ca să înțelegi."
       },
       "fa": {
-        "title": "Ghavaede grammar Almani ke hich maani nemidan",
-        "description": "Dokhtar u mishavad fe'l akhar miravad va the shanzdah ta shakl darad. Ghavaede ke maghzeto manfar mikonand tozih shode."
+        "title": "قواعد گرامر آلمانی که هیچ معنی نمیدن (ولی باید یاد بگیریشون)",
+        "description": "دختر 'اون' میشه، فعل آخر میره و 'the' شانزده تا شکل داره. قواعدی که مغزتو منفجر میکنن — توضیح داده شدن که بالاخره بفهمی."
       },
       "ar": {
-        "title": "Qawaed nahwiyya almaniyya la maana laha",
-        "description": "Al-fatata hiya al-fial yahrub lil-nihaya wa the laha 16 shaklan. Qawaed sanfar dimaghak mashruha."
+        "title": "قواعد نحوية ألمانية لا معنى لها (لكن يجب أن تتعلمها)",
+        "description": "الفتاة 'هي'، الفعل يهرب للنهاية و 'the' لها 16 شكلاً. قواعد ستنفّر دماغك — مشروحة لتفهمها أخيراً."
       },
       "es": {
-        "title": "Reglas de gramatica alemana sin sentido",
-        "description": "Una chica es ello el verbo huye al final y the tiene 16 formas. Reglas que te volaran la cabeza explicadas."
+        "title": "Reglas de gramática alemana sin sentido (pero que debes aprender)",
+        "description": "Una chica es 'ello', el verbo huye al final y 'the' tiene 16 formas. Reglas que te volarán la cabeza — explicadas para que por fin tengan sentido."
       },
       "uz": {
-        "title": "Manosiz nemis tili grammatikasi qoidalari",
-        "description": "Qiz u boladi fe'l oxirga qochadi va the ning 16 shakli bor. Miyangizni portlatadigan qoidalar tushuntirilgan."
+        "title": "Ma'nosiz nemis tili grammatikasi qoidalari (lekin o'rganish shart)",
+        "description": "Qiz 'u' bo'ladi, fe'l oxirga qochadi va 'the' ning 16 shakli bor. Miyangizni portlatadigan qoidalar — tushunishingiz uchun tushuntirilgan."
       }
     }
   },
@@ -7470,16 +7470,16 @@
         "description": "Clapping when the plane lands, never wishing happy birthday early, and fighting over bottle deposits - German habits that leave foreigners baffled."
       },
       "ru": {
-        "title": "15 privychek nemtsev kotorye stavyat v tupik ves mir",
-        "description": "Hlopanie pri posadke samoleta zapret pozdravlyat s dnem rozhdeniya zarnee i bitva za zal za butylki - nemetskie privychki ot kotoryh inostrantsy v shoke."
+        "title": "15 привычек немцев, которые ставят в тупик весь мир",
+        "description": "Хлопанье при посадке самолёта, запрет поздравлять с днём рождения заранее и битва за залог за бутылки — немецкие привычки, от которых иностранцы в шоке."
       },
       "uk": {
-        "title": "15 zvychok nimtsiv yaki zbyvayut z pantelyku ves svit",
-        "description": "Oplesky pr posadtsi litaka zaborona vitaty z dnem narodzhennya zazdalegid i borotba za zstavu za plyashki - nimetski zvychky vid yakyh inozemtsi v shoci."
+        "title": "15 звичок німців, які збивають з пантелику весь світ",
+        "description": "Оплески при посадці літака, заборона вітати з днем народження заздалегідь і боротьба за заставу за пляшки — німецькі звички, від яких іноземці в шоці."
       },
       "sk": {
-        "title": "15 zvykov Nemcov ktore confuse zvysok sveta",
-        "description": "Tleskanie pri pristati lietadla zakaz blaznit narodeniny skor a boj o zalohu za flase - nemecke zvyky ktore cudzincov uplne prevalcuju."
+        "title": "15 zvykov Nemcov, ktore confuse zvysok sveta",
+        "description": "Tleskanie pri pristati lietadla, zakaz blaznit narodeniny skor a boj o zalohu za flase — nemecke zvyky, ktore cudzincov uplne prevalcuju."
       },
       "tr": {
         "title": "Almanlarin dunyayi sasirtan 15 aliskanligi",
@@ -7490,12 +7490,12 @@
         "description": "Aplauze la aterizare interzicerea felicitarilor premature de ziua si lupta pentru depozitul de sticle - obiceiuri germane care lasa strainii perplexi."
       },
       "fa": {
-        "title": "15 aadat Almani ke baghie donya ro gig mikone",
-        "description": "Tashviiq hengam forud havapeyma mamnooiyat tabrik zoodras tavalod va jang baraye seporde botri - aadati ke kharejiha ro shekke mikone."
+        "title": "۱۵ عادت آلمانی که بقیه دنیا رو گیج میکنه",
+        "description": "تشویق هنگام فرود هواپیما، ممنوعیت تبریک زودرس تولد و جنگ برای سپرده بطری — عاداتی که خارجیا رو شوکه میکنه."
       },
       "ar": {
-        "title": "15 aada almaniyya tuhayyir baqiyat al-aalam",
-        "description": "Al-tasfiq ind hubut al-ta'ira mannuq tahniiat iid al-milad mubakkiran wa al-qital ala wadiat al-zujajat - aada almaniyya tatriku al-ajanib fi hayra."
+        "title": "15 عادة ألمانية تحيّر بقية العالم",
+        "description": "التصفيق عند هبوط الطائرة، منع تهنئة عيد الميلاد مبكراً، والقتال على وديعة الزجاجات — عادات ألمانية تترك الأجانب في حيرة."
       },
       "es": {
         "title": "15 cosas que hacen los alemanes que desconciertan al mundo",
@@ -7522,20 +7522,20 @@
         "description": "Kindergarten, doppelganger, wanderlust, pretzel - words so common you forgot they are German. The German language has been hiding in your vocabulary all along."
       },
       "ru": {
-        "title": "20 немецких слов, которые вы используете каждый день, не осознавая этого",
-        "description": "Kindergarten, doppelganger, wanderlust, pretzel - слова настолько привычные, что вы забыли об их немецком происхождении. Немецкий язык всё это время прятался в вашем словаре."
+        "title": "20 немецких слов, которые вы используете каждый день, не подозревая об этом",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel — слова, настолько обычные, что вы забыли об их немецком происхождении. Немецкий язык прятался в вашем словаре всё это время."
       },
       "uk": {
         "title": "20 німецьких слів, які ви використовуєте щодня, не підозрюючи про це",
         "description": "Kindergarten, doppelganger, wanderlust, pretzel - слова настільки звичні, що ви забули про їхнє німецьке походження. Німецька мова весь цей час ховалася у вашому словнику."
       },
       "sk": {
-        "title": "20 nemeckych slov, ktore pouzivate kazdy den bez toho, aby ste to vedeli",
-        "description": "Kindergarten, doppelganger, wanderlust, pretzel - slova tak bezne, ze ste zabudli, ze su nemecke. Nemcina sa celkovy cas skrivala vo vasom slovniku."
+        "title": "20 nemeckych slov, ktore pouzivas kazdy den a ani o tom nevis",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel — slova tak bezne, ze si zabudol, ze su nemecke. Nemcina sa ukryvala v tvojej slovnej zasobe cely cas."
       },
       "tr": {
-        "title": "Her Gun Farkinda Olmadan Kullandiginiz 20 Almanca Kelime",
-        "description": "Kindergarten, doppelganger, wanderlust, pretzel - o kadar yaygin kelimeler ki Almanca olduklarini unuttunuz. Almanca bu zamana kadar sozlugunuzde saklaniyordu."
+        "title": "Almanca oldugunu bilmeden her gun kullandiginiz 20 kelime",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel — o kadar yaygin kelimeler ki Almanca oldugunu unuttunuz. Almanca bunu surece kelime haznenizin icinde saklaniyordu."
       },
       "ro": {
         "title": "20 de cuvinte germane pe care le folosesti zilnic fara sa stii",
@@ -7554,8 +7554,8 @@
         "description": "Kindergarten, doppelganger, wanderlust, pretzel - palabras tan comunes que olvidaste que son alemanas."
       },
       "uz": {
-        "title": "Har kuni bilmagan holda ishlatadigan 20 ta nemis sozi",
-        "description": "Kindergarten, doppelganger, wanderlust, pretzel - shunchalik keng tarqalgan sozlar ki, nemis ekanligingiz unutdingiz."
+        "title": "Har kuni bilmagan holda ishlatadigan 20 ta nemis so'zi",
+        "description": "Kindergarten, doppelganger, wanderlust, pretzel — shunchalik keng tarqalgan so'zlar ki, nemis ekanligingiz unutdingiz. Nemis tili shu vaqtgacha lug'atingizda yashirinib kelgan."
       }
     }
   },
@@ -7606,8 +7606,8 @@
         "description": "Todos dicen que el aleman suena agresivo. Aqui te explico por que estan equivocados — y que hay detras del mito del idioma enojado."
       },
       "uz": {
-        "title": "Nemis tili nega gazablangandek tuyuladi (aslida esa yoq)",
-        "description": "Hamma nemis tilini tajovuzkor va gazablangandek deydi. Bu mutlaqo notogri ekanligining sababi — va gazablangan til afsonasining haqiqiy sababi."
+        "title": "Nemis tili nega g'azablangandek tuyuladi (aslida esa yo'q)",
+        "description": "Hamma nemis tilini tajovuzkor va g'azablangandek deydi. Bu mutlaqo noto'g'ri ekanligining sababi — va 'g'azablangan til' afsonasining haqiqiy sababi."
       }
     }
   },
@@ -7626,12 +7626,12 @@
         "description": "Germans have unwritten rules for everything. Birthday wishes before the day? Bad luck. Crossing on red? Social crime. Learn the etiquette rules that catch foreigners off guard."
       },
       "ru": {
-        "title": "12 pravil nemeckogo etiketa, kotorye vas udivyat",
-        "description": "U nemtsev nepisanye pravit dlya vsego. Pozdravit s dryom rozhdeniya zarane? Plohaya primetay. Pereyti na krasniy? Sotcialniy prestupleniye."
+        "title": "12 правил немецкого этикета, которые вас удивят",
+        "description": "У немцев есть неписаные правила для всего. Поздравить с днём рождения заранее? Плохая примета. Перейти на красный? Социальное преступление. Узнайте правила этикета, которые шокируют иностранцев."
       },
       "uk": {
-        "title": "12 pravil nimeckogo etiketu, yaki vas zdvyvuyut",
-        "description": "U nimtsev nepysani pravitlya dlya vsoho. Pozdrowyty z dnem narodzhennya zavchas? Pogana prykmeta."
+        "title": "12 правил німецького етикету, які вас здивують",
+        "description": "У німців є неписані правила для всього. Поздоровити з днем народження заздалегідь? Погана прикмета. Перейти на червоне? Соціальний злочин. Дізнайтеся правила, що шокують іноземців."
       },
       "sk": {
         "title": "12 pravidi nemeckeho etikety, ktore vas prekvapia",
@@ -7646,12 +7646,12 @@
         "description": "Germanii au reguli nescrise pentru orice. Sa urezi la multi ani inainte de zi? Ghinion. Sa treci pe rosu? Crima sociala."
       },
       "fa": {
-        "title": "12 qanun adab-e masharat Almani ke shomara ghaflatgir mikona",
-        "description": "Almaniyha baraye hame chiz qanun-e nanveshte daran. Tabrik-e zudhangan-e tavallod? Bad-shansi."
+        "title": "۱۲ قانون آداب معاشرت آلمانی که شما رو غافلگیر میکنه",
+        "description": "آلمانی‌ها برای همه چیز قانون نانوشته دارن. تبریک زودهنگام تولد؟ بدشانسی. عبور از چراغ قرمز؟ جرم اجتماعی. قوانینی که خارجی‌ها رو شوکه میکنه."
       },
       "ar": {
-        "title": "12 qaidat ityqit almaniyat safajik",
-        "description": "Al-alamaniyun ladayhim qawaid ghayr maktuba likuli shay. Tahniyat bi-yawm milad mubakkir? Su hadh."
+        "title": "12 قاعدة إتيكيت ألمانية ستفاجئك",
+        "description": "الألمان لديهم قواعد غير مكتوبة لكل شيء. التهنئة بعيد ميلاد مبكر؟ سوء حظ. عبور الإشارة الحمراء؟ جريمة اجتماعية. تعرف على القواعد التي تصدم الأجانب."
       },
       "es": {
         "title": "12 reglas de etiqueta alemana que te sorprenderan",
@@ -7678,32 +7678,32 @@
         "description": "Germans communicate with more than words. A slight nod, a sharp inhale, tapping your forehead — every gesture has a meaning. Learn what German body language is actually saying."
       },
       "ru": {
-        "title": "Nemeckie zhesty i yazyk tela: chto oni na samom dele znachat",
-        "description": "Nemtsy obschayutsya ne tolko slovami. Lyogkiy kivok, rezkiy vdoh, postukivanie po lbu — kajdyi zhest imeet znachenie."
+        "title": "Немецкие жесты и язык тела: что они на самом деле значат",
+        "description": "Немцы общаются не только словами. Лёгкий кивок, резкий вдох, постукивание по лбу — каждый жест имеет значение. Узнайте, что на самом деле говорит немецкий язык тела."
       },
       "uk": {
-        "title": "Nimecki zhesti i mova tila: scho vono na spravdi znachat",
-        "description": "Nimeci spilkuyutsya ne lishe slovami. Legkiy kivok, rizkiy vdih, postukuvannya po lobi — kozhen zhest maye znachennya."
+        "title": "Німецькі жести та мова тіла: що вони насправді значать",
+        "description": "Німці спілкуються не лише словами. Легкий кивок, різкий вдих, постукування по лобі — кожен жест має значення. Дізнайтеся, що насправді говорить німецька мова тіла."
       },
       "sk": {
         "title": "Nemecke gesta a rec tela: co skutocne znamenaju",
         "description": "Nemci nekomunikuju len slovami. Maly prikivenie, ostry nadych, poklepanie na celu — kazde gesto ma vyznam."
       },
       "tr": {
-        "title": "Alman Jester ve Beden Dili: Gercekte Ne Anlama Geliyor",
-        "description": "Almanlar sadece kelimelerle iletisim kurmaz. Hafif bir bas sallama, keskin bir nefes, alna dokunma — her jestin bir anlami var."
+        "title": "Almanca Jester ve Beden Dili: Gercekte Ne Anlama Geliyor",
+        "description": "Almanlar sadece kelimelerle iletisim kurmaz. Hafif bir bas sallama, keskin bir nefes, alna dokunma — her jestin bir anlami var. Alman beden dilinin gercekten ne soyledigini ogrenin."
       },
       "ro": {
         "title": "Gesturi si limbajul corpului in Germania: ce inseamna de fapt",
         "description": "Germanii comunica cu mai mult decat cuvinte. Un usor dat din cap, o respiratie ascutita, o atingere a fruntii — fiecare gest are un sens."
       },
       "fa": {
-        "title": "Zhest-ha va zaban-e badan Almani: vaghean che mani midan",
-        "description": "Almaniyha faqat ba kalame harf nemizanan. Yek tik koochak sar, yek nafas tond, zarbe be pishooni — har zhest mani darad."
+        "title": "ژست‌ها و زبان بدن آلمانی: واقعاً چه معنی میدن",
+        "description": "آلمانی‌ها فقط با کلمات حرف نمیزنن. یه تیک کوچیک سر، یه نفس تند، ضربه به پیشونی — هر ژست معنی داره. بفهمید زبان بدن آلمانی واقعاً چی میگه."
       },
       "ar": {
-        "title": "Al-iimaat wa lughat al-jasad al-almaniyat: ma taanihi haqiqan",
-        "description": "Al-alman yatawasaluna biakthar min al-kalimat. Hazzat ras khafifat, nafas hadd, tarq ala al-jabha — kull iimaat laha manan."
+        "title": "الايماءات ولغة الجسد الالمانية: ما تعنيه حقا",
+        "description": "الالمان يتواصلون بأكثر من الكلمات. هزة رأس خفيفة، نفس حاد، طرق على الجبهة — كل ايماءة لها معنى. تعرف ما تقوله لغة الجسد الالمانية فعلا."
       },
       "es": {
         "title": "Gestos y lenguaje corporal aleman: lo que realmente significan",
@@ -7730,32 +7730,32 @@
         "description": "Germans have unwritten rules for everything. Birthday wishes before the day? Bad luck. Crossing on red? Social crime. Learn the etiquette rules that catch foreigners off guard."
       },
       "ru": {
-        "title": "15 nemeckih oshibok, kotorye srazu vydayut vas kak inostranca",
-        "description": "Nemtsy zametayut eti oshibki mgnovenno. Ich bin kalt, Kennen vs Wissen, zabytyi glagol v kontse — 15 oshibok i ih ispravleniya."
+        "title": "15 немецких ошибок, которые сразу выдают вас как иностранца",
+        "description": "Вы учили немецкий годами, но одна крошечная ошибка — и все понимают, что вы не отсюда. Это ошибки, которые носители замечают мгновенно — и как их исправить."
       },
       "uk": {
-        "title": "15 nimeckyh pomilok, yaki odrazu vydayut vas yak inozemcya",
-        "description": "Nimeci pomichayut ci pomilki mittievo. Ich bin kalt, Kennen vs Wissen, zabute dieslovo v kinci — 15 pomilok ta ih vypravlennya."
+        "title": "15 німецьких помилок, які одразу видають вас як іноземця",
+        "description": "Ви вчили німецьку роками, але одна крихітна помилка — і всі розуміють, що ви не звідси. Це помилки, які носії помічають миттєво — і як їх виправити."
       },
       "sk": {
-        "title": "15 nemeckych chyb, ktore hned odhalia ze ste cudzinec",
-        "description": "Nemci si tychto chyb vsimnu okamzite. Ich bin kalt, Kennen vs Wissen, zabudnute sloveso na konci — 15 chyb a ich opravy."
+        "title": "15 nemeckych chyb, ktore hned odhali ze ste cudzinec",
+        "description": "Ste sa ucili nemcinu roky, ale jeden maly preklep a vsetci vedia, ze nie ste odtialto. Tieto chyby zaznamu rodaci okamzite — a ako ich opravit."
       },
       "tr": {
         "title": "Sizi Aninda Yabanci Olarak Ele Veren 15 Almanca Hata",
         "description": "Almanlar bu hatalari aninda fark eder. Ich bin kalt, Kennen vs Wissen, sondaki unutulmus fiil — 15 hata ve cozumleri."
       },
       "ro": {
-        "title": "15 greseli de germana care te dau de gol ca strain",
-        "description": "Germanii observa aceste greseli instantaneu. Ich bin kalt, Kennen vs Wissen, verbul uitat la sfarsit — 15 greseli si corecturile lor."
+        "title": "15 greseli de germana care te dau imediat de gol ca strain",
+        "description": "Ai studiat germana ani de zile, dar o mica greseala si toti stiu ca nu esti de acolo. Greselile pe care nativii le observa instantaneu — si cum sa le corectezi."
       },
       "fa": {
-        "title": "15 eshtebah Almani ke foran shomaro be onvane khareji lo midahad",
-        "description": "Almaniyha in eshtebaharo foran motevajeh mishan. Ich bin kalt, Kennen vs Wissen — 15 eshtebah va islahashun."
+        "title": "۱۵ اشتباه آلمانی که فوراً شما رو به عنوان خارجی لو میده",
+        "description": "سال‌ها آلمانی یاد گرفتید، ولی یه اشتباه کوچیک و همه میفهمن از اینجا نیستید. این اشتباهاتی هستن که آلمانی‌های بومی فوراً متوجه میشن — و چطور درستشون کنید."
       },
       "ar": {
-        "title": "15 khata almaniyat takshifuk kaajnabi fawran",
-        "description": "Al-alam yalahizun hatihai alkhataa fawran. Ich bin kalt, Kennen vs Wissen — 15 khata wakayfa tushlihha."
+        "title": "15 خطاء ألمانية تكشفك كأجنبي فورا",
+        "description": "درست الالمانية لسنوات لكن خطأ صغير واحد والجميع يعرف انك لست من هنا. هذه الاخطاء التي يلاحظها الالمان فورا — وكيف تصلحها."
       },
       "es": {
         "title": "15 errores de aleman que te delatan como extranjero al instante",
@@ -7782,12 +7782,12 @@
         "description": "Nude offices, mandatory doctor notes for one sick day, no small talk at lunch. German workplace rules will confuse you. Learn what nobody tells you before your first German job."
       },
       "ru": {
-        "title": "Kulturnyi shok na nemetskoi rabote, kotoryi ispytyvaet kazhdyi inostranets",
-        "description": "Sovmestnye obedy, spravka ot vracha za odin den, nikakih razgovorov o vyhodnyh. Pravila nemetskogo ofisa vas udivyat."
+        "title": "Культурный шок на немецкой работе, который испытывает каждый иностранец",
+        "description": "Совместные обеды, справка от врача за один день болезни, никаких разговоров о выходных — правила немецкого офиса вас удивят. Узнайте, о чём никто не говорит до первой работы."
       },
       "uk": {
-        "title": "Kulturnyi shok na nimeckii roboti, yaki perezhyvaie kozhen inozemec",
-        "description": "Spilni obidi, dovidka vid likarya za odin den, nyakogo small talk. Pravyla nimeckogo ofisu vas zdvyvuyut."
+        "title": "Культурний шок на німецькій роботі, який переживає кожен іноземець",
+        "description": "Спільні обіди, довідка від лікаря за один день хвороби, ніяких розмов про вихідні — правила німецького офісу вас здивують. Дізнайтеся, про що ніхто не каже до першої роботи."
       },
       "sk": {
         "title": "Kulturni sok na nemeckom pracovisku, ktory zazije kazdy cudzinec",
@@ -7798,16 +7798,16 @@
         "description": "Ortak ogle yemegi, bir gunluk hastalik icin doktor raporu, toplantı oncesi bos muhabbet yok. Alman ofis kurallari."
       },
       "ro": {
-        "title": "Socuri culturale la locul de munca in Germania",
-        "description": "Prânzuri comune, certificat medical pentru o zi, niciun small talk. Regulile biroului german te vor soca."
+        "title": "Socuri culturale la locul de munca in Germania pe care le traieste fiecare strain",
+        "description": "Prânzuri comune, certificat medical pentru o zi de concediu medical, niciun small talk — regulile biroului german te vor soca. Ce nimeni nu-ti spune inainte de primul job."
       },
       "fa": {
-        "title": "Shok-ha-ye farhang-e kar Almani ke har khareji tajrobe mikone",
-        "description": "Nahar-e moshtarak, gavahi-ye pezeshki baraye yek rooz, bedoone small talk. Ghavanin-e daftar Almani shomaro shoke mikone."
+        "title": "شوک‌های فرهنگ کار آلمانی که هر خارجی تجربه میکنه",
+        "description": "ناهار مشترک، گواهی پزشکی برای یک روز بیماری، بدون small talk — قوانین دفتر آلمانی شوکه‌تون میکنه. چیزایی که قبل از اولین کار آلمانی بهتون نمیگن."
       },
       "ar": {
-        "title": "Sadamat thaqafat al-amal al-almaniyat allati yuwajihuha kull ajnabi",
-        "description": "Ghada mushtarak, shahada tibbiyya liyawm wahid, la hadith. Qawaid al-maktab al-almani sa tusadmuk."
+        "title": "صدمات ثقافة العمل الالمانية التي يواجهها كل اجنبي",
+        "description": "غداء مشترك، شهادة طبية ليوم واحد من المرض، لا حديث قبل الاجتماعات — قواعد المكتب الالماني ستصدمك. ما لا يخبرك به احد قبل اول وظيفة."
       },
       "es": {
         "title": "Choques culturales del trabajo en Alemania que todo extranjero sufre",
@@ -7834,12 +7834,12 @@
         "description": "Toi toi toi, touching red, no early birthday wishes. Germans take superstitions more seriously than you think. Learn the beliefs that still rule daily life."
       },
       "ru": {
-        "title": "13 nemetskih sueverij, v kotorye nemcy realno veryat",
-        "description": "Toi toi toi, kasatsya krasnogo, nikakih rannih pozdravlenij. Nemcy otnosyatsya k sueveriyam serieznee, chem vy dumaete."
+        "title": "13 немецких суеверий, в которые немцы реально верят",
+        "description": "Toi toi toi, касаться красного, никаких ранних поздравлений — немцы относятся к суевериям серьёзнее, чем вы думаете. Узнайте верования, которые правят повседневной жизнью."
       },
       "uk": {
-        "title": "13 nimeckyh zaboboniv, u yaki nimci realno viryat",
-        "description": "Toi toi toi, tikatysya chervonogo, zodnyh rannih pozdrovlen. Nimci stavlyatsya do zaboboniv serjoznishe, nizh vy dumaete."
+        "title": "13 німецьких забобонів, у які німці реально вірять",
+        "description": "Toi toi toi, торкатися червоного, жодних ранніх поздоровлень — німці ставляться до забобонів серйозніше, ніж ви думаєте. Дізнайтеся вірування, що керують повсякденним життям."
       },
       "sk": {
         "title": "13 nemeckych povier v ktore Nemci skutocne veria",
@@ -7854,20 +7854,20 @@
         "description": "Toi toi toi, atinge rosu, fara urari in avans. Germanii iau superstitiile mai serios decat crezi."
       },
       "fa": {
-        "title": "13 kharafat Almani ke adama vaghean bavar daran",
-        "description": "Toi toi toi, lams-e ghermez, bedoone tabrik-e zoodhange. Almaniyha kharafato jidditar az chiizi ke fekr mikonin migiran."
+        "title": "۱۳ خرافات آلمانی که آدما واقعاً باور دارن",
+        "description": "Toi toi toi، لمس قرمز، بدون تبریک زودهنگام تولد — آلمانی‌ها خرافاتو جدی‌تر از چیزی که فکر میکنید میگیرن. باورهایی که زندگی روزمره رو اداره میکنن."
       },
       "ar": {
-        "title": "13 kharafa almaniyat yuminu biha al-nas haqiqan",
-        "description": "Toi toi toi, al-mas al-ahmar, la tahnihu qabla al-mawid. Al-alam yakhuzhun al-kharafat bi-jaddiya akthar mimma tatawaqqa."
+        "title": "13 خرافة ألمانية يؤمن بها الناس فعلا",
+        "description": "Toi toi toi، المس الاحمر، لا تهنئوا قبل الموعد — الالمان ياخذون الخرافات بجدية اكبر مما تعتقد. تعرف على المعتقدات التي تحكم الحياة اليومية."
       },
       "es": {
         "title": "13 supersticiones alemanas que la gente realmente cree",
         "description": "Toi toi toi, tocar rojo, no felicitar antes de tiempo. Los alemanes se toman las supersticiones mas en serio de lo que piensas."
       },
       "uz": {
-        "title": "Nemislar haqiqatan ishonadigan 13 ta xurofiy etiqod",
-        "description": "Toi toi toi, qizilni tegish, erta tabriklash yoq. Nemislar xurofiy etiqodlarni oylagandan ham jiddiyroq qabul qiladi."
+        "title": "Nemislar haqiqatan ishonadigan 13 ta xurofiy e'tiqod",
+        "description": "Toi toi toi, qizilni tegish, erta tug'ilgan kun tabriklari yo'q — nemislar xurofiy e'tiqodlarni o'ylagandan ham jiddiyroq qabul qiladi. Kundalik hayotni boshqaradigan e'tiqodlarni bilib oling."
       }
     }
   },
@@ -7886,20 +7886,20 @@
         "description": "Schadenfreude, Fernweh, Verschlimmbessern — German has words for emotions and situations that in other languages require whole paragraphs."
       },
       "ru": {
-        "title": "12 немецких слов, для которых в других языках нужны целые предложения",
-        "description": "Schadenfreude, Fernweh, Verschlimmbessern — в немецком есть слова для эмоций и ситуаций, которым в других языках посвящают целые абзацы."
+        "title": "12 немецких слов, для которых на других языках нужны целые предложения",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — в немецком есть слова для чувств и ситуаций, описание которых на других языках занимает абзацы."
       },
       "uk": {
-        "title": "12 німецьких слів, для яких в інших мовах потрібні цілі речення",
-        "description": "Schadenfreude, Fernweh, Verschlimmbessern — у німецькій мові є слова для емоцій та ситуацій, які в інших мовах вимагають цілих абзаців."
+        "title": "12 німецьких слів, для яких іншими мовами потрібні цілі речення",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — у німецькій є слова для почуттів і ситуацій, опис яких іншими мовами займає абзаци."
       },
       "sk": {
         "title": "12 nemeckych slov, ktore v inych jazykoch potrebuju cele vety",
         "description": "Schadenfreude, Fernweh, Verschlimmbessern — nemcina ma slova pre emocio a situacie, ktore v inych jazykoch vyzaduju cele odstavce."
       },
       "tr": {
-        "title": "Diger dillerde tam cumlelere ihtiyac duyan 12 Almanca kelime",
-        "description": "Schadenfreude, Fernweh, Verschlimmbessern — Almancada diger dillerde tam paragraflar gerektiren duygular ve durumlar icin kelimeler var."
+        "title": "Baska Dillerde Tum Cmleler Gerektiren 12 Almanca Kelime",
+        "description": "Schadenfreude, Fernweh, Verschlimmbessern — Almancada diger dillerde paragraflar süren duygu ve durumlar icin tek kelimeler var."
       },
       "ro": {
         "title": "12 cuvinte germane care au nevoie de propozitii intregi in alte limbi",
@@ -7986,40 +7986,40 @@
     ],
     "langs": {
       "en": {
-        "title": "Same Words, Different Meanings: Germany vs Austria vs Switzerland",
-        "description": "Die Semmel, das Velo, Obers - the same German changes meaning when you cross the border. Learn the words that confuse Germans in Austria and Switzerland."
+        "title": "Same Words, Completely Different Meanings: Germany vs Austria vs Switzerland",
+        "description": "Die Semmel, das Feierabend, das Velo — the same German changes meaning when you cross the border. Learn the words that confuse Germans in Austria and Switzerland."
       },
       "ru": {
         "title": "Одни слова, разные смыслы: Германия vs Австрия vs Швейцария",
         "description": "Die Semmel, das Velo, Obers - один и тот же немецкий меняет значения при пересечении границы."
       },
       "uk": {
-        "title": "Однаковi слова, рiзнi смисли: Нiмеччина vs Австрiя vs Швейцарiя",
-        "description": "Die Semmel, das Velo, Obers - одна й та сама нiмецька змiнює значення при перетинi кордону."
+        "title": "Один слова, рiзнi смисли: Нiмеччина vs Австрiя vs Швейцарiя",
+        "description": "Die Semmel, das Velo, Obers — одна й та сама нiмецька змiнює значення при перетинi кордону. Дiзнайся слова, якi плутають нiмцiв в Австрiї та Швейцарiї."
       },
       "sk": {
-        "title": "Iste slova, ine vyznamy: Nemecko vs Rakusko vs Svajciarsko",
-        "description": "Die Semmel, das Velo, Obers - ten isty nemcina meni vyznam ked prekrocis hranice."
+        "title": "Iste slova, uplne ine vyznamy: Nemecko vs Rakusko vs Svajciarsko",
+        "description": "Die Semmel, das Velo, Obers — ten isty nemcina meni vyznam ked prekrocis hranice. Nauc sa slova, ktore mätu nemcov v Rakusku a Svajciarsku."
       },
       "tr": {
         "title": "Ayni kelimeler, baska anlamlar: Almanya vs Avusturya vs Isvicre",
         "description": "Die Semmel, das Velo, Obers - ayni Almanca siniri gecince anlam degistiriyor."
       },
       "ro": {
-        "title": "Aceleasi cuvinte, sensuri diferite: Germania vs Austria vs Elvetia",
-        "description": "Die Semmel, das Velo, Obers - aceeasi germana isi schimba sensul cand treci granita."
+        "title": "Aceleasi cuvinte, sensuri complet diferite: Germania vs Austria vs Elvetia",
+        "description": "Die Semmel, das Velo, Obers — aceeasi germana isi schimba sensul cand treci granita. Descopera cuvintele care ii confunda pe germani in Austria si Elvetia."
       },
       "fa": {
         "title": "همین کلمات، معانی کاملاً متفاوت: آلمان vs اتریش vs سوئیس",
         "description": "همان آلمانی وقت مرز رو رد میکنه معنیش عوض میشه."
       },
       "ar": {
-        "title": "نفس الكلمات معاني مختلفة: المانيا vs النمسا vs سويسرا",
-        "description": "نفس الالمانية تغير معناها عندما تعبر الحدود."
+        "title": "نفس الكلمات معاني مختلفة تماما: المانيا vs النمسا vs سويسرا",
+        "description": "Die Semmel, das Velo, Obers — نفس الالمانية تغير معناها عندما تعبر الحدود. اكتشف الكلمات التي تربك الالمان في النمسا وسويسرا."
       },
       "es": {
-        "title": "Mismas palabras, significados diferentes: Alemania vs Austria vs Suiza",
-        "description": "Die Semmel, das Velo, Obers - el mismo aleman cambia de significado al cruzar la frontera."
+        "title": "Mismas palabras, significados completamente diferentes: Alemania vs Austria vs Suiza",
+        "description": "Die Semmel, das Velo, Obers — el mismo aleman cambia de significado al cruzar la frontera. Descubre las palabras que confunden a los alemanes en Austria y Suiza."
       },
       "uz": {
         "title": "Bir xil so'zlar, tubdan farq qiluvchi ma'nolar: Germaniya vs Avstriya vs Shveytsariya",
@@ -8090,44 +8090,44 @@
     ],
     "langs": {
       "en": {
-        "title": "German Words Germans Cant Agree On (And the Battles Are Vicious)",
-        "description": "Der, die or das Nutella? Germans fight wars over these words. Learn the pronunciation debates that divide the entire country."
+        "title": "German Words Germans Can't Agree On (And the Battles Are Vicious)",
+        "description": "Der, die or das Nutella? Is it KEEKS or KAKS? Germans fight wars over these words. Learn the pronunciation debates that divide the entire country."
       },
       "ru": {
-        "title": "Немецкие слова, по которым немцы не могут договориться",
-        "description": "Der, die или das Nutella? Немцы ведут войны из-за этих слов. Узнай о произносительных спорах, которые делят страну."
+        "title": "Немецкие слова, по которым немцы не могут договориться (и битвы жестокие)",
+        "description": "Der, die или das Nutella? KEEKS или KAKS? Немцы ведут войны из-за этих слов. Узнай о произносительных спорах, которые делят целую страну."
       },
       "uk": {
-        "title": "Нiмецькi слова, за якими нiмцi не можуть домовитися",
-        "description": "Der, die чи das Nutella? Нiмцi ведуть вiйни через цi слова. Дiзнайся про вимовнi суперечки, якi подiляють краïну."
+        "title": "Нiмецькi слова, за якими нiмцi не можуть домовитися (i битви жорстокi)",
+        "description": "Der, die чи das Nutella? KEEKS чи KAKS? Нiмцi ведуть вiйни через цi слова. Дiзнайся про вимовнi суперечки, якi подiляють цiлу краïну."
       },
       "sk": {
-        "title": "Nemecke slova, na ktorych sa nemecci nevedia dohodnut",
-        "description": "Der, die alebo das Nutella? Nemecci vedu vojny kvoli tymto slovam. Objav vyslovnostne spory, ktore rozdeluju krajinu."
+        "title": "Nemecke slova, na ktorych sa nemecki nevedia dohodnut (a bitky su krute)",
+        "description": "Der, die alebo das Nutella? KEEKS alebo KAKS? Nemecci vedu vojny kvoli tymto slovam. Objav vyslovnostne spory, ktore rozdeluju celu krajinu."
       },
       "tr": {
-        "title": "Almanlarin anlasamadigi Almanca kelimeler",
-        "description": "Der, die veya das Nutella? Almanlar bu kelimeler icin savasiyor. Ulkeyi bolen telaffuz tartismalarini kesfet."
+        "title": "Almanlarin anlasamadigi Almanca kelimeler (ve savaslar korkunc)",
+        "description": "Der, die veya das Nutella? KEEKS mu KAKS mu? Almanlar bu kelimeler icin savasiyor. Ulkeyi bolen telaffuz tartismalarini kesfet."
       },
       "ro": {
-        "title": "Cuvinte germane pe care germanii nu se pot pune de acord",
-        "description": "Der, die sau das Nutella? Germanii duc razboaie pentru aceste cuvinte. Descopera dezbaterile de pronuntie care divid tara."
+        "title": "Cuvinte germane pe care germanii nu se pot pune de acord (si luptele sunt crude)",
+        "description": "Der, die sau das Nutella? KEEKS sau KAKS? Germanii duc razboaie pentru aceste cuvinte. Descopera dezbaterile de pronuntie care divid o tara intreaga."
       },
       "fa": {
-        "title": "كلمات آلمانی که آلمانا روشون توافق ندارن",
-        "description": "Der، die یا das Nutella؟ آلمانا به خاطر این کلمات جنگ میکنن."
+        "title": "كلمات آلمانی که آلمانا روشون توافق ندارن (و جنگاشون وحشتناکه)",
+        "description": "Der، die یا das Nutella؟ KEEKS یا KAKS؟ آلمانا به خاطر این کلمات جنگ میکنن. مناظرات تلفظی که کل کشور رو تقسیم میکنن رو کشف کن."
       },
       "ar": {
-        "title": "كلمات المانية لا يستطيع الالمان الاتفاق عليها",
-        "description": "Der او die او das Nutella؟ الالمان يخوضون حروبا بسبب هذه الكلمات."
+        "title": "كلمات المانية لا يستطيع الالمان الاتفاق عليها (والمعارك شرسة)",
+        "description": "Der او die او das Nutella؟ KEEKS ام KAKS؟ الالمان يخوضون حروبا بسبب هذه الكلمات. اكتشف نقاشات النطق التي تقسم البلد باكمله."
       },
       "es": {
-        "title": "Palabras alemanas en las que los alemanes no pueden ponerse de acuerdo",
-        "description": "Der, die o das Nutella? Los alemanes libran guerras por estas palabras."
+        "title": "Palabras alemanas en las que los alemanes no pueden ponerse de acuerdo (y las batallas son brutales)",
+        "description": "Der, die o das Nutella? KEEKS o KAKS? Los alemanes libran guerras por estas palabras. Descubre los debates de pronunciacion que dividen a todo un pais."
       },
       "uz": {
-        "title": "Nemislar o'rtasida kelishuv bo'lmaydigan nemis so'zlari",
-        "description": "Der, die yoki das Nutella? Nemislar bu so'zlar uchun urush olib borishmoqda."
+        "title": "Nemislar o'rtasida kelishuv bo'lmaydigan nemis so'zlari (va janglar qo'rqinchli)",
+        "description": "Der, die yoki das Nutella? KEEKS yoki KAKS? Nemislar bu so'zlar uchun urush olib borishmoqda. Butun mamlakatni bo'luvchi talaffuz bahslarini kashf eting."
       }
     }
   },
@@ -8146,40 +8146,40 @@
         "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Germany has concepts and systems that dont exist anywhere else. Learn what they are before you move."
       },
       "ru": {
-        "title": "Вещи, которые существуют только в Германии",
-        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — в Германии есть системы и концепции, которых больше нигде нет."
+        "title": "Вещи, которые существуют только в Германии (и не имеют названия на английском)",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — в Германии есть концепции, системы и предметы, которых больше нигде нет. Узнай что это, пока не переехал."
       },
       "uk": {
-        "title": "Речі, які існують тільки у Німеччині",
-        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — у Німеччині є концепції та системи, яких більше немає."
+        "title": "Речі, які існують тільки у Німеччині (і не мають назви англійською)",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — у Німеччині є концепції, системи та предмети, яких більше немає. Дізнайся перш ніж переїжджати."
       },
       "sk": {
-        "title": "Veci ktore existuju len v Nemecku",
-        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Nemecko ma koncepcie a systemy ktore nikde inde neexistuju."
+        "title": "Veci ktore existuju len v Nemecku (a nemaju anglicky nazov)",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Nemecko ma koncepcie, systemy a predmety ktore nikde inde neexistuju. Zisti co su este nez sa prestahujes."
       },
       "tr": {
-        "title": "Sadece Almanyada var olan seyler",
-        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Almanyanin sistemleri ve kavramlari dunyada benzersiz."
+        "title": "Sadece Almanya'da var olan seyler (ve Ingilizce adi yok)",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Almanya'nin kavramlari, sistemleri ve nesneleri dunyada benzersiz. Tasinmadan once bunlari kesfet."
       },
       "ro": {
-        "title": "Lucruri care exista doar in Germania",
-        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Germania are conceptii si sisteme care nu exista nicaieri."
+        "title": "Lucruri care exista doar in Germania (si nu au nume in engleza)",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Germania are conceptii, sisteme si obiecte care nu exista nicaieri altundeva. Descopera-le inainte sa te muti."
       },
       "fa": {
-        "title": "چیزایی که فقط تو آلمان وجود دارن",
-        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — آلمان مفاهیم و سیستم‌هایی داره که هیچ جای دیگه نیست."
+        "title": "چیزایی که فقط تو آلمان وجود دارن (و تو انگلیسی اسمشون نیست)",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — آلمان مفاهیم، سیستم‌ها و چیزایی داره که هیچ جای دنیا نیستن. قبل از مهاجرت بشناس."
       },
       "ar": {
-        "title": "اشياء لا توجد الا في المانيا",
-        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — المانيا لديها مفاهيم وانظمة لا توجد في اي مكان اخر."
+        "title": "اشياء لا توجد الا في المانيا (ولا لها اسم بالانجليزية)",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — المانيا لديها مفاهيم وانظمة واشياء لا مثيل لها في اي مكان. اكتشفها قبل الانتقال."
       },
       "es": {
-        "title": "Cosas que solo existen en Alemania",
-        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Alemania tiene conceptos y sistemas que no existen en ningun otro lugar."
+        "title": "Cosas que solo existen en Alemania (y no tienen nombre en ingles)",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Alemania tiene conceptos, sistemas y objetos que no existen en ningun otro lugar. Descubreles antes de mudarte."
       },
       "uz": {
-        "title": "Faqat Germaniyada mavjud bo'lgan narsalar",
-        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Germaniyada hech qaerda uchramaydigan tushunchalar va tizimlar bor."
+        "title": "Faqat Germaniyada mavjud bo'lgan narsalar (va ingliz tilida nomi yo'q)",
+        "description": "Rundfunkbeitrag, Feierabend, Pfand, Sperrmull — Germaniyada hech qaerda uchramaydigan tushunchalar, tizimlar va buyumlar bor. Ko'chishdan oldin bilib oling."
       }
     }
   },
@@ -8198,40 +8198,40 @@
         "description": "Das ist doch Unsinn, Mir egal, Punkt — learn the phrases Germans use to shut down arguments and end discussions with surgical precision."
       },
       "ru": {
-        "title": "Как выиграть любой спор по-немецки",
-        "description": "Das ist doch Unsinn, Mir egal, Punkt — фразы, которыми немцы закрывают споры и заканчивают дискуссии."
+        "title": "Как выиграть любой спор по-немецки (фразы, которые заканчивают дискуссии)",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — выучи фразы, которыми немцы закрывают споры, отклоняют мнения и заканчивают дискуссии с хирургической точностью."
       },
       "uk": {
-        "title": "Як виграти будь-яку суперечку німецькою",
-        "description": "Das ist doch Unsinn, Mir egal, Punkt — фрази, якими німці завершують суперечки."
+        "title": "Як виграти будь-яку суперечку німецькою (фрази, що завершують дискусії)",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — вивчай фрази, якими німці закривають суперечки, відхиляють думки і завершують дискусії з хірургічною точністю."
       },
       "sk": {
-        "title": "Ako vyhrat hocijaku hadku po nemecky",
-        "description": "Das ist doch Unsinn, Mir egal, Punkt — frazy ktore nemecci pouzivaju na ukoncenie diskusii."
+        "title": "Ako vyhrat hocijaku hadku po nemecky (frazy ktore koncia diskusie)",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — nauc sa frazy ktore nemecci pouzivaju na zatvorenie hadok, odmietanie nazrov a ukoncenie diskusii s chirurgickou presnostou."
       },
       "tr": {
-        "title": "Almancada herhangi bir tartismayi nasil kazanilir",
-        "description": "Das ist doch Unsinn, Mir egal, Punkt — Almanlarin tartismalari bitirmek icin kullandigi ifadeler."
+        "title": "Almancada herhangi bir tartismayi nasil kazanirolursunuz (tartismalari bitiren ifadeler)",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — Almanlarin tartismalari kapatmak, gorusleri reddetmek ve tartismalari keskin bir sekilde bitirmek icin kullandigi ifadeleri ogren."
       },
       "ro": {
-        "title": "Cum sa castici orice cearta in germana",
-        "description": "Das ist doch Unsinn, Mir egal, Punkt — frazele pe care germanii le folosesc pentru a termina discutiile."
+        "title": "Cum sa castici orice cearta in germana (fraze care termina discutiile)",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — invata frazele pe care germanii le folosesc pentru a inchide certuri, respinge pareri si termina discutii cu precizie chirurgicala."
       },
       "fa": {
-        "title": "چطور هر بحثی رو تو آلمانی ببری",
-        "description": "Das ist doch Unsinn, Mir egal, Punkt — جمله‌هایی که آلمانا بحثو تموم میکنن."
+        "title": "چطور هر بحثی رو تو آلمانی ببری (جملاتی که بحثو تموم میکنن)",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — جمله‌هایی که آلمانا بحثا رو میبندن، نظراتو رد میکنن و بحثو با دقت جراحی تموم میکنن رو یاد بگیر."
       },
       "ar": {
-        "title": "كيف تفوز باي جدال بالالمانية",
-        "description": "Das ist doch Unsinn, Mir egal, Punkt — عبارات ينهي بها الالمان الجدالات."
+        "title": "كيف تفوز باي جدال بالالمانية (عبارات تنهي النقاشات)",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — تعلم العبارات التي يستخدمها الالمان لاغلاق الجدالات ورفض الاراء وانهاء المناقشات بدقة جراحية."
       },
       "es": {
-        "title": "Como ganar cualquier discusion en aleman",
-        "description": "Das ist doch Unsinn, Mir egal, Punkt — frases que los alemanes usan para terminar debates."
+        "title": "Como ganar cualquier discusion en aleman (frases que terminan debates)",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — aprende las frases que los alemanes usan para cerrar discusiones, rechazar opiniones y terminar debates con precision quirurgica."
       },
       "uz": {
-        "title": "Nemis tilida istalgan bahsni qanday yutish mumkin",
-        "description": "Das ist doch Unsinn, Mir egal, Punkt — nemislar munozaralarni tugatish uchun ishlatadigan iboralar."
+        "title": "Nemis tilida istalgan bahsni qanday yutish mumkin (munozaralarni tugatuvchi iboralar)",
+        "description": "Das ist doch Unsinn, Mir egal, Punkt — nemislar bahslarni yopish, fikrlarni rad etish va munozaralarni jarrohlik aniqligida tugatish uchun ishlatadigan iboralarni o'rganing."
       }
     }
   },
@@ -8246,44 +8246,44 @@
     ],
     "langs": {
       "en": {
-        "title": "What German Dogs Say (And Other Animal Sounds Youve Been Getting Wrong)",
-        "description": "Wau wau, miau, muh — German animals make completely different sounds. Learn the onomatopoeia that confuses every foreigner."
+        "title": "What German Dogs Say (And Other Animal Sounds You've Been Getting Wrong)",
+        "description": "Wau wau, miau, muh — German animals make completely different sounds than English ones. Learn the onomatopoeia that will confuse every foreigner."
       },
       "ru": {
-        "title": "Что говорят немецкие собаки и другие звуки животных",
-        "description": "Wau wau, miau, muh — немецкие животные издают совершенно другие звуки."
+        "title": "Что говорят немецкие собаки (и другие звуки животных, которые вы произносили неправильно)",
+        "description": "Wau wau, miau, muh — немецкие животные издают совершенно другие звуки. Выучи звукоподражания, которые запутают каждого иностранца."
       },
       "uk": {
-        "title": "Що кажуть німецькі собаки та інші звуки тварин",
-        "description": "Wau wau, miau, muh — німецькі тварини видають зовсім інші звуки."
+        "title": "Що кажуть німецькі собаки (та інші звуки тварин, які ви вимовляли неправильно)",
+        "description": "Wau wau, miau, muh — німецькі тварини видають зовсім інші звуки. Вивчи звуконаслідування, які заплутають кожного іноземця."
       },
       "sk": {
-        "title": "Co hovoria nemecki psi a dalsie zvuky zvierat",
-        "description": "Wau wau, miau, muh — nemecke zvierata vydavaju uplne ine zvuky."
+        "title": "Co hovoria nemecki psi (a dalsie zvieri zvuky ktore ste meli zle)",
+        "description": "Wau wau, miau, muh — nemecke zvierata vydavaju uplne ine zvuky. Nauc sa onomatopojiu ktora zmetie kazdeho cudzinca."
       },
       "tr": {
-        "title": "Alman kopekleri ne soyler ve diger hayvan sesleri",
-        "description": "Wau wau, miau, muh — Alman hayvanlar tamamen farkli sesler cikarir."
+        "title": "Alman kopekleri ne soyler (ve yanlis soylediginiz diger hayvan sesleri)",
+        "description": "Wau wau, miau, muh — Alman hayvanlar tamamen farkli sesler cikarir. Her yabanciyi sasirtacak seslendirmeleri ogren."
       },
       "ro": {
-        "title": "Ce spun cainii germani si alte sunete de animale",
-        "description": "Wau wau, miau, muh — animalele germane fac sunete complet diferite."
+        "title": "Ce spun cainii germani (si alte sunete de animale pe care le-ai pronuntat gresit)",
+        "description": "Wau wau, miau, muh — animalele germane fac sunete complet diferite. Invata onomatopeele care vor incurca orice strain."
       },
       "fa": {
-        "title": "سگ‌های آلمانی چی میگن و بقیه صداهای حیوانات",
-        "description": "Wau wau, miau, muh — حیوانات آلمانی صداهای کاملاً متفاوتی تولید میکنن."
+        "title": "سگ‌های آلمانی چی میگن (و بقیه صداهای حیوانات که اشتباه میگی)",
+        "description": "Wau wau, miau, muh — حیوانات آلمانی صداهای کاملاً متفاوتی تولید میکنن. صداهای حیوانات رو یاد بگیر که هر خارجی‌ای رو گیج میکنه."
       },
       "ar": {
-        "title": "ماذا تقول الكلاب الالمانية واصوات حيوانات اخرى",
-        "description": "Wau wau, miau, muh — الحيوانات الالمانية تصدر اصواتا مختلفة تماما."
+        "title": "ماذا تقول الكلاب الالمانية (واصوات حيوانات اخرى كنت تنطقها خطا)",
+        "description": "Wau wau, miau, muh — الحيوانات الالمانية تصدر اصواتا مختلفة تماما. تعلم المحاكاة الصوتية التي ستحير كل اجنبي."
       },
       "es": {
-        "title": "Lo que dicen los perros alemanes y otros sonidos animales",
-        "description": "Wau wau, miau, muh — los animales alemanes hacen sonidos completamente diferentes."
+        "title": "Lo que dicen los perros alemanes (y otros sonidos animales que pronunciabas mal)",
+        "description": "Wau wau, miau, muh — los animales alemanes hacen sonidos completamente diferentes. Aprende las onomatopeyas que confundiran a cualquier extranjero."
       },
       "uz": {
-        "title": "Nemis itlari nima deydi va boshqa hayvon ovozlari",
-        "description": "Wau wau, miau, muh — nemis hayvonlari butunlay boshqa ovozlar chiqaradi."
+        "title": "Nemis itlari nima deydi (va noto'g'ri talaffuz qilgan boshqa hayvon ovozlari)",
+        "description": "Wau wau, miau, muh — nemis hayvonlari butunlay boshqa ovozlar chiqaradi. Har bir chet ellikni chalkashtiradigan ovoz taqlidlarini o'rganing."
       }
     }
   },
@@ -8522,8 +8522,8 @@
         "description": "Einmal Schrippe bitte — naučte sa nepísané pravidlá nemeckých pekární, od objednávania bez paniky po 47 druhov Brötchen."
       },
       "tr": {
-        "title": "Alman fırınında hayatta kalma: Yanlış yaptığınız her şey",
-        "description": "Einmal Schrippe bitte — Alman fırınlarının yazısız kurallarını öğrenin, paniklemeden sipariş vermeden 47 çeşit Brötchen anlamaya kadar."
+        "title": "Alman fırınında hayatta kalma: Yanlış yaptığınız her şey ve nasıl düzelteceğiniz",
+        "description": "Einmal Schrippe bitte — Alman fırınlarının yazısız kurallarını öğrenin, paniklemeden sipariş vermeden 47 çeşit Brötchen olduğunu anlamaya kadar."
       },
       "ro": {
         "title": "Brutărie germană: ce faci greșit și cum repari",
@@ -8542,8 +8542,8 @@
         "description": "Einmal Schrippe bitte — aprende las reglas no escritas de las panaderías alemanas, desde pedir sin pánico hasta entender 47 tipos de Brötchen."
       },
       "uz": {
-        "title": "Nemis nonvoyxonasi: nimani notogri qilayapsiz va qanday tuzatish",
-        "description": "Einmal Schrippe bitte — nemis nonvoyxonalarining yozilmagan qoidalarini ograning, vahimsiz buyurtma berishdan 47 xil Brötchen gacha."
+        "title": "Nemis nonvoyxonasi: nimani noto'g'ri qilayapsiz va qanday tuzatish mumkin",
+        "description": "Einmal Schrippe bitte — nemis nonvoyxonalarining yozilmagan qoidalarini o'rganing, vahimsiz buyurtma berishdan 47 xil Brötchen borligini tushunishgacha."
       }
     }
   },
@@ -8558,44 +8558,44 @@
     ],
     "langs": {
       "en": {
-        "title": "German Words That Exist Because Germans Got Too Lazy",
-        "description": "Uni, Kita, Schiri, Promi — learn the lazy German vocabulary that every native uses but no textbook teaches."
+        "title": "German Words That Exist Because Germans Got Too Lazy to Finish Sentences",
+        "description": "Uni, Kita, Schiri, Promi — Germans love cutting words in half. Learn the lazy German vocabulary that every native uses but no textbook teaches."
       },
       "ru": {
-        "title": "Немецкие слова, которые существуют потому что немцам было лень",
-        "description": "Uni, Kita, Schiri, Promi — выучи ленивый немецкий словарь, который используют все, но не учат в учебниках."
+        "title": "Немецкие слова, которые существуют потому что немцам было лень договаривать",
+        "description": "Uni, Kita, Schiri, Promi — немцы обожают резать слова пополам. Выучи ленивый немецкий словарь, который используют все, но не учат в учебниках."
       },
       "uk": {
-        "title": "Німецькі слова, які існують бо німцям було лінь",
-        "description": "Uni, Kita, Schiri, Promi — вивучи лінивий німецький словник, який використовують усі, але не вчать у підручниках."
+        "title": "Німецькі слова, які існують бо німцям було лінь додумувати",
+        "description": "Uni, Kita, Schiri, Promi — німці обожнюють різати слова навпіл. Вивучи лінивий німецький словник, який використовують усі, але не вчать у підручниках."
       },
       "sk": {
-        "title": "Nemecké slová, ktoré existujú, lebo Nemcom bolo lino",
-        "description": "Uni, Kita, Schiri, Promi — naučte sa lenivú nemeckú slovnú zásobu, ktorú každý používa, ale žiadna učebnica neučí."
+        "title": "Nemecké slová, ktoré existujú, lebo Nemcom bolo líňo dohovoriť",
+        "description": "Uni, Kita, Schiri, Promi — Nemci milujú skracovanie slov. Naučte sa lenivú nemeckú slovnú zásobu, ktorú každý používa, ale žiadna učebnica neučí."
       },
       "tr": {
-        "title": "Almanlar üşendigi icin var olan Almanca kelimeler",
-        "description": "Uni, Kita, Schiri, Promi — her yerlinin kullandigi ama hicbir ders kitabinin ögretmedigi tembel Almanca kelime dagarcigi."
+        "title": "Almanlar cümleyi bitirmeye üşendiği için var olan Almanca kelimeler",
+        "description": "Uni, Kita, Schiri, Promi — Almanlar kelimeleri ikiye bölmeyi sever. Her yerlinin kullandığı ama hiçbir ders kitabının öğretmediği tembel Almanca kelime dağarcığını öğrenin."
       },
       "ro": {
-        "title": "Cuvinte germane care exista pentru ca germanilor le-a fost lene",
-        "description": "Uni, Kita, Schiri, Promi — învață vocabularul leneș german pe care fiecare nativ îl folosește dar niciun manual nu-l predă."
+        "title": "Cuvinte germane care există pentru că germanilor le-a fost lene să termine propozițiile",
+        "description": "Uni, Kita, Schiri, Promi — germanilor le place să taie cuvintele în jumătate. Învață vocabularul leneș german pe care fiecare nativ îl folosește dar niciun manual nu-l predă."
       },
       "fa": {
-        "title": "Kalamat Almani ke vojoodashan madion tanbali Almaniha ast",
-        "description": "Uni, Kita, Schiri, Promi — dayereh-alkalbat tanbal Almani ra yad begirid ke har bomi estefade mikonad vali hich ketab darsi amoozesh nadahad."
+        "title": "کلمات آلمانی که وجودشان مدیون تنبلی آلمانی‌ها در تمام کردن جملات است",
+        "description": "Uni, Kita, Schiri, Promi — آلمانی‌ها عاشق نصف کردن کلمات هستند. دایره‌الکلمات تنبل آلمانی را یاد بگیرید که هر بومی استفاده می‌کند اما هیچ کتاب درسی آموزش نمی‌دهد."
       },
       "ar": {
-        "title": "Kalemat almaniya mojooda li-ann al-alm kanoo kasalan",
-        "description": "Uni, Kita, Schiri, Promi — taallam al-mufaradat al-almaniyyah al-kasoolah allatee yastakhdimoha kol natiq lakin la yoallemoha ay ketab madrasi."
+        "title": "كلمات ألمانية موجودة لأن الألمان كانوا كسالى جداً لإكمال الجمل",
+        "description": "Uni, Kita, Schiri, Promi — الألمان يحبون قطع الكلمات بالنصف. تعلم المفردات الألمانية الكسولة التي يستخدمها كل ناطق ولكن لا يعلمها أي كتاب مدرسي."
       },
       "es": {
-        "title": "Palabras alemanas que existen porque los alemanes eran demasiado vagos",
-        "description": "Uni, Kita, Schiri, Promi — aprende el vocabulario aleman vago que todos usan pero ningun libro de texto ensena."
+        "title": "Palabras alemanas que existen porque los alemanes eran demasiado vagos para terminar las frases",
+        "description": "Uni, Kita, Schiri, Promi — los alemanes aman cortar palabras por la mitad. Aprende el vocabulario alemán vago que todos usan pero ningún libro de texto enseña."
       },
       "uz": {
-        "title": "Nemislar dangasa bolgani uchun mavjud bolgan nemischa sozlar",
-        "description": "Uni, Kita, Schiri, Promi — har bir mahalliy foydalanadigan lekin hech bir darslik o'rgatmaydigan dangasa nemischa lug'at."
+        "title": "Nemislar gapni tugatishga dangasa bo'lgani uchun mavjud bo'lgan nemischa so'zlar",
+        "description": "Uni, Kita, Schiri, Promi — nemislar so'zlarni ikkiga bo'lishni yaxshi ko'radilar. Har bir mahalliy foydalanadigan lekin hech bir darslik o'rgatmaydigan dangasa nemischa lug'atni o'rganing."
       }
     }
   },
@@ -8626,7 +8626,7 @@
         "description": "Umyť auto v nedeľu, minúť benzín na Autobahne, ukázať prostredník — objavte prekvapivo nezákonné veci v Nemecku, ktoré prekvapia každého cudzinca."
       },
       "tr": {
-        "title": "Almanya'da yasadışı ama tamamen normal görünen şeyler",
+        "title": "Almanyada yasadisi ama tamamen normal gorunen seyler",
         "description": "Pazar gunu araba yikamak, otobanda benzin bitirmek, orta parmak gostermek — her yabanci saskina donduren sasirtici derecede yasadisi Almanya gerceklerini kesfedin."
       },
       "ro": {
@@ -8730,12 +8730,12 @@
         "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — frázy, ktoré znejú hrozivo, ale znamenajú pomoc."
       },
       "tr": {
-        "title": "Almanca tehdit gibi gorunen ama aslinda dostane olan ifadeler",
-        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — korkutucu gorunen ama gercekte dostca olan Almanca ifadeler."
+        "title": "Almanca tehdit gibi görünen ama aslında dostane olan ifadeler",
+        "description": "Ich werde dir zeigen, Du kriegst was, Warte mal ab — korkutucı görünen ama gerçekte birinin sana iyi davrandığı Almanca ifadeler."
       },
       "ro": {
-        "title": "Fraze germane care suna ca niste amenintari dar sunt prietenoase",
-        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — fraze care suna infricosator dar inseamna ca cineva e dragut cu tine."
+        "title": "Fraze germane care sună ca niște amenințări dar sunt de f prietenoase",
+        "description": "Ich werde dir zeigen, Du kriegst was, Warte mal ab — fraze care sună înfricoșător dar înseamnă de fapt că cineva este drăguț cu tine."
       },
       "fa": {
         "title": "عبارات آلمانی که مثل تهدید به نظر می‌رسند اما واقعاً دوستانه هستند",
@@ -8746,12 +8746,12 @@
         "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — عبارات تبدو مرعبة لكنها في الواقع تعني أن شخصاً يطيب لك."
       },
       "es": {
-        "title": "Frases alemanas que suenan como amenazas pero son amistosas",
-        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — frases que suenan aterradoras pero significan que alguien es amable contigo."
+        "title": "Frases alemanas que suenan como amenazas pero son realmente amistosas",
+        "description": "Ich werde dir zeigen, Du kriegst was, Warte mal ab — frases que suenan aterradoras pero en realidad significan que alguien está siendo amable contigo."
       },
       "uz": {
-        "title": "Tahdiddek eshitiladigan lekin haqiqatda dostona bo'lgan nemis iboralari",
-        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — qo'rqinchli eshitiladigan lekin haqiqatda yaxshilik bildiruvchi nemis iboralari."
+        "title": "Tahdiddek eshitiladigan lekin haqiqatda do'stona bo'lgan nemis iboralari",
+        "description": "Ich werde dir zeigen, Du kringst was, Warte mal ab — qo'rqinchli eshitiladigan lekin haqiqatda birining sizga yaxshilik qilayotganini bildiruvchi nemis iboralari."
       }
     }
   },
@@ -8782,12 +8782,12 @@
         "description": "Genau, Eben, Stimmt, Ach so, Na ja — nemecké slová, ktoré nahrádzajú celé rozhovory."
       },
       "tr": {
-        "title": "Uc paragraf anlamina gelen tek kelimelik Almanca cevaplar",
-        "description": "Genau, Eben, Stimmt, Ach so, Na ja — tüm konusmalari degistiren tek kelimelik Almanca yanitlar."
+        "title": "Üç paragraf anlamina gelen tek kelimelik Almanca cevaplar",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — tüm konuşmaları değiştiren tek kelimelik Almanca yanıtlar. Gerçek anlamlarını ve kullanım yerlerini öğrenin."
       },
       "ro": {
-        "title": "Raspunsuri germane dintr-un cuvant care inseamna trei paragrafe",
-        "description": "Genau, Eben, Stimmt, Ach so, Na ja — cuvinte germane care inlocuiesc conversatii intregi."
+        "title": "Răspunsuri germane dintr-un cuvânt care înseamnă trei paragrafe",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — cuvinte germane care înlocuiesc conversații întregi. Află ce înseamnă cu adevărat."
       },
       "fa": {
         "title": "پاسخ‌های یک‌کلمه‌ای آلمانی که سه پاراگراف معنا می‌دهند",
@@ -8798,8 +8798,8 @@
         "description": "Genau, Eben, Stimmt, Ach so, Na ja — كلمات ألمانية واحدة تحل محل محادثات كاملة."
       },
       "es": {
-        "title": "Respuestas alemanas de una palabra que significan tres parrafos",
-        "description": "Genau, Eben, Stimmt, Ach so, Na ja — palabras alemanas que reemplazan conversaciones enteras."
+        "title": "Respuestas alemanas de una palabra que significan tres párrafos",
+        "description": "Genau, Eben, Stimmt, Ach so, Na ja — palabras alemanas que reemplazan conversaciones enteras. Aprende lo que realmente significan."
       },
       "uz": {
         "title": "Uch xatboshi ma'nosini bildiradigan bitta so'zli nemis javoblari",
@@ -8942,24 +8942,24 @@
         "description": "Ebbes, Gar nix, Jein — anadili konuşanların bile bilerek yanlış söylediği kelimeler."
       },
       "ro": {
-        "title": "Cuvinte germane pe care germanii le pronunță greșit intenționat",
-        "description": "Ebbes, Gar nix, Jein — cuvinte pe care nativii le spun greșit intenționat."
+        "title": "Cuvintele germane pe care germanii le pronunță greșit intenționat",
+        "description": "Ebbes, Nix, Joa, Jein — germanii își încalcă constant propriile reguli de pronunție. Învață cuvintele pe care chiar și vorbitorii nativi le spun greșit intenționat."
       },
       "fa": {
         "title": "کلمات آلمانی که آلمانی‌ها عمداً اشتباه تلفظ می‌کنند",
         "description": "Ebbes, Gar nix, Jein — کلماتی که حتی بومیان عمداً اشتباه می‌گویند."
       },
       "ar": {
-        "title": "كلمات ألمانية ينطقها الألمان بشكل خاطئ عمداً",
-        "description": "Ebbes, Gar nix, Jein — كلمات ينطقها الألمان خطأً عمداً."
+        "title": "كلمات ألمانية ينطقها الألمان بشكل خاطئ عن قصد",
+        "description": "Ebbes وNix وJoa وJein — الألمان يخالفون قواعد النطق الخاصة بهم باستمرار. تعلّم الكلمات التي حتى الناطقين الأصليين ينطقونها بشكل خاطئ عن قصد."
       },
       "es": {
         "title": "Palabras alemanas que los alemanes pronuncian mal a propósito",
         "description": "Ebbes, Gar nix, Jein — palabras que hasta los nativos dicen mal a propósito."
       },
       "uz": {
-        "title": "Nemislar ataylab noto'g'ri talaffuz qiladigan nemis so'zlari",
-        "description": "Ebbes, Gar nix, Jein — hatto ona tilida so'zlashuvchilar ataylab noto'g'ri aytadigan so'zlar."
+        "title": "Nemslar atayinchaq xorij tillarida talaffuz qiladigan nemis so'zlari",
+        "description": "Ebbes, Nix, Joa, Jein — nemslar o'zlarining talaffuz qoidalarini doimiy ravishda buzadi. Milliy so'zlashuvchilarning ham atayin noto'g'ri talaffuz qiladigan so'zlarini o'rganing."
       }
     }
   },
@@ -8986,32 +8986,32 @@
         "description": "Одне слово в кінці змінює весь зміст. Вивчіть німецькі модальні частки."
       },
       "sk": {
-        "title": "Nemecké koncuvety, ktoré menia všetko",
-        "description": "Jedno slovo na konci menia celý význam. Nauč sa nemecké modálne častice."
+        "title": "Nemecké vetné koncovky, ktoré menia všetko",
+        "description": "Das ist gut, ja. Das ist gut aber. Das ist gut doch — jedno slovo na konci zmení celý význam. Nauč sa nemecké modálne častice, ktoré učebnice ignorujú."
       },
       "tr": {
-        "title": "Her şeyi değiştiren Almanca cümle sonları",
-        "description": "Sondaki bir kelime tüm anlamı değiştiriyor. Almanca modal parçacıkları öğrenin."
+        "title": "Almanya Cümle Sonları Her Şeyi Değiştiriyor",
+        "description": "Das ist gut, ja. Das ist gut aber. Das ist gut doch — sondaki bir kelime tüm anlamı değiştiriyor. Ders kitaplarının görmezden geldiği Almanca modal partikülleri öğrenin."
       },
       "ro": {
-        "title": "Finaluri de propoziții germane care schimbă totul",
-        "description": "Un cuvânt la sfârșit schimbă tot sensul. Învață particulele modale germane."
+        "title": "Terminatiunile de propoziție în germană care schimbă totul",
+        "description": "Das ist gut, ja. Das ist gut aber. Das ist gut doch — un singur cuvânt la final schimbă întregul sens. Învață particulele modale germane pe care manualele le ignoră."
       },
       "fa": {
-        "title": "پایان‌بندهای جمله آلمانی که همه چیز را تغییر می‌دهند",
-        "description": "یک کلمه در پایان کل معنا را عوض می‌کند."
+        "title": "پایان‌جمله‌های آلمانی که همه چیز را تغییر می‌دهند",
+        "description": "Das ist gut, ja. Das ist gut aber. Das ist gut doch — یک کلمه در انتها کل معنی را تغییر می‌دهد. ذرات وجهی آلمانی را که کتاب‌های درسی نادیده می‌گیرند یاد بگیرید."
       },
       "ar": {
         "title": "نهايات الجمل الألمانية التي تغير كل شيء",
         "description": "كلمة واحدة في النهاية تغير المعنى بالكامل."
       },
       "es": {
-        "title": "Finales de frase alemanes que lo cambian todo",
-        "description": "Una palabra al final cambia todo el significado. Aprende las partículas modales alemanas."
+        "title": "Las terminaciones de frase en alemán que lo cambian todo",
+        "description": "Das ist gut, ja. Das ist gut aber. Das ist gut doch — una palabra al final cambia todo el significado. Aprende las partículas modales alemanas que los libros de texto ignoran."
       },
       "uz": {
-        "title": "Hammani o'zgartiradigan nemis gap oxirlari",
-        "description": "Oxirdagi bitta so'z butun ma'noni o'zgartiradi."
+        "title": "Nemis gap oxirlari — hammani o'zgartiradi",
+        "description": "Das ist gut, ja. Das ist gut aber. Das ist gut doch — oxirgi bitta so'z butun ma'noni o'zgartiradi. Darsliklar e'tiborsiz qoldiradigan nemis modal zarrachalarini o'rganing."
       }
     }
   },
@@ -9038,20 +9038,20 @@
         "description": "Verschlimmbessern, Fremdschämen — німці розчаровані, що в англійській немає еквівалентів."
       },
       "sk": {
-        "title": "Nemecké slová, ktoré by Nemci chceli mať v angličtine",
-        "description": "Verschlimmbessern, Fremdschämen — Nemci sú frustrovaní, že angličtina nemá ekvivalenty."
+        "title": "Nemecké slová, ktoré by Nemci chceli mať aj v angličtine",
+        "description": "Verschlimmbessern, Fremdschämen, Torschlusspanik — Nemci sú frustrovaní, že angličtina nemá ekvivalent pre tieto nevyhnutné slová. Zisti, čo znamenajú."
       },
       "tr": {
-        "title": "Almanların İngilizcede olmasını dilediği Almanca kelimeler",
-        "description": "Verschlimmbessern, Fremdschämen — Almanlar İngilizcede karşılığı olmayan kelimelerden mutsuz."
+        "title": "Almanların İngilizcede Olmasını Dilediği Almanca Kelimeler",
+        "description": "Verschlimmbessern, Fremdschämen, Torschlusspanik — Almanlar, İngilizcede bu temel kelimelerin karşılığı olmamasından rahatsız. Ne anlama geldiklerini öğrenin."
       },
       "ro": {
-        "title": "Cuvinte germane pe care germanii și-ar dori să existe în engleză",
-        "description": "Verschlimmbessern, Fremdschämen — germanii sunt frustrați că engleza nu are echivalente."
+        "title": "Cuvintele germane pe care germanii și-ar dori să existe și în engleză",
+        "description": "Verschlimmbessern, Fremdschämen, Torschlusspanik — germanii sunt frustrați că engleza nu are un echivalent pentru aceste cuvinte esențiale. Află ce înseamnă."
       },
       "fa": {
-        "title": "کلمات آلمانی که آلمانی‌ها آرزو دارند در انگلیسی وجود داشت",
-        "description": "Verschlimmbessern, Fremdschämen — آلمانی‌ها ناراحتند که انگلیسی معادلی ندارد."
+        "title": "واژه‌های آلمانی که آلمانی‌ها آرزو داشتند در انگلیسی هم وجود داشتند",
+        "description": "Verschlimmbessern، Fremdschämen، Torschlusspanik — آلمانی‌ها از اینکه انگلیسی معادلی برای این واژه‌های ضروری ندارد ناراحتند. معنی آن‌ها را یاد بگیرید."
       },
       "ar": {
         "title": "كلمات ألمانية يتمنى الألمان وجودها في الإنجليزية",
@@ -9062,8 +9062,8 @@
         "description": "Verschlimmbessern, Fremdschämen — los alemanes están frustrados por la falta de equivalentes."
       },
       "uz": {
-        "title": "Nemislar ingliz tilida bo'lishini xohlagan nemis so'zlari",
-        "description": "Verschlimmbessern, Fremdschämen — nemislar ingliz tilida ekvivalent yo'qligidan xafa."
+        "title": "Nemislar ingliz tilida bo'lishini xohlagan nemischa so'zlar",
+        "description": "Verschlimmbessern, Fremdschämen, Torschlusspanik — nemislar ingliz tilida bu muhim so'zlarning ekvivalenti yo'qligidan xafa. Ularning ma'nosini bilib oling."
       }
     }
   },
@@ -9082,40 +9082,40 @@
         "description": "Wrong articles, du instead of Sie, mixing up bin and mir — errors that make Germans twitch."
       },
       "ru": {
-        "title": "Ошибки в немецком, от которых у немцев сводит челюсти",
-        "description": "Неправильные артикли, du вместо Sie — ошибки, вызывающие рефлекс поморщиться."
+        "title": "Ошибки в немецком, от которых у немцев физически сводит челюсти",
+        "description": "Неправильные артикли, du вместо Sie, слово в неправильной позиции — ошибки, вызывающие у немцев рефлекс поморщиться."
       },
       "uk": {
-        "title": "Помилки в німецькій, від яких у німців зводить щелепи",
-        "description": "Неправильні артиклі, du замість Sie — помилки, що викликають рефлекс."
+        "title": "Помилки в німецькій, від яких у німців фізично зводить щелепи",
+        "description": "Неправильні артиклі, du замість Sie, слово не на тій позиції — помилки, що викликають у німців рефлекс поморщитися."
       },
       "sk": {
-        "title": "Chyby v nemčine, pri ktorých Nemcom fyzicky stiahne čeľusť",
-        "description": "Zlé členy, du namiesto Sie — chyby, pri ktorých Nemci automaticky krivia."
+        "title": "Nemecké chyby, pri ktorých Nemcom doslova zamrzne",
+        "description": "Zlé členy, du namiesto Sie, zámena als a wenn — chyby, pri ktorých Nemcom nevedomky zacrví. Zistite, čo spúšťa nemecký krč reflex."
       },
       "tr": {
-        "title": "Almanları fiziksel olarak ürperten Almanca hataları",
-        "description": "Yanlış artikeller, du yerine Sie — Almanların gözünü sektiren hatalar."
+        "title": "Almanların İçini Sızlatan Almanca Hatalar",
+        "description": "Yanlış artikeller, du yerine Sie, als/wenn karışıklığı — Almanların gözünü seğirdten hatalar. Alman tiksinti refleksini tetikleyenleri öğrenin."
       },
       "ro": {
-        "title": "Greșeli germane care îi fac pe germani să se cutremure fizic",
-        "description": "Articole greșite, du în loc de Sie — greșeli care provoacă reflexul de cringe."
+        "title": "Greșeli de germană care îi fac pe germani să se cutremure fizic",
+        "description": "Articole greșite, du în loc de Sie, confuzia als/wenn — erori care îi fac pe germani să tresară involuntar. Află ce declanșează reflexul de respingere al germanilor."
       },
       "fa": {
-        "title": "اشتباهات آلمانی که آلمانی‌ها را فیزیکاً میخکوب می‌کند",
-        "description": "آرتیکل‌های اشتباه، du به جای Sie — اشتباهاتی که آلمانی‌ها را میخکوب می‌کند."
+        "title": "اشتباه‌های آلمانی که آلمانی‌ها را از جا می‌پراند",
+        "description": "آرتیکل‌های اشتباه، du به جای Sie، اشتباه als و wenn — خطاهایی که آلمانی‌ها را به‌ناچار جمع می‌کند. بفهمید چه چیزی Reflex انزجار آلمانی‌ها را تحریک می‌کند."
       },
       "ar": {
-        "title": "أخطاء ألمانية تجعل الألمان يتقلصون جسدياً",
-        "description": "أدوات تعريف خاطئة، du بدل Sie — أخطاء تثير انعكاس التشنج."
+        "title": "أخطاء ألمانية تجعل الألمان يتجهمون جسديًا",
+        "description": "أدوات تعريف خاطئة، du بدل Sie، الخلط بين als و wenn — أخطاء تجعل الألمان يتململون لا إراديًا. تعرّف على ما يثير غريزة الاشمئزاز الألمانية."
       },
       "es": {
-        "title": "Errores alemanes que hacen que los alemanes se estremezcan físicamente",
-        "description": "Artículos incorrectos, du en vez de Sie — errores que provocan el reflejo de cringe."
+        "title": "Errores de alemán que hacen que los alemanes se estremezcan físicamente",
+        "description": "Artículos equivocados, du en vez de Sie, confusión entre als y wenn — errores que hacen que los alemanes tic involuntariamente. Descubre qué dispara el reflejo de rechazo alemán."
       },
       "uz": {
-        "title": "Nemislarni jismonan bezovta qiluvchi nemis xatolari",
-        "description": "Noto'g'ri artikellar, du o'rniga Sie — nemislarning ko'zini qisdiruvchi xatolar."
+        "title": "Nemislarni jismonan qoqintiradigan nemischa xatolar",
+        "description": "Noto'g'ri artikellar, Sie o'rniga du, als/winn chalkashligi — nemislarni ixtiyorsiz qoqintiradigan xatolar. Nemis tiksirish refleksini nima qo'zg'atishini bilib oling."
       }
     }
   },
@@ -9150,24 +9150,24 @@
         "description": "Wir müssen uns treffen, Das können wir machen — her kelime kibar ama anlam ters."
       },
       "ro": {
-        "title": "Mesaje germane care înseamnă exact opusul cuvintelor",
-        "description": "Wir müssen uns treffen, Das können wir machen — mesaje unde fiecare cuvânt e politicos dar sensul e opus."
+        "title": "Mesaje în germană care înseamnă exact opusul a ceea ce spun",
+        "description": "Wir müssen uns unbedingt treffen, Das können wir machen, Ich melde mich — expresii germane care sună politicos dar înseamnă exact opusul. Învață să citești printre rânduri."
       },
       "fa": {
-        "title": "پیام‌های آلمانی که دقیقاً نقطه مقابل کلماتشان را می‌رسانند",
-        "description": "Wir müssen uns treffen, Das können wir machen — پیام‌هایی که هر کلمه مهربان است اما معنای مخالف دارد."
+        "title": "پیام‌های آلمانی که دقیقاً نقطه مقابل حرف‌هایشان را می‌رسانند",
+        "description": "Wir müssen uns unbedingt treffen، Das können wir machen، Ich melde mich — عبارات آلمانی که مودبانه به نظر می‌رسند اما دقیقاً نقطه مقابل آن را معنی می‌کنند. یاد بگیرید بین خطوط را بخوانید."
       },
       "ar": {
         "title": "رسائل ألمانية تعني عكس ما تقوله تمامًا",
         "description": "Wir müssen uns treffen, Das können wir machen — رسائل مهذبة لكن معناها العكس."
       },
       "es": {
-        "title": "Mensajes alemanes que significan exactamente lo opuesto de las palabras",
-        "description": "Wir müssen uns treffen, Das können wir machen — mensajes donde cada palabra es cortés pero el significado es opuesto."
+        "title": "Mensajes en alemán que significan exactamente lo opuesto de lo que dicen",
+        "description": "Wir müssen uns unbedingt treffen, Das können wir machen, Ich melde mich — frases alemanas que suenan educadas pero significan lo contrario. Aprende a leer entre líneas."
       },
       "uz": {
-        "title": "So'zlari bilan ma'nosi aynan qarama-qarshi bo'lgan nemis xabarlar",
-        "description": "Wir müssen uns treffen, Das können wir machen — so'zlari odobli lekin ma'nosi aksi bo'lgan xabarlar."
+        "title": "Nemischa xabarlar — so'zlari bilan ma'nosi aynan qarama-qarshi",
+        "description": "Wir müssen uns unbedingt treffen, Das können wir machen, Ich melde mich — o'ziga e'tiborli, lekin ma'nosi butunlay teskari bo'lgan nemischa iboralar. Qatorlar orasini o'qishni o'rganing."
       }
     }
   },
@@ -9194,32 +9194,32 @@
         "description": "Na?, Genau, Ach so — німецькі реакції, які іноземці розуміють неправильно."
       },
       "sk": {
-        "title": "Nemecké reakcie, ktoré nie sú tým, čo si myslíš",
-        "description": "Na?, Genau, Ach so — nemecké reakcie, ktoré cudzinci úplne chápu zle."
+        "title": "Nemecké reakcie, ktoré nie sú tým, čím sa zdajú",
+        "description": "Na?, Genau, Ach so, Bitteschön — nemecké reakcie, ktoré cudzinci úplne chápu zle. Nauč sa, čo Nemci naozaj myslia, keď reagujú."
       },
       "tr": {
-        "title": "Düşündüğünüzün tersi olan Almanca tepkiler",
-        "description": "Na?, Genau, Ach so — yabancıların tamamen yanlış anladığı Almanca tepkiler."
+        "title": "Alman tepkileri sandığınız gibi değil",
+        "description": "Na?, Genau, Ach so, Bitteschön — yabancıların tamamen yanlış anladığı Alman tepkileri. Almanlar tepki verdiklerinde aslında ne demek istediklerini öğrenin."
       },
       "ro": {
-        "title": "Reacții germane care nu sunt ce crezi",
-        "description": "Na?, Genau, Ach so — reacții germane pe care străinii le interpretează greșit."
+        "title": "Reactiile germane nu sunt ceea ce crezi",
+        "description": "Na?, Genau, Ach so, Bitteschön — reactii germane pe care strainii le inteleg complet gresit. Invata ce inseamna de fapt germanii cand reactioneaza."
       },
       "fa": {
-        "title": "واکنش‌های آلمانی که آنچه فکر می‌کنید نیستند",
-        "description": "Na?, Genau, Ach so — واکنش‌های آلمانی که خارجی‌ها کاملاً اشتباه متوجه می‌شوند."
+        "title": "واکنش‌های آلمانی آن چیزی نیست که فکر می‌کنید",
+        "description": "Na?, Genau, Ach so, Bitteschön — واکنش‌های آلمانی که خارجی‌ها کاملاً اشتباه متوجه می‌شوند. یاد بگیرید آلمانی‌ها وقتی واکنش نشان می‌دهند واقعاً چه می‌گویند."
       },
       "ar": {
-        "title": "ردود فعل ألمانية ليست ما تعتقده",
-        "description": "Na?, Genau, Ach so — ردود فعل ألمانية يفهمها الأجانب بشكل خاطئ."
+        "title": "ردود الفعل الألمانية ليست كما تعتقد",
+        "description": "Na?, Genau, Ach so, Bitteschön — ردود فعل ألمانية يسيء الأجانب فهمها تمامًا. تعلّم ما يقصده الألمان حقًا عندما يتفاعلون."
       },
       "es": {
-        "title": "Reacciones alemanas que no son lo que crees",
-        "description": "Na?, Genau, Ach so — reacciones alemanas que los extranjeros malinterpretan."
+        "title": "Las reacciones alemanas no son lo que crees",
+        "description": "Na?, Genau, Ach so, Bitteschön — reacciones alemanas que los extranjeros malinterpretan por completo. Aprende lo que los alemanes realmente quieren decir cuando reaccionan."
       },
       "uz": {
-        "title": "O'ylagandan boshqacha bo'lgan nemis reaktsiyalari",
-        "description": "Na?, Genau, Ach so — chet elliklar noto'g'ri tushinadigan nemis reaktsiyalari."
+        "title": "Nemis reaktsiyalari siz o'ylagandek emas",
+        "description": "Na?, Genau, Ach so, Bitteschön — chet elliklar to'liq noto'g'ri tushinadigan nemis reaktsiyalari. Nemislar reaksiya qilganda aslida nimani nazarda tutishlarini o'rganing."
       }
     }
   },
@@ -9246,32 +9246,32 @@
         "description": "Es tut mir leid, Entschuldigung, Sorry — які німецькі вибачення справжні, а які саркастичні."
       },
       "sk": {
-        "title": "Nemecké ospravedlnenia — rebríček od úprimných po čistý sarkazmus",
-        "description": "Es tut mir leid, Entschuldigung, Sorry — nie všetky nemecké ospravedlnenia sú rovnaké."
+        "title": "Nemecke ospravedlnenia zoradene od iskrych po cisty sarkazmus",
+        "description": "Es tut mir leid, Entschuldigung, Sorry, Pardon -- nie vsetky nemecke ospravedlnenia su rovnake. Nauč sa, ktore su skutocne a ktore znamenaju opak."
       },
       "tr": {
-        "title": "Almanca özürler — samimiden saf iğnelemeye sıralama",
-        "description": "Es tut mir leid, Entschuldigung, Sorry — tüm Almanca özürler eşit değil."
+        "title": "Almanca Ozurler: Samimiden Saf Sarkazma Kadar Siralamasi",
+        "description": "Es tut mir leid, Entschuldigung, Sorry, Pardon — tum Almanca ozurler esit degildir. Hangilerinin gercek, hangilerinin tam tersi anlama geldigini ogrenin."
       },
       "ro": {
-        "title": "Scuze germane clasate de la sincere la sarcasm pur",
-        "description": "Es tut mir leid, Entschuldigung, Sorry — nu toate scuze germane sunt egale."
+        "title": "Scuzele in Germana: De la Sincere la Sarcaism Pur",
+        "description": "Es tut mir leid, Entschuldigung, Sorry, Pardon — nu toate scuzele in germana sunt egale. Invata care sunt reale si care inseamna exact opusul."
       },
       "fa": {
-        "title": "عذرخواهی‌های آلمانی — رتبه‌بندی از صمیمی تا تمام طنز",
-        "description": "Es tut mir leid, Entschuldigung, Sorry — همه عذرخواهی‌های آلمانی برابر نیستند."
+        "title": "عذرخواهي‌هاي آلماني: از صميمانه تا كاملا طعنه‌آميز",
+        "description": "Es tut mir leid، Entschuldigung، Sorry، Pardon — همه عذرخواهي‌هاي آلماني برابر نيستند. ياد بگيريد كدام واقعي هستند و كدام معني عكس را مي‌دهند."
       },
       "ar": {
-        "title": "اعتذارات ألمانية مرتبة من الصادقة إلى الساخرة تماماً",
-        "description": "Es tut mir leid, Entschuldigung, Sorry — ليست كل الاعتذارات الألمانية متساوية."
+        "title": "الاعتذارات الالمانية: مرتبة من الصادقة إلى السخرية البحتة",
+        "description": "Es tut mir leid، Entschuldigung، Sorry، Pardon — ليست كل الاعتذارات الالمانية متساوية. تعلم ايها حقيقية وايها تعني العكس."
       },
       "es": {
-        "title": "Disculpas alemanas clasificadas de genuinas a puro sarcasmo",
-        "description": "Es tut mir leid, Entschuldigung, Sorry — no todas las disculpas alemanas son iguales."
+        "title": "Disculpas en Aleman: De las Sinceras al Sarcasmo Puro",
+        "description": "Es tut mir leid, Entschuldigung, Sorry, Pardon — no todas las disculpas en aleman son iguales. Aprende cuales son reales y cuales significan lo contrario."
       },
       "uz": {
-        "title": "Nemis uzr so'zlash — rostdan toza kinoyagacha reyting",
-        "description": "Es tut mir leid, Entschuldigung, Sorry — barcha nemis uzrlari teng emas."
+        "title": "Nemis Kechirimlari: Samimiydan Sof Kinoyagacha Reytingi",
+        "description": "Es tut mir leid, Entschuldigung, Sorry, Pardon — barcha nemis kechirimlari teng emas. Qaysilari haqiqiy va qaysilari aksini anglatishini o'rganing."
       }
     }
   },
@@ -9737,8 +9737,8 @@
         "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — palabras alemanas para la pereza y el arte de no hacer nada."
       },
       "uz": {
-        "title": "Dangasa va kechiktirish uchun nemischa so'zlar — juda tanish",
-        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — dangasalik uchun nemischa so'zlar va hech narsa qilmaslik san'ati."
+        "title": " dangasa va kechiktirish uchun nemischa so'zlar — juda tanish",
+        "description": "Faulenzer, Faulpelz, Schlafmütze, Trödeln — dangasalik uchun nemischa so'zlar bo'lib, nemislar hech narsa qilmaslik san'atini hammandan yaxshiroq tushunishini isbotlaydi."
       }
     }
   },
@@ -9821,28 +9821,28 @@
         "description": "Hundesteuer, Gassi gehen, Hundeführerschein — nemecké slová dokazujúce, že psi žijú lepšie ako ľudia."
       },
       "tr": {
-        "title": "Alman Evcil Hayvan Kültürü — Almanlar Neden Köpeklere İnsanlardan Daha İyi Davranıyor",
-        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — Almanya'da köpeklerin çoğu insandan daha iyi yaşadığını kanıtlayan kelimeler."
+        "title": "Alman Evcil Hayvan Kültürü Kelimeleri — Almanlar Neden Köpeklere İnsanlardan Daha İyi Davranıyor",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein, Tierarzt — Almanya'da köpeklerin çoğu insandan daha iyi bir hayatı olduğunun kanıtı olan Almanca kelimeler. Alman evcil hayvan tutkusunun kelime dağarcığını öğrenin."
       },
       "ro": {
-        "title": "Vocabularul culturii animalelor de companie în Germania — De ce îi tratează pe câini mai bine decât pe oameni",
-        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — cuvinte care demonstrează că câinii au o viață mai bună decât oamenii."
+        "title": "Vocabularul culturii animalelor de companie în Germania — De ce îi tratează germanii pe câini mai bine decât pe oameni",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein, Tierarzt — cuvinte germane care demonstrează că în Germania câinii au o viață mai bună decât majoritatea oamenilor. Învață vocabularul obsesiei germane pentru animale."
       },
       "fa": {
-        "title": "واژگان فرهنگ حیوانات خانگی آلمان — چرا آلمانی‌ها با سگ‌ها بهتر رفتار می‌کنند",
-        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — کلماتی که ثابت می‌کنند سگ‌ها بهتر از انسان‌ها زندگی می‌کنند."
+        "title": "واژگان فرهنگ حیوانات خانگی آلمان — چرا آلمانی‌ها با سگ‌ها بهتر از انسان‌ها رفتار می‌کنند",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein, Tierarzt — کلمات آلمانی که ثابت می‌کنند سگ‌ها در آلمان زندگی بهتری از بیشتر انسان‌ها دارند. واژگان وسواس آلمانی‌ها با حیوانات خانگی را یاد بگیرید."
       },
       "ar": {
-        "title": "مفردات ثقافة الحيوانات الأليفة في ألمانيا — لماذا يعاملون الكلاب أفضل من البشر",
-        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — كلمات تثبت أن الكلاب تعيش أفضل من البشر."
+        "title": "مفردات ثقافة الحيوانات الأليفة في ألمانيا — لماذا يعامل الألمان الكلاب أفضل من البشر",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein, Tierarzt — كلمات ألمانية تثبت أن الكلاب في ألمانيا تعيش حياة أفضل من معظم البشر. تعلم مفردات هوس الألمان بالحيوانات الأليفة."
       },
       "es": {
-        "title": "Vocabulario de la cultura de mascotas en Alemania — Por qué tratan mejor a los perros que a los humanos",
-        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — palabras que demuestran que los perros viven mejor que los humanos."
+        "title": "Vocabulario de la cultura de mascotas en Alemania — Por qué los alemanes tratan mejor a los perros que a los humanos",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein, Tierarzt — palabras alemanas que demuestran que los perros en Alemania viven mejor que la mayoría de los humanos. Aprende el vocabulario de la obsesión alemana por las mascotas."
       },
       "uz": {
-        "title": "Nemis uy hayvonlari madaniyati — Nemislar itlarni odamlardan yaxshiroq ko'radi",
-        "description": "Hundesteuer, Gassi gehen, Hundeführerschein — itlarning odamlardan yaxshi yashashini isbotlovchi so'zlar."
+        "title": "Nemis uy hayvonlari madaniyati lug'ati — Nemislar itlarni odamlardan yaxshiroq ko'radi",
+        "description": "Hundesteuer, Gassi gehen, Hundeführerschein, Tierarzt — Germaniyada itlarning aksar odamlardan yaxshi hayot kechirishini isbotlovchi nemischa so'zlar. Nemislarning uy hayvonlariga bo'lgan muxabbati lug'atini o'rganing."
       }
     }
   },
@@ -9861,40 +9861,40 @@
         "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel — German pharmacy vocabulary that will save your life."
       },
       "ru": {
-        "title": "Немецкие слова, которые нужны вам в Apotheke, чтобы выжить",
-        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel — немецкий аптечный словарь, который спасёт жизнь."
+        "title": "Немецкие слова, которые нужны вам в Apotheke, чтобы выжить в Германии",
+        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel, Nebenwirkungen — немецкий аптечный словарь, который спасёт вам жизнь."
       },
       "uk": {
-        "title": "Німецькі слова, які потрібні вам у Apotheke, щоб вижити",
-        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel — німецький аптечний словник, який врятує життя."
+        "title": "Німецькі слова, які потрібні вам у Apotheke, щоб вижити в Німеччині",
+        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel, Nebenwirkungen — німецький аптечний словник, який врятує вам життя."
       },
       "sk": {
-        "title": "Nemecké slová, ktoré potrebujete v Apotheke na prežitie",
-        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel — nemecký lekárnický slovník, ktorý vám zachráni život."
+        "title": "Nemecké slová, ktoré potrebujete v Apotheke na prežitie v Nemecku",
+        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel, Nebenwirkungen — nemecký lekárnický slovník, ktorý vám zachráni život."
       },
       "tr": {
-        "title": "Almanya'da Hayatta Kalmanız İçin Apotheke'de Bilmeniz Gereken Kelimeler",
-        "description": "Apotheke vs Drogerie, Schmerzmittel — hayatınızı kurtaracak Alman eczane kelime dağarcığı."
+        "title": "Almanya'da Hayatta Kalmanız İçin Apotheke'de Bilmeniz Gereken Almanca Kelimeler",
+        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel, Nebenwirkungen — hayatınızı kurtaracak Alman eczane kelime dağarcığı. Çünkü Apotheke ile Drogerie'yi karıştırmak sadece bir kez yapacağınız bir hata."
       },
       "ro": {
-        "title": "Cuvintele Germane De Care Ai Nevoie La Apotheke Pentru A Supraviețui",
-        "description": "Apotheke vs Drogerie, Schmerzmittel — vocabularul de farmacie care îți va salva viața."
+        "title": "Cuvintele Germane De Care Ai Nevoie La Apotheke Pentru A Supraviețui În Germania",
+        "description": "Apotheke vs Drogerie, Rezeptpflichtig, Schmerzmittel, Nebenwirkungen — vocabularul de farmacie german care îți va salva viața. Pentru că a confunda Apotheke cu Drogerie este o greșeală pe care o faci o singură dată."
       },
       "fa": {
-        "title": "کلمات آلمانی که در Apotheke برای زنده ماندن نیاز دارید",
-        "description": "Apotheke در برابر Drogerie، Schmerzmittel — واژگان داروخانه که جان شما را نجات می‌دهد."
+        "title": "کلمات آلمانی که در Apotheke برای زنده ماندن در آلمان به آن‌ها نیاز دارید",
+        "description": "Apotheke در برابر Drogerie، Verschreibungspflichtig، Schmerzmittel، Nebenwirkungen — واژگان داروخانه آلمانی که جان شما را نجات می‌دهد. چون اشتباه گرفتن Apotheke با Drogerie اشتباهی است که فقط یک بار تکرار می‌کنید."
       },
       "ar": {
-        "title": "الكلمات الألمانية التي تحتاجها في Apotheke للبقاء على قيد الحياة",
-        "description": "Apotheke مقابل Drogerie، Schmerzmittel — مفردات الصيدلية التي ستنقذ حياتك."
+        "title": "الكلمات الألمانية التي تحتاجها في Apotheke للبقاء على قيد الحياة في ألمانيا",
+        "description": "Apotheke مقابل Drogerie، Verschreibungspflichtig، Schmerzmittel، Nebenwirkungen — مفردات الصيدلية الألمانية التي ستنقذ حياتك. لأن الخلط بين Apotheke و Drogerie خطأ ترتكبه مرة واحدة فقط."
       },
       "es": {
-        "title": "Las Palabras Alemanas Que Necesitas En La Apotheke Para Sobrevivir",
-        "description": "Apotheke vs Drogerie, Schmerzmittel — vocabulario de farmacia que te salvará la vida."
+        "title": "Las Palabras Alemanas Que Necesitas En La Apotheke Para Sobrevivir En Alemania",
+        "description": "Apotheke vs Drogerie, Verschreibungspflichtig, Schmerzmittel, Nebenwirkungen — vocabulario de farmacia alemana que te salvará la vida. Porque confundir Apotheke con Drogerie es un error que solo cometes una vez."
       },
       "uz": {
-        "title": "Germaniyada Tirik Qolish Uchun Apotheke'da Bilishingiz Kerak",
-        "description": "Apotheke vs Drogerie, Schmerzmittel — hayotingizni saqlab qoladigan dorixona lug'ati."
+        "title": "Germaniyada Tirik Qolish Uchun Apotheke'da Bilishingiz Kerak Bo'lgan Nemis So'zlari",
+        "description": "Apotheke vs Drogerie, Verschreibungspflichtig, Schmerzmittel, Nebenwirkungen — hayotingizni saqlab qoladigan nemis dorixona lug'ati. Chunki Apotheke ni Drogerie bilan adashtirish — faqat bir marta qilinadigan xato."
       }
     }
   },
