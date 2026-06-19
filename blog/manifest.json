@@ -9897,5 +9897,57 @@
         "description": "Apotheke vs Drogerie, Schmerzmittel — hayotingizni saqlab qoladigan dorixona lug'ati."
       }
     }
+  },
+  {
+    "slug": "german-english-words-mean-something-different",
+    "date": "2026-06-06",
+    "tags": [
+      "vocabulary",
+      "culture",
+      "intermediate",
+      "funny"
+    ],
+    "langs": {
+      "en": {
+        "title": "German 'English' Words That Mean Something Completely Different",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - Germans think these are English. They are not."
+      },
+      "ru": {
+        "title": "Nemeckie anglijskie slova, kotorye znachat nechto sovershenno inoe",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - nemcy dumaut, eto anglijskie. Eto ne tak."
+      },
+      "uk": {
+        "title": "Nimecki anglijski slova, jaki znachat descho sovim inse",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - nimci dumaut, sho ce anglijska. Ce ne tak."
+      },
+      "sk": {
+        "title": "Nemecke anglicke slova, ktore znamenaju nieco uplne ine",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - Nemci si myslia, ze to je anglictina. Nie je."
+      },
+      "tr": {
+        "title": "Almanca 'Ingilizce' Kelimeler Ki Tamamen Farkli Anlama Geliyor",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - Almanlar bunlarin Ingilizce oldugunu saniyor."
+      },
+      "ro": {
+        "title": "Cuvintele 'englezesti' germane care inseamna cu totul altceva",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - Germanii cred ca acestea sunt englezesti."
+      },
+      "fa": {
+        "title": "Nemischa 'inglizcha' so'zlar",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - nemislar bul inglizcha deb o'ylashadi."
+      },
+      "ar": {
+        "title": "Kalimat 'injiliziyya' almaniyya ta'ni shay'an mukhtalifan",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - al-alman yazonn haqqi kalimat injiliziyya."
+      },
+      "es": {
+        "title": "Palabras 'inglesas' alemanas que significan algo completamente diferente",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - los alemanes creen que son inglesas."
+      },
+      "uz": {
+        "title": "Ma'nosi butunlay boshqacha bo'lgan nemis 'inglizcha' so'zlar",
+        "description": "Handy, Beamer, Public Viewing, Bodybag, Smoking - nemislar bul inglizcha deb o'ylashadi."
+      }
+    }
   }
 ]
