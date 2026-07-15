@@ -1,0 +1,8 @@
+name = "dasgermanbot-capi"
+main = "src/index.js"
+compatibility_date = "2026-07-15"
+
+[vars]
+META_PIXEL_ID = "1445746883270633"
+
+[env.production]

@@ -47,17 +47,34 @@
     document.cookie = '_fbc=fb.1.' + Math.floor(Date.now() / 1000) + '.' + fbclid + '; path=/; max-age=2592000';
   }
 
-  /* Delay to let Pixel load & set _fbp cookie, then fire Lead + redirect */
+  /* Delay to let Pixel load & set _fbp cookie, then fire Lead + CAPI + redirect */
   setTimeout(function() {
     function getCookie(name) {
       var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
       return match ? match[2] : null;
     }
 
+    var fbp = getCookie('_fbp');
+    var fbc = getCookie('_fbc');
+
+    /* Pixel Lead */
     fbq('track', 'Lead', {
-      fbp: getCookie('_fbp') || undefined,
-      fbc: getCookie('_fbc') || undefined
+      fbp: fbp || undefined,
+      fbc: fbc || undefined
     }, { eventID: fbclid || undefined });
+
+    /* CAPI дубль — fire-and-forget */
+    var capiUrl = localStorage.getItem('capi_worker') || 'https://dasgermanbot-capi.zaharenok.workers.dev';
+    var capiBody = JSON.stringify({
+      event_name: 'Lead',
+      event_id: fbclid || undefined,
+      event_time: Math.floor(Date.now() / 1000),
+      event_source_url: window.location.href,
+      fbp: fbp || undefined,
+      fbc: fbc || undefined,
+      custom_data: { source: 'go_redirect' }
+    });
+    fetch(capiUrl, { method: 'POST', body: capiBody, headers: { 'Content-Type': 'application/json' }, mode: 'cors' }).catch(function(){});
 
     var startParam = 'website';
     if (fbclid) startParam = 'fbclid_' + fbclid;
