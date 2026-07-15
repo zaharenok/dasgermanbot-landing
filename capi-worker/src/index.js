@@ -1,4 +1,5 @@
-const META_API_VERSION = 'v21.0';
+const META_API_VERSION = 'v18.0';
+
 
 export default {
   async fetch(request, env) {
@@ -26,7 +27,7 @@ export default {
           event_name: body.event_name || 'Lead',
           event_time: body.event_time || Math.floor(Date.now() / 1000),
           event_id: body.event_id || undefined,
-          event_source_url: body.event_source_url || 'https://dasgermanbot.com/go/',
+          event_source_url: body.event_source_url || 'https://dasgermanbot.com/go',
           action_source: 'website',
           user_data: {
             fbp: body.fbp || undefined,
