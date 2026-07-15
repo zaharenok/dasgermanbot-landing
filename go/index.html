@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Redirecting to Das German Bot...</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #070612; color: rgba(255,255,255,0.8);
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
+    display: flex; align-items: center; justify-content: center;
+    min-height: 100vh; text-align: center; padding: 20px;
+  }
+  .spinner {
+    width: 32px; height: 32px; border: 3px solid rgba(66,113,254,0.2);
+    border-top-color: #4271FE; border-radius: 50%;
+    animation: spin 0.8s linear infinite; margin: 0 auto 16px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+</style>
+</head>
+<body>
+<div>
+  <div class="spinner"></div>
+  <div>Redirecting to Telegram...</div>
+</div>
+<script>
+(function() {
+  var params = new URLSearchParams(window.location.search);
+  var fbclid = params.get('fbclid');
+  var gclid = params.get('gclid');
+
+  /* Meta Pixel */
+  !function(f,b,e,v,n,t,s){
+    if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)
+  }(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '1445746883270633');
+
+  /* Fire Lead event — eventID = fbclid for Pixel→CAPI dedup */
+  fbq('track', 'Lead', {}, { eventID: fbclid || undefined });
+
+  /* Preserve fbclid in cookie for downstream pages */
+  if (fbclid) {
+    document.cookie = '_fbc=fb.1.' + Math.floor(Date.now() / 1000) + '.' + fbclid + '; path=/; max-age=2592000';
+  }
+
+  /* Build Telegram URL with fbclid tracking */
+  var startParam = 'website';
+  if (fbclid) startParam = 'fbclid_' + fbclid;
+  var tgUrl = 'https://t.me/dasgermanbot?start=' + encodeURIComponent(startParam);
+
+  /* Small delay so Pixel fires before redirect */
+  setTimeout(function() {
+    window.location.replace(tgUrl);
+  }, 400);
+})();
+</script>
+<noscript>
+  <meta http-equiv="refresh" content="0; url=https://t.me/dasgermanbot?start=website">
+</noscript>
+</body>
+</html>
