@@ -42,22 +42,26 @@
 
   fbq('init', '1445746883270633');
 
-  /* Fire Lead event — eventID = fbclid for Pixel→CAPI dedup */
-  fbq('track', 'Lead', {}, { eventID: fbclid || undefined });
-
   /* Preserve fbclid in cookie for downstream pages */
   if (fbclid) {
     document.cookie = '_fbc=fb.1.' + Math.floor(Date.now() / 1000) + '.' + fbclid + '; path=/; max-age=2592000';
   }
 
-  /* Build Telegram URL with fbclid tracking */
-  var startParam = 'website';
-  if (fbclid) startParam = 'fbclid_' + fbclid;
-  var tgUrl = 'https://t.me/dasgermanbot?start=' + encodeURIComponent(startParam);
-
-  /* Small delay so Pixel fires before redirect */
+  /* Delay to let Pixel load & set _fbp cookie, then fire Lead + redirect */
   setTimeout(function() {
-    window.location.replace(tgUrl);
+    function getCookie(name) {
+      var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+      return match ? match[2] : null;
+    }
+
+    fbq('track', 'Lead', {
+      fbp: getCookie('_fbp') || undefined,
+      fbc: getCookie('_fbc') || undefined
+    }, { eventID: fbclid || undefined });
+
+    var startParam = 'website';
+    if (fbclid) startParam = 'fbclid_' + fbclid;
+    window.location.replace('https://t.me/dasgermanbot?start=' + encodeURIComponent(startParam));
   }, 400);
 })();
 </script>
