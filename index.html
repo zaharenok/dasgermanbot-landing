@@ -1593,10 +1593,10 @@
             });
           }
 
-          // Meta Pixel Event
+          // Meta Pixel Event — просто клик по CTA, не лид
           if (typeof fbq === 'function') {
-            fbq('track', 'Lead', {
-              content_name: location,
+            fbq('track', 'ViewContent', {
+              content_name: 'cta_click_' + location,
               content_category: 'cta_click'
             });
           }
