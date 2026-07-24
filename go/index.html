@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Redirecting to Das German Bot...</title>
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
@@ -49,6 +50,12 @@
 
   /* Delay to let Pixel load & set _fbp cookie, then fire Lead + CAPI + redirect */
   setTimeout(function() {
+    /* Confetti explosion */
+    confetti({
+      particleCount: 100,
+      spread: 70,
+      origin: { y: 0.6 }
+    });
     function getCookie(name) {
       var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
       return match ? match[2] : null;
@@ -79,7 +86,7 @@
     var startParam = 'website';
     if (fbclid) startParam = 'fbclid_' + fbclid;
     window.location.replace('https://t.me/dasgermanbot?start=' + encodeURIComponent(startParam));
-  }, 400);
+  }, 3000);
 })();
 </script>
 <noscript>
