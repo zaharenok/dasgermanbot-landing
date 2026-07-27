@@ -3,40 +3,60 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Redirecting to Das German Bot...</title>
+<title>Das German Bot — Starting...</title>
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
-    background: #070612; color: rgba(255,255,255,0.8);
+    background: #070612; color: rgba(255,255,255,0.9);
     font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
-    display: flex; align-items: center; justify-content: center;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
     min-height: 100vh; text-align: center; padding: 20px;
   }
+  .logo { font-size: 48px; margin-bottom: 16px; }
+  .title { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
+  .subtitle { font-size: 16px; color: rgba(255,255,255,0.6); margin-bottom: 32px; }
   .spinner {
     width: 32px; height: 32px; border: 3px solid rgba(66,113,254,0.2);
     border-top-color: #4271FE; border-radius: 50%;
     animation: spin 0.8s linear infinite; margin: 0 auto 16px;
   }
   @keyframes spin { to { transform: rotate(360deg); } }
+  .btn {
+    display: inline-block; background: #4271FE; color: white;
+    text-decoration: none; padding: 16px 48px; border-radius: 12px;
+    font-size: 18px; font-weight: 600; margin-top: 8px;
+    box-shadow: 0 4px 24px rgba(66,113,254,0.4);
+  }
+  .btn:active { transform: scale(0.97); }
+  #openBtn { display: none; }
 </style>
 </head>
 <body>
-<div>
-  <div class="spinner"></div>
-  <div>Redirecting to Telegram...</div>
-</div>
+<div class="logo">🥨</div>
+<div class="title">Das German Bot</div>
+<div class="subtitle">Opening Telegram...</div>
+<div class="spinner" id="spinner"></div>
+<a id="openBtn" class="btn" href="https://t.me/dasgermanbot?start=website">Open Bot ▸</a>
 <script>
 (function() {
   var params = new URLSearchParams(window.location.search);
   var fbclid = params.get('fbclid');
-  var gclid = params.get('gclid');
+
+  /* Build the bot URL with fbclid if present */
+  var startParam = 'website';
+  if (fbclid) startParam = 'fbclid_' + fbclid;
+  var botUrl = 'https://t.me/dasgermanbot?start=' + encodeURIComponent(startParam);
+
+  /* Update manual button with correct URL */
+  var btn = document.getElementById('openBtn');
+  btn.href = botUrl;
 
   /* Meta Pixel */
   !function(f,b,e,v,n,t,s){
     if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
     if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-    n.queue=[];t=b.createElement(e);t.async=!0;
+    n.queue=[];t=b.createElement(e);t.async=true;
     t.src=v;s=b.getElementsByTagName(e)[0];
     s.parentNode.insertBefore(t,s)
   }(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
@@ -48,14 +68,20 @@
     document.cookie = '_fbc=fb.1.' + Math.floor(Date.now() / 1000) + '.' + fbclid + '; path=/; max-age=2592000';
   }
 
-  /* Delay to let Pixel load & set _fbp cookie, then fire Lead + CAPI + redirect */
+  /* After 4 seconds, show manual button in case auto-redirect is blocked */
   setTimeout(function() {
-    /* Confetti explosion */
-    confetti({
-      particleCount: 100,
-      spread: 70,
-      origin: { y: 0.6 }
-    });
+    document.getElementById('spinner').style.display = 'none';
+    document.querySelector('.subtitle').textContent = 'Tap to continue:';
+    btn.style.display = 'inline-block';
+  }, 4000);
+
+  /* Fire Pixel Lead + CAPI after short delay (let pixel load), then redirect */
+  setTimeout(function() {
+    /* Confetti */
+    if (typeof confetti === 'function') {
+      confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
+    }
+
     function getCookie(name) {
       var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
       return match ? match[2] : null;
@@ -64,7 +90,7 @@
     var fbp = getCookie('_fbp');
     var fbc = getCookie('_fbc');
 
-    /* Pixel Lead — браузерное событие с полными данными (IP, UA, fbc, fbp) для высокого EMQ */
+    /* Pixel Lead */
     fbq('track', 'Lead', {
       fbp: fbp || undefined,
       fbc: fbc || undefined,
@@ -72,27 +98,26 @@
       value: 0
     }, { eventID: fbclid || undefined });
 
-    /* CAPI дубль — fire-and-forget */
+    /* CAPI via Cloudflare Worker — fire-and-forget */
     var capiUrl = localStorage.getItem('capi_worker') || 'https://dasgermanbot-capi.olegzakharchenko.workers.dev';
     var capiBody = JSON.stringify({
       event_name: 'Lead',
       event_id: fbclid || undefined,
       event_time: Math.floor(Date.now() / 1000),
-      event_source_url: location.protocol + '//' + location.hostname + (location.port ? ':' + location.port : '') + location.pathname,
+      event_source_url: location.protocol + '//' + location.hostname + location.pathname,
       fbp: fbp || undefined,
       fbc: fbc || undefined,
       custom_data: { source: 'go_redirect' }
     });
     fetch(capiUrl, { method: 'POST', body: capiBody, headers: { 'Content-Type': 'application/json' }, mode: 'cors' }).catch(function(){});
 
-    var startParam = 'website';
-    if (fbclid) startParam = 'fbclid_' + fbclid;
-    window.location.replace('https://t.me/dasgermanbot?start=' + encodeURIComponent(startParam));
-  }, 10000);
+    /* Auto-redirect to Telegram */
+    window.location.replace(botUrl);
+  }, 6500);
 })();
 </script>
 <noscript>
-  <meta http-equiv="refresh" content="0; url=https://t.me/dasgermanbot?start=website">
+  <meta http-equiv="refresh" content="2; url=https://t.me/dasgermanbot?start=website">
 </noscript>
 </body>
 </html>
