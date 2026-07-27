@@ -1628,9 +1628,9 @@
             });
           }
 
-          // Meta Pixel Event — клик по CTA (лиды для оптимизации кампании)
+          // Meta Pixel Event — клик по CTA (Meta атрибутирует к лиду из бота)
           if (typeof fbq === 'function') {
-            fbq('track', 'Lead', {
+            fbq('track', 'ViewContent', {
               content_name: 'cta_click_' + location,
               content_category: 'cta_click'
             });
