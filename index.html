@@ -1628,9 +1628,9 @@
             });
           }
 
-          // Meta Pixel Event — просто клик по CTA, не лид
+          // Meta Pixel Event — клик по CTA (лиды для оптимизации кампании)
           if (typeof fbq === 'function') {
-            fbq('track', 'ViewContent', {
+            fbq('track', 'Lead', {
               content_name: 'cta_click_' + location,
               content_category: 'cta_click'
             });
