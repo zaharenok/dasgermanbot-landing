@@ -64,16 +64,18 @@
     var fbp = getCookie('_fbp');
     var fbc = getCookie('_fbc');
 
-    /* Pixel ViewContent */
-    fbq('track', 'ViewContent', {
+    /* Pixel Lead — браузерное событие с полными данными (IP, UA, fbc, fbp) для высокого EMQ */
+    fbq('track', 'Lead', {
       fbp: fbp || undefined,
-      fbc: fbc || undefined
+      fbc: fbc || undefined,
+      currency: 'EUR',
+      value: 0
     }, { eventID: fbclid || undefined });
 
     /* CAPI дубль — fire-and-forget */
     var capiUrl = localStorage.getItem('capi_worker') || 'https://dasgermanbot-capi.olegzakharchenko.workers.dev';
     var capiBody = JSON.stringify({
-      event_name: 'ViewContent',
+      event_name: 'Lead',
       event_id: fbclid || undefined,
       event_time: Math.floor(Date.now() / 1000),
       event_source_url: location.protocol + '//' + location.hostname + (location.port ? ':' + location.port : '') + location.pathname,
