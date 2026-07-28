@@ -34,15 +34,78 @@
 <body>
 <div class="logo">🥨</div>
 <div class="title">Das German Bot</div>
-<div class="subtitle">Learn German with AI — voice messages, grammar corrections, real conversations.</div>
-<a id="openBtn" class="btn" href="https://t.me/dasgermanbot?start=website">Open in Telegram ▸</a>
+<div class="subtitle" id="subtitle"></div>
+<a id="openBtn" class="btn" href="https://t.me/dasgermanbot?start=website"></a>
 <div id="inAppHint">
   <div class="arrow">⋮</div>
-  <p><b>Can't open Telegram?</b><br>Tap the <b>⋮</b> menu (top right) → <b>Open in browser</b> or <b>Open in Safari</b>, then tap the button again.</p>
+  <p id="inAppText"></p>
 </div>
-<div class="hint">Tap the button to start learning</div>
+<div class="hint" id="hint"></div>
 <script>
 (function() {
+  /* ── i18n ── */
+  var t = {
+    en: { subtitle: 'Learn German with AI — voice messages, grammar corrections, real conversations.',
+          btn: 'Open in Telegram ▸', hint: 'Tap the button to start learning',
+          cant_open: 'Can\'t open Telegram?', tap_menu: 'Tap the', menu: '⋮ menu (top right)', then_open: '→', open_in: 'Open in browser', then_tap: 'then tap the button again.' },
+    ro: { subtitle: 'Învață germana cu AI — mesaje vocale, corectări gramaticale, conversații reale.',
+          btn: 'Deschide în Telegram ▸', hint: 'Atinge butonul pentru a începe',
+          cant_open: 'Nu poți deschide Telegram?', tap_menu: 'Atinge', menu: '⋮ meniul (sus dreapta)', then_open: '→', open_in: 'Deschide în browser', then_tap: 'și apoi atinge din nou butonul.' },
+    ru: { subtitle: 'Учи немецкий с ИИ — голосовые сообщения, исправления грамматики, реальные диалоги.',
+          btn: 'Открыть в Telegram ▸', hint: 'Нажми кнопку, чтобы начать',
+          cant_open: 'Не открывается Telegram?', tap_menu: 'Нажми', menu: '⋮ меню (справа сверху)', then_open: '→', open_in: 'Открыть в браузере', then_tap: 'и нажми кнопку снова.' },
+    uk: { subtitle: 'Вивчай німецьку з ШІ — голосові повідомлення, виправлення граматики, реальні розмови.',
+          btn: 'Відкрити у Telegram ▸', hint: 'Натисни кнопку, щоб почати',
+          cant_open: 'Не відкривається Telegram?', tap_menu: 'Натисни', menu: '⋮ меню (праворуч вгорі)', then_open: '→', open_in: 'Відкрити у браузері', then_tap: 'і натисни кнопку знову.' },
+    es: { subtitle: 'Aprende alemán con IA — mensajes de voz, correcciones gramaticales, conversaciones reales.',
+          btn: 'Abrir en Telegram ▸', hint: 'Toca el botón para empezar',
+          cant_open: '¿No abre Telegram?', tap_menu: 'Toca el', menu: '⋮ menú (arriba derecha)', then_open: '→', open_in: 'Abrir en navegador', then_tap: 'y vuelve a tocar el botón.' },
+    tr: { subtitle: 'Yapay zeka ile Almanca öğren — sesli mesajlar, dilbilgisi düzeltmeleri, gerçek konuşmalar.',
+          btn: 'Telegram\'da Aç ▸', hint: 'Başlamak için düğmeye dokun',
+          cant_open: 'Telegram açılmıyor mu?', tap_menu: 'Dokun', menu: '⋮ menü (sağ üst)', then_open: '→', open_in: 'Tarayıcıda aç', then_tap: 've düğmeye tekrar dokun.' },
+    fa: { subtitle: 'آلمانی را با هوش مصنوعی یاد بگیر — پیام‌های صوتی، اصلاحات گرامر، مکالمات واقعی.',
+          btn: 'باز کردن در تلگرام ▸', hint: 'برای شروع دکمه را بزنید',
+          cant_open: 'تلگرام باز نمی‌شود؟', tap_menu: 'لمس کنید', menu: '⋮ منو (بالا راست)', then_open: '→', open_in: 'در مرورگر باز کنید', then_tap: 'سپس دوباره دکمه را بزنید.' },
+    ar: { subtitle: 'تعلّم الألمانية بالذكاء الاصطناعي — رسائل صوتية، تصحيح نحوي، محادثات حقيقية.',
+          btn: 'افتح في تيليجرام ▸', hint: 'اضغط على الزر للبدء',
+          cant_open: 'لا يفتح تيليجرام؟', tap_menu: 'اضغط على', menu: '⋮ القائمة (أعلى اليمين)', then_open: '→', open_in: 'افتح في المتصفح', then_tap: 'ثم اضغط الزر مرة أخرى.' },
+    sk: { subtitle: 'Učte sa nemčinu s AI — hlasové správy, opravy gramatiky, reálné konverzácie.',
+          btn: 'Otvoriť v Telegram ▸', hint: 'Klepnutím na tlačidlo začnite',
+          cant_open: 'Neotvára sa Telegram?', tap_menu: 'Klepnite na', menu: '⋮ menu (vpravo hore)', then_open: '→', open_in: 'Otvoriť v prehliadači', then_tap: 'a potom znova klepnite na tlačidlo.' },
+    uz: { subtitle: 'Sun\'iy intellekt bilan nemis tilini o\'rganing — ovozli xabarlar, grammatika tuzatishlari.',
+          btn: 'Telegram\'da ochish ▸', hint: 'Boshlash uchun tugmani bosing',
+          cant_open: 'Telegram ochilmayaptimi?', tap_menu: 'Bosing', menu: '⋮ menyu (yuqori o\'ng)', then_open: '→', open_in: 'Brauzerda ochish', then_tap: 'va tugmani qayta bosing.' },
+    de: { subtitle: 'Lerne Deutsch mit KI — Sprachnachrichten, Grammatikkorrekturen, echte Gespräche.',
+          btn: 'In Telegram öffnen ▸', hint: 'Tippe auf die Schaltfläche, um zu starten',
+          cant_open: 'Telegram öffnet nicht?', tap_menu: 'Tippe auf', menu: '⋮ Menü (oben rechts)', then_open: '→', open_in: 'Im Browser öffnen', then_tap: 'und tippe erneut auf die Schaltfläche.' }
+  };
+
+  function detectLang() {
+    var langs = ['ro','ru','uk','es','tr','fa','ar','sk','uz','de','en'];
+    var browserLangs = navigator.languages || [navigator.language || 'en'];
+    for (var i = 0; i < browserLangs.length; i++) {
+      var code = browserLangs[i].toLowerCase().substring(0, 2);
+      if (langs.indexOf(code) !== -1) return code;
+    }
+    return 'en';
+  }
+
+  var lang = detectLang();
+  var L = t[lang] || t.en;
+
+  /* Apply translations */
+  document.getElementById('subtitle').textContent = L.subtitle;
+  document.getElementById('openBtn').textContent = L.btn;
+  document.getElementById('hint').textContent = L.hint;
+  document.getElementById('inAppText').innerHTML =
+    '<b>' + L.cant_open + '</b><br>' + L.tap_menu + ' <b>' + L.menu + '</b> ' + L.then_open + ' <b>' + L.open_in + '</b>, ' + L.then_tap;
+
+  /* RTL for Arabic */
+  if (lang === 'ar' || lang === 'fa') {
+    document.documentElement.setAttribute('dir', 'rtl');
+  }
+
+  /* ── Bot URL with fbclid ── */
   var params = new URLSearchParams(window.location.search);
   var fbclid = params.get('fbclid');
 
@@ -53,14 +116,14 @@
   var btn = document.getElementById('openBtn');
   btn.href = botUrl;
 
-  /* Detect in-app browser (Instagram, Facebook, TikTok) */
+  /* Detect in-app browser */
   var ua = navigator.userAgent || '';
   var inApp = /Instagram|FBAN|FBAV|FBIOS|FBSS|TikTok|Snapchat/i.test(ua);
   if (inApp) {
     document.getElementById('inAppHint').style.display = 'block';
   }
 
-  /* Meta Pixel */
+  /* ── Meta Pixel ── */
   !function(f,b,e,v,n,t,s){
     if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
     if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
@@ -74,9 +137,7 @@
     document.cookie = '_fbc=fb.1.' + Math.floor(Date.now() / 1000) + '.' + fbclid + '; path=/; max-age=2592000';
   }
 
-  /* Fire Lead + attempt redirect after pixel loads.
-     Don't auto-redirect in in-app browsers — let user click the button.
-     In regular browsers, auto-redirect works fine. */
+  /* Fire Lead + redirect */
   setTimeout(function() {
     if (typeof confetti === 'function' && !inApp) {
       confetti({ particleCount: 80, spread: 70, origin: { y: 0.6 } });
@@ -103,7 +164,6 @@
     });
     fetch(capiUrl, { method: 'POST', body: capiBody, headers: { 'Content-Type': 'application/json' }, mode: 'cors' }).catch(function(){});
 
-    /* Auto-redirect only in regular browsers, NOT in-app */
     if (!inApp) {
       window.location.href = botUrl;
     }
