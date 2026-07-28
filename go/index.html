@@ -32,18 +32,19 @@
 </style>
 </head>
 <body>
-<div class="logo">🥨</div>
-<div class="title">Das German Bot</div>
-<div class="subtitle" id="subtitle"></div>
-<a id="openBtn" class="btn" href="https://t.me/dasgermanbot?start=website"></a>
-<div id="inAppHint">
-  <div class="arrow">⋮</div>
-  <p id="inAppText"></p>
+<div>
+  <div class="logo">🥨</div>
+  <div class="title">Das German Bot</div>
+  <div class="subtitle" id="subtitle"></div>
+  <a id="openBtn" class="btn" href="https://t.me/dasgermanbot?start=website"></a>
+  <div id="inAppHint">
+    <div class="arrow">⋮</div>
+    <p id="inAppText"></p>
+  </div>
+  <div class="hint" id="hint"></div>
 </div>
-<div class="hint" id="hint"></div>
 <script>
 (function() {
-  /* ── i18n ── */
   var t = {
     en: { subtitle: 'Learn German with AI — voice messages, grammar corrections, real conversations.',
           btn: 'Open in Telegram ▸', hint: 'Tap the button to start learning',
@@ -93,19 +94,16 @@
   var lang = detectLang();
   var L = t[lang] || t.en;
 
-  /* Apply translations */
   document.getElementById('subtitle').textContent = L.subtitle;
   document.getElementById('openBtn').textContent = L.btn;
   document.getElementById('hint').textContent = L.hint;
   document.getElementById('inAppText').innerHTML =
     '<b>' + L.cant_open + '</b><br>' + L.tap_menu + ' <b>' + L.menu + '</b> ' + L.then_open + ' <b>' + L.open_in + '</b>, ' + L.then_tap;
 
-  /* RTL for Arabic */
   if (lang === 'ar' || lang === 'fa') {
     document.documentElement.setAttribute('dir', 'rtl');
   }
 
-  /* ── Bot URL with fbclid ── */
   var params = new URLSearchParams(window.location.search);
   var fbclid = params.get('fbclid');
 
@@ -116,14 +114,12 @@
   var btn = document.getElementById('openBtn');
   btn.href = botUrl;
 
-  /* Detect in-app browser */
   var ua = navigator.userAgent || '';
   var inApp = /Instagram|FBAN|FBAV|FBIOS|FBSS|TikTok|Snapchat/i.test(ua);
   if (inApp) {
     document.getElementById('inAppHint').style.display = 'block';
   }
 
-  /* ── Meta Pixel ── */
   !function(f,b,e,v,n,t,s){
     if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
     if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
@@ -137,9 +133,12 @@
     document.cookie = '_fbc=fb.1.' + Math.floor(Date.now() / 1000) + '.' + fbclid + '; path=/; max-age=2592000';
   }
 
-  /* Fire Lead + redirect */
-  setTimeout(function() {
-    if (typeof confetti === 'function' && !inApp) {
+  var leadFired = false;
+  function fireLead() {
+    if (leadFired) return;
+    leadFired = true;
+
+    if (typeof confetti === 'function') {
       confetti({ particleCount: 80, spread: 70, origin: { y: 0.6 } });
     }
 
@@ -163,8 +162,13 @@
       custom_data: { source: 'go_redirect' }
     });
     fetch(capiUrl, { method: 'POST', body: capiBody, headers: { 'Content-Type': 'application/json' }, mode: 'cors' }).catch(function(){});
+  }
 
-    if (!inApp) {
+  btn.addEventListener('click', fireLead);
+
+  setTimeout(function() {
+    if (!inApp && !leadFired) {
+      fireLead();
       window.location.href = botUrl;
     }
   }, 2000);
