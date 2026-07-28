@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Das German Bot — Starting...</title>
+<title>Das German Bot — Open</title>
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -13,42 +13,36 @@
     display: flex; flex-direction: column; align-items: center; justify-content: center;
     min-height: 100vh; text-align: center; padding: 20px;
   }
-  .logo { font-size: 48px; margin-bottom: 16px; }
-  .title { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
-  .subtitle { font-size: 16px; color: rgba(255,255,255,0.6); margin-bottom: 32px; }
-  .spinner {
-    width: 32px; height: 32px; border: 3px solid rgba(66,113,254,0.2);
-    border-top-color: #4271FE; border-radius: 50%;
-    animation: spin 0.8s linear infinite; margin: 0 auto 16px;
-  }
-  @keyframes spin { to { transform: rotate(360deg); } }
+  .logo { font-size: 64px; margin-bottom: 12px; }
+  .title { font-size: 28px; font-weight: 800; margin-bottom: 6px; }
+  .subtitle { font-size: 15px; color: rgba(255,255,255,0.5); margin-bottom: 28px; max-width: 320px; line-height: 1.5; }
   .btn {
-    display: inline-block; background: #4271FE; color: white;
-    text-decoration: none; padding: 16px 48px; border-radius: 12px;
-    font-size: 18px; font-weight: 600; margin-top: 8px;
-    box-shadow: 0 4px 24px rgba(66,113,254,0.4);
+    display: inline-flex; align-items: center; gap: 8px;
+    background: #4271FE; color: white; text-decoration: none;
+    padding: 18px 56px; border-radius: 14px; font-size: 20px; font-weight: 700;
+    box-shadow: 0 8px 32px rgba(66,113,254,0.5); animation: pulse 2s infinite;
   }
-  .btn:active { transform: scale(0.97); }
-  #openBtn { display: none; }
+  .btn:active { transform: scale(0.95); }
+  @keyframes pulse { 0%,100% { box-shadow: 0 8px 32px rgba(66,113,254,0.5); } 50% { box-shadow: 0 8px 48px rgba(66,113,254,0.8); } }
+  .hint { margin-top: 20px; font-size: 13px; color: rgba(255,255,255,0.3); }
 </style>
 </head>
 <body>
 <div class="logo">🥨</div>
 <div class="title">Das German Bot</div>
-<div class="subtitle">Opening Telegram...</div>
-<div class="spinner" id="spinner"></div>
-<a id="openBtn" class="btn" href="https://t.me/dasgermanbot?start=website">Open Bot ▸</a>
+<div class="subtitle">Learn German with AI — voice messages, grammar corrections, real conversations.</div>
+<a id="openBtn" class="btn" href="https://t.me/dasgermanbot?start=website">Open in Telegram ▸</a>
+<div class="hint">Tap the button to start learning</div>
 <script>
 (function() {
   var params = new URLSearchParams(window.location.search);
   var fbclid = params.get('fbclid');
 
-  /* Build the bot URL with fbclid if present */
   var startParam = 'website';
   if (fbclid) startParam = 'fbclid_' + fbclid;
   var botUrl = 'https://t.me/dasgermanbot?start=' + encodeURIComponent(startParam);
 
-  /* Update manual button with correct URL */
+  /* Set button URL */
   var btn = document.getElementById('openBtn');
   btn.href = botUrl;
 
@@ -60,64 +54,51 @@
     t.src=v;s=b.getElementsByTagName(e)[0];
     s.parentNode.insertBefore(t,s)
   }(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
-
   fbq('init', '1445746883270633');
 
-  /* Preserve fbclid in cookie for downstream pages */
   if (fbclid) {
     document.cookie = '_fbc=fb.1.' + Math.floor(Date.now() / 1000) + '.' + fbclid + '; path=/; max-age=2592000';
   }
 
-  /* After 4 seconds, show manual button in case auto-redirect is blocked */
-  setTimeout(function() {
-    document.getElementById('spinner').style.display = 'none';
-    document.querySelector('.subtitle').textContent = 'Tap to continue:';
-    btn.style.display = 'inline-block';
-  }, 4000);
-
-  /* Fire Pixel Lead + CAPI after short delay (let pixel load), then redirect */
-  setTimeout(function() {
-    /* Confetti */
+  function fireLeadAndRedirect() {
     if (typeof confetti === 'function') {
-      confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
+      confetti({ particleCount: 80, spread: 70, origin: { y: 0.6 } });
     }
 
     function getCookie(name) {
       var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
       return match ? match[2] : null;
     }
-
     var fbp = getCookie('_fbp');
     var fbc = getCookie('_fbc');
 
     /* Pixel Lead */
     fbq('track', 'Lead', {
-      fbp: fbp || undefined,
-      fbc: fbc || undefined,
-      currency: 'EUR',
-      value: 0
+      fbp: fbp || undefined, fbc: fbc || undefined, currency: 'EUR', value: 0
     }, { eventID: fbclid || undefined });
 
-    /* CAPI via Cloudflare Worker — fire-and-forget */
+    /* CAPI via Worker */
     var capiUrl = localStorage.getItem('capi_worker') || 'https://dasgermanbot-capi.olegzakharchenko.workers.dev';
     var capiBody = JSON.stringify({
-      event_name: 'Lead',
-      event_id: fbclid || undefined,
+      event_name: 'Lead', event_id: fbclid || undefined,
       event_time: Math.floor(Date.now() / 1000),
       event_source_url: location.protocol + '//' + location.hostname + location.pathname,
-      fbp: fbp || undefined,
-      fbc: fbc || undefined,
+      fbp: fbp || undefined, fbc: fbc || undefined,
       custom_data: { source: 'go_redirect' }
     });
     fetch(capiUrl, { method: 'POST', body: capiBody, headers: { 'Content-Type': 'application/json' }, mode: 'cors' }).catch(function(){});
 
-    /* Auto-redirect to Telegram */
-    window.location.replace(botUrl);
-  }, 6500);
+    /* Attempt redirect — multiple methods for in-app browser compatibility */
+    window.location.href = botUrl;
+    setTimeout(function() { window.location.replace(botUrl); }, 500);
+  }
+
+  /* Fire after 1.5s — enough for pixel to init, fast enough to not lose users */
+  setTimeout(fireLeadAndRedirect, 1500);
 })();
 </script>
 <noscript>
-  <meta http-equiv="refresh" content="2; url=https://t.me/dasgermanbot?start=website">
+  <meta http-equiv="refresh" content="1; url=https://t.me/dasgermanbot?start=website">
 </noscript>
 </body>
 </html>
