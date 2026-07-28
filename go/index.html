@@ -20,10 +20,14 @@
     display: inline-flex; align-items: center; gap: 8px;
     background: #4271FE; color: white; text-decoration: none;
     padding: 18px 56px; border-radius: 14px; font-size: 20px; font-weight: 700;
-    box-shadow: 0 8px 32px rgba(66,113,254,0.5); animation: pulse 2s infinite;
+    box-shadow: 0 8px 32px rgba(66,113,254,0.5);
+    border: none; cursor: pointer;
   }
   .btn:active { transform: scale(0.95); }
-  @keyframes pulse { 0%,100% { box-shadow: 0 8px 32px rgba(66,113,254,0.5); } 50% { box-shadow: 0 8px 48px rgba(66,113,254,0.8); } }
+  #inAppHint { display: none; margin-top: 24px; max-width: 340px; }
+  #inAppHint .arrow { font-size: 32px; margin-bottom: 8px; }
+  #inAppHint p { font-size: 14px; color: rgba(255,255,255,0.6); line-height: 1.6; }
+  #inAppHint b { color: rgba(255,255,255,0.9); }
   .hint { margin-top: 20px; font-size: 13px; color: rgba(255,255,255,0.3); }
 </style>
 </head>
@@ -32,6 +36,10 @@
 <div class="title">Das German Bot</div>
 <div class="subtitle">Learn German with AI — voice messages, grammar corrections, real conversations.</div>
 <a id="openBtn" class="btn" href="https://t.me/dasgermanbot?start=website">Open in Telegram ▸</a>
+<div id="inAppHint">
+  <div class="arrow">⋮</div>
+  <p><b>Can't open Telegram?</b><br>Tap the <b>⋮</b> menu (top right) → <b>Open in browser</b> or <b>Open in Safari</b>, then tap the button again.</p>
+</div>
 <div class="hint">Tap the button to start learning</div>
 <script>
 (function() {
@@ -42,9 +50,15 @@
   if (fbclid) startParam = 'fbclid_' + fbclid;
   var botUrl = 'https://t.me/dasgermanbot?start=' + encodeURIComponent(startParam);
 
-  /* Set button URL */
   var btn = document.getElementById('openBtn');
   btn.href = botUrl;
+
+  /* Detect in-app browser (Instagram, Facebook, TikTok) */
+  var ua = navigator.userAgent || '';
+  var inApp = /Instagram|FBAN|FBAV|FBIOS|FBSS|TikTok|Snapchat/i.test(ua);
+  if (inApp) {
+    document.getElementById('inAppHint').style.display = 'block';
+  }
 
   /* Meta Pixel */
   !function(f,b,e,v,n,t,s){
@@ -60,8 +74,11 @@
     document.cookie = '_fbc=fb.1.' + Math.floor(Date.now() / 1000) + '.' + fbclid + '; path=/; max-age=2592000';
   }
 
-  function fireLeadAndRedirect() {
-    if (typeof confetti === 'function') {
+  /* Fire Lead + attempt redirect after pixel loads.
+     Don't auto-redirect in in-app browsers — let user click the button.
+     In regular browsers, auto-redirect works fine. */
+  setTimeout(function() {
+    if (typeof confetti === 'function' && !inApp) {
       confetti({ particleCount: 80, spread: 70, origin: { y: 0.6 } });
     }
 
@@ -72,12 +89,10 @@
     var fbp = getCookie('_fbp');
     var fbc = getCookie('_fbc');
 
-    /* Pixel Lead */
     fbq('track', 'Lead', {
       fbp: fbp || undefined, fbc: fbc || undefined, currency: 'EUR', value: 0
     }, { eventID: fbclid || undefined });
 
-    /* CAPI via Worker */
     var capiUrl = localStorage.getItem('capi_worker') || 'https://dasgermanbot-capi.olegzakharchenko.workers.dev';
     var capiBody = JSON.stringify({
       event_name: 'Lead', event_id: fbclid || undefined,
@@ -88,13 +103,11 @@
     });
     fetch(capiUrl, { method: 'POST', body: capiBody, headers: { 'Content-Type': 'application/json' }, mode: 'cors' }).catch(function(){});
 
-    /* Attempt redirect — multiple methods for in-app browser compatibility */
-    window.location.href = botUrl;
-    setTimeout(function() { window.location.replace(botUrl); }, 500);
-  }
-
-  /* Fire after 1.5s — enough for pixel to init, fast enough to not lose users */
-  setTimeout(fireLeadAndRedirect, 1500);
+    /* Auto-redirect only in regular browsers, NOT in-app */
+    if (!inApp) {
+      window.location.href = botUrl;
+    }
+  }, 2000);
 })();
 </script>
 <noscript>
