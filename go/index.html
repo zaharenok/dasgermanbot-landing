@@ -152,7 +152,13 @@
       fbc: fbc || undefined,
       custom_data: { source: 'go_page' }
     });
-    fetch(capiUrl, { method: 'POST', body: body, headers: { 'Content-Type': 'application/json' }, mode: 'cors' }).catch(function(){});
+    /* sendBeacon = simple POST, no CORS preflight (worker has no CORS headers yet);
+       fetch is the fallback for browsers without sendBeacon */
+    if (navigator.sendBeacon) {
+      navigator.sendBeacon(capiUrl, body);
+    } else {
+      fetch(capiUrl, { method: 'POST', body: body, headers: { 'Content-Type': 'application/json' }, mode: 'cors' }).catch(function(){});
+    }
   }
 
   /* ViewContent on page load — small delay lets Pixel set _fbp cookie */
@@ -164,8 +170,26 @@
     fireCapi('ViewContent', fbclid);
   }, 1500);
 
-  /* Click → StartTrial (Pixel + CAPI), confetti, then navigate (no auto-redirect) */
   var fired = false;
+
+  /* Fallback: if the user doesn't click within 2.5s, open Telegram automatically
+     (non-in-app browsers only — in-app webviews can't open t.me links). Fires
+     StartTrial once, same as a click. */
+  setTimeout(function() {
+    if (!fired && !inApp) {
+      fired = true;
+      var eventId = 'start_' + (fbclid || Date.now());
+      fbq('track', 'StartTrial', {
+        fbp: getCookie('_fbp') || undefined,
+        fbc: getCookie('_fbc') || undefined,
+        value: 0, currency: 'EUR'
+      }, { eventID: eventId });
+      fireCapi('StartTrial', eventId);
+      window.location.href = botUrl;
+    }
+  }, 2500);
+
+  /* Click → StartTrial (Pixel + CAPI), confetti, then navigate */
   btn.addEventListener('click', function(e) {
     if (fired) return;
     fired = true;
