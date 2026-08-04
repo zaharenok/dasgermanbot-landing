@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Das German Bot — Open</title>
+<title>Das German Bot — Open in Telegram</title>
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -133,49 +133,65 @@
     document.cookie = '_fbc=fb.1.' + Math.floor(Date.now() / 1000) + '.' + fbclid + '; path=/; max-age=2592000';
   }
 
-  var leadFired = false;
-  function fireLead() {
-    if (leadFired) return;
-    leadFired = true;
+  function getCookie(name) {
+    var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+    return match ? match[2] : null;
+  }
+
+  var capiUrl = localStorage.getItem('capi_worker') || 'https://dasgermanbot-capi.olegzakharchenko.workers.dev';
+
+  function fireCapi(eventName, eventId) {
+    var fbp = getCookie('_fbp');
+    var fbc = getCookie('_fbc');
+    var body = JSON.stringify({
+      event_name: eventName,
+      event_id: eventId || undefined,
+      event_time: Math.floor(Date.now() / 1000),
+      event_source_url: location.protocol + '//' + location.hostname + (location.port ? ':' + location.port : '') + location.pathname,
+      fbp: fbp || undefined,
+      fbc: fbc || undefined,
+      custom_data: { source: 'go_page' }
+    });
+    fetch(capiUrl, { method: 'POST', body: body, headers: { 'Content-Type': 'application/json' }, mode: 'cors' }).catch(function(){});
+  }
+
+  /* ViewContent on page load — small delay lets Pixel set _fbp cookie */
+  setTimeout(function() {
+    fbq('track', 'ViewContent', {
+      fbp: getCookie('_fbp') || undefined,
+      fbc: getCookie('_fbc') || undefined
+    }, { eventID: fbclid || undefined });
+    fireCapi('ViewContent', fbclid);
+  }, 1500);
+
+  /* Click → StartTrial (Pixel + CAPI), confetti, then navigate (no auto-redirect) */
+  var fired = false;
+  btn.addEventListener('click', function(e) {
+    if (fired) return;
+    fired = true;
+    e.preventDefault();
 
     if (typeof confetti === 'function') {
       confetti({ particleCount: 80, spread: 70, origin: { y: 0.6 } });
     }
 
-    function getCookie(name) {
-      var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
-      return match ? match[2] : null;
-    }
-    var fbp = getCookie('_fbp');
-    var fbc = getCookie('_fbc');
+    var eventId = 'start_' + (fbclid || Date.now());
+    fbq('track', 'StartTrial', {
+      fbp: getCookie('_fbp') || undefined,
+      fbc: getCookie('_fbc') || undefined,
+      value: 0, currency: 'EUR'
+    }, { eventID: eventId });
+    fireCapi('StartTrial', eventId);
 
-    fbq('track', 'Lead', {
-      fbp: fbp || undefined, fbc: fbc || undefined, currency: 'EUR', value: 0
-    }, { eventID: fbclid || undefined });
-
-    var capiUrl = localStorage.getItem('capi_worker') || 'https://dasgermanbot-capi.olegzakharchenko.workers.dev';
-    var capiBody = JSON.stringify({
-      event_name: 'Lead', event_id: fbclid || undefined,
-      event_time: Math.floor(Date.now() / 1000),
-      event_source_url: location.protocol + '//' + location.hostname + location.pathname,
-      fbp: fbp || undefined, fbc: fbc || undefined,
-      custom_data: { source: 'go_redirect' }
-    });
-    fetch(capiUrl, { method: 'POST', body: capiBody, headers: { 'Content-Type': 'application/json' }, mode: 'cors' }).catch(function(){});
-  }
-
-  btn.addEventListener('click', fireLead);
-
-  setTimeout(function() {
-    if (!inApp && !leadFired) {
-      fireLead();
+    /* Let events flush before leaving */
+    setTimeout(function() {
       window.location.href = botUrl;
-    }
-  }, 2000);
+    }, 400);
+  });
 })();
 </script>
 <noscript>
-  <meta http-equiv="refresh" content="1; url=https://t.me/dasgermanbot?start=website">
+  <a class="btn" href="https://t.me/dasgermanbot?start=website">Open in Telegram</a>
 </noscript>
 </body>
 </html>
